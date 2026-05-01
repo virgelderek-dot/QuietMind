@@ -1,0 +1,7 @@
+{
+  "name": "Quiet Mind: Daily Wellness",
+  "description": "Find your calm in the chaos. Daily reflections, guided breathing, and interactive tutorials for mental wellness.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

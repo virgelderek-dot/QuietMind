@@ -1,0 +1,85 @@
+{
+  "entities": {
+    "JournalEntry": {
+      "title": "Journal Entry",
+      "description": "A daily reflection entry by a user.",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "content": { "type": "string" },
+        "mood": { "type": "string" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["userId", "content", "createdAt"]
+    },
+    "UserProfile": {
+      "title": "User Profile",
+      "description": "Information and preferences for a user.",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "email": { "type": "string" },
+        "sendReminders": { "type": "boolean" },
+        "displayName": { "type": "string" }
+      },
+      "required": ["id", "email"]
+    },
+    "Tutorial": {
+      "title": "Tutorial",
+      "description": "A guided journey topic.",
+      "type": "object",
+      "properties": {
+        "title": { "type": "string" },
+        "description": { "type": "string" },
+        "category": { "type": "string" }
+      },
+      "required": ["title"]
+    },
+    "Step": {
+      "title": "Step",
+      "description": "A single step within a tutorial.",
+      "type": "object",
+      "properties": {
+        "tutorialId": { "type": "string" },
+        "stepNumber": { "type": "number" },
+        "title": { "type": "string" },
+        "content": { "type": "string" },
+        "durationMinutes": { "type": "number" }
+      },
+      "required": ["tutorialId", "stepNumber", "title", "content"]
+    },
+    "UserProgress": {
+      "title": "User Progress",
+      "description": "Tracking of user completion for tutorial steps.",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "stepId": { "type": "string" },
+        "completedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["userId", "stepId", "completedAt"]
+    }
+  },
+  "firestore": {
+    "journals": {
+      "schema": "JournalEntry",
+      "description": "Collection of user journal entries."
+    },
+    "user_profiles": {
+      "schema": "UserProfile",
+      "description": "Collection of user profiles."
+    },
+    "tutorials": {
+      "schema": "Tutorial",
+      "description": "Collection of available tutorials."
+    },
+    "tutorials/{tutorialId}/steps": {
+      "schema": "Step",
+      "description": "Sub-collection of steps for a tutorial."
+    },
+    "user_progress": {
+      "schema": "UserProgress",
+      "description": "Collection tracking user progress on steps."
+    }
+  }
+}

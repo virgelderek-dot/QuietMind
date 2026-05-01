@@ -1,0 +1,78 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Global Safety Net
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // Primitives
+    function isSignedIn() { return request.auth != null; }
+    function isOwner(userId) { return isSignedIn() && request.auth.uid == userId; }
+    function isAdmin() { return isSignedIn() && request.auth.token.email == 'virgelderek@gmail.com'; }
+    function incoming() { return request.resource.data; }
+    function existing() { return resource.data; }
+    function isValidId(id) { return id is string && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$'); }
+
+    // Entity Validations
+    function isValidUserProfile(data) {
+      return data.keys().hasAll(['id', 'email'])
+        && data.id is string && data.id.size() <= 128
+        && data.email is string && data.email.size() <= 256
+        && (data.get('displayName', '') is string && data.get('displayName', '').size() <= 100)
+        && (data.get('sendReminders', true) is bool);
+    }
+
+    function isValidJournalEntry(data) {
+      return data.keys().hasAll(['userId', 'content', 'createdAt'])
+        && data.userId is string && data.userId.size() <= 128
+        && data.content is string && data.content.size() <= 20000
+        && (data.get('mood', '') is string && data.get('mood', '').size() <= 50);
+    }
+
+    function isValidUserProgress(data) {
+      return data.keys().hasAll(['userId', 'stepId', 'completedAt'])
+        && data.userId is string && data.userId.size() <= 128
+        && data.stepId is string && data.stepId.size() <= 128;
+    }
+
+    // User Profiles
+    match /user_profiles/{userId} {
+      allow read, list: if isOwner(userId) || isAdmin();
+      allow create: if isOwner(userId) && isValidUserProfile(incoming()) && incoming().id == userId;
+      allow update: if isOwner(userId) && isValidUserProfile(incoming()) 
+        && incoming().id == existing().id 
+        && incoming().email == existing().email;
+    }
+
+    // Journals
+    match /journals/{journalId} {
+      allow list: if isSignedIn() && resource.data.userId == request.auth.uid;
+      allow get: if isSignedIn() && resource.data.userId == request.auth.uid;
+      allow create: if isSignedIn() && isValidJournalEntry(incoming()) && incoming().userId == request.auth.uid;
+      allow update: if isSignedIn() && resource.data.userId == request.auth.uid 
+        && isValidJournalEntry(incoming()) 
+        && incoming().userId == existing().userId;
+      allow delete: if isSignedIn() && resource.data.userId == request.auth.uid;
+    }
+
+    // Tutorials (Read only for public/users)
+    match /tutorials/{tutorialId} {
+      allow read: if true;
+      match /steps/{stepId} {
+        allow read: if true;
+      }
+    }
+
+    // User Progress
+    match /user_progress/{progressId} {
+      allow list: if isSignedIn() && resource.data.userId == request.auth.uid;
+      allow get: if isSignedIn() && resource.data.userId == request.auth.uid;
+      allow create: if isSignedIn() && isValidUserProgress(incoming()) && incoming().userId == request.auth.uid;
+      allow update: if isSignedIn() && resource.data.userId == request.auth.uid 
+        && isValidUserProgress(incoming()) 
+        && incoming().userId == existing().userId;
+      allow delete: if isSignedIn() && resource.data.userId == request.auth.uid;
+    }
+  }
+}
