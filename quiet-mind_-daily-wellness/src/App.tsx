@@ -4,7 +4,6 @@ import { onAuthStateChanged, User } from 'firebase/auth';
 import { Auth } from './components/Auth';
 import { Layout } from './components/Layout';
 import { Dashboard } from './components/Dashboard';
-import { BreathingExercise } from './components/BreathingExercise';
 import { JournalComponent } from './components/JournalComponent';
 import { Tutorials } from './components/Tutorials';
 import { ReflectionCreator } from './components/ReflectionCreator';
@@ -53,8 +52,6 @@ const App: React.FC = () => {
     switch (activeTab) {
       case 'dashboard':
         return <Dashboard setActiveTab={setActiveTab} />;
-      case 'breathing':
-        return <BreathingExercise />;
       case 'journal':
         return <JournalComponent />;
       case 'tutorials':

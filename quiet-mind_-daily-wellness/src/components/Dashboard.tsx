@@ -119,7 +119,7 @@ export const Dashboard: React.FC<{ setActiveTab: (tab: string) => void }> = ({ s
       <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
         {/* Breathing Quick Start */}
         <button 
-          onClick={() => setActiveTab('breathing')}
+          onClick={() => setActiveTab('tutorials')}
           className="lg:col-span-2 group relative overflow-hidden bg-[#5A5A40] rounded-[48px] p-12 text-left transition-all hover:scale-[1.01] active:scale-100"
         >
           <div className="relative z-10 h-full flex flex-col justify-between">

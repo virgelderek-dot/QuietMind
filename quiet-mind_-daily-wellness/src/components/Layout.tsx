@@ -1,6 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { LogOut, User as UserIcon, Home, BookOpen, Wind, Settings, Sparkles, Pencil } from 'lucide-react';
+
 import { auth } from '../lib/firebase';
 import { signOut } from 'firebase/auth';
 
@@ -16,7 +17,6 @@ export const Layout: React.FC<LayoutProps> = ({ children, activeTab, setActiveTa
 
   const navItems = [
     { id: 'dashboard', label: 'Home', icon: Home },
-    { id: 'breathing', label: 'Breathe', icon: Wind },
     { id: 'tutorials', label: 'Guides', icon: BookOpen },
     { id: 'journal', label: 'Journal', icon: Pencil },
     { id: 'scripts', label: 'Reflect', icon: Sparkles },
