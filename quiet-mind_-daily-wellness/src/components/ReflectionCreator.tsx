@@ -60,7 +60,7 @@ export const ReflectionCreator: React.FC = () => {
       const lengthInfo = LENGTHS.find(l => l.id === selectedLength) || LENGTHS[1];
       const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
       const model = ai.models.generateContent({
-        model: "gemini-3.1-pro-preview",
+        model: "gemini-2.5-pro",
         contents: `Generate a wellness reflection script about: ${input}.`,
         config: {
           systemInstruction: `You are the "Quiet Mind" reflection engine. ${toneInstructions[selectedTone as keyof typeof toneInstructions]}
@@ -101,7 +101,7 @@ export const ReflectionCreator: React.FC = () => {
       const fullText = `${script.hook}. ${script.coreConcepts.join('. ')}. ${script.metaphor}. ${script.signatureClose}`;
       const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
       const model = ai.models.generateContent({
-        model: "gemini-3.1-pro-preview",
+        model: "gemini-2.5-flash-preview-tts",
         contents: `Read this reflection with a ${selectedTone} tone: ${fullText}`,
         config: {
           speechConfig: {

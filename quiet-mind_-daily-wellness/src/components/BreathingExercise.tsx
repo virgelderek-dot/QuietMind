@@ -2,43 +2,34 @@ import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Wind, Circle } from 'lucide-react';
 
+const PHASE_SEQUENCE = ['inhale', 'hold', 'exhale', 'pause'] as const;
+type Phase = typeof PHASE_SEQUENCE[number];
+
 export const BreathingExercise: React.FC = () => {
-  const [phase, setPhase] = useState<'inhale' | 'hold' | 'exhale' | 'pause'>('inhale');
+  const [phase, setPhase] = useState<Phase>('inhale');
   const [timer, setTimer] = useState(4);
 
   useEffect(() => {
-    let interval: NodeJS.Timeout;
+    let timeoutId: NodeJS.Timeout;
+    let phaseIndex = 0;
+    let remaining = 4;
 
-    const cycle = () => {
-      if (timer > 0) {
-        interval = setInterval(() => {
-          setTimer((prev) => prev - 1);
-        }, 1000);
+    const tick = () => {
+      remaining -= 1;
+      if (remaining <= 0) {
+        phaseIndex = (phaseIndex + 1) % PHASE_SEQUENCE.length;
+        remaining = 4;
+        setPhase(PHASE_SEQUENCE[phaseIndex]);
+        setTimer(4);
       } else {
-        switch (phase) {
-          case 'inhale':
-            setPhase('hold');
-            setTimer(4);
-            break;
-          case 'hold':
-            setPhase('exhale');
-            setTimer(4);
-            break;
-          case 'exhale':
-            setPhase('pause');
-            setTimer(4);
-            break;
-          case 'pause':
-            setPhase('inhale');
-            setTimer(4);
-            break;
-        }
+        setTimer(remaining);
       }
+      timeoutId = setTimeout(tick, 1000);
     };
 
-    cycle();
-    return () => clearInterval(interval);
-  }, [phase, timer]);
+    timeoutId = setTimeout(tick, 1000);
+    return () => clearTimeout(timeoutId);
+  }, []);
 
   const getPhaseText = () => {
     switch (phase) {
