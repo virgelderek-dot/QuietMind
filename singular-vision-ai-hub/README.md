@@ -24,13 +24,18 @@ Pages, so you can just open a link. One-time setup, all in the browser:
    workflow** to build the first one immediately.
 
 It then lands at **https://virgelderek-dot.github.io/QuietMind/** and refreshes
-itself daily at 11:00 UTC. Change that time by editing the `cron` line in
-`.github/workflows/daily-digest.yml`.
+itself twice a day — 07:00 and 16:00 in Cape Town (05:00 and 14:00 UTC). Change
+that by editing the `cron` line in `.github/workflows/daily-digest.yml`; cron is
+always evaluated in UTC.
+
+Both runs rebuild the same day's digest, so the page shows the day's news as of
+the most recent run rather than accumulating two entries.
 
 Two optional extras, both under **Settings**:
 
-- *Secrets and variables → Actions → Variables*: add `SVAI_TIMEZONE` (e.g.
-  `America/New_York`) so the day rolls over at your midnight.
+- *Secrets and variables → Actions → Variables*: `SVAI_TIMEZONE` decides when
+  "today" rolls over. It defaults to `Africa/Johannesburg`; set the variable to
+  another IANA zone if you move.
 - *Secrets and variables → Actions → Secrets*: add `ANTHROPIC_API_KEY` to get
   per-story notes written by Claude.
 
