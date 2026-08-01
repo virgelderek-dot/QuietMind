@@ -82,6 +82,8 @@ export interface Digest {
   sources: SourceReport[];
   stats: {
     fetched: number;
+    /** Survivors of the AI-topicality gate. */
+    onTopic: number;
     deduped: number;
     scored: number;
     published: number;

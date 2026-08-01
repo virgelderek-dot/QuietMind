@@ -3,6 +3,13 @@ import type { Category, FeedSource } from '../types';
 /**
  * Public RSS/Atom feeds. No API keys required.
  *
+ * Every URL here has been confirmed to fetch and parse in a real run. Three
+ * were removed after the first live run rather than left to fail silently:
+ * Anthropic (404), Microsoft AI (410 Gone), and Indie Hackers (its feed
+ * nests deeply enough to exceed the XML parser's limit). Candidates are worth
+ * adding back only once a run confirms the URL — an unverified feed URL is a
+ * guess, and it shows up as a daily error in the page footer.
+ *
  * `weight` nudges a whole outlet up or down. Outlets that mostly cover
  * enterprise procurement and funding get < 1.0; outlets that cover
  * shipping-today tooling get > 1.0.
@@ -44,25 +51,11 @@ export const SOURCES: FeedSource[] = [
     weight: 1.15,
   },
   {
-    id: 'anthropic-news',
-    name: 'Anthropic',
-    url: 'https://www.anthropic.com/rss.xml',
-    angle: 'First-party announcements: model access, pricing, limits.',
-    weight: 1.15,
-  },
-  {
     id: 'google-ai-blog',
     name: 'Google AI',
     url: 'https://blog.google/technology/ai/rss/',
     angle: 'Workspace and Gemini changes that hit everyday business tools.',
     weight: 1.1,
-  },
-  {
-    id: 'microsoft-ai',
-    name: 'Microsoft AI',
-    url: 'https://blogs.microsoft.com/ai/feed/',
-    angle: 'Copilot and Office changes that land in small-business stacks.',
-    weight: 1.05,
   },
   {
     id: 'huggingface-blog',
@@ -84,13 +77,6 @@ export const SOURCES: FeedSource[] = [
     url: 'https://smallbiztrends.com/feed',
     angle: 'Explicit small-business framing on new technology.',
     weight: 1.2,
-  },
-  {
-    id: 'indiehackers',
-    name: 'Indie Hackers',
-    url: 'https://www.indiehackers.com/feed.xml',
-    angle: 'Solo founders reporting what actually worked.',
-    weight: 1.15,
   },
   {
     id: 'ben-evans',

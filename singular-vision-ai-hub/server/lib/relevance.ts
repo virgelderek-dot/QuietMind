@@ -17,6 +17,19 @@ interface Signal {
   category?: CategoryId;
 }
 
+/**
+ * The digest is AI news *for* small businesses, and the two halves are
+ * independent tests. Scoring only the second half let a general small-business
+ * feed fill the digest with bookkeeping explainers and fuel-price updates, so
+ * topicality is now a gate: no AI, no entry, however useful the story is.
+ */
+const AI_TOPIC =
+  /\bA\.?I\.?\b|artificial intelligence|machine learning|\bML\b|\bLLMs?\b|large language model|generative|gen ?AI|chat ?bots?|ChatGPT|OpenAI|Anthropic|Claude|Gemini|Copilot|Llama|Mistral|Perplexity|Midjourney|Stable Diffusion|Sora|DALL.E|neural network|transformer model|deep learning|prompt(ing|s)?\b|agentic|AI agents?|deepfakes?|text.to.(image|video|speech)|image generation|video generation/i;
+
+export function isAiTopic(title: string, description: string): boolean {
+  return AI_TOPIC.test(title) || AI_TOPIC.test(description);
+}
+
 /** Signals that a solo operator or small team is the intended beneficiary. */
 const RELEVANCE_SIGNALS: Signal[] = [
   // Explicit audience match — the strongest signal available.
@@ -61,9 +74,11 @@ const RELEVANCE_SIGNALS: Signal[] = [
 
   // Cost base.
   { pattern: /\bfree tier\b|\bfree plan\b|\bfree for\b|\bno cost\b/i, points: 22, tag: 'free tier', category: 'pricing' },
-  // Deliberately loose about what sits between the verb and "prices" —
-  // headlines say "cuts API prices by 40%", not "cuts prices".
-  { pattern: /\bprice cut\b|\bcheaper\b|\b(cuts?|slashe?s?|lowers?|drops?) (the )?(\w+ ){0,2}prices?\b|\bprice drop\b/i, points: 20, tag: 'price cut', category: 'pricing' },
+  // Loose about what sits between the verb and "prices" — headlines say
+  // "cuts API prices by 40%", not "cuts prices". `lower` is deliberately
+  // absent: as an adjective it matched commodity reporting ("Lower Oil
+  // Prices"), which is not a vendor cutting what it charges you.
+  { pattern: /\bprice cut\b|\bcheaper\b|\b(cuts?|slashe?s?|drops?|reduces?|lowered) (the )?(\w+ ){0,2}prices?\b|\bprice drop\b/i, points: 20, tag: 'price cut', category: 'pricing' },
   { pattern: /\bpric(ing|es?)\b|\bper (month|seat|user)\b|\bsubscription\b/i, points: 12, tag: 'pricing', category: 'pricing' },
   { pattern: /\brate limits?\b|\busage caps?\b|\bcredits?\b|\bquota\b/i, points: 11, tag: 'limits', category: 'pricing' },
   { pattern: /\bgeneral availability\b|\bnow available\b|\bpublic (beta|preview)\b|\bwaitlist\b/i, points: 14, tag: 'availability', category: 'tools' },
@@ -103,6 +118,9 @@ const NOISE_SIGNALS: Signal[] = [
   { pattern: /\benterprise.grade\b|\bfortune 500\b|\bat scale\b/i, points: -12, tag: 'enterprise' },
   { pattern: /\bgovernment\b|\bmilitary\b|\bdefen[cs]e contract\b|\bnational security\b/i, points: -14, tag: 'government' },
   { pattern: /\bAGI\b|\bsuperintelligence\b|\bexistential\b|\bdoom\b/i, points: -16, tag: 'speculation' },
+  // Macro commodity and trade reporting reads as cost news but is not a
+  // vendor decision a small business can respond to.
+  { pattern: /\b(crude )?oil prices?\b|\bgas(oline)? prices?\b|\bfuel costs?\b|\bcommodit(y|ies)\b|\btariffs?\b|\benergy trade\b|\binflation\b/i, points: -18, tag: 'commodities' },
   { pattern: /\bsues?\b|\blawsuit\b|\bantitrust\b/i, points: -8, tag: 'litigation' },
 ];
 
