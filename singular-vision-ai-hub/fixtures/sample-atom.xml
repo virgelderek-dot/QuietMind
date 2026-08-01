@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sample Vendor Blog</title>
+  <link href="https://vendor.example.com"/>
+  <updated>2026-07-29T10:00:00Z</updated>
+  <entry>
+    <title>We cut API prices by 40% and raised the free tier</title>
+    <link rel="alternate" href="https://vendor.example.com/price-cut"/>
+    <id>tag:vendor.example.com,2026:price-cut</id>
+    <published>2026-07-29T10:00:00Z</published>
+    <summary>The price cut applies to all plans. Rate limits and credits on the free plan doubled.</summary>
+  </entry>
+  <entry>
+    <title>Zapier launches a free tier that automates invoicing for small businesses</title>
+    <link rel="alternate" href="https://vendor.example.com/duplicate-coverage"/>
+    <id>tag:vendor.example.com,2026:dupe</id>
+    <published>2026-07-29T09:30:00Z</published>
+    <summary>Coverage of the same launch from a second outlet, which should be deduplicated.</summary>
+  </entry>
+  <entry>
+    <title>Our new customer support chatbot integrates with your CRM</title>
+    <link rel="alternate" href="https://vendor.example.com/support-bot"/>
+    <id>tag:vendor.example.com,2026:support</id>
+    <published>2026-07-29T08:30:00Z</published>
+    <summary>The integration handles help desk tickets and lead scoring without code.</summary>
+  </entry>
+</feed>

@@ -1,0 +1,86 @@
+name: Daily AI digest
+
+# Builds Singular Vision AI Hub every morning and publishes it to GitHub Pages,
+# so the digest is readable at a URL with nothing installed locally.
+
+on:
+  schedule:
+    # 11:00 UTC daily. Change this to suit your morning; the cron is in UTC,
+    # so 11:00 UTC is 6am US Eastern / 7am during daylight saving.
+    - cron: '0 11 * * *'
+  workflow_dispatch: # adds a "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - 'singular-vision-ai-hub/**'
+      - '.github/workflows/daily-digest.yml'
+
+permissions:
+  contents: write # to commit the day's digest into the archive
+  pages: write
+  id-token: write
+
+# Never let two runs publish at once, but let a running build finish so a
+# day's digest is not lost to a cancellation.
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: singular-vision-ai-hub
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: singular-vision-ai-hub/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run tests
+        run: npm test
+
+      - name: Build today's digest and render the site
+        env:
+          SVAI_TIMEZONE: ${{ vars.SVAI_TIMEZONE || 'UTC' }}
+          # Optional: add ANTHROPIC_API_KEY under Settings > Secrets to get
+          # per-story notes written by Claude. Everything works without it.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run site -- --force
+
+      - name: Commit the day's digest to the archive
+        run: |
+          cd "$GITHUB_WORKSPACE"
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add singular-vision-ai-hub/data/digests
+          if git diff --staged --quiet; then
+            echo "No new digest to commit."
+          else
+            git commit -m "Digest for $(date -u +%Y-%m-%d)"
+            # The schedule and a human push can race; rebase rather than fail.
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: singular-vision-ai-hub/site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

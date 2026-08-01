@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sample AI Feed</title>
+    <link>https://example.com</link>
+    <description>Fixture feed for offline tests</description>
+    <item>
+      <title>Zapier launches a free tier that automates invoicing for small businesses</title>
+      <link>https://example.com/zapier-invoicing?utm_source=rss&amp;utm_medium=feed</link>
+      <description><![CDATA[<p>The new no-code workflow builder lets <b>freelancers</b> and small business owners automate invoicing and follow-up emails. It is now available on a free plan.</p>]]></description>
+      <pubDate>Wed, 29 Jul 2026 09:00:00 GMT</pubDate>
+      <guid>https://example.com/zapier-invoicing</guid>
+    </item>
+    <item>
+      <title>Nebula AI raises $400M Series C at a $6B valuation to build datacenters</title>
+      <link>https://example.com/nebula-funding</link>
+      <description>The startup will spend the funding round on GPU clusters and semiconductor supply, according to its CEO.</description>
+      <pubDate>Wed, 29 Jul 2026 08:00:00 GMT</pubDate>
+      <guid>https://example.com/nebula-funding</guid>
+    </item>
+    <item>
+      <title>Researchers propose a new benchmark for long-context evals</title>
+      <link>https://example.com/benchmark-paper</link>
+      <description>The arxiv paper claims SOTA results on a new leaderboard.</description>
+      <pubDate>Wed, 29 Jul 2026 07:00:00 GMT</pubDate>
+      <guid>https://example.com/benchmark-paper</guid>
+    </item>
+    <item>
+      <title>How to use AI for SEO when Google shows AI Overviews</title>
+      <link>https://example.com/seo-guide</link>
+      <description>A step-by-step guide for small business owners whose search ranking dropped after AI overviews rolled out. Includes a checklist.</description>
+      <pubDate>Wed, 29 Jul 2026 06:00:00 GMT</pubDate>
+      <guid>https://example.com/seo-guide</guid>
+    </item>
+    <item>
+      <title>EU AI Act disclosure rules take effect for AI-generated content</title>
+      <link>https://example.com/eu-ai-act</link>
+      <description>New compliance and watermarking obligations apply to businesses publishing AI-generated content. Copyright guidance was also updated.</description>
+      <pubDate>Tue, 28 Jul 2026 15:00:00 GMT</pubDate>
+      <guid>https://example.com/eu-ai-act</guid>
+    </item>
+    <item>
+      <title>This story is far too old to matter</title>
+      <link>https://example.com/ancient</link>
+      <description>A small business automation guide from last month.</description>
+      <pubDate>Mon, 01 Jun 2026 10:00:00 GMT</pubDate>
+      <guid>https://example.com/ancient</guid>
+    </item>
+  </channel>
+</rss>
