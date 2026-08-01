@@ -1,0 +1,40 @@
+name: CI
+
+# Runs the typecheck, tests and build on every pull request, so a change can be
+# merged on a green check rather than on trust. Deliberately does no network
+# fetching and no deploying — that is the daily-digest workflow's job.
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: singular-vision-ai-hub
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: singular-vision-ai-hub/package-lock.json
+
+      - run: npm ci
+
+      - name: Typecheck
+        run: npm run lint
+
+      - name: Tests
+        run: npm test
+
+      - name: Build UI
+        run: npm run build
