@@ -1,8 +1,35 @@
 {
   "date": "2026-08-01",
-  "generatedAt": "2026-08-01T16:37:47.195Z",
-  "headline": "8 stories worth your time — mostly rules & risk. Start with: OpenAI Cuts Model Prices Amid Enterprises’ Concerns About AI Spend",
+  "generatedAt": "2026-08-01T19:05:18.879Z",
+  "headline": "7 stories worth your time — mostly rules & risk. Start with: HubSpot Unveils Agent Hub and Builder to Streamline AI Agent Management",
   "items": [
+    {
+      "id": "55502faa0c38",
+      "title": "HubSpot Unveils Agent Hub and Builder to Streamline AI Agent Management",
+      "url": "https://smallbiztrends.com/hubspot-unveils-agent-hub-and-builder-to-streamline-ai-agent-management",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-08-01T17:11:00.000Z",
+      "summary": "Discover how HubSpot's new Agent Hub and Builder are revolutionizing AI agent management, enhancing efficiency, and empowering businesses to optimize their customer interactions.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "launch"
+      ],
+      "score": 51,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
     {
       "id": "d08dfe5b6b34",
       "title": "OpenAI Cuts Model Prices Amid Enterprises’ Concerns About AI Spend",
@@ -25,7 +52,7 @@
         "relevance": 63,
         "actionability": 0,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 9,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -47,40 +74,13 @@
         "fraud risk",
         "launch"
       ],
-      "score": 40,
+      "score": 39,
       "breakdown": {
         "relevance": 31,
         "actionability": 11,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 10,
         "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "208aa591b12e",
-      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-07-30T18:05:21.000Z",
-      "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Use it to increase output on a channel that already converts — not to open a new one."
-      ],
-      "category": "marketing",
-      "tags": [
-        "social",
-        "launch"
-      ],
-      "score": 36,
-      "breakdown": {
-        "relevance": 31,
-        "actionability": 11,
-        "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -137,33 +137,6 @@
       "enriched": false
     },
     {
-      "id": "76d7f492b22a",
-      "title": "Oracle Brings Google Gemini Models to Enterprise Customers",
-      "url": "https://aibusiness.com/agentic-ai/oracle-brings-google-gemini-models-enterprise-customers",
-      "sourceId": "ai-business",
-      "sourceName": "AI Business",
-      "publishedAt": "2026-07-30T18:44:57.000Z",
-      "summary": "The partnership aims to give users more choice when building AI agents and automating business processes.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
-      ],
-      "category": "automation",
-      "tags": [
-        "automation",
-        "agents"
-      ],
-      "score": 26,
-      "breakdown": {
-        "relevance": 28,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 0.95
-      },
-      "enriched": false
-    },
-    {
       "id": "5c88eea83cf8",
       "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
       "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation",
@@ -210,7 +183,7 @@
         "relevance": 14,
         "actionability": 0,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 9,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -286,10 +259,10 @@
   ],
   "stats": {
     "fetched": 2121,
-    "onTopic": 34,
-    "deduped": 33,
-    "scored": 8,
-    "published": 8,
+    "onTopic": 31,
+    "deduped": 31,
+    "scored": 7,
+    "published": 7,
     "enriched": false
   }
 }
