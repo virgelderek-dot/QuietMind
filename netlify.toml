@@ -1,0 +1,37 @@
+# Netlify configuration for Singular Vision AI Hub.
+#
+# With this file committed, connecting the repo in Netlify needs no manual
+# settings — "Add new site > Import an existing project" and deploy.
+#
+# How the daily refresh works: the GitHub Action fetches the feeds each morning
+# and commits that day's digest JSON. That commit is a push to main, which
+# Netlify treats as a deploy trigger — so the site rebuilds from the committed
+# digests with no build hook, no scheduler, and no secrets on the Netlify side.
+#
+# The build command deliberately omits --force: today's digest is normally
+# already committed, so the build just renders it. If it is not (a manual
+# deploy before the morning run), the build fetches the feeds itself.
+
+[build]
+  base = "singular-vision-ai-hub"
+  command = "npm run site"
+  publish = "site"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# The site is a set of static pages; nothing needs a rewrite. A 404 falls
+# through to Netlify's default page rather than being masked as the digest.
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Digest pages change once a day; let a browser reuse them briefly but always
+# revalidate, so a returning reader is never served yesterday's edition.
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
