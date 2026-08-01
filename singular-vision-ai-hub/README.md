@@ -13,7 +13,31 @@ matters to you and one to three things you could act on.
 
 No API keys are required to run it.
 
-## Quick start
+## Read it as a web page (nothing to install)
+
+A GitHub Action builds the digest every morning and publishes it to GitHub
+Pages, so you can just open a link. One-time setup, all in the browser:
+
+1. Merge this branch into `main`.
+2. Go to **Settings → Pages**, and under *Source* choose **GitHub Actions**.
+3. Go to the **Actions** tab, pick *Daily AI digest*, and click **Run
+   workflow** to build the first one immediately.
+
+It then lands at **https://virgelderek-dot.github.io/QuietMind/** and refreshes
+itself daily at 11:00 UTC. Change that time by editing the `cron` line in
+`.github/workflows/daily-digest.yml`.
+
+Two optional extras, both under **Settings**:
+
+- *Secrets and variables → Actions → Variables*: add `SVAI_TIMEZONE` (e.g.
+  `America/New_York`) so the day rolls over at your midnight.
+- *Secrets and variables → Actions → Secrets*: add `ANTHROPIC_API_KEY` to get
+  per-story notes written by Claude.
+
+Each day's digest is committed back into `data/digests/`, so the archive builds
+up on its own.
+
+## Quick start (running it yourself)
 
 ```bash
 npm install
@@ -37,6 +61,7 @@ npx vite                  # UI on :5173, proxies /api to :3100
 npm run digest              # print today's digest as markdown
 npm run digest -- --force   # rebuild even if today's is already cached
 npm run digest -- --json    # raw JSON
+npm run site                # render today + the archive into ./site as HTML
 ```
 
 That makes it easy to mail to yourself with cron:

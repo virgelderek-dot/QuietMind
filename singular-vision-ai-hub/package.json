@@ -9,6 +9,7 @@
     "start": "NODE_ENV=production tsx server/index.ts",
     "build": "vite build",
     "digest": "tsx server/cli.ts",
+    "site": "tsx server/site.ts",
     "test": "tsx server/test/run.ts",
     "lint": "tsc --noEmit",
     "clean": "rm -rf dist"

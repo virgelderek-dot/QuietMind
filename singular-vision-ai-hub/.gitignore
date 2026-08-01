@@ -1,8 +1,6 @@
 node_modules/
 dist/
+site/
 .env
 .env.local
 *.log
-
-# Generated digests — one JSON file per day.
-data/digests/
