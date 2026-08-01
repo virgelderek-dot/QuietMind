@@ -6,7 +6,7 @@ import path from 'node:path';
 import { SOURCES } from '../config/sources';
 import { buildDigest, dedupe, localDateString } from '../lib/digest';
 import { parseFeed } from '../lib/feeds';
-import { assess, freshnessPoints } from '../lib/relevance';
+import { assess, freshnessPoints, isAiTopic } from '../lib/relevance';
 import { renderMarkdown } from '../lib/render';
 import type { FeedSource, RawItem } from '../types';
 
@@ -64,7 +64,7 @@ async function main() {
     assert.equal(items.length, 6);
     assert.equal(
       items[0]!.title,
-      'Zapier launches a free tier that automates invoicing for small businesses',
+      'Zapier launches a free AI tier that automates invoicing for small businesses',
     );
     assert.equal(items[0]!.publishedAt, '2026-07-29T09:00:00.000Z');
   });
@@ -216,6 +216,70 @@ async function main() {
     assert.ok(extreme.score <= 100 && extreme.score >= 0);
   });
 
+  // ---- topicality gate ---------------------------------------------------
+  //
+  // Headlines below are taken verbatim from the first live run, which filled
+  // the digest with genuinely useful but entirely non-AI small-business
+  // writing because relevance was scored without checking topicality.
+
+  await test('recognises AI stories across the vocabulary', () => {
+    for (const headline of [
+      'OpenAI Cuts Model Prices Amid Enterprises’ Concerns About AI Spend',
+      'LinkedIn adds a button to report AI-generated ‘slop’',
+      'Oracle Brings Google Gemini Models to Enterprise Customers',
+      'A new chatbot handles your customer support inbox',
+      'Anthropic ships a smaller Claude for cheap batch work',
+      'Text-to-video generation lands in the editor',
+    ]) {
+      assert.ok(isAiTopic(headline, ''), `should be AI: ${headline}`);
+    }
+  });
+
+  await test('rejects small-business writing with no AI in it', () => {
+    for (const headline of [
+      'US-Canada Energy Trade Dips 11% Amid Lower Oil Prices and Tariffs',
+      'What Is Simple Bookkeeping and How Can It Benefit You?',
+      '7 Tips to Help You Prioritize Your Time and Tasks Effectively',
+      'Understanding Company Structure in Business: A Step-by-Step Guide',
+      'Gas Prices Hold Steady at $4.09 as Crude Oil Costs Remain High',
+      'Start Selling Crafts Online: A Step-by-Step Guide',
+    ]) {
+      assert.ok(!isAiTopic(headline, ''), `should not be AI: ${headline}`);
+    }
+  });
+
+  await test('reads AI topicality from the body when the headline hides it', () => {
+    assert.ok(
+      isAiTopic(
+        'Leveraging Ecommerce Data for Better Sales Strategies',
+        'How machine learning models can forecast inventory for a small shop.',
+      ),
+    );
+  });
+
+  await test('does not treat commodity price reporting as a vendor price cut', () => {
+    const commodity = assess(
+      item(
+        'Energy Trade Dips Amid Lower Oil Prices and Tariffs',
+        'Gas prices hold steady as crude oil costs remain high.',
+      ),
+      1.2,
+      NOW,
+    );
+    const vendor = assess(
+      item('OpenAI cuts model prices for developers', 'The price cut applies to all plans.'),
+      1,
+      NOW,
+    );
+
+    assert.ok(!commodity.tags.includes('price cut'), 'commodity news is not a price cut');
+    assert.ok(vendor.tags.includes('price cut'), 'a real price cut must still register');
+    assert.ok(
+      vendor.score > commodity.score,
+      `vendor ${vendor.score} should beat commodity ${commodity.score}`,
+    );
+  });
+
   // ---- dedupe ------------------------------------------------------------
 
   await test('deduplicates by canonical URL, ignoring tracking params', () => {
@@ -228,10 +292,19 @@ async function main() {
   });
 
   await test('deduplicates the same headline from two outlets', () => {
-    const headline = 'Zapier launches a free tier that automates invoicing for small businesses';
+    const headline = 'Zapier launches a free AI tier that automates invoicing for small businesses';
     const result = dedupe([
       { ...item(headline), link: 'https://a.example.com/x' },
       { ...item(headline), link: 'https://b.example.com/y' },
+    ]);
+    assert.equal(result.length, 1);
+  });
+
+  await test('merges the same story reworded by a second outlet', () => {
+    // Both of these were published in the first live run.
+    const result = dedupe([
+      { ...item("LinkedIn actually adds a 'seems like AI slop' button"), link: 'https://a.example.com/1' },
+      { ...item("LinkedIn adds a button to report AI-generated 'slop'"), link: 'https://b.example.com/2' },
     ]);
     assert.equal(result.length, 1);
   });
@@ -295,6 +368,37 @@ async function main() {
   await test('sorts published items by descending score', () => {
     const scores = digest.items.map((i) => i.score);
     assert.deepEqual(scores, [...scores].sort((a, b) => b - a));
+  });
+
+  await test('keeps rank order after back-filling from the overflow', async () => {
+    // The first live run ended on scores 23, 22, 40, 37 — the per-source cap
+    // pushed items into an overflow list that was appended without re-sorting.
+    const noisy = Array.from({ length: 14 }, (_, index) => ({
+      ...item(
+        `AI tool number ${index} automates invoicing for small businesses`,
+        index % 2 ? 'Free tier for freelancers.' : 'A workflow integration.',
+      ),
+      link: `https://loud.example.com/${index}`,
+    }));
+
+    const packed = await buildDigest({
+      now: NOW,
+      timeZone: 'UTC',
+      skipEnrichment: true,
+      fetcher: async () => [
+        {
+          items: noisy.map((i) => ({ ...i, sourceId: SOURCES[0]!.id, sourceName: SOURCES[0]!.name })),
+          report: { sourceId: SOURCES[0]!.id, sourceName: SOURCES[0]!.name, ok: true, itemCount: noisy.length },
+        },
+      ],
+    });
+
+    const scores = packed.items.map((i) => i.score);
+    assert.deepEqual(scores, [...scores].sort((a, b) => b - a), 'must stay ranked');
+    assert.ok(
+      packed.items.length <= 8,
+      `one source must not fill the digest, got ${packed.items.length}`,
+    );
   });
 
   await test('gives every item a why-it-matters note and at least one action', () => {

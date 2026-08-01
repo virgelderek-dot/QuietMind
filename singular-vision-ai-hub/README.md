@@ -72,14 +72,19 @@ That makes it easy to mail to yourself with cron:
 
 ## How a story earns its place
 
-Each item is scored out of 100 from four components, defined in
+First, a **topicality gate**: the story must actually be about AI. This is a
+separate test from usefulness, and skipping it was a real failure in the first
+version — a general small-business feed filled the digest with bookkeeping
+explainers and fuel-price updates, all perfectly useful and none of it AI news.
+
+Whatever survives is then scored out of 100 from four components, defined in
 `server/lib/relevance.ts`:
 
 | Component | What it rewards |
 |---|---|
 | **Relevance** | Signals that a small operator is the beneficiary — explicit audience terms (solopreneur, freelancer, SMB), back-office relief (invoicing, scheduling, support), getting-found work (SEO, content, email), cost-base changes (free tiers, price cuts), and obligations (disclosure, copyright). |
 | **Actionability** | Language that means "you could do this today": how-to, now available, launches, free. |
-| **Noise** | A **penalty**, not just an absence of reward. Funding rounds, valuations, chips and datacenters, earnings, benchmarks, arxiv papers, executive hires, and AGI speculation all subtract points. |
+| **Noise** | A **penalty**, not just an absence of reward. Funding rounds, valuations, chips and datacenters, earnings, benchmarks, arxiv papers, executive hires, AGI speculation, and macro commodity reporting all subtract points. |
 | **Freshness** | Exponential decay with a 30-hour half-life, so yesterday's story cannot outrank this morning's. |
 
 Terms in the headline count 1.6× what they count in the body — a word in the
@@ -144,7 +149,7 @@ atomically so a reader never sees a partial file.
 ## Tests
 
 ```bash
-npm test     # 26 offline tests — no network access required
+npm test     # 32 offline tests — no network access required
 npm run lint # tsc --noEmit
 ```
 
@@ -158,8 +163,8 @@ digest assembly, markdown rendering, and the store's path handling.
   source, reported in the response, and shown in the UI footer.
 - **An empty day is a legitimate result.** If nothing clears the bar, the app
   says so rather than padding the list.
-- **Feed reachability was not verifiable in the environment this was built
-  in** — outbound requests to the news domains were blocked by policy, so the
-  fetch path is covered by fixtures and by a live run in which all fourteen
-  sources returned 403 and the app degraded correctly. Run `npm run digest`
-  on a machine with normal network access to confirm the real feeds parse.
+- **The feed list is empirical.** Every URL has been confirmed to fetch and
+  parse in a real run. Three were removed after the first one rather than left
+  failing: Anthropic (404), Microsoft AI (410 Gone), and Indie Hackers (its
+  feed exceeds the XML parser's nesting limit). Adding a source back is worth
+  doing only once a run confirms the URL.
