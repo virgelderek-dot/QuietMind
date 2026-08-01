@@ -5,9 +5,10 @@ name: Daily AI digest
 
 on:
   schedule:
-    # 11:00 UTC daily. Change this to suit your morning; the cron is in UTC,
-    # so 11:00 UTC is 6am US Eastern / 7am during daylight saving.
-    - cron: '0 11 * * *'
+    # Twice a day, 07:00 and 16:00 in Cape Town (SAST, UTC+2 year-round —
+    # South Africa observes no daylight saving, so this needs no seasonal
+    # adjustment). Cron is always evaluated in UTC.
+    - cron: '0 5,14 * * *'
   workflow_dispatch: # adds a "Run workflow" button in the Actions tab
   push:
     branches: [main]
@@ -50,7 +51,10 @@ jobs:
 
       - name: Build today's digest and render the site
         env:
-          SVAI_TIMEZONE: ${{ vars.SVAI_TIMEZONE || 'UTC' }}
+          # Decides when "today" rolls over, so the digest is dated by the
+          # reader's day rather than UTC's. Override with a repository
+          # variable of the same name if the reader ever moves.
+          SVAI_TIMEZONE: ${{ vars.SVAI_TIMEZONE || 'Africa/Johannesburg' }}
           # Optional: add ANTHROPIC_API_KEY under Settings > Secrets to get
           # per-story notes written by Claude. Everything works without it.
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

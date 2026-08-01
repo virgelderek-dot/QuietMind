@@ -3,14 +3,17 @@
 # With this file committed, connecting the repo in Netlify needs no manual
 # settings — "Add new site > Import an existing project" and deploy.
 #
-# How the daily refresh works: the GitHub Action fetches the feeds each morning
-# and commits that day's digest JSON. That commit is a push to main, which
-# Netlify treats as a deploy trigger — so the site rebuilds from the committed
-# digests with no build hook, no scheduler, and no secrets on the Netlify side.
+# How the refresh works: twice a day the GitHub Action fetches the feeds and
+# commits that day's digest JSON. That commit is a push to main, which Netlify
+# treats as a deploy trigger — so the site rebuilds from the committed digests
+# with no build hook, no scheduler, and no secrets on the Netlify side.
 #
-# The build command deliberately omits --force: today's digest is normally
-# already committed, so the build just renders it. If it is not (a manual
-# deploy before the morning run), the build fetches the feeds itself.
+# The build command deliberately omits --force: the day's digest is normally
+# already committed, so the build just renders it. If it is not (a manual deploy
+# before the first run of the day), the build fetches the feeds itself.
+#
+# Note the consequence: "Trigger deploy" in Netlify re-renders the stored
+# digest, it does not fetch fresh news. Re-run the GitHub Action for that.
 
 [build]
   base = "singular-vision-ai-hub"
