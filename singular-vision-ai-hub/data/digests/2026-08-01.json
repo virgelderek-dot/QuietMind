@@ -1,117 +1,8 @@
 {
   "date": "2026-08-01",
-  "generatedAt": "2026-08-01T15:02:02.558Z",
-  "headline": "18 stories worth your time — mostly pricing & access. Start with: US-Canada Energy Trade Dips 11% Amid Lower Oil Prices and Tariffs",
+  "generatedAt": "2026-08-01T16:37:47.195Z",
+  "headline": "8 stories worth your time — mostly rules & risk. Start with: OpenAI Cuts Model Prices Amid Enterprises’ Concerns About AI Spend",
   "items": [
-    {
-      "id": "4a526adf76ac",
-      "title": "US-Canada Energy Trade Dips 11% Amid Lower Oil Prices and Tariffs",
-      "url": "https://smallbiztrends.com/us-canada-energy-trade-dips-11-amid-lower-oil-prices-and-tariffs",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-07-31T18:11:00.000Z",
-      "summary": "Explore the recent 11% decline in US-Canada energy trade, driven by lower oil prices and tariffs. Understand the implications for both economies and the energy market landscape in our in-depth analysis.",
-      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
-      "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material."
-      ],
-      "category": "pricing",
-      "tags": [
-        "price cut",
-        "pricing"
-      ],
-      "score": 64,
-      "breakdown": {
-        "relevance": 83,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "ec12e93eaf42",
-      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
-      "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-07-30T16:33:32.000Z",
-      "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship?",
-      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
-      "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material."
-      ],
-      "category": "pricing",
-      "tags": [
-        "pricing",
-        "ads",
-        "launch"
-      ],
-      "score": 52,
-      "breakdown": {
-        "relevance": 41,
-        "actionability": 29,
-        "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "ed3c86c8673c",
-      "title": "Leveraging Ecommerce Data for Better Sales Strategies",
-      "url": "https://smallbiztrends.com/ecommerce-data",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-07-31T21:31:00.000Z",
-      "summary": "Discover how to leverage ecommerce data to enhance your sales strategies. Learn effective techniques for analyzing customer behavior, optimizing inventory, and boosting conversion rates to drive growth and maximize profits.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Check whether your storefront platform supports this natively before adding another subscription.",
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
-      ],
-      "category": "marketing",
-      "tags": [
-        "ecommerce",
-        "how-to"
-      ],
-      "score": 49,
-      "breakdown": {
-        "relevance": 36,
-        "actionability": 14,
-        "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "e7340721684b",
-      "title": "What Is Simple Bookkeeping and How Can It Benefit You?",
-      "url": "https://smallbiztrends.com/simple-bookkeeping",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-07-31T22:31:00.000Z",
-      "summary": "Discover what simple bookkeeping is and how it can benefit you in managing your finances effectively. Learn the key principles and advantages of adopting simple bookkeeping practices for your personal or business needs.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Trial it against one month of real invoices before trusting it with the books."
-      ],
-      "category": "automation",
-      "tags": [
-        "finance ops"
-      ],
-      "score": 48,
-      "breakdown": {
-        "relevance": 47,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
     {
       "id": "d08dfe5b6b34",
       "title": "OpenAI Cuts Model Prices Amid Enterprises’ Concerns About AI Spend",
@@ -140,33 +31,6 @@
       "enriched": false
     },
     {
-      "id": "2d93889eed1d",
-      "title": "Start Selling Crafts Online: A Step-by-Step Guide",
-      "url": "https://smallbiztrends.com/selling-crafts-online",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-07-31T16:31:00.000Z",
-      "summary": "Discover how to start selling crafts online with our comprehensive step-by-step guide. Learn the best platforms, marketing strategies, and tips to turn your passion into profit!",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
-      ],
-      "category": "strategy",
-      "tags": [
-        "how-to",
-        "playbook"
-      ],
-      "score": 46,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 46,
-        "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
       "id": "abe78d62759c",
       "title": "Google Earth’s AI deepfake tool only lasted one day",
       "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
@@ -189,33 +53,6 @@
         "actionability": 11,
         "noise": 0,
         "freshness": 11,
-        "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "b5180026e6d1",
-      "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-07-30T18:43:26.000Z",
-      "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as…",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Use it to increase output on a channel that already converts — not to open a new one."
-      ],
-      "category": "marketing",
-      "tags": [
-        "social",
-        "launch"
-      ],
-      "score": 37,
-      "breakdown": {
-        "relevance": 31,
-        "actionability": 11,
-        "noise": 0,
-        "freshness": 6,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -294,7 +131,7 @@
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 6,
         "sourceWeight": 1
       },
       "enriched": false
@@ -347,7 +184,7 @@
         "relevance": 0,
         "actionability": 18,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
@@ -375,110 +212,6 @@
         "noise": 0,
         "freshness": 10,
         "sourceWeight": 1.15
-      },
-      "enriched": false
-    },
-    {
-      "id": "7fcda86d9dec",
-      "title": "Understanding Company Structure in Business: A Step-by-Step Guide",
-      "url": "https://smallbiztrends.com/what-is-a-company-structure-in-business",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-07-31T15:31:00.000Z",
-      "summary": "Discover what a company structure in business is and learn how to effectively organize your business with our step-by-step guide. Understand the different types of company structures, their benefits, and how to choose the right one for your organization.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
-      ],
-      "category": "strategy",
-      "tags": [
-        "how-to"
-      ],
-      "score": 40,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 36,
-        "noise": 0,
-        "freshness": 10,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "c4d0255d9a6c",
-      "title": "Gas Prices Hold Steady at $4.09 as Crude Oil Costs Remain High",
-      "url": "https://smallbiztrends.com/gas-prices-hold-steady-at-4-09-as-crude-oil-costs-remain-high",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-07-31T16:11:00.000Z",
-      "summary": "Gas prices remain steady at $4.09 per gallon as high crude oil costs continue to impact the market. Discover the factors influencing current fuel prices and what this means for consumers.",
-      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
-      "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material."
-      ],
-      "category": "pricing",
-      "tags": [
-        "pricing"
-      ],
-      "score": 37,
-      "breakdown": {
-        "relevance": 31,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "1c0e283e03c2",
-      "title": "7 Tips to Help You Prioritize Your Time and Tasks Effectively",
-      "url": "https://smallbiztrends.com/how-do-you-prioritize-your-time-and-tasks",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-07-31T18:31:00.000Z",
-      "summary": "Discover practical strategies in our article \"7 Tips to Help You Prioritize Your Time and Tasks Effectively\" and learn how do you prioritize your time and tasks to boost productivity and achieve your goals.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
-      ],
-      "category": "strategy",
-      "tags": [
-        "playbook"
-      ],
-      "score": 33,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 26,
-        "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "ed771895b6f8",
-      "title": "7 Inspiring Examples of Customer Engagement Programs",
-      "url": "https://smallbiztrends.com/customer-engagement-programs-examples",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-07-31T19:31:00.000Z",
-      "summary": "Discover 7 inspiring customer engagement programs examples that showcase innovative strategies to connect with customers, boost loyalty, and enhance brand experiences.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Cheapest test: regenerate an asset you already paid for and compare quality honestly."
-      ],
-      "category": "marketing",
-      "tags": [
-        "creative"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 11,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1.2
       },
       "enriched": false
     }
@@ -515,24 +248,10 @@
       "itemCount": 1105
     },
     {
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic",
-      "ok": false,
-      "itemCount": 0,
-      "error": "HTTP 404"
-    },
-    {
       "sourceId": "google-ai-blog",
       "sourceName": "Google AI",
       "ok": true,
       "itemCount": 20
-    },
-    {
-      "sourceId": "microsoft-ai",
-      "sourceName": "Microsoft AI",
-      "ok": false,
-      "itemCount": 0,
-      "error": "HTTP 410"
     },
     {
       "sourceId": "huggingface-blog",
@@ -553,13 +272,6 @@
       "itemCount": 10
     },
     {
-      "sourceId": "indiehackers",
-      "sourceName": "Indie Hackers",
-      "ok": false,
-      "itemCount": 0,
-      "error": "Maximum nested tags exceeded"
-    },
-    {
       "sourceId": "ben-evans",
       "sourceName": "Benedict Evans",
       "ok": true,
@@ -574,9 +286,10 @@
   ],
   "stats": {
     "fetched": 2121,
-    "deduped": 53,
-    "scored": 18,
-    "published": 18,
+    "onTopic": 34,
+    "deduped": 33,
+    "scored": 8,
+    "published": 8,
     "enriched": false
   }
 }
