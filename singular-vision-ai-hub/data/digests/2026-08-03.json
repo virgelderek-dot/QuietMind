@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
-  "generatedAt": "2026-08-03T08:21:36.924Z",
-  "headline": "1 story worth your time — mostly strategy & trends. Start with: Constant Contact Unveils “Great Needs Great,” Elevating Small Business Marketing with AI",
+  "generatedAt": "2026-08-03T16:14:51.875Z",
+  "headline": "9 stories worth your time — mostly automate your ops. Start with: Constant Contact Unveils “Great Needs Great,” Elevating Small Business Marketing with AI",
   "items": [
     {
       "id": "9151c65f4b20",
@@ -20,13 +20,228 @@
         "small business",
         "launch"
       ],
-      "score": 64,
+      "score": 63,
       "breakdown": {
         "relevance": 62,
         "actionability": 18,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "577cb9e11f7c",
+      "title": "Small Business Risks Are Changing: What Matters Now in 2026",
+      "url": "https://smallbiztrends.com/small-business-risks-are-changing-what-matters-now-in-2026",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-08-03T12:35:50.000Z",
+      "summary": "Sponsored Post Small business risks in 2026 go beyond cash flow and staffing. Learn how AI liability, underinsurance, cyber extortion, and contractor misclassification could threaten your business—and what steps you can take to stay protected.",
+      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "small business"
+      ],
+      "score": 58,
+      "breakdown": {
+        "relevance": 62,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "7067ef98e02b",
+      "title": "AI frameworks: Definition, types, and how to choose",
+      "url": "https://zapier.com/blog/ai-frameworks",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-08-03T04:00:00.000Z",
+      "summary": "Whenever there's a shiny new AI tool, it makes sense to dive in and see if it's worth introducing into your work. You start with a single tab in your browser, which somehow turns into a dozen, all filled with chatbots, automation workflows, and a master plan…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "workflow",
+        "how-to",
+        "launch"
+      ],
+      "score": 56,
+      "breakdown": {
+        "relevance": 29,
+        "actionability": 33,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "020a249c3131",
+      "title": "Agentic AI vs. generative AI: Key differences and use cases",
+      "url": "https://zapier.com/blog/agentic-ai-vs-generative-ai",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-08-03T04:00:00.000Z",
+      "summary": "When people talk about AI, they often toss wildly different tools into the same bucket&#x2014;like putting a blender and an AI personal assistant app in the same category just because they both have buttons.&#xA0; That lumping obscures something important:…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "how-to"
+      ],
+      "score": 47,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 14,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "dc3cee7da4d6",
+      "title": "7 chatbot use cases for your business",
+      "url": "https://zapier.com/blog/chatbot-use-cases",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-08-03T04:00:00.000Z",
+      "summary": "When I replayed Fallout 4 recently, I reacquainted myself with one of the background characters&#x2014;a noodle chef robot. All he can do is say \"What will you have?\" in Japanese and give you noodles when you say \"yes.\" It reminded me of early-days chatbots,…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Draft answers for your ten most common customer questions and test the quality on those."
+      ],
+      "category": "automation",
+      "tags": [
+        "support"
+      ],
+      "score": 45,
+      "breakdown": {
+        "relevance": 42,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "f7ebe6f5469c",
+      "title": "The 8 best AI scheduling assistants",
+      "url": "https://zapier.com/blog/best-ai-scheduling",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-08-03T05:00:00.000Z",
+      "summary": "Productivity starts with your calendar&#x2014;but sometimes it ends there too. No one wants to reprioritize an entire week after an emergency, or play calendar Tetris to land a meeting with that busy lead sometime in the next two days.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Worth an hour to set up if you are still coordinating bookings by email."
+      ],
+      "category": "automation",
+      "tags": [
+        "scheduling"
+      ],
+      "score": 39,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "8009335d7b65",
+      "title": "The 8 best AI image generators in 2026",
+      "url": "https://zapier.com/blog/best-ai-image-generator",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-08-03T05:00:00.000Z",
+      "summary": "AI image generators have been brewing (generating?) up a storm for the last few years. If you've been on social media, watched prime time news shows, or read a magazine, AI-generated images have been impossible to miss.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow",
+        "social"
+      ],
+      "score": 35,
+      "breakdown": {
+        "relevance": 25,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "a5bee4ff0bf2",
+      "title": "Alibaba Unveils Its ‘Most Powerful’ AI Model Yet",
+      "url": "https://aibusiness.com/generative-ai/alibaba-unveils-most-powerful-ai-model-yet",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-08-03T14:47:01.000Z",
+      "summary": "Qwen3.8-Max is the latest in a series of launches from Chinese tech firms racing to develop powerful, affordable AI models.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 33,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 29,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "81631fee95bb",
+      "title": "Europe’s New AI Rules Come Into Force",
+      "url": "https://aibusiness.com/ai-policy/europe-s-ai-rules-come-into-force",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-08-03T13:11:54.000Z",
+      "summary": "The EU AI Act is the world’s most comprehensive AI legislation.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Note the compliance date and check whether your business size is in scope."
+      ],
+      "category": "rules",
+      "tags": [
+        "regulation"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 14,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 0.95
       },
       "enriched": false
     }
@@ -101,10 +316,10 @@
   ],
   "stats": {
     "fetched": 2121,
-    "onTopic": 7,
-    "deduped": 7,
-    "scored": 1,
-    "published": 1,
+    "onTopic": 18,
+    "deduped": 18,
+    "scored": 9,
+    "published": 9,
     "enriched": false
   }
 }
