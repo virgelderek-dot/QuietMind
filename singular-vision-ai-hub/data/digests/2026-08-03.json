@@ -1,0 +1,110 @@
+{
+  "date": "2026-08-03",
+  "generatedAt": "2026-08-03T08:21:36.924Z",
+  "headline": "1 story worth your time — mostly strategy & trends. Start with: Constant Contact Unveils “Great Needs Great,” Elevating Small Business Marketing with AI",
+  "items": [
+    {
+      "id": "9151c65f4b20",
+      "title": "Constant Contact Unveils “Great Needs Great,” Elevating Small Business Marketing with AI",
+      "url": "https://smallbiztrends.com/constant-contact-unveils-great-needs-great-elevating-small-business-marketing-with-ai",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-08-02T17:11:00.000Z",
+      "summary": "Discover how Constant Contact's new initiative, \"Great Needs Great,\" harnesses the power of AI to transform small business marketing. Learn about innovative tools and strategies designed to elevate your marketing game and drive success.",
+      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "small business",
+        "launch"
+      ],
+      "score": 64,
+      "breakdown": {
+        "relevance": 62,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "ok": true,
+      "itemCount": 7
+    },
+    {
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "ok": true,
+      "itemCount": 1105
+    },
+    {
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "ok": true,
+      "itemCount": 834
+    },
+    {
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "ben-evans",
+      "sourceName": "Benedict Evans",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "ok": true,
+      "itemCount": 50
+    }
+  ],
+  "stats": {
+    "fetched": 2121,
+    "onTopic": 7,
+    "deduped": 7,
+    "scored": 1,
+    "published": 1,
+    "enriched": false
+  }
+}
