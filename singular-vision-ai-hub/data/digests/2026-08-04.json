@@ -1,8 +1,40 @@
 {
   "date": "2026-08-04",
-  "generatedAt": "2026-08-04T13:15:11.516Z",
-  "headline": "12 stories worth your time — mostly automate your ops. Start with: Zapier Tables: Store, move, and act on your data automatically",
+  "generatedAt": "2026-08-04T13:23:33.355Z",
+  "headline": "12 stories worth your time — mostly automate your ops. Start with: How to give your AI agents reliable app access for free",
   "items": [
+    {
+      "id": "a7a88c82ca6e",
+      "title": "How to give your AI agents reliable app access for free",
+      "url": "https://zapier.com/blog/connect-ai-agents-to-apps",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-08-04T05:00:00.000Z",
+      "summary": "As advanced as AI agents have become, they still fall short in one respect: connecting to your apps reliably. That's because every app authenticates, structures its endpoints, shapes its data, and breaks in its own way.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere.",
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "integration",
+        "automation stack",
+        "how-to",
+        "free"
+      ],
+      "score": 72,
+      "breakdown": {
+        "relevance": 57,
+        "actionability": 43,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
     {
       "id": "9e2adc1461f5",
       "title": "Zapier Tables: Store, move, and act on your data automatically",
@@ -255,34 +287,6 @@
       "enriched": false
     },
     {
-      "id": "8009335d7b65",
-      "title": "The 8 best AI image generators in 2026",
-      "url": "https://zapier.com/blog/best-ai-image-generator",
-      "sourceId": "zapier-blog",
-      "sourceName": "Zapier Blog",
-      "publishedAt": "2026-08-03T05:00:00.000Z",
-      "summary": "AI image generators have been brewing (generating?) up a storm for the last few years. If you've been on social media, watched prime time news shows, or read a magazine, AI-generated images have been impossible to miss.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
-        "Use it to increase output on a channel that already converts — not to open a new one."
-      ],
-      "category": "automation",
-      "tags": [
-        "workflow",
-        "social"
-      ],
-      "score": 31,
-      "breakdown": {
-        "relevance": 25,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 9,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
       "id": "16bd0e2adad9",
       "title": "Congress’ favorite AI tool? ChatGPT",
       "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt",
@@ -406,9 +410,9 @@
   ],
   "stats": {
     "fetched": 2124,
-    "onTopic": 29,
-    "deduped": 29,
-    "scored": 12,
+    "onTopic": 30,
+    "deduped": 30,
+    "scored": 13,
     "published": 12,
     "enriched": false
   }
