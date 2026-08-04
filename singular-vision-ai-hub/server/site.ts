@@ -1,7 +1,7 @@
 import 'dotenv/config';
 import { mkdir, rm, writeFile } from 'node:fs/promises';
 import path from 'node:path';
-import { renderArchivePage, renderDigestPage } from './lib/html';
+import { renderArchivePage, renderDigestPage, renderSavedPage } from './lib/html';
 import { refresh } from './lib/schedule';
 import { listDates, loadDigest } from './lib/store';
 
@@ -45,6 +45,9 @@ async function main() {
     renderArchivePage(entries),
     'utf8',
   );
+
+  // Static shell; its contents are read from the browser's own storage.
+  await writeFile(path.join(OUT, 'saved.html'), renderSavedPage(), 'utf8');
 
   // Pages would otherwise run the output through Jekyll, which strips
   // directories beginning with an underscore and slows every build.

@@ -122,7 +122,141 @@ footer{
 }
 footer p{margin:0 0 4px}
 footer a{color:var(--dim)}
+/* Generous tap target — this is read on a phone far more than a desktop. */
+.save{
+  margin-left:auto;background:none;border:1px solid var(--line);color:var(--dim);
+  border-radius:7px;padding:5px 10px;font:inherit;font-size:12px;cursor:pointer;
+  line-height:1;white-space:nowrap;
+}
+.save:hover{border-color:var(--accent);color:var(--accent)}
+.save[aria-pressed="true"]{
+  border-color:var(--accent);background:var(--accent);color:var(--bg);font-weight:600;
+}
+.score+.save{margin-left:8px}
+.bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:18px}
+.btn{
+  background:none;border:1px solid var(--line);color:var(--text);
+  border-radius:8px;padding:8px 13px;font:inherit;font-size:13.5px;cursor:pointer;
+}
+.btn:hover{border-color:var(--accent);color:var(--accent)}
+.count{color:var(--dim);font-size:13px}
 @media (max-width:520px){ .wrap{padding:0 15px} h1{font-size:20px} }
+`;
+
+/**
+ * Saving runs entirely in the reader's browser via localStorage — no account,
+ * no server, no cost. The whole story is stored, not just its id, so a saved
+ * item survives long after it has dropped out of the day's digest.
+ *
+ * The trade-off, stated plainly on the Saved page: saves are per-browser, so
+ * a phone and a laptop keep separate lists, and clearing site data clears
+ * them. The copy-out button is the escape hatch for anything worth keeping
+ * beyond that.
+ */
+const SAVE_SCRIPT = `
+(function(){
+  var KEY='svai.saved.v1';
+  function read(){
+    try{var v=JSON.parse(localStorage.getItem(KEY));return Array.isArray(v)?v:[]}
+    catch(e){return[]}
+  }
+  function write(list){
+    try{localStorage.setItem(KEY,JSON.stringify(list));return true}
+    catch(e){return false}
+  }
+  function has(list,id){return list.some(function(i){return i.id===id})}
+  function label(on){return on?'\\u2713 Saved':'Save'}
+
+  function refreshCount(){
+    var el=document.querySelector('[data-saved-count]');
+    if(!el)return;
+    var n=read().length;
+    el.textContent=n?'('+n+')':'';
+  }
+
+  function bindButtons(root){
+    var list=read();
+    (root||document).querySelectorAll('button.save').forEach(function(btn){
+      var item;
+      try{item=JSON.parse(btn.getAttribute('data-item'))}catch(e){return}
+      var on=has(list,item.id);
+      btn.setAttribute('aria-pressed',on?'true':'false');
+      btn.textContent=label(on);
+      btn.addEventListener('click',function(){
+        var current=read();
+        var nowOn=!has(current,item.id);
+        if(nowOn){current.unshift(item)}
+        else{current=current.filter(function(i){return i.id!==item.id})}
+        if(!write(current)){
+          alert('Your browser would not let this page save. Private browsing blocks it.');
+          return;
+        }
+        btn.setAttribute('aria-pressed',nowOn?'true':'false');
+        btn.textContent=label(nowOn);
+        refreshCount();
+        if(document.getElementById('saved-list'))renderSaved();
+      });
+    });
+  }
+
+  function esc(s){
+    return String(s==null?'':s).replace(/[&<>"']/g,function(c){
+      return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
+    });
+  }
+
+  function renderSaved(){
+    var host=document.getElementById('saved-list');
+    if(!host)return;
+    var list=read();
+    if(!list.length){
+      host.innerHTML='<div class="empty"><p>Nothing saved yet.</p>'+
+        '<p>Tap <strong>Save</strong> on any story and it will wait for you here.</p></div>';
+      return;
+    }
+    host.innerHTML=list.map(function(i){
+      return '<article class="card">'+
+        '<div class="meta"><span class="src">'+esc(i.source)+
+          (i.date?' &middot; '+esc(i.date):'')+'</span>'+
+          '<button class="save" data-item="'+esc(JSON.stringify(i))+'">Save</button></div>'+
+        '<h2><a href="'+esc(i.url)+'" target="_blank" rel="noopener noreferrer">'+esc(i.title)+'</a></h2>'+
+        (i.summary?'<p class="sum">'+esc(i.summary)+'</p>':'')+
+        (i.why?'<div class="why"><b>Why it matters for you</b><p>'+esc(i.why)+'</p></div>':'')+
+        '<a class="read" href="'+esc(i.url)+'" target="_blank" rel="noopener noreferrer">Read it &rarr;</a>'+
+      '</article>';
+    }).join('');
+    bindButtons(host);
+  }
+
+  function asText(){
+    return read().map(function(i){
+      return i.title+'\\n'+i.url+(i.source?'\\n('+i.source+')':'');
+    }).join('\\n\\n');
+  }
+
+  document.addEventListener('DOMContentLoaded',function(){
+    bindButtons();
+    refreshCount();
+    renderSaved();
+
+    var copy=document.getElementById('copy-saved');
+    if(copy)copy.addEventListener('click',function(){
+      var text=asText();
+      if(!text){copy.textContent='Nothing to copy';return}
+      function done(){copy.textContent='Copied';setTimeout(function(){copy.textContent='Copy all as text'},1800)}
+      if(navigator.clipboard&&navigator.clipboard.writeText){
+        navigator.clipboard.writeText(text).then(done,function(){window.prompt('Copy these:',text)});
+      } else {window.prompt('Copy these:',text)}
+    });
+
+    var clear=document.getElementById('clear-saved');
+    if(clear)clear.addEventListener('click',function(){
+      if(!read().length)return;
+      if(!window.confirm('Remove everything from your saved list?'))return;
+      write([]);renderSaved();refreshCount();
+    });
+  });
+})();
 `;
 
 function shell(title: string, body: string, description: string): string {
@@ -139,17 +273,21 @@ function shell(title: string, body: string, description: string): string {
 </head>
 <body>
 ${body}
+<script>${SAVE_SCRIPT}</script>
 </body>
 </html>
 `;
 }
 
-function header(current: 'today' | 'archive', prefix: string): string {
+type Page = 'today' | 'archive' | 'saved';
+
+function header(current: Page, prefix: string): string {
   return `<header><div class="wrap">
 <h1><span class="mark" aria-hidden="true">&#9678;</span> Singular Vision AI Hub</h1>
 <p class="tag">Today&rsquo;s AI news, filtered for what changes your week.</p>
 <nav class="nav">
 <a href="${prefix}index.html"${current === 'today' ? ' aria-current="page"' : ''}>Today</a>
+<a href="${prefix}saved.html"${current === 'saved' ? ' aria-current="page"' : ''}>Saved <span data-saved-count></span></a>
 <a href="${prefix}archive.html"${current === 'archive' ? ' aria-current="page"' : ''}>Past days</a>
 </nav>
 </div></header>`;
@@ -174,11 +312,24 @@ function card(item: Digest['items'][number]): string {
     .map((tag) => `<span>${escapeHtml(tag)}</span>`)
     .join('');
 
+  // The whole story travels with the button, so a saved item keeps working
+  // after it drops out of the digest.
+  const payload = JSON.stringify({
+    id: item.id,
+    title: item.title,
+    url: item.url,
+    source: item.sourceName,
+    date: when,
+    summary: item.summary,
+    why: item.whyItMatters,
+  });
+
   return `<article class="card">
 <div class="meta">
 <span class="pill" style="color:${color}">${escapeHtml(label)}</span>
 <span class="src">${escapeHtml(item.sourceName)}${when ? ` &middot; ${escapeHtml(when)}` : ''}</span>
 <span class="score" title="How relevant this is to a small business, out of 100">${item.score}</span>
+<button class="save" data-item="${escapeHtml(payload)}">Save</button>
 </div>
 <h2><a href="${safeUrl(item.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a></h2>
 <p class="sum">${escapeHtml(item.summary)}</p>
@@ -225,6 +376,28 @@ ${failed.length ? `<p>Unavailable this run: ${escapeHtml(failed.map((s) => s.sou
     `Singular Vision AI Hub — ${digest.date}`,
     main,
     digest.headline,
+  );
+}
+
+export function renderSavedPage(): string {
+  const main = `${header('saved', '')}
+<main><div class="wrap">
+<p class="lede">Stories you tapped <strong>Save</strong> on. They stay here after they leave the daily digest.</p>
+<div class="bar">
+<button class="btn" id="copy-saved" type="button">Copy all as text</button>
+<button class="btn" id="clear-saved" type="button">Clear list</button>
+</div>
+<div id="saved-list"></div>
+<footer>
+<p>Your saved list lives in this browser only &mdash; it is never uploaded anywhere, so there is no account and nothing to pay for.</p>
+<p>That also means this phone and a laptop keep separate lists, and clearing your browser&rsquo;s site data clears it. Use <em>Copy all as text</em> to move anything you want to keep somewhere safer.</p>
+</footer>
+</div></main>`;
+
+  return shell(
+    'Singular Vision AI Hub — Saved',
+    main,
+    'Stories saved for later from the daily AI digest.',
   );
 }
 

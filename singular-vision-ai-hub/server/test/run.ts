@@ -6,6 +6,11 @@ import path from 'node:path';
 import { SOURCES } from '../config/sources';
 import { buildDigest, dedupe, localDateString } from '../lib/digest';
 import { parseFeed } from '../lib/feeds';
+import {
+  renderArchivePage,
+  renderDigestPage,
+  renderSavedPage,
+} from '../lib/html';
 import { assess, freshnessPoints, isAiTopic } from '../lib/relevance';
 import { renderMarkdown } from '../lib/render';
 import type { FeedSource, RawItem } from '../types';
@@ -443,6 +448,80 @@ async function main() {
     assert.ok(markdown.includes('**Why it matters for you:**'));
     assert.ok(markdown.includes(`[Read it](${digest.items[0]!.url})`));
     assert.ok(markdown.includes('Sources unavailable this run'));
+  });
+
+  // ---- saving ------------------------------------------------------------
+
+  // The page ships an inline script that itself contains save-button markup,
+  // so assertions about the rendered cards must look at the document body
+  // only — otherwise the script's own string literals are counted as cards.
+  const bodyOf = (html: string) => html.split('<script>')[0]!;
+
+  const decodeEntities = (value: string) =>
+    value
+      .replace(/&quot;/g, '"')
+      .replace(/&#39;/g, "'")
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&amp;/g, '&');
+
+  await test('gives every story a save button carrying its full payload', () => {
+    const body = bodyOf(renderDigestPage(digest, { isIndex: true }));
+    const buttons = [...body.matchAll(/<button class="save" data-item="([^"]*)"/g)];
+    assert.equal(buttons.length, digest.items.length);
+
+    // The button must carry the whole story, not just an id — a saved item has
+    // to keep working after it drops out of the digest.
+    const payload = JSON.parse(decodeEntities(buttons[0]![1]!));
+    assert.equal(payload.id, digest.items[0]!.id);
+    assert.equal(payload.title, digest.items[0]!.title);
+    assert.equal(payload.url, digest.items[0]!.url);
+    assert.ok(payload.why.length > 0, 'why-it-matters must travel with the save');
+  });
+
+  await test('escapes a hostile headline inside the save payload', () => {
+    // A feed controls the headline, and it lands inside an HTML attribute as
+    // JSON — two nested escaping contexts, so it is worth pinning down.
+    const title = 'Bad " onmouseover=alert(1) x="';
+    const nasty = {
+      ...digest,
+      items: [{ ...digest.items[0]!, title, summary: '<script>alert(2)</script>' }],
+    };
+    const body = bodyOf(renderDigestPage(nasty, { isIndex: true }));
+
+    // The quote must never appear raw, which is what would end the attribute
+    // early and turn the rest into markup.
+    assert.ok(!body.includes('" onmouseover'), 'attribute must not break out');
+    assert.ok(!body.includes('<script>alert(2)'), 'summary must not inject a tag');
+
+    // And the payload must still be intact once decoded.
+    const match = /<button class="save" data-item="([^"]*)"/.exec(body);
+    assert.ok(match, 'save button should still render');
+    assert.equal(JSON.parse(decodeEntities(match![1]!)).title, title);
+  });
+
+  await test('renders a saved page with its controls', () => {
+    const html = renderSavedPage();
+    assert.ok(html.includes('id="saved-list"'), 'needs the list container');
+    assert.ok(html.includes('id="copy-saved"'), 'needs the copy-out button');
+    assert.ok(html.includes('id="clear-saved"'), 'needs the clear button');
+    assert.ok(
+      html.includes('lives in this browser only'),
+      'must state the per-browser limitation',
+    );
+  });
+
+  await test('links Saved from every page', () => {
+    for (const [name, html] of [
+      ['index', renderDigestPage(digest, { isIndex: true })],
+      ['day', renderDigestPage(digest, { isIndex: false })],
+      ['archive', renderArchivePage([{ date: '2026-07-29', count: 5 }])],
+      ['saved', renderSavedPage()],
+    ] as const) {
+      assert.ok(html.includes('saved.html'), `${name} page must link Saved`);
+    }
+    // Day pages sit one directory down and need the relative hop.
+    assert.ok(renderDigestPage(digest, { isIndex: false }).includes('../saved.html'));
   });
 
   // ---- store -------------------------------------------------------------
