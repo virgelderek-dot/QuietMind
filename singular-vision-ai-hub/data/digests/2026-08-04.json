@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
-  "generatedAt": "2026-08-04T07:31:16.684Z",
-  "headline": "11 stories worth your time — mostly automate your ops. Start with: Zapier Tables: Store, move, and act on your data automatically",
+  "generatedAt": "2026-08-04T13:15:11.516Z",
+  "headline": "12 stories worth your time — mostly automate your ops. Start with: Zapier Tables: Store, move, and act on your data automatically",
   "items": [
     {
       "id": "9e2adc1461f5",
@@ -23,12 +23,12 @@
         "automation",
         "workflow"
       ],
-      "score": 70,
+      "score": 69,
       "breakdown": {
         "relevance": 99,
         "actionability": 0,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 9,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -59,7 +59,7 @@
         "relevance": 93,
         "actionability": 0,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -85,7 +85,7 @@
         "relevance": 62,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -115,7 +115,7 @@
         "relevance": 29,
         "actionability": 33,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -137,12 +137,12 @@
         "automation stack",
         "automation"
       ],
-      "score": 51,
+      "score": 50,
       "breakdown": {
         "relevance": 55,
         "actionability": 0,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 9,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -164,13 +164,41 @@
         "agents",
         "how-to"
       ],
-      "score": 45,
+      "score": 44,
       "breakdown": {
         "relevance": 31,
         "actionability": 14,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "71649e07497c",
+      "title": "Can Reddit fend off a new wave of AI SEO spam?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-08-04T10:00:00.000Z",
+      "summary": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Audit how your site currently surfaces in AI-generated answers, not just in blue links.",
+        "Cheapest test: regenerate an asset you already paid for and compare quality honestly."
+      ],
+      "category": "marketing",
+      "tags": [
+        "seo",
+        "creative"
+      ],
+      "score": 42,
+      "breakdown": {
+        "relevance": 40,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -190,12 +218,12 @@
       "tags": [
         "support"
       ],
-      "score": 43,
+      "score": 42,
       "breakdown": {
         "relevance": 42,
         "actionability": 0,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -216,12 +244,12 @@
       "tags": [
         "scheduling"
       ],
-      "score": 36,
+      "score": 35,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 9,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -244,12 +272,12 @@
         "workflow",
         "social"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
         "relevance": 25,
         "actionability": 0,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 9,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -271,12 +299,12 @@
         "support",
         "notes"
       ],
-      "score": 31,
+      "score": 30,
       "breakdown": {
         "relevance": 28,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
@@ -297,12 +325,12 @@
       "tags": [
         "launch"
       ],
-      "score": 30,
+      "score": 29,
       "breakdown": {
         "relevance": 0,
         "actionability": 29,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 11,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -378,10 +406,10 @@
   ],
   "stats": {
     "fetched": 2124,
-    "onTopic": 26,
-    "deduped": 26,
-    "scored": 11,
-    "published": 11,
+    "onTopic": 29,
+    "deduped": 29,
+    "scored": 12,
+    "published": 12,
     "enriched": false
   }
 }
