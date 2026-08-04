@@ -24,9 +24,15 @@ Pages, so you can just open a link. One-time setup, all in the browser:
    workflow** to build the first one immediately.
 
 It then lands at **https://virgelderek-dot.github.io/QuietMind/** and refreshes
-itself twice a day — 07:00 and 16:00 in Cape Town (05:00 and 14:00 UTC). Change
-that by editing the `cron` line in `.github/workflows/daily-digest.yml`; cron is
+itself twice a day, aiming for about 07:00 and 16:00 in Cape Town. Change that
+by editing the `cron` line in `.github/workflows/daily-digest.yml`; cron is
 always evaluated in UTC.
+
+The cron is set earlier than the target and off the hour on purpose. GitHub's
+shared scheduler is best-effort — jobs set for `:00` queue behind everyone
+else's, and in practice started between 54 minutes and 3h21 late. Treat the
+arrival time as approximate, and re-tune from the real start times in the
+Actions tab rather than from the cron alone.
 
 Both runs rebuild the same day's digest, so the page shows the day's news as of
 the most recent run rather than accumulating two entries.

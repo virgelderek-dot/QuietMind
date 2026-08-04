@@ -5,10 +5,21 @@ name: Daily AI digest
 
 on:
   schedule:
-    # Twice a day, 07:00 and 16:00 in Cape Town (SAST, UTC+2 year-round —
-    # South Africa observes no daylight saving, so this needs no seasonal
-    # adjustment). Cron is always evaluated in UTC.
-    - cron: '0 5,14 * * *'
+    # Aiming for roughly 07:00 and 16:00 in Cape Town (SAST is UTC+2
+    # year-round; South Africa observes no daylight saving, so no seasonal
+    # adjustment is needed). Cron is always evaluated in UTC.
+    #
+    # Deliberately NOT on the hour, and deliberately early. GitHub's shared
+    # scheduler is best-effort: jobs set for :00 queue behind everyone else's
+    # and start when capacity frees up. Six observed runs at '0 5,14' started
+    # between 54 minutes and 3h21 late, averaging about two hours — so a
+    # 07:00 digest was arriving mid-morning.
+    #
+    # An odd minute avoids the top-of-hour crush, and the ~47-minute head start
+    # absorbs the remainder. Both effects are estimates: if this lands too
+    # early on quiet days or still too late on busy ones, re-tune from the
+    # actual start times in the Actions tab rather than by guesswork.
+    - cron: '13 4,13 * * *'
   workflow_dispatch: # adds a "Run workflow" button in the Actions tab
   push:
     branches: [main]
