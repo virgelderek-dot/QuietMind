@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
-  "generatedAt": "2026-08-05T06:39:42.681Z",
-  "headline": "9 stories worth your time — mostly automate your ops. Start with: How to give your AI agents reliable app access for free",
+  "generatedAt": "2026-08-05T15:25:04.042Z",
+  "headline": "8 stories worth your time — mostly automate your ops. Start with: How to give your AI agents reliable app access for free",
   "items": [
     {
       "id": "a7a88c82ca6e",
@@ -25,40 +25,39 @@
         "how-to",
         "free"
       ],
-      "score": 70,
+      "score": 69,
       "breakdown": {
         "relevance": 57,
         "actionability": 43,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "20fce56be77d",
-      "title": "Zapier's AI tools: Get to know our governed AI products and features",
-      "url": "https://zapier.com/blog/zapier-ai-guide",
-      "sourceId": "zapier-blog",
-      "sourceName": "Zapier Blog",
-      "publishedAt": "2026-08-03T07:00:00.000Z",
-      "summary": "I've been writing about AI and automation for Zapier for the last two years. In that time, I've seen Zapier ship one useful AI tool after another: some for automating securely with AI, and others for bringing secure automation into your AI tool of choice.",
+      "id": "6cc6646c3071",
+      "title": "Rogue AI agents created fake online identities in another hacking attempt",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-08-05T15:14:57.000Z",
+      "summary": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure…",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
       "category": "automation",
       "tags": [
-        "automation stack",
-        "automation"
+        "agents"
       ],
-      "score": 49,
+      "score": 37,
       "breakdown": {
-        "relevance": 55,
+        "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 1.2
+        "freshness": 18,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -80,13 +79,39 @@
         "seo",
         "creative"
       ],
-      "score": 39,
+      "score": 37,
       "breakdown": {
         "relevance": 40,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "9c21f3501190",
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-05T15:05:00.000Z",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation"
+      ],
+      "score": 33,
+      "breakdown": {
+        "relevance": 26,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -108,13 +133,39 @@
         "finance ops",
         "creative"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 29,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "c2ae90aa7691",
+      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-05T12:28:38.000Z",
+      "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
+      "actions": [
+        "Free to run, but budget the setup time honestly before committing."
+      ],
+      "category": "tools",
+      "tags": [
+        "self-host"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -134,66 +185,13 @@
       "tags": [
         "launch"
       ],
-      "score": 29,
+      "score": 27,
       "breakdown": {
         "relevance": 0,
         "actionability": 18,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "16bd0e2adad9",
-      "title": "Congress’ favorite AI tool? ChatGPT",
-      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-08-03T16:40:55.000Z",
-      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Draft answers for your ten most common customer questions and test the quality on those."
-      ],
-      "category": "automation",
-      "tags": [
-        "support",
-        "notes"
-      ],
-      "score": 28,
-      "breakdown": {
-        "relevance": 28,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "a5bee4ff0bf2",
-      "title": "Alibaba Unveils Its ‘Most Powerful’ AI Model Yet",
-      "url": "https://aibusiness.com/generative-ai/alibaba-unveils-most-powerful-ai-model-yet",
-      "sourceId": "ai-business",
-      "sourceName": "AI Business",
-      "publishedAt": "2026-08-03T14:47:01.000Z",
-      "summary": "Qwen3.8-Max is the latest in a series of launches from Chinese tech firms racing to develop powerful, affordable AI models.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 27,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 29,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 0.95
       },
       "enriched": false
     },
@@ -213,39 +211,13 @@
       "tags": [
         "agents"
       ],
-      "score": 24,
+      "score": 22,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 0.95
-      },
-      "enriched": false
-    },
-    {
-      "id": "21a7d7856c49",
-      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-08-04T19:34:34.000Z",
-      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
-      ],
-      "category": "strategy",
-      "tags": [
-        "how-to"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 14,
-        "noise": 0,
-        "freshness": 14,
-        "sourceWeight": 1
       },
       "enriched": false
     }
@@ -320,10 +292,10 @@
   ],
   "stats": {
     "fetched": 2126,
-    "onTopic": 35,
-    "deduped": 35,
-    "scored": 9,
-    "published": 9,
+    "onTopic": 33,
+    "deduped": 33,
+    "scored": 8,
+    "published": 8,
     "enriched": false
   }
 }
