@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
-  "generatedAt": "2026-08-07T05:48:57.619Z",
-  "headline": "11 stories worth your time — mostly automate your ops. Start with: How to build safe and trustworthy AI agents with Zapier",
+  "generatedAt": "2026-08-07T14:18:08.526Z",
+  "headline": "12 stories worth your time — mostly automate your ops. Start with: How to build safe and trustworthy AI agents with Zapier",
   "items": [
     {
       "id": "0fdcebc95c28",
@@ -29,7 +29,7 @@
         "relevance": 81,
         "actionability": 36,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -51,12 +51,12 @@
         "small business",
         "integration"
       ],
-      "score": 41,
+      "score": 39,
       "breakdown": {
         "relevance": 35,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 10,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -78,12 +78,12 @@
         "free",
         "launch"
       ],
-      "score": 36,
+      "score": 35,
       "breakdown": {
         "relevance": 0,
         "actionability": 32,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -105,12 +105,12 @@
         "agents",
         "launch"
       ],
-      "score": 34,
+      "score": 33,
       "breakdown": {
         "relevance": 19,
         "actionability": 18,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1
       },
       "enriched": false
@@ -131,12 +131,12 @@
       "tags": [
         "ecommerce"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 36,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 1
       },
       "enriched": false
@@ -158,12 +158,12 @@
         "agents",
         "launch"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
         "relevance": 19,
         "actionability": 11,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
@@ -184,12 +184,12 @@
       "tags": [
         "agents"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -211,12 +211,12 @@
         "pricing",
         "launch"
       ],
-      "score": 30,
+      "score": 28,
       "breakdown": {
         "relevance": 12,
         "actionability": 11,
         "noise": 0,
-        "freshness": 15,
+        "freshness": 12,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -237,12 +237,12 @@
       "tags": [
         "free"
       ],
-      "score": 27,
+      "score": 25,
       "breakdown": {
         "relevance": 0,
         "actionability": 21,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
@@ -263,12 +263,12 @@
       "tags": [
         "automation"
       ],
-      "score": 26,
+      "score": 25,
       "breakdown": {
         "relevance": 26,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 6,
         "sourceWeight": 1
       },
       "enriched": false
@@ -291,13 +291,39 @@
         "agents",
         "ecommerce"
       ],
-      "score": 25,
+      "score": 24,
       "breakdown": {
         "relevance": 42,
         "actionability": 0,
         "noise": -19,
-        "freshness": 8,
+        "freshness": 7,
         "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "2ee94000fec4",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-08-07T09:00:00.000Z",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "case study"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 9,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.15
       },
       "enriched": false
     }
@@ -331,7 +357,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1113
+      "itemCount": 1114
     },
     {
       "sourceId": "google-ai-blog",
@@ -371,11 +397,11 @@
     }
   ],
   "stats": {
-    "fetched": 2130,
-    "onTopic": 34,
-    "deduped": 33,
-    "scored": 11,
-    "published": 11,
+    "fetched": 2131,
+    "onTopic": 32,
+    "deduped": 31,
+    "scored": 12,
+    "published": 12,
     "enriched": false
   }
 }
