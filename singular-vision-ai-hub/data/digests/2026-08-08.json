@@ -1,39 +1,8 @@
 {
   "date": "2026-08-08",
-  "generatedAt": "2026-08-08T05:08:26.995Z",
-  "headline": "11 stories worth your time — mostly automate your ops. Start with: How to build safe and trustworthy AI agents with Zapier",
+  "generatedAt": "2026-08-08T13:54:33.040Z",
+  "headline": "7 stories worth your time — mostly automate your ops. Start with: How to connect Google Sheets to ChatGPT",
   "items": [
-    {
-      "id": "0fdcebc95c28",
-      "title": "How to build safe and trustworthy AI agents with Zapier",
-      "url": "https://zapier.com/blog/safe-trustworthy-ai-agents",
-      "sourceId": "zapier-blog",
-      "sourceName": "Zapier Blog",
-      "publishedAt": "2026-08-06T07:00:00.000Z",
-      "summary": "The idea of autonomous AI agents that research prospects, qualify leads, create content briefs, and enrich data across your business systems while you sleep sounds appealing. But an agent is only useful if you can trust it to do the right thing securely.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
-        "Cheapest test: regenerate an asset you already paid for and compare quality honestly.",
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents",
-        "automation stack",
-        "creative",
-        "how-to"
-      ],
-      "score": 74,
-      "breakdown": {
-        "relevance": 81,
-        "actionability": 36,
-        "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
     {
       "id": "3d99382c5b43",
       "title": "How to connect Google Sheets to ChatGPT",
@@ -55,12 +24,12 @@
         "how-to",
         "launch"
       ],
-      "score": 72,
+      "score": 71,
       "breakdown": {
         "relevance": 59,
         "actionability": 47,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -84,12 +53,12 @@
         "content",
         "launch"
       ],
-      "score": 58,
+      "score": 57,
       "breakdown": {
         "relevance": 49,
         "actionability": 18,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -112,12 +81,12 @@
         "automation",
         "launch"
       ],
-      "score": 51,
+      "score": 50,
       "breakdown": {
         "relevance": 47,
         "actionability": 18,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
@@ -141,67 +110,13 @@
         "disclosure",
         "free"
       ],
-      "score": 35,
+      "score": 33,
       "breakdown": {
         "relevance": 23,
         "actionability": 8,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 12,
         "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "0f0c1961f93e",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-08-06T10:00:00.000Z",
-      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
-      ],
-      "category": "strategy",
-      "tags": [
-        "free",
-        "launch"
-      ],
-      "score": 33,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 32,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1.15
-      },
-      "enriched": false
-    },
-    {
-      "id": "c4ac702750d6",
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-08-06T12:30:00.000Z",
-      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents",
-        "launch"
-      ],
-      "score": 29,
-      "breakdown": {
-        "relevance": 19,
-        "actionability": 11,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -221,12 +136,12 @@
       "tags": [
         "agents"
       ],
-      "score": 29,
+      "score": 28,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 7,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -248,12 +163,12 @@
         "pricing",
         "launch"
       ],
-      "score": 26,
+      "score": 25,
       "breakdown": {
         "relevance": 12,
         "actionability": 11,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -274,39 +189,13 @@
       "tags": [
         "free"
       ],
-      "score": 23,
+      "score": 22,
       "breakdown": {
         "relevance": 0,
         "actionability": 21,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "d128983602b2",
-      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-08-07T18:40:34.000Z",
-      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place.",
-      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
-      "actions": [
-        "Review anything you have already published that this would now cover."
-      ],
-      "category": "rules",
-      "tags": [
-        "disclosure"
-      ],
-      "score": 23,
-      "breakdown": {
-        "relevance": 13,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 14,
-        "sourceWeight": 1.05
       },
       "enriched": false
     }
@@ -381,10 +270,10 @@
   ],
   "stats": {
     "fetched": 2132,
-    "onTopic": 35,
-    "deduped": 34,
-    "scored": 11,
-    "published": 11,
+    "onTopic": 28,
+    "deduped": 27,
+    "scored": 7,
+    "published": 7,
     "enriched": false
   }
 }
