@@ -1,36 +1,8 @@
 {
   "date": "2026-08-09",
-  "generatedAt": "2026-08-09T05:16:38.414Z",
-  "headline": "3 stories worth your time — mostly automate your ops. Start with: Oracle and Google Cloud Enhance AI Integration for Businesses’ Workflows",
+  "generatedAt": "2026-08-09T13:56:19.412Z",
+  "headline": "2 stories worth your time — mostly automate your ops. Start with: Cloudflare launches Kitesurf, a browser built for AI agents",
   "items": [
-    {
-      "id": "4310950d246b",
-      "title": "Oracle and Google Cloud Enhance AI Integration for Businesses’ Workflows",
-      "url": "https://smallbiztrends.com/oracle-and-google-cloud-enhance-ai-integration-for-businesses-workflows",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-08-08T19:11:00.000Z",
-      "summary": "Discover how Oracle and Google Cloud are improving AI integration to streamline business workflows, enhancing efficiency and productivity. Learn about the latest advancements and their impact on enterprise operations.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
-        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
-      ],
-      "category": "automation",
-      "tags": [
-        "integration",
-        "workflow"
-      ],
-      "score": 57,
-      "breakdown": {
-        "relevance": 62,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 14,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
     {
       "id": "b0e67e927266",
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
@@ -54,7 +26,7 @@
         "relevance": 47,
         "actionability": 18,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 1
       },
       "enriched": false
@@ -78,12 +50,12 @@
         "disclosure",
         "free"
       ],
-      "score": 31,
+      "score": 30,
       "breakdown": {
         "relevance": 23,
         "actionability": 8,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 7,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -141,8 +113,9 @@
     {
       "sourceId": "smallbiztrends",
       "sourceName": "Small Business Trends",
-      "ok": true,
-      "itemCount": 10
+      "ok": false,
+      "itemCount": 0,
+      "error": "This operation was aborted"
     },
     {
       "sourceId": "ben-evans",
@@ -158,11 +131,11 @@
     }
   ],
   "stats": {
-    "fetched": 2132,
-    "onTopic": 18,
-    "deduped": 18,
-    "scored": 3,
-    "published": 3,
+    "fetched": 2122,
+    "onTopic": 15,
+    "deduped": 15,
+    "scored": 2,
+    "published": 2,
     "enriched": false
   }
 }
