@@ -1,8 +1,35 @@
 {
   "date": "2026-08-10",
-  "generatedAt": "2026-08-10T05:41:41.218Z",
-  "headline": "1 story worth your time — mostly rules & risk. Start with: The AI safety test is becoming a safety risk",
+  "generatedAt": "2026-08-10T14:31:20.786Z",
+  "headline": "4 stories worth your time — mostly automate your ops. Start with: Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
   "items": [
+    {
+      "id": "0da6fb777e33",
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "summary": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
+      "actions": [
+        "Free to run, but budget the setup time honestly before committing."
+      ],
+      "category": "tools",
+      "tags": [
+        "open source",
+        "agents"
+      ],
+      "score": 39,
+      "breakdown": {
+        "relevance": 42,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
     {
       "id": "4c5b2bdf1256",
       "title": "The AI safety test is becoming a safety risk",
@@ -20,13 +47,65 @@
         "agents",
         "regulation"
       ],
-      "score": 30,
+      "score": 28,
       "breakdown": {
         "relevance": 26,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 10,
         "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "c7b962b1d9ef",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "url": "https://openai.com/index/model-ml",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-08-10T12:00:00.000Z",
+      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "spreadsheets"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "49dbafa9fe43",
+      "title": "Deterministic AI: What it is and when to use it",
+      "url": "https://zapier.com/blog/deterministic-ai",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "We haven't exactly worked out all of AI's kinks yet. The same prompt can return a different, sometimes unhinged, answer every time. It's just the nature of probabilistic systems.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 13,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.2
       },
       "enriched": false
     }
@@ -60,19 +139,20 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1115
+      "itemCount": 1117
     },
     {
       "sourceId": "google-ai-blog",
       "sourceName": "Google AI",
-      "ok": true,
-      "itemCount": 20
+      "ok": false,
+      "itemCount": 0,
+      "error": "This operation was aborted"
     },
     {
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 835
+      "itemCount": 837
     },
     {
       "sourceId": "zapier-blog",
@@ -100,11 +180,11 @@
     }
   ],
   "stats": {
-    "fetched": 2132,
-    "onTopic": 5,
-    "deduped": 5,
-    "scored": 1,
-    "published": 1,
+    "fetched": 2116,
+    "onTopic": 11,
+    "deduped": 11,
+    "scored": 4,
+    "published": 4,
     "enriched": false
   }
 }
