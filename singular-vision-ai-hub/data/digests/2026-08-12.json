@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generatedAt": "2026-08-12T05:44:23.284Z",
+  "generatedAt": "2026-08-12T14:31:43.071Z",
   "headline": "11 stories worth your time — mostly automate your ops. Start with: Testing ads in ChatGPT",
   "items": [
     {
@@ -22,12 +22,12 @@
         "privacy",
         "free"
       ],
-      "score": 45,
+      "score": 44,
       "breakdown": {
         "relevance": 38,
         "actionability": 8,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -50,12 +50,12 @@
         "support",
         "how-to"
       ],
-      "score": 41,
+      "score": 40,
       "breakdown": {
         "relevance": 16,
         "actionability": 22,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -77,12 +77,12 @@
         "app",
         "launch"
       ],
-      "score": 39,
+      "score": 38,
       "breakdown": {
         "relevance": 23,
         "actionability": 18,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 12,
         "sourceWeight": 1
       },
       "enriched": false
@@ -105,13 +105,40 @@
         "availability",
         "workflow"
       ],
-      "score": 39,
+      "score": 37,
       "breakdown": {
         "relevance": 35,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "77da1d8caea4",
+      "title": "Google unveils Pixel 11 lineup, new AirTag rival, and Gemini features at Made by Google 2026",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-12T14:20:33.000Z",
+      "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Cheapest test: regenerate an asset you already paid for and compare quality honestly."
+      ],
+      "category": "marketing",
+      "tags": [
+        "creative",
+        "launch"
+      ],
+      "score": 34,
+      "breakdown": {
+        "relevance": 11,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -131,41 +158,13 @@
       "tags": [
         "disclosure"
       ],
-      "score": 34,
+      "score": 33,
       "breakdown": {
         "relevance": 34,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "6f027f788573",
-      "title": "Evolve your marketing with new AI tools",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
-      "sourceId": "google-ai-blog",
-      "sourceName": "Google AI",
-      "publishedAt": "2026-08-10T14:30:00.000Z",
-      "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
-      ],
-      "category": "automation",
-      "tags": [
-        "workflow",
-        "agents",
-        "ads"
-      ],
-      "score": 34,
-      "breakdown": {
-        "relevance": 35,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1.1
       },
       "enriched": false
     },
@@ -185,12 +184,90 @@
       "tags": [
         "fraud risk"
       ],
-      "score": 27,
+      "score": 25,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "4312292f9917",
+      "title": "Grok is now an AI ‘teammate’ you can assign work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-08-12T11:58:54.000Z",
+      "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "fb21820d806b",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-08-12T06:00:00.000Z",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "2484f165f26a",
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-08-12T12:09:34.000Z",
+      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a startup.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 17,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -211,91 +288,13 @@
       "tags": [
         "support"
       ],
-      "score": 24,
-      "breakdown": {
-        "relevance": 16,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 14,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "166724c6c84d",
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-08-10T23:56:15.000Z",
-      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 9,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "7a678e9a26d7",
-      "title": "What building an AI-native finance function taught me",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-08-10T17:00:00.000Z",
-      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
-      ],
-      "category": "automation",
-      "tags": [
-        "automation"
-      ],
       "score": 22,
       "breakdown": {
         "relevance": 16,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
-        "sourceWeight": 1.15
-      },
-      "enriched": false
-    },
-    {
-      "id": "9514940f045b",
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-      "sourceId": "google-ai-blog",
-      "sourceName": "Google AI",
-      "publishedAt": "2026-08-11T17:00:00.000Z",
-      "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 11,
-        "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1.1
+        "freshness": 11,
+        "sourceWeight": 1
       },
       "enriched": false
     }
@@ -329,7 +328,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1124
+      "itemCount": 1125
     },
     {
       "sourceId": "google-ai-blog",
@@ -369,9 +368,9 @@
     }
   ],
   "stats": {
-    "fetched": 2145,
-    "onTopic": 37,
-    "deduped": 37,
+    "fetched": 2146,
+    "onTopic": 34,
+    "deduped": 34,
     "scored": 11,
     "published": 11,
     "enriched": false
