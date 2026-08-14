@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "generatedAt": "2026-08-14T05:44:07.529Z",
+  "generatedAt": "2026-08-14T14:19:40.560Z",
   "headline": "14 stories worth your time — mostly automate your ops. Start with: Which AI models can you automate on Zapier? (GPT-5.6 Sol, Gemini 3.7 Flash, Opus 5, and more)",
   "items": [
     {
@@ -27,7 +27,7 @@
         "relevance": 78,
         "actionability": 11,
         "noise": -14,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -50,12 +50,12 @@
         "how-to",
         "case study"
       ],
-      "score": 44,
+      "score": 43,
       "breakdown": {
         "relevance": 12,
         "actionability": 31,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -79,12 +79,12 @@
         "pricing",
         "launch"
       ],
-      "score": 41,
+      "score": 40,
       "breakdown": {
         "relevance": 26,
         "actionability": 18,
         "noise": 0,
-        "freshness": 15,
+        "freshness": 12,
         "sourceWeight": 1
       },
       "enriched": false
@@ -108,12 +108,12 @@
         "agents",
         "creative"
       ],
-      "score": 38,
+      "score": 37,
       "breakdown": {
         "relevance": 44,
         "actionability": 0,
         "noise": -12,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -134,12 +134,12 @@
       "tags": [
         "automation stack"
       ],
-      "score": 35,
+      "score": 33,
       "breakdown": {
         "relevance": 39,
         "actionability": 0,
         "noise": -12,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -160,12 +160,12 @@
       "tags": [
         "agents"
       ],
-      "score": 34,
+      "score": 32,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
@@ -187,12 +187,12 @@
         "support",
         "launch"
       ],
-      "score": 33,
+      "score": 31,
       "breakdown": {
         "relevance": 16,
         "actionability": 11,
         "noise": 0,
-        "freshness": 15,
+        "freshness": 12,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -214,12 +214,12 @@
         "agents",
         "how-to"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
         "relevance": 12,
         "actionability": 14,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -242,12 +242,12 @@
         "open source",
         "regulation"
       ],
-      "score": 28,
+      "score": 27,
       "breakdown": {
         "relevance": 28,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 1
       },
       "enriched": false
@@ -268,12 +268,12 @@
       "tags": [
         "spreadsheets"
       ],
-      "score": 28,
+      "score": 26,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.1
       },
       "enriched": false
@@ -296,12 +296,12 @@
         "social",
         "disclosure"
       ],
-      "score": 26,
+      "score": 25,
       "breakdown": {
         "relevance": 25,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1
       },
       "enriched": false
@@ -322,12 +322,12 @@
       "tags": [
         "pricing"
       ],
-      "score": 25,
+      "score": 23,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -348,12 +348,12 @@
       "tags": [
         "launch"
       ],
-      "score": 25,
+      "score": 23,
       "breakdown": {
         "relevance": 0,
         "actionability": 18,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 12,
         "sourceWeight": 1
       },
       "enriched": false
@@ -374,12 +374,12 @@
       "tags": [
         "crm"
       ],
-      "score": 24,
+      "score": 23,
       "breakdown": {
         "relevance": 22,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 1
       },
       "enriched": false
@@ -437,9 +437,8 @@
     {
       "sourceId": "smallbiztrends",
       "sourceName": "Small Business Trends",
-      "ok": false,
-      "itemCount": 0,
-      "error": "This operation was aborted"
+      "ok": true,
+      "itemCount": 10
     },
     {
       "sourceId": "ben-evans",
@@ -455,9 +454,9 @@
     }
   ],
   "stats": {
-    "fetched": 2142,
-    "onTopic": 40,
-    "deduped": 39,
+    "fetched": 2152,
+    "onTopic": 38,
+    "deduped": 37,
     "scored": 14,
     "published": 14,
     "enriched": false
