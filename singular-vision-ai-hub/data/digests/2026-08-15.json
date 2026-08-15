@@ -1,37 +1,8 @@
 {
   "date": "2026-08-15",
-  "generatedAt": "2026-08-15T04:44:35.873Z",
-  "headline": "15 stories worth your time — mostly automate your ops. Start with: Which AI models can you automate on Zapier? (GPT-5.6 Sol, Gemini 3.7 Flash, Opus 5, and more)",
+  "generatedAt": "2026-08-15T13:41:01.412Z",
+  "headline": "11 stories worth your time — mostly automate your ops. Start with: The 4 primary roles of AI in automated workflows",
   "items": [
-    {
-      "id": "0f676982117a",
-      "title": "Which AI models can you automate on Zapier? (GPT-5.6 Sol, Gemini 3.7 Flash, Opus 5, and more)",
-      "url": "https://zapier.com/blog/ai-models-on-zapier",
-      "sourceId": "zapier-blog",
-      "sourceName": "Zapier Blog",
-      "publishedAt": "2026-08-13T05:00:00.000Z",
-      "summary": "New AI models launch practically every week, and keeping up with which ones to use for specific workflows is a job in itself. Consider this article your living reference. At Zapier, we run every model through AutomationBench.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
-      ],
-      "category": "automation",
-      "tags": [
-        "automation",
-        "automation stack",
-        "workflow",
-        "launch"
-      ],
-      "score": 60,
-      "breakdown": {
-        "relevance": 78,
-        "actionability": 11,
-        "noise": -14,
-        "freshness": 6,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
     {
       "id": "927c269fe7e7",
       "title": "The 4 primary roles of AI in automated workflows",
@@ -50,41 +21,13 @@
         "workflow",
         "spreadsheets"
       ],
-      "score": 59,
+      "score": 58,
       "breakdown": {
         "relevance": 71,
         "actionability": 0,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "855fa77e93e1",
-      "title": "The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-08-13T11:00:00.000Z",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents",
-        "how-to",
-        "case study"
-      ],
-      "score": 41,
-      "breakdown": {
-        "relevance": 12,
-        "actionability": 31,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -107,12 +50,12 @@
         "pricing",
         "launch"
       ],
-      "score": 38,
+      "score": 37,
       "breakdown": {
         "relevance": 26,
         "actionability": 18,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1
       },
       "enriched": false
@@ -134,12 +77,12 @@
         "disclosure",
         "shipped"
       ],
-      "score": 36,
+      "score": 35,
       "breakdown": {
         "relevance": 13,
         "actionability": 21,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -161,68 +104,13 @@
         "pricing",
         "price cut"
       ],
-      "score": 36,
+      "score": 35,
       "breakdown": {
         "relevance": 39,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 0.95
-      },
-      "enriched": false
-    },
-    {
-      "id": "cf2576f64fa2",
-      "title": "Klaviyo vs. Mailchimp: Which email marketing app is best for you? [2026]",
-      "url": "https://zapier.com/blog/klaviyo-vs-mailchimp",
-      "sourceId": "zapier-blog",
-      "sourceName": "Zapier Blog",
-      "publishedAt": "2026-08-13T05:00:00.000Z",
-      "summary": "Pull up the websites for Klaviyo and Mailchimp, and you'll notice something right away: each brand targets a vastly different audience.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Use it to increase output on a channel that already converts — not to open a new one.",
-        "Cheapest test: regenerate an asset you already paid for and compare quality honestly."
-      ],
-      "category": "marketing",
-      "tags": [
-        "email",
-        "agents",
-        "creative"
-      ],
-      "score": 35,
-      "breakdown": {
-        "relevance": 44,
-        "actionability": 0,
-        "noise": -12,
-        "freshness": 6,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "e159ea9ebe1a",
-      "title": "Prevent lock-in with AI model flexibility on Zapier",
-      "url": "https://zapier.com/blog/ai-model-flexibility",
-      "sourceId": "zapier-blog",
-      "sourceName": "Zapier Blog",
-      "publishedAt": "2026-08-13T05:00:00.000Z",
-      "summary": "Every AI provider comes with models of varying strengths. I'm a Claude stan because it just gets my writing style, but I'll often reach for Sonnet over the higher-tier models because its results are more consistent for me.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
-      ],
-      "category": "automation",
-      "tags": [
-        "automation stack"
-      ],
-      "score": 32,
-      "breakdown": {
-        "relevance": 39,
-        "actionability": 0,
-        "noise": -12,
-        "freshness": 6,
-        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -242,12 +130,12 @@
       "tags": [
         "pricing"
       ],
-      "score": 32,
+      "score": 30,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -268,12 +156,12 @@
       "tags": [
         "agents"
       ],
-      "score": 30,
+      "score": 29,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 7,
         "sourceWeight": 1
       },
       "enriched": false
@@ -295,12 +183,12 @@
         "workflow",
         "agents"
       ],
-      "score": 29,
+      "score": 28,
       "breakdown": {
         "relevance": 25,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
@@ -322,12 +210,12 @@
         "support",
         "launch"
       ],
-      "score": 29,
+      "score": 28,
       "breakdown": {
         "relevance": 16,
         "actionability": 11,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -348,38 +236,12 @@
       "tags": [
         "launch"
       ],
-      "score": 29,
+      "score": 27,
       "breakdown": {
         "relevance": 0,
         "actionability": 18,
         "noise": 0,
-        "freshness": 14,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "3b70ce327836",
-      "title": "How does ChatGPT work?",
-      "url": "https://zapier.com/blog/how-does-chatgpt-work",
-      "sourceId": "zapier-blog",
-      "sourceName": "Zapier Blog",
-      "publishedAt": "2026-08-14T04:00:00.000Z",
-      "summary": "ChatGPT started as a chatbot and tech demo for OpenAI's large language models (LLMs). It's now something closer to a general-purpose AI platform&#x2014;one that can search the web, generate images, write code, reason through complex problems, and execute…",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Draft answers for your ten most common customer questions and test the quality on those."
-      ],
-      "category": "automation",
-      "tags": [
-        "support"
-      ],
-      "score": 25,
-      "breakdown": {
-        "relevance": 16,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 10,
+        "freshness": 11,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -400,13 +262,39 @@
       "tags": [
         "spreadsheets"
       ],
-      "score": 24,
+      "score": 23,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 1.1
+      },
+      "enriched": false
+    },
+    {
+      "id": "3b70ce327836",
+      "title": "How does ChatGPT work?",
+      "url": "https://zapier.com/blog/how-does-chatgpt-work",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-08-14T04:00:00.000Z",
+      "summary": "ChatGPT started as a chatbot and tech demo for OpenAI's large language models (LLMs). It's now something closer to a general-purpose AI platform&#x2014;one that can search the web, generate images, write code, reason through complex problems, and execute…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Draft answers for your ten most common customer questions and test the quality on those."
+      ],
+      "category": "automation",
+      "tags": [
+        "support"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 16,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 8,
+        "sourceWeight": 1.2
       },
       "enriched": false
     }
@@ -481,10 +369,10 @@
   ],
   "stats": {
     "fetched": 2153,
-    "onTopic": 36,
-    "deduped": 35,
-    "scored": 15,
-    "published": 15,
+    "onTopic": 29,
+    "deduped": 29,
+    "scored": 11,
+    "published": 11,
     "enriched": false
   }
 }
