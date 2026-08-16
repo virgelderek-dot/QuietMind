@@ -1,0 +1,244 @@
+{
+  "date": "2026-08-16",
+  "generatedAt": "2026-08-16T04:47:48.896Z",
+  "headline": "6 stories worth your time — mostly automate your ops. Start with: Have a laugh at AI’s expense by roleplaying as a chatbot",
+  "items": [
+    {
+      "id": "10bbeaa8150c",
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-08-15T20:45:00.000Z",
+      "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Trial it against one month of real invoices before trusting it with the books.",
+        "Draft answers for your ten most common customer questions and test the quality on those."
+      ],
+      "category": "automation",
+      "tags": [
+        "finance ops",
+        "support"
+      ],
+      "score": 48,
+      "breakdown": {
+        "relevance": 54,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "d469d19d5d59",
+      "title": "You can now turn off Google Gemini’s visible watermarks",
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-08-14T16:39:32.000Z",
+      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Review anything you have already published that this would now cover."
+      ],
+      "category": "rules",
+      "tags": [
+        "disclosure",
+        "shipped"
+      ],
+      "score": 33,
+      "breakdown": {
+        "relevance": 13,
+        "actionability": 21,
+        "noise": 0,
+        "freshness": 8,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "6c975d4feeb5",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "publishedAt": "2026-08-14T14:27:14.000Z",
+      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material."
+      ],
+      "category": "pricing",
+      "tags": [
+        "pricing",
+        "price cut"
+      ],
+      "score": 33,
+      "breakdown": {
+        "relevance": 39,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 7,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "69a62c72bc8d",
+      "title": "Lower Intro Price for Gemini 3.7 Flash to Attract Developers",
+      "url": "https://aibusiness.com/generative-ai/lower-intro-price-for-gemini-3-7-flash-attract-developers",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-08-14T15:08:10.000Z",
+      "summary": "The move shows Google is paying attention to the price war, while also focusing on the coding application that other frontier model providers have found success with.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material."
+      ],
+      "category": "pricing",
+      "tags": [
+        "pricing"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 8,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "5f4cacaaf2bf",
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-14T14:50:11.000Z",
+      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow",
+        "agents"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 25,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 7,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "7086513972fc",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-15T18:58:39.000Z",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Review anything you have already published that this would now cover."
+      ],
+      "category": "rules",
+      "tags": [
+        "disclosure"
+      ],
+      "score": 22,
+      "breakdown": {
+        "relevance": 13,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "ok": true,
+      "itemCount": 7
+    },
+    {
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "ok": true,
+      "itemCount": 1129
+    },
+    {
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "ok": true,
+      "itemCount": 842
+    },
+    {
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "ben-evans",
+      "sourceName": "Benedict Evans",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "ok": true,
+      "itemCount": 50
+    }
+  ],
+  "stats": {
+    "fetched": 2153,
+    "onTopic": 15,
+    "deduped": 15,
+    "scored": 6,
+    "published": 6,
+    "enriched": false
+  }
+}
