@@ -1,6 +1,6 @@
 {
   "date": "2026-08-16",
-  "generatedAt": "2026-08-16T04:47:48.896Z",
+  "generatedAt": "2026-08-16T13:42:09.523Z",
   "headline": "6 stories worth your time — mostly automate your ops. Start with: Have a laugh at AI’s expense by roleplaying as a chatbot",
   "items": [
     {
@@ -21,12 +21,39 @@
         "finance ops",
         "support"
       ],
-      "score": 48,
+      "score": 47,
       "breakdown": {
         "relevance": 54,
         "actionability": 0,
         "noise": 0,
-        "freshness": 15,
+        "freshness": 12,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "af2af46d5d3a",
+      "title": "Rogue AI aren’t science fiction anymore",
+      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-08-16T12:00:00.000Z",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "marketing",
+      "tags": [
+        "agents",
+        "email"
+      ],
+      "score": 33,
+      "breakdown": {
+        "relevance": 25,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -48,12 +75,12 @@
         "disclosure",
         "shipped"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 13,
         "actionability": 21,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -75,12 +102,12 @@
         "pricing",
         "price cut"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 39,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 6,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -106,7 +133,7 @@
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -128,38 +155,12 @@
         "workflow",
         "agents"
       ],
-      "score": 26,
+      "score": 25,
       "breakdown": {
         "relevance": 25,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "7086513972fc",
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-08-15T18:58:39.000Z",
-      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
-      "actions": [
-        "Review anything you have already published that this would now cover."
-      ],
-      "category": "rules",
-      "tags": [
-        "disclosure"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 13,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 14,
+        "freshness": 6,
         "sourceWeight": 1
       },
       "enriched": false
