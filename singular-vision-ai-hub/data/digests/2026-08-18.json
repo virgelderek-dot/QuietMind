@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
-  "generatedAt": "2026-08-18T04:48:46.639Z",
-  "headline": "6 stories worth your time — mostly tools & launches. Start with: Zoho Recruit Automates Small Business Hiring",
+  "generatedAt": "2026-08-18T13:54:41.581Z",
+  "headline": "8 stories worth your time — mostly strategy & trends. Start with: Zoho Recruit Automates Small Business Hiring",
   "items": [
     {
       "id": "4ddb2690b418",
@@ -20,12 +20,12 @@
         "small business",
         "automation"
       ],
-      "score": 72,
+      "score": 71,
       "breakdown": {
         "relevance": 104,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -48,13 +48,65 @@
         "open source",
         "disclosure"
       ],
-      "score": 31,
+      "score": 30,
       "breakdown": {
         "relevance": 27,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "01003c6680bc",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-08-18T11:00:00.000Z",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 30,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "60c60b763275",
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-18T13:50:30.000Z",
+      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -75,39 +127,64 @@
         "open source",
         "self-host"
       ],
-      "score": 29,
+      "score": 28,
       "breakdown": {
         "relevance": 26,
         "actionability": 0,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 0.95
       },
       "enriched": false
     },
     {
-      "id": "af2af46d5d3a",
-      "title": "Rogue AI aren’t science fiction anymore",
-      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "id": "5d36f3cb10c3",
+      "title": "Perplexity’s free AI offer left it with millions more users in India",
+      "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-18T13:45:40.000Z",
+      "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
+      ],
+      "category": "strategy",
+      "tags": [
+        "free"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 13,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "78030b55c4fa",
+      "title": "ChatGPT is getting a dedicated mode for teens",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
-      "publishedAt": "2026-08-16T12:00:00.000Z",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "publishedAt": "2026-08-18T11:00:00.000Z",
+      "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
-        "Use it to increase output on a channel that already converts — not to open a new one."
+        "Background reading — no action needed today, but worth knowing."
       ],
-      "category": "marketing",
+      "category": "strategy",
       "tags": [
-        "agents",
-        "email"
+        "launch"
       ],
-      "score": 26,
+      "score": 23,
       "breakdown": {
-        "relevance": 25,
-        "actionability": 0,
+        "relevance": 0,
+        "actionability": 11,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 17,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -128,39 +205,13 @@
       "tags": [
         "automation stack"
       ],
-      "score": 24,
+      "score": 22,
       "breakdown": {
         "relevance": 15,
         "actionability": 0,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "45e9233bbb40",
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-08-17T21:27:05.000Z",
-      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
-      ],
-      "category": "automation",
-      "tags": [
-        "automation"
-      ],
-      "score": 23,
-      "breakdown": {
-        "relevance": 26,
-        "actionability": 0,
-        "noise": -12,
-        "freshness": 15,
-        "sourceWeight": 1
       },
       "enriched": false
     }
@@ -194,7 +245,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1132
+      "itemCount": 1134
     },
     {
       "sourceId": "google-ai-blog",
@@ -206,7 +257,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 843
+      "itemCount": 844
     },
     {
       "sourceId": "zapier-blog",
@@ -234,11 +285,11 @@
     }
   ],
   "stats": {
-    "fetched": 2157,
-    "onTopic": 22,
-    "deduped": 22,
-    "scored": 6,
-    "published": 6,
+    "fetched": 2160,
+    "onTopic": 27,
+    "deduped": 27,
+    "scored": 8,
+    "published": 8,
     "enriched": false
   }
 }
