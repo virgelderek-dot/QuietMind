@@ -1,0 +1,325 @@
+{
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-19T04:48:54.604Z",
+  "headline": "9 stories worth your time — mostly strategy & trends. Start with: Zapier MCP: Perform tens of thousands of actions in your AI tool",
+  "items": [
+    {
+      "id": "dfc91b57680f",
+      "title": "Zapier MCP: Perform tens of thousands of actions in your AI tool",
+      "url": "https://zapier.com/blog/zapier-mcp-guide",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-08-18T05:00:00.000Z",
+      "summary": "Large language models can extract, classify, summarize, and write for us. They just can't execute those tasks on their own. Or not without some seriously cumbersome technical upkeep, anyway.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation stack",
+        "integration",
+        "notes"
+      ],
+      "score": 47,
+      "breakdown": {
+        "relevance": 47,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 10,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "0579c5666336",
+      "title": "How Does AI in Business Process Management Work?",
+      "url": "https://smallbiztrends.com/ai-in-business-process-management",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-08-18T18:31:00.000Z",
+      "summary": "Discover how AI in business process management transforms operations by automating tasks, enhancing decision-making, and improving efficiency. Learn the key benefits, applications, and technologies driving this innovative approach in our comprehensive guide.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "how-to"
+      ],
+      "score": 38,
+      "breakdown": {
+        "relevance": 16,
+        "actionability": 14,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "9dffd5e77e26",
+      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-08-18T19:48:26.000Z",
+      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social"
+      ],
+      "score": 35,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "81d606cedeff",
+      "title": "Google Gemini Launches Tools to Elevate Your State Fair Experience",
+      "url": "https://smallbiztrends.com/google-gemini-launches-tools-to-elevate-your-state-fair-experience",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-08-18T17:11:00.000Z",
+      "summary": "Discover how Google Gemini's new tools can enhance your state fair experience, from interactive maps to real-time updates. Explore the features that make your visit more enjoyable and efficient!",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 29,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "e6c585a846b4",
+      "title": "Anthropic explains how Claude’s invisible text watermarks will work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-08-17T10:57:13.000Z",
+      "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules.",
+      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
+      "actions": [
+        "Free to run, but budget the setup time honestly before committing.",
+        "Review anything you have already published that this would now cover."
+      ],
+      "category": "tools",
+      "tags": [
+        "open source",
+        "disclosure"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 27,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 7,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "01003c6680bc",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-08-18T11:00:00.000Z",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 27,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "6836a788ee9f",
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-18T22:14:25.000Z",
+      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "bd6e76696802",
+      "title": "Alibaba Qwen 3.8 27B Model Targets Edge AI",
+      "url": "https://aibusiness.com/generative-ai/alibaba-qwen-3-8-27b-model-targets-edge-ai",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-08-17T18:11:27.000Z",
+      "summary": "The model can run locally on a laptop and demonstrates how Alibaba plans to continue pioneering open source.",
+      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
+      "actions": [
+        "Free to run, but budget the setup time honestly before committing."
+      ],
+      "category": "tools",
+      "tags": [
+        "open source",
+        "self-host"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 26,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 8,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "60c60b763275",
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-18T13:50:30.000Z",
+      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "ok": true,
+      "itemCount": 7
+    },
+    {
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "ok": true,
+      "itemCount": 1138
+    },
+    {
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "ok": true,
+      "itemCount": 844
+    },
+    {
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "ben-evans",
+      "sourceName": "Benedict Evans",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "ok": true,
+      "itemCount": 50
+    }
+  ],
+  "stats": {
+    "fetched": 2164,
+    "onTopic": 37,
+    "deduped": 37,
+    "scored": 9,
+    "published": 9,
+    "enriched": false
+  }
+}
