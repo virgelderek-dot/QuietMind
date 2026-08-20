@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generatedAt": "2026-08-20T04:50:24.779Z",
+  "generatedAt": "2026-08-20T13:56:45.599Z",
   "headline": "12 stories worth your time — mostly strategy & trends. Start with: Meta AI Adds Small Business Tools for Ads, Analytics and Reports",
   "items": [
     {
@@ -21,12 +21,12 @@
         "ads",
         "automation"
       ],
-      "score": 69,
+      "score": 68,
       "breakdown": {
         "relevance": 104,
         "actionability": 0,
         "noise": -14,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -50,41 +50,65 @@
         "free",
         "playbook"
       ],
-      "score": 50,
+      "score": 48,
       "breakdown": {
         "relevance": 0,
         "actionability": 48,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 12,
         "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "dfc91b57680f",
-      "title": "Zapier MCP: Perform tens of thousands of actions in your AI tool",
-      "url": "https://zapier.com/blog/zapier-mcp-guide",
-      "sourceId": "zapier-blog",
-      "sourceName": "Zapier Blog",
-      "publishedAt": "2026-08-18T05:00:00.000Z",
-      "summary": "Large language models can extract, classify, summarize, and write for us. They just can't execute those tasks on their own. Or not without some seriously cumbersome technical upkeep, anyway.",
+      "id": "fb3ec95aff34",
+      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-20T09:30:00.000Z",
+      "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
-        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
       "category": "automation",
       "tags": [
-        "automation stack",
-        "integration",
-        "notes"
+        "agents",
+        "shipped"
       ],
-      "score": 44,
+      "score": 40,
       "breakdown": {
-        "relevance": 47,
+        "relevance": 19,
+        "actionability": 21,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "da7b6b591333",
+      "title": "Adobe Firefly Adds AI Music, Voiceovers and Sound Effects",
+      "url": "https://smallbiztrends.com/adobe-firefly-adds-ai-music-voiceovers-and-sound-effects",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-08-20T13:21:56.000Z",
+      "summary": "Adobe Firefly expands its AI audio tools with music, voiceovers and sound effects, giving small businesses more ways to create multimedia content.",
+      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "small business"
+      ],
+      "score": 37,
+      "breakdown": {
+        "relevance": 24,
         "actionability": 0,
         "noise": 0,
-        "freshness": 6,
+        "freshness": 18,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -105,12 +129,12 @@
       "tags": [
         "privacy"
       ],
-      "score": 35,
+      "score": 33,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 15,
+        "freshness": 13,
         "sourceWeight": 1
       },
       "enriched": false
@@ -132,13 +156,40 @@
         "agents",
         "support"
       ],
-      "score": 34,
+      "score": 33,
       "breakdown": {
         "relevance": 28,
         "actionability": 0,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "b5d48fb48323",
+      "title": "Slack is launching collaborative vibe-coding channels",
+      "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-08-20T12:00:00.000Z",
+      "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "launch"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -158,12 +209,12 @@
       "tags": [
         "social"
       ],
-      "score": 31,
+      "score": 30,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 7,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -184,12 +235,12 @@
       "tags": [
         "ads"
       ],
-      "score": 31,
+      "score": 29,
       "breakdown": {
         "relevance": 26,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -211,12 +262,12 @@
         "agents",
         "how-to"
       ],
-      "score": 29,
+      "score": 27,
       "breakdown": {
         "relevance": 12,
         "actionability": 14,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 10,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -237,39 +288,13 @@
       "tags": [
         "free"
       ],
-      "score": 27,
+      "score": 25,
       "breakdown": {
         "relevance": 0,
         "actionability": 21,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "5e28cbf1ea84",
-      "title": "Meta AI is getting a Mac app",
-      "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-08-19T17:00:00.000Z",
-      "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Draft answers for your ten most common customer questions and test the quality on those."
-      ],
-      "category": "automation",
-      "tags": [
-        "support"
-      ],
-      "score": 25,
-      "breakdown": {
-        "relevance": 16,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 14,
-        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -289,38 +314,12 @@
       "tags": [
         "privacy"
       ],
-      "score": 24,
+      "score": 22,
       "breakdown": {
         "relevance": 12,
         "actionability": 0,
         "noise": 0,
-        "freshness": 14,
-        "sourceWeight": 1.15
-      },
-      "enriched": false
-    },
-    {
-      "id": "01003c6680bc",
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-08-18T11:00:00.000Z",
-      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 23,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 7,
+        "freshness": 12,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -367,7 +366,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 844
+      "itemCount": 845
     },
     {
       "sourceId": "zapier-blog",
@@ -395,9 +394,9 @@
     }
   ],
   "stats": {
-    "fetched": 2167,
-    "onTopic": 43,
-    "deduped": 43,
+    "fetched": 2168,
+    "onTopic": 37,
+    "deduped": 36,
     "scored": 12,
     "published": 12,
     "enriched": false
