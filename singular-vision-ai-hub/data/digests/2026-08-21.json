@@ -1,8 +1,35 @@
 {
   "date": "2026-08-21",
-  "generatedAt": "2026-08-21T04:51:15.308Z",
-  "headline": "11 stories worth your time — mostly automate your ops. Start with: ChatGPT can now send texts for you with new Apple Messages plug-in",
+  "generatedAt": "2026-08-21T13:55:57.560Z",
+  "headline": "12 stories worth your time — mostly automate your ops. Start with: Major YouTube creators are facing backlash for accepting AI money",
   "items": [
+    {
+      "id": "e16f2484c31f",
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-08-21T13:37:52.000Z",
+      "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "marketing",
+      "tags": [
+        "service business",
+        "social"
+      ],
+      "score": 45,
+      "breakdown": {
+        "relevance": 45,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
     {
       "id": "62b5f81689b5",
       "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
@@ -21,12 +48,12 @@
         "integration",
         "automation"
       ],
-      "score": 42,
+      "score": 40,
       "breakdown": {
         "relevance": 45,
         "actionability": 0,
         "noise": 0,
-        "freshness": 15,
+        "freshness": 13,
         "sourceWeight": 1
       },
       "enriched": false
@@ -48,12 +75,12 @@
         "agents",
         "shipped"
       ],
-      "score": 37,
+      "score": 36,
       "breakdown": {
         "relevance": 19,
         "actionability": 21,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 9,
         "sourceWeight": 1
       },
       "enriched": false
@@ -75,12 +102,12 @@
         "app",
         "availability"
       ],
-      "score": 35,
+      "score": 34,
       "breakdown": {
         "relevance": 37,
         "actionability": 0,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -101,12 +128,12 @@
       "tags": [
         "scheduling"
       ],
-      "score": 34,
+      "score": 32,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
@@ -127,12 +154,12 @@
       "tags": [
         "launch"
       ],
-      "score": 34,
+      "score": 32,
       "breakdown": {
         "relevance": 0,
         "actionability": 29,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -153,12 +180,12 @@
       "tags": [
         "launch"
       ],
-      "score": 33,
+      "score": 31,
       "breakdown": {
         "relevance": 0,
         "actionability": 29,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -179,12 +206,12 @@
       "tags": [
         "launch"
       ],
-      "score": 32,
+      "score": 30,
       "breakdown": {
         "relevance": 0,
         "actionability": 29,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
@@ -205,12 +232,12 @@
       "tags": [
         "support"
       ],
-      "score": 32,
+      "score": 30,
       "breakdown": {
         "relevance": 26,
         "actionability": 0,
         "noise": 0,
-        "freshness": 15,
+        "freshness": 12,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -231,12 +258,12 @@
       "tags": [
         "privacy"
       ],
-      "score": 31,
+      "score": 29,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1
       },
       "enriched": false
@@ -258,12 +285,12 @@
         "agents",
         "launch"
       ],
-      "score": 29,
+      "score": 27,
       "breakdown": {
         "relevance": 12,
         "actionability": 11,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -285,12 +312,12 @@
         "agents",
         "how-to"
       ],
-      "score": 25,
+      "score": 24,
       "breakdown": {
         "relevance": 12,
         "actionability": 14,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 6,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -337,7 +364,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 845
+      "itemCount": 846
     },
     {
       "sourceId": "zapier-blog",
@@ -365,11 +392,11 @@
     }
   ],
   "stats": {
-    "fetched": 2170,
+    "fetched": 2171,
     "onTopic": 32,
     "deduped": 31,
-    "scored": 11,
-    "published": 11,
+    "scored": 12,
+    "published": 12,
     "enriched": false
   }
 }
