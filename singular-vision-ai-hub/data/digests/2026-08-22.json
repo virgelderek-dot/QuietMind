@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
-  "generatedAt": "2026-08-22T04:46:11.934Z",
-  "headline": "12 stories worth your time — mostly automate your ops. Start with: Yelp Integrates Reservations and Waitlist into ChatGPT for Seamless Booking",
+  "generatedAt": "2026-08-22T13:42:01.991Z",
+  "headline": "9 stories worth your time — mostly automate your ops. Start with: Yelp Integrates Reservations and Waitlist into ChatGPT for Seamless Booking",
   "items": [
     {
       "id": "cd988dd33cac",
@@ -23,12 +23,12 @@
         "scheduling",
         "availability"
       ],
-      "score": 70,
+      "score": 69,
       "breakdown": {
         "relevance": 96,
         "actionability": 0,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 12,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -50,12 +50,12 @@
         "service business",
         "social"
       ],
-      "score": 42,
+      "score": 41,
       "breakdown": {
         "relevance": 45,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 10,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -77,12 +77,12 @@
         "how-to",
         "case study"
       ],
-      "score": 40,
+      "score": 39,
       "breakdown": {
         "relevance": 0,
         "actionability": 37,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -105,12 +105,12 @@
         "integration",
         "automation"
       ],
-      "score": 39,
+      "score": 38,
       "breakdown": {
         "relevance": 45,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1
       },
       "enriched": false
@@ -131,40 +131,13 @@
       "tags": [
         "social"
       ],
-      "score": 36,
+      "score": 34,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 15,
+        "freshness": 12,
         "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "fb3ec95aff34",
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-08-20T09:30:00.000Z",
-      "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents",
-        "shipped"
-      ],
-      "score": 35,
-      "breakdown": {
-        "relevance": 19,
-        "actionability": 21,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -185,39 +158,13 @@
         "app",
         "availability"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
         "relevance": 37,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 7,
         "sourceWeight": 0.95
-      },
-      "enriched": false
-    },
-    {
-      "id": "027379c08484",
-      "title": "Introducing AI Futures",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-08-20T07:00:00.000Z",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 31,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 29,
-        "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -237,12 +184,12 @@
       "tags": [
         "scheduling"
       ],
-      "score": 30,
+      "score": 29,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 7,
         "sourceWeight": 1
       },
       "enriched": false
@@ -263,12 +210,12 @@
       "tags": [
         "launch"
       ],
-      "score": 28,
+      "score": 27,
       "breakdown": {
         "relevance": 0,
         "actionability": 29,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 1
       },
       "enriched": false
@@ -289,37 +236,10 @@
       "tags": [
         "support"
       ],
-      "score": 28,
+      "score": 27,
       "breakdown": {
         "relevance": 26,
         "actionability": 0,
-        "noise": 0,
-        "freshness": 9,
-        "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "b5d48fb48323",
-      "title": "Slack is launching collaborative vibe-coding channels",
-      "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-08-20T12:00:00.000Z",
-      "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents",
-        "launch"
-      ],
-      "score": 25,
-      "breakdown": {
-        "relevance": 12,
-        "actionability": 11,
         "noise": 0,
         "freshness": 7,
         "sourceWeight": 1.05
@@ -397,10 +317,10 @@
   ],
   "stats": {
     "fetched": 2171,
-    "onTopic": 25,
-    "deduped": 25,
-    "scored": 12,
-    "published": 12,
+    "onTopic": 20,
+    "deduped": 20,
+    "scored": 9,
+    "published": 9,
     "enriched": false
   }
 }
