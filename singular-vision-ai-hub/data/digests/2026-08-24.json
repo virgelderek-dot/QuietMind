@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generatedAt": "2026-08-24T04:58:46.032Z",
+  "generatedAt": "2026-08-24T13:59:58.267Z",
   "headline": "1 story worth your time — mostly automate your ops. Start with: Linkdaze’s smart calendar is built to run a household, not just track a schedule",
   "items": [
     {
@@ -19,12 +19,12 @@
       "tags": [
         "scheduling"
       ],
-      "score": 34,
+      "score": 32,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 12,
         "sourceWeight": 1
       },
       "enriched": false
@@ -100,8 +100,8 @@
   ],
   "stats": {
     "fetched": 2171,
-    "onTopic": 7,
-    "deduped": 7,
+    "onTopic": 8,
+    "deduped": 8,
     "scored": 1,
     "published": 1,
     "enriched": false
