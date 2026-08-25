@@ -1,7 +1,7 @@
 {
   "date": "2026-08-25",
-  "generatedAt": "2026-08-25T04:50:47.264Z",
-  "headline": "6 stories worth your time — mostly automate your ops. Start with: Claude for small business: What it is and how to use it",
+  "generatedAt": "2026-08-25T14:00:34.312Z",
+  "headline": "9 stories worth your time — mostly automate your ops. Start with: Claude for small business: What it is and how to use it",
   "items": [
     {
       "id": "d9e9e4bc9a96",
@@ -24,13 +24,39 @@
         "how-to",
         "case study"
       ],
-      "score": 78,
+      "score": 77,
       "breakdown": {
         "relevance": 90,
         "actionability": 37,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "a4b9e6e36db1",
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 36,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -51,12 +77,12 @@
         "how-to",
         "launch"
       ],
-      "score": 38,
+      "score": 36,
       "breakdown": {
         "relevance": 0,
         "actionability": 33,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -77,12 +103,12 @@
       "tags": [
         "agents"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
@@ -103,13 +129,39 @@
       "tags": [
         "scheduling"
       ],
-      "score": 30,
+      "score": 29,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 7,
         "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "da55f7d7bd9d",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "marketing",
+      "tags": [
+        "ads"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 16,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -129,12 +181,12 @@
       "tags": [
         "workflow"
       ],
-      "score": 28,
+      "score": 26,
       "breakdown": {
         "relevance": 21,
         "actionability": 0,
         "noise": 0,
-        "freshness": 16,
+        "freshness": 13,
         "sourceWeight": 1
       },
       "enriched": false
@@ -155,13 +207,39 @@
       "tags": [
         "privacy"
       ],
-      "score": 26,
+      "score": 24,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "63243808b149",
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-08-25T09:15:03.000Z",
+      "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.05
       },
       "enriched": false
     }
@@ -195,7 +273,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1144
+      "itemCount": 1145
     },
     {
       "sourceId": "google-ai-blog",
@@ -207,7 +285,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 847
+      "itemCount": 849
     },
     {
       "sourceId": "zapier-blog",
@@ -235,11 +313,11 @@
     }
   ],
   "stats": {
-    "fetched": 2173,
-    "onTopic": 12,
-    "deduped": 12,
-    "scored": 6,
-    "published": 6,
+    "fetched": 2176,
+    "onTopic": 17,
+    "deduped": 17,
+    "scored": 9,
+    "published": 9,
     "enriched": false
   }
 }
