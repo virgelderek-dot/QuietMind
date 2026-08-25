@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-25",
+  "generatedAt": "2026-08-25T04:50:47.264Z",
+  "headline": "6 stories worth your time — mostly automate your ops. Start with: Claude for small business: What it is and how to use it",
+  "items": [
+    {
+      "id": "d9e9e4bc9a96",
+      "title": "Claude for small business: What it is and how to use it",
+      "url": "https://zapier.com/blog/claude-for-small-business",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "My friend runs a small dog boarding and training business. It's not a casual side hustle, either. She has a waitlist, a roster of regulars, and the kind of five-star reviews that take years to earn. She also has a full-time job.",
+      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it.",
+        "Now generally available, so you can test it today rather than joining a waitlist."
+      ],
+      "category": "strategy",
+      "tags": [
+        "small business",
+        "side hustle",
+        "availability",
+        "how-to",
+        "case study"
+      ],
+      "score": 78,
+      "breakdown": {
+        "relevance": 90,
+        "actionability": 37,
+        "noise": 0,
+        "freshness": 10,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "34ec327e177d",
+      "title": "Gemini connected apps: How to connect Gemini to other apps",
+      "url": "https://zapier.com/blog/gemini-connected-apps",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Google's product launch events have always been a quirky grab-bag of Pixel phone updates and smartwatch announcements, with celebrity hosts like Trevor Noah doing their darndest to squeeze laughs out of teleprompter-reading Google product managers.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "strategy",
+      "tags": [
+        "how-to",
+        "launch"
+      ],
+      "score": 38,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 33,
+        "noise": 0,
+        "freshness": 10,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "b0c3b7c6480e",
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-24T15:00:00.000Z",
+      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 33,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "5781c024565a",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-23T19:14:08.000Z",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Worth an hour to set up if you are still coordinating bookings by email."
+      ],
+      "category": "automation",
+      "tags": [
+        "scheduling"
+      ],
+      "score": 30,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 8,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "2983dbf79834",
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "summary": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 21,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "5c896f150ade",
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-24T18:03:55.000Z",
+      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Check what customer data you are currently passing to AI tools, and under what terms."
+      ],
+      "category": "rules",
+      "tags": [
+        "privacy"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "ok": true,
+      "itemCount": 7
+    },
+    {
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "ok": true,
+      "itemCount": 1144
+    },
+    {
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "ok": true,
+      "itemCount": 847
+    },
+    {
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "ben-evans",
+      "sourceName": "Benedict Evans",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "ok": true,
+      "itemCount": 50
+    }
+  ],
+  "stats": {
+    "fetched": 2173,
+    "onTopic": 12,
+    "deduped": 12,
+    "scored": 6,
+    "published": 6,
+    "enriched": false
+  }
+}
