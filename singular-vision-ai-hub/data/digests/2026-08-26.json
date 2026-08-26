@@ -1,7 +1,7 @@
 {
   "date": "2026-08-26",
-  "generatedAt": "2026-08-26T04:53:21.710Z",
-  "headline": "8 stories worth your time — mostly automate your ops. Start with: Introducing the Admin plugin for ChatGPT Work and Codex",
+  "generatedAt": "2026-08-26T14:01:41.575Z",
+  "headline": "10 stories worth your time — mostly automate your ops. Start with: Introducing the Admin plugin for ChatGPT Work and Codex",
   "items": [
     {
       "id": "cfc376addf8c",
@@ -20,12 +20,12 @@
         "integration",
         "launch"
       ],
-      "score": 44,
+      "score": 43,
       "breakdown": {
         "relevance": 29,
         "actionability": 18,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -46,12 +46,12 @@
       "tags": [
         "agents"
       ],
-      "score": 33,
+      "score": 31,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
@@ -72,12 +72,12 @@
       "tags": [
         "agents"
       ],
-      "score": 33,
+      "score": 31,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 15,
+        "freshness": 12,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -98,12 +98,64 @@
       "tags": [
         "agents"
       ],
-      "score": 30,
+      "score": 29,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "eef70e8be9a9",
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-26T11:00:00.000Z",
+      "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "18fb21f6df20",
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-26T13:00:00.000Z",
+      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "strategy",
+      "tags": [
+        "how-to"
+      ],
+      "score": 25,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 14,
+        "noise": 0,
+        "freshness": 18,
         "sourceWeight": 1
       },
       "enriched": false
@@ -124,12 +176,64 @@
       "tags": [
         "workflow"
       ],
-      "score": 24,
+      "score": 23,
       "breakdown": {
         "relevance": 21,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "a9f82aa56a7b",
+      "title": "Challenges With Perplexity Portable Computer",
+      "url": "https://aibusiness.com/generative-ai/challenges-with-perplexity-portable-computer",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-08-26T13:04:46.000Z",
+      "summary": "The AI agent aligns with the move to more AI on local computers.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "37b1bc497524",
+      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-26T12:00:00.000Z",
+      "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+      ],
+      "category": "automation",
+      "tags": [
+        "integration"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 11,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
         "sourceWeight": 1
       },
       "enriched": false
@@ -150,65 +254,13 @@
       "tags": [
         "ads"
       ],
-      "score": 23,
+      "score": 22,
       "breakdown": {
         "relevance": 16,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.15
-      },
-      "enriched": false
-    },
-    {
-      "id": "5c896f150ade",
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-08-24T18:03:55.000Z",
-      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
-      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
-      "actions": [
-        "Check what customer data you are currently passing to AI tools, and under what terms."
-      ],
-      "category": "rules",
-      "tags": [
-        "privacy"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 19,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 8,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "8d62c84468c2",
-      "title": "The 3 best AI website builders in 2026",
-      "url": "https://zapier.com/blog/best-ai-website-builder",
-      "sourceId": "zapier-blog",
-      "sourceName": "Zapier Blog",
-      "publishedAt": "2026-08-25T04:00:00.000Z",
-      "summary": "Vibe coding tools like Lovable and AI coding agents like Codex and Claude Code have totally changed the concept of building. You can now create a web app from a couple of text prompts, so can you do the same with a website? In short, yes.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "shipped"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 13,
-        "noise": 0,
-        "freshness": 10,
-        "sourceWeight": 1.2
       },
       "enriched": false
     }
@@ -242,7 +294,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1148
+      "itemCount": 1149
     },
     {
       "sourceId": "google-ai-blog",
@@ -254,7 +306,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 850
+      "itemCount": 851
     },
     {
       "sourceId": "zapier-blog",
@@ -282,11 +334,11 @@
     }
   ],
   "stats": {
-    "fetched": 2180,
-    "onTopic": 26,
-    "deduped": 26,
-    "scored": 8,
-    "published": 8,
+    "fetched": 2182,
+    "onTopic": 33,
+    "deduped": 33,
+    "scored": 10,
+    "published": 10,
     "enriched": false
   }
 }
