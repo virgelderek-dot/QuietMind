@@ -1,0 +1,511 @@
+{
+  "date": "2026-08-27",
+  "generatedAt": "2026-08-27T15:12:12.865Z",
+  "headline": "16 stories worth your time — mostly automate your ops. Start with: Claude integrations: How to use Zapier with Claude (Sonnet 5, Opus 5, and more)",
+  "items": [
+    {
+      "id": "621d12bd7939",
+      "title": "Claude integrations: How to use Zapier with Claude (Sonnet 5, Opus 5, and more)",
+      "url": "https://zapier.com/blog/automate-claude",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-08-26T07:00:00.000Z",
+      "summary": "With every new model release, Claude tops almost every benchmark. And chatting with Claude makes it clear why: it's good at everything.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation stack",
+        "automation",
+        "workflow",
+        "how-to",
+        "case study"
+      ],
+      "score": 67,
+      "breakdown": {
+        "relevance": 68,
+        "actionability": 37,
+        "noise": -14,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "3f482c14d673",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "publishedAt": "2026-08-27T14:30:00.000Z",
+      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "automation"
+      ],
+      "score": 43,
+      "breakdown": {
+        "relevance": 47,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "f68224b4577b",
+      "title": "What is Google AI Mode? How it works and how to use it",
+      "url": "https://zapier.com/blog/google-ai-mode",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-08-27T04:00:00.000Z",
+      "summary": "I can't be the only person who types a question into Google, opens 12 tabs from the results, and somehow still can't find a straight answer. Google AI Mode is here to save me, specifically, from that tab chaos.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "strategy",
+      "tags": [
+        "how-to",
+        "case study"
+      ],
+      "score": 42,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 37,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "b058b9480d11",
+      "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
+      "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-08-26T17:00:00.000Z",
+      "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "notes",
+        "launch"
+      ],
+      "score": 40,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "32ef27a0c539",
+      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-27T11:35:59.000Z",
+      "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
+      ],
+      "category": "marketing",
+      "tags": [
+        "ads",
+        "free"
+      ],
+      "score": 38,
+      "breakdown": {
+        "relevance": 16,
+        "actionability": 21,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "89278112f544",
+      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-27T13:00:00.000Z",
+      "summary": "Plaud's new 'agentic' earbuds are priced at $249.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 36,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "56d06d5b4e0b",
+      "title": "What is HubSpot&#x2014;and what does it do?",
+      "url": "https://zapier.com/blog/what-is-hubspot",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-08-27T05:00:00.000Z",
+      "summary": "HubSpot started as an inbound marketing tool, and today it bills itself as an AI-powered customer platform. But what does that actually mean?&#xA0; HubSpot is a one-stop shop for managing every stage of the customer lifecycle.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "automation",
+      "tags": [
+        "crm",
+        "social"
+      ],
+      "score": 36,
+      "breakdown": {
+        "relevance": 26,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "a2f909ccb59a",
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-26T15:47:28.000Z",
+      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 10,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "2ca67f346617",
+      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent",
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "publishedAt": "2026-08-26T21:25:27.000Z",
+      "summary": "Report shows Meta's challenges replacing people with AI agents.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 31,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "3f42b441a741",
+      "title": "OpenAI’s rogue AI model incident was worse than we thought",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-08-26T21:36:06.000Z",
+      "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab,…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "how-to"
+      ],
+      "score": 30,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 14,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "b0a07733da19",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "publishedAt": "2026-08-27T14:01:00.000Z",
+      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs,…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "notes",
+        "playbook"
+      ],
+      "score": 29,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 10,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "fc386c8b5421",
+      "title": "In Catch-up Mode, Google Intros AI Agents for Financial, Legal Services",
+      "url": "https://aibusiness.com/agentic-ai/in-catch-up-google-intros-ai-agents-financial-legal-services",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-08-25T19:38:38.000Z",
+      "summary": "The new platforms show how the vendor is moving toward more vertical use of AI agents, but also how far behind it is.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 7,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "c5408a4b6797",
+      "title": "Hugging Face’s new robot is an adorable rollerskating duck",
+      "url": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-08-27T13:44:00.000Z",
+      "summary": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "52e774adbc6b",
+      "title": "Plaud is launching AI earbuds",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-08-27T13:11:23.000Z",
+      "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "notes"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "bafbfceab0ce",
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-26T19:37:34.000Z",
+      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Cheapest test: regenerate an asset you already paid for and compare quality honestly."
+      ],
+      "category": "marketing",
+      "tags": [
+        "creative"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 18,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "0ba8959ea928",
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-26T19:05:22.000Z",
+      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Trial it against one month of real invoices before trusting it with the books."
+      ],
+      "category": "automation",
+      "tags": [
+        "finance ops"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 18,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "ok": true,
+      "itemCount": 7
+    },
+    {
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "ok": true,
+      "itemCount": 1154
+    },
+    {
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "ok": true,
+      "itemCount": 851
+    },
+    {
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "ben-evans",
+      "sourceName": "Benedict Evans",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "ok": true,
+      "itemCount": 50
+    }
+  ],
+  "stats": {
+    "fetched": 2187,
+    "onTopic": 46,
+    "deduped": 46,
+    "scored": 16,
+    "published": 16,
+    "enriched": false
+  }
+}
