@@ -1,16 +1,71 @@
 {
   "date": "2026-08-30",
-  "generatedAt": "2026-08-30T09:54:52.787Z",
-  "headline": "1 story worth your time — mostly rules & risk. Start with: Sony Music and Warner Chappell are suing Anthropic",
+  "generatedAt": "2026-08-30T17:25:36.258Z",
+  "headline": "3 stories worth your time — mostly automate your ops. Start with: Gemini Unveils New Connected Apps for Streamlined Productivity",
   "items": [
     {
+      "id": "947f629a9243",
+      "title": "Gemini Unveils New Connected Apps for Streamlined Productivity",
+      "url": "https://smallbiztrends.com/gemini-unveils-new-connected-apps-for-streamlined-productivity",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-08-30T15:11:00.000Z",
+      "summary": "Discover how Gemini's new connected apps are revolutionizing productivity with seamless integration and innovative features designed to enhance your workflow. Explore the future of efficient collaboration and task management.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+      ],
+      "category": "automation",
+      "tags": [
+        "integration",
+        "workflow",
+        "launch"
+      ],
+      "score": 47,
+      "breakdown": {
+        "relevance": 24,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "8cafc050dee1",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-30T15:00:00.000Z",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 26,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
       "id": "202512972a82",
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
       "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
       "publishedAt": "2026-08-29T18:19:53.000Z",
-      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works.",
+      "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works.",
       "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
       "actions": [
         "Review anything you have already published that this would now cover."
@@ -19,12 +74,12 @@
       "tags": [
         "copyright"
       ],
-      "score": 23,
+      "score": 22,
       "breakdown": {
         "relevance": 15,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -100,10 +155,10 @@
   ],
   "stats": {
     "fetched": 2190,
-    "onTopic": 13,
-    "deduped": 13,
-    "scored": 1,
-    "published": 1,
+    "onTopic": 11,
+    "deduped": 11,
+    "scored": 3,
+    "published": 3,
     "enriched": false
   }
 }
