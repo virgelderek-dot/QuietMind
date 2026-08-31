@@ -1,32 +1,111 @@
 {
   "date": "2026-08-31",
-  "generatedAt": "2026-08-31T10:48:18.000Z",
-  "headline": "3 stories worth your time — mostly marketing & content. Start with: Shopify Unveils Tools for AI-Driven Shopping Experiences and Merchant Success",
+  "generatedAt": "2026-08-31T19:29:45.545Z",
+  "headline": "7 stories worth your time — mostly marketing & content. Start with: How to train ChatGPT to write like you",
   "items": [
     {
-      "id": "c7af94b5f2d3",
-      "title": "Shopify Unveils Tools for AI-Driven Shopping Experiences and Merchant Success",
-      "url": "https://smallbiztrends.com/shopify-unveils-tools-for-ai-driven-shopping-experiences-and-merchant-success",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-08-30T19:11:00.000Z",
-      "summary": "Discover how Shopify's latest AI-driven tools are transforming online shopping experiences and empowering merchants to achieve greater success.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "id": "2f8b14ae6df7",
+      "title": "How to train ChatGPT to write like you",
+      "url": "https://zapier.com/blog/train-chatgpt-to-write-like-you",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "As a content creator at , I'm always looking for ways to produce more without sacrificing my voice. ChatGPT's custom instructions and the ability to build custom GPTs made it easy for me&#x2014;once I figured out how to train it to actually sound like…",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
-        "Check whether your storefront platform supports this natively before adding another subscription."
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
       ],
-      "category": "marketing",
+      "category": "strategy",
       "tags": [
-        "ecommerce",
-        "launch"
+        "service business",
+        "how-to"
       ],
-      "score": 52,
+      "score": 47,
       "breakdown": {
-        "relevance": 36,
-        "actionability": 18,
+        "relevance": 10,
+        "actionability": 36,
         "noise": 0,
         "freshness": 13,
         "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "8051bcd07a89",
+      "title": "Instagram cracks down on AI accounts pretending to be human",
+      "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-08-31T13:00:00.000Z",
+      "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's…",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social",
+        "service business"
+      ],
+      "score": 42,
+      "breakdown": {
+        "relevance": 41,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "6f3e144d7d71",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-31T19:16:59.000Z",
+      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social"
+      ],
+      "score": 36,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "8b9768eab1b1",
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-08-31T13:27:36.000Z",
+      "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Note the compliance date and check whether your business size is in scope."
+      ],
+      "category": "rules",
+      "tags": [
+        "regulation"
+      ],
+      "score": 30,
+      "breakdown": {
+        "relevance": 22,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -46,39 +125,66 @@
       "tags": [
         "automation"
       ],
-      "score": 29,
+      "score": 27,
       "breakdown": {
         "relevance": 26,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "eb5fc3658952",
-      "title": "Oracle Unveils AI-Powered Solutions to Transform Workforce Management",
-      "url": "https://smallbiztrends.com/oracle-unveils-ai-powered-solutions-to-transform-workforce-management",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-08-30T17:11:00.000Z",
-      "summary": "Discover how Oracle's latest AI-powered solutions are revolutionizing workforce management, enhancing productivity, and streamlining operations for businesses of all sizes. Stay ahead with cutting-edge technology insights.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "id": "44f61163770f",
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
       "actions": [
-        "Background reading — no action needed today, but worth knowing."
+        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
       ],
-      "category": "strategy",
+      "category": "marketing",
       "tags": [
-        "launch"
+        "ads",
+        "free"
       ],
-      "score": 28,
+      "score": 27,
       "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
+        "relevance": 10,
+        "actionability": 8,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.2
+        "freshness": 13,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "098b5da8216e",
+      "title": "Anthropic Releases Interface to Help AI Agents Operate Machines",
+      "url": "https://aibusiness.com/generative-ai/anthropic-releases-interface-help-ai-agents-operate-machines",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-08-31T13:50:28.000Z",
+      "summary": "The new Model Hardware Standard comes as part of the AI giant’s ongoing push into physical AI.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 0.95
       },
       "enriched": false
     }
@@ -153,10 +259,10 @@
   ],
   "stats": {
     "fetched": 2190,
-    "onTopic": 9,
-    "deduped": 9,
-    "scored": 3,
-    "published": 3,
+    "onTopic": 12,
+    "deduped": 12,
+    "scored": 7,
+    "published": 7,
     "enriched": false
   }
 }
