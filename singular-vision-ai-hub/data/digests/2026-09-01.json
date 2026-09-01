@@ -1,8 +1,70 @@
 {
   "date": "2026-09-01",
-  "generatedAt": "2026-09-01T09:22:41.285Z",
-  "headline": "8 stories worth your time — mostly marketing & content. Start with: How to train ChatGPT to write like you",
+  "generatedAt": "2026-09-01T17:18:52.753Z",
+  "headline": "11 stories worth your time — mostly strategy & trends. Start with: ChatGPT automation: How to use the Zapier ChatGPT integration (GPT-5.6 + more)",
   "items": [
+    {
+      "id": "f22b105dc1e4",
+      "title": "ChatGPT automation: How to use the Zapier ChatGPT integration (GPT-5.6 + more)",
+      "url": "https://zapier.com/blog/automate-chatgpt",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "summary": "OpenAI is rolling out new models all the time, and you can see the improvements and power even in a quick back-and-forth with ChatGPT.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Draft answers for your ten most common customer questions and test the quality on those.",
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+      ],
+      "category": "automation",
+      "tags": [
+        "integration",
+        "automation",
+        "automation stack",
+        "workflow",
+        "support",
+        "how-to"
+      ],
+      "score": 85,
+      "breakdown": {
+        "relevance": 111,
+        "actionability": 46,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "6d0e3cbcab90",
+      "title": "John Deere launched an AI chatbot for farmers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-01T16:00:52.000Z",
+      "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Draft answers for your ten most common customer questions and test the quality on those.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "support",
+        "launch",
+        "playbook"
+      ],
+      "score": 49,
+      "breakdown": {
+        "relevance": 26,
+        "actionability": 28,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
     {
       "id": "2f8b14ae6df7",
       "title": "How to train ChatGPT to write like you",
@@ -25,7 +87,7 @@
         "relevance": 10,
         "actionability": 36,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -47,12 +109,12 @@
         "social",
         "service business"
       ],
-      "score": 39,
+      "score": 38,
       "breakdown": {
         "relevance": 41,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -73,39 +135,39 @@
       "tags": [
         "social"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "8b9768eab1b1",
-      "title": "ChatGPT to face tougher regulation in the EU",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-08-31T13:27:36.000Z",
-      "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union.",
-      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "id": "741d2e1ace69",
+      "title": "Fambot introduces an ‘AI chief of staff’ for families",
+      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-01T15:10:58.000Z",
+      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
-        "Note the compliance date and check whether your business size is in scope."
+        "Background reading — no action needed today, but worth knowing."
       ],
-      "category": "rules",
+      "category": "strategy",
       "tags": [
-        "regulation"
+        "launch"
       ],
-      "score": 28,
+      "score": 27,
       "breakdown": {
-        "relevance": 22,
-        "actionability": 0,
+        "relevance": 0,
+        "actionability": 18,
         "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1.05
+        "freshness": 17,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -125,38 +187,64 @@
       "tags": [
         "launch"
       ],
-      "score": 28,
+      "score": 27,
       "breakdown": {
         "relevance": 0,
         "actionability": 18,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "8cafc050dee1",
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-08-30T15:00:00.000Z",
-      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "id": "8b9768eab1b1",
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-08-31T13:27:36.000Z",
+      "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
       "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+        "Note the compliance date and check whether your business size is in scope."
       ],
-      "category": "automation",
+      "category": "rules",
       "tags": [
-        "automation"
+        "regulation"
       ],
-      "score": 25,
+      "score": 26,
       "breakdown": {
-        "relevance": 26,
+        "relevance": 22,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 9,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "85562dc16345",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "summary": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 12,
         "sourceWeight": 1
       },
       "enriched": false
@@ -178,12 +266,12 @@
         "ads",
         "free"
       ],
-      "score": 25,
+      "score": 23,
       "breakdown": {
         "relevance": 10,
         "actionability": 8,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -204,12 +292,12 @@
       "tags": [
         "agents"
       ],
-      "score": 23,
+      "score": 22,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 10,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -256,7 +344,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 852
+      "itemCount": 853
     },
     {
       "sourceId": "zapier-blog",
@@ -284,11 +372,11 @@
     }
   ],
   "stats": {
-    "fetched": 2192,
-    "onTopic": 19,
-    "deduped": 19,
-    "scored": 8,
-    "published": 8,
+    "fetched": 2193,
+    "onTopic": 24,
+    "deduped": 24,
+    "scored": 11,
+    "published": 11,
     "enriched": false
   }
 }
