@@ -1,0 +1,357 @@
+{
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T08:45:01.945Z",
+  "headline": "10 stories worth your time — mostly automate your ops. Start with: ChatGPT automation: How to use the Zapier ChatGPT integration (GPT-5.6 + more)",
+  "items": [
+    {
+      "id": "f22b105dc1e4",
+      "title": "ChatGPT automation: How to use the Zapier ChatGPT integration (GPT-5.6 + more)",
+      "url": "https://zapier.com/blog/automate-chatgpt",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "summary": "OpenAI is rolling out new models all the time, and you can see the improvements and power even in a quick back-and-forth with ChatGPT.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Draft answers for your ten most common customer questions and test the quality on those.",
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+      ],
+      "category": "automation",
+      "tags": [
+        "integration",
+        "automation",
+        "automation stack",
+        "workflow",
+        "support",
+        "how-to"
+      ],
+      "score": 84,
+      "breakdown": {
+        "relevance": 111,
+        "actionability": 46,
+        "noise": 0,
+        "freshness": 10,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "e05e11f4e828",
+      "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-01T22:01:36.000Z",
+      "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material."
+      ],
+      "category": "pricing",
+      "tags": [
+        "agents",
+        "price cut",
+        "pricing",
+        "launch"
+      ],
+      "score": 64,
+      "breakdown": {
+        "relevance": 75,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "6d0e3cbcab90",
+      "title": "John Deere launched an AI chatbot for farmers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-01T16:00:52.000Z",
+      "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Draft answers for your ten most common customer questions and test the quality on those.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "support",
+        "launch",
+        "playbook"
+      ],
+      "score": 46,
+      "breakdown": {
+        "relevance": 26,
+        "actionability": 28,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "3b5f2688fec1",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-09-01T17:00:00.000Z",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow",
+        "agents"
+      ],
+      "score": 38,
+      "breakdown": {
+        "relevance": 33,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "49ae63348aa2",
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-01T19:39:22.000Z",
+      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material."
+      ],
+      "category": "pricing",
+      "tags": [
+        "price cut"
+      ],
+      "score": 34,
+      "breakdown": {
+        "relevance": 32,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "de425f98bc3e",
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-01T17:00:00.000Z",
+      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+      ],
+      "category": "automation",
+      "tags": [
+        "integration"
+      ],
+      "score": 31,
+      "breakdown": {
+        "relevance": 29,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "6f3e144d7d71",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-08-31T19:16:59.000Z",
+      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social"
+      ],
+      "score": 30,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 8,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "ddc762e50144",
+      "title": "Anthropic R&D Slowdown Shows Need for Heightened AI Agent Security",
+      "url": "https://aibusiness.com/cybersecurity/anthropic-r-d-slowdown-shows-need-heightened-ai-agent-security",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-09-01T21:02:18.000Z",
+      "summary": "The move comes after rival OpenAI paused development for two weeks following agent escapes.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 25,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "741d2e1ace69",
+      "title": "Fambot introduces an ‘AI chief of staff’ for families",
+      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-01T15:10:58.000Z",
+      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "9954f98e0635",
+      "title": "Google needs Hollywood more than the studios need AI",
+      "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-01T22:50:29.000Z",
+      "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Review anything you have already published that this would now cover."
+      ],
+      "category": "rules",
+      "tags": [
+        "copyright"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 15,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "ok": true,
+      "itemCount": 7
+    },
+    {
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "ok": true,
+      "itemCount": 1163
+    },
+    {
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "ok": true,
+      "itemCount": 854
+    },
+    {
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "ben-evans",
+      "sourceName": "Benedict Evans",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "ok": true,
+      "itemCount": 50
+    }
+  ],
+  "stats": {
+    "fetched": 2199,
+    "onTopic": 36,
+    "deduped": 36,
+    "scored": 10,
+    "published": 10,
+    "enriched": false
+  }
+}
