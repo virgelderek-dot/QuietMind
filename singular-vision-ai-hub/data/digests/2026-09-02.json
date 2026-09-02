@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
-  "generatedAt": "2026-09-02T08:45:01.945Z",
-  "headline": "10 stories worth your time — mostly automate your ops. Start with: ChatGPT automation: How to use the Zapier ChatGPT integration (GPT-5.6 + more)",
+  "generatedAt": "2026-09-02T17:07:44.645Z",
+  "headline": "14 stories worth your time — mostly automate your ops. Start with: ChatGPT automation: How to use the Zapier ChatGPT integration (GPT-5.6 + more)",
   "items": [
     {
       "id": "f22b105dc1e4",
@@ -31,7 +31,7 @@
         "relevance": 111,
         "actionability": 46,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -55,42 +55,94 @@
         "pricing",
         "launch"
       ],
-      "score": 64,
+      "score": 63,
       "breakdown": {
         "relevance": 75,
         "actionability": 18,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 12,
         "sourceWeight": 1.05
       },
       "enriched": false
     },
     {
-      "id": "6d0e3cbcab90",
-      "title": "John Deere launched an AI chatbot for farmers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-09-01T16:00:52.000Z",
-      "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data.",
+      "id": "b9c7606b8edc",
+      "title": "DocuSign Integrates AI Tool into Google Cloud to Streamline Legal Workflows",
+      "url": "https://smallbiztrends.com/docusign-integrates-ai-tool-into-google-cloud-to-streamline-legal-workflows",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-02T15:11:00.000Z",
+      "summary": "Discover how DocuSign's integration of an AI tool into Google Cloud is transforming legal workflows, enhancing efficiency, and simplifying document management for legal professionals.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Draft answers for your ten most common customer questions and test the quality on those.",
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
       ],
       "category": "automation",
       "tags": [
-        "support",
-        "launch",
-        "playbook"
+        "integration",
+        "workflow"
       ],
-      "score": 46,
+      "score": 58,
       "breakdown": {
-        "relevance": 26,
-        "actionability": 28,
+        "relevance": 62,
+        "actionability": 0,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.05
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "026c6c5bc3b8",
+      "title": "ChatGPT Scheduled Tasks: What they are and how to use them",
+      "url": "https://zapier.com/blog/chatgpt-scheduled-tasks",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-02T04:00:00.000Z",
+      "summary": "My laptop and phone are filled with apps dedicated to getting me to do specific things: there's a news app that compiles a customized daily reading list; there's a language learning app that prompts me to do daily French lessons; there's even one that's sole…",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "strategy",
+      "tags": [
+        "how-to",
+        "case study"
+      ],
+      "score": 42,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 37,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "92b00fb02e6c",
+      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-02T14:56:34.000Z",
+      "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Brief anyone who can authorise a payment or a password reset on your behalf."
+      ],
+      "category": "rules",
+      "tags": [
+        "fraud risk"
+      ],
+      "score": 36,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -111,13 +163,39 @@
         "workflow",
         "agents"
       ],
-      "score": 38,
+      "score": 36,
       "breakdown": {
         "relevance": 33,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 10,
         "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "195489252745",
+      "title": "Anthropic Joins AI Price War With Release of Fable 5.1",
+      "url": "https://aibusiness.com/generative-ai/anthropic-joins-ai-price-war-release-of-fable-5-1",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-09-02T13:54:37.000Z",
+      "summary": "The vendor reduced cache read pricing for Fable 5.1 and said the model is similar to Mythos 5.1, with different safeguards.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material."
+      ],
+      "category": "pricing",
+      "tags": [
+        "pricing"
+      ],
+      "score": 34,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 0.95
       },
       "enriched": false
     },
@@ -137,12 +215,12 @@
       "tags": [
         "price cut"
       ],
-      "score": 34,
+      "score": 32,
       "breakdown": {
         "relevance": 32,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
@@ -163,13 +241,39 @@
       "tags": [
         "integration"
       ],
-      "score": 31,
+      "score": 30,
       "breakdown": {
         "relevance": 29,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 10,
         "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "b94dc7898a32",
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-02T16:12:25.000Z",
+      "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Review anything you have already published that this would now cover."
+      ],
+      "category": "rules",
+      "tags": [
+        "copyright"
+      ],
+      "score": 30,
+      "breakdown": {
+        "relevance": 39,
+        "actionability": 0,
+        "noise": -21,
+        "freshness": 18,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -189,64 +293,12 @@
       "tags": [
         "social"
       ],
-      "score": 30,
+      "score": 29,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "ddc762e50144",
-      "title": "Anthropic R&D Slowdown Shows Need for Heightened AI Agent Security",
-      "url": "https://aibusiness.com/cybersecurity/anthropic-r-d-slowdown-shows-need-heightened-ai-agent-security",
-      "sourceId": "ai-business",
-      "sourceName": "AI Business",
-      "publishedAt": "2026-09-01T21:02:18.000Z",
-      "summary": "The move comes after rival OpenAI paused development for two weeks following agent escapes.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents"
-      ],
-      "score": 25,
-      "breakdown": {
-        "relevance": 19,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 14,
-        "sourceWeight": 0.95
-      },
-      "enriched": false
-    },
-    {
-      "id": "741d2e1ace69",
-      "title": "Fambot introduces an ‘AI chief of staff’ for families",
-      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-01T15:10:58.000Z",
-      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 24,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 12,
+        "freshness": 6,
         "sourceWeight": 1
       },
       "enriched": false
@@ -267,13 +319,65 @@
       "tags": [
         "copyright"
       ],
-      "score": 24,
+      "score": 23,
       "breakdown": {
         "relevance": 15,
         "actionability": 0,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 12,
         "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "ddc762e50144",
+      "title": "Anthropic R&D Slowdown Shows Need for Heightened AI Agent Security",
+      "url": "https://aibusiness.com/cybersecurity/anthropic-r-d-slowdown-shows-need-heightened-ai-agent-security",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-09-01T21:02:18.000Z",
+      "summary": "The move comes after rival OpenAI paused development for two weeks following agent escapes.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "741d2e1ace69",
+      "title": "Fambot introduces an ‘AI chief of staff’ for families",
+      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-01T15:10:58.000Z",
+      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 22,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 10,
+        "sourceWeight": 1
       },
       "enriched": false
     }
@@ -319,7 +423,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 854
+      "itemCount": 855
     },
     {
       "sourceId": "zapier-blog",
@@ -347,11 +451,11 @@
     }
   ],
   "stats": {
-    "fetched": 2199,
-    "onTopic": 36,
-    "deduped": 36,
-    "scored": 10,
-    "published": 10,
+    "fetched": 2200,
+    "onTopic": 40,
+    "deduped": 40,
+    "scored": 14,
+    "published": 14,
     "enriched": false
   }
 }
