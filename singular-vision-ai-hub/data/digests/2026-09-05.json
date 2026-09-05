@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
-  "generatedAt": "2026-09-05T08:19:28.094Z",
-  "headline": "8 stories worth your time — mostly automate your ops. Start with: ChatGPT automation: How to use the Zapier ChatGPT integration (GPT-6 + more)",
+  "generatedAt": "2026-09-05T16:01:59.009Z",
+  "headline": "7 stories worth your time — mostly automate your ops. Start with: ChatGPT automation: How to use the Zapier ChatGPT integration (GPT-6 + more)",
   "items": [
     {
       "id": "f22b105dc1e4",
@@ -31,7 +31,7 @@
         "relevance": 111,
         "actionability": 46,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -57,12 +57,12 @@
         "how-to",
         "case study"
       ],
-      "score": 68,
+      "score": 67,
       "breakdown": {
         "relevance": 68,
         "actionability": 37,
         "noise": -14,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -85,12 +85,12 @@
         "support",
         "copyright"
       ],
-      "score": 35,
+      "score": 34,
       "breakdown": {
         "relevance": 41,
         "actionability": 0,
         "noise": -8,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -111,39 +111,13 @@
       "tags": [
         "social"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "74b15138b90d",
-      "title": "Waymo Integrates Gemini AI for Enhanced Personalized In-Car Experience",
-      "url": "https://smallbiztrends.com/waymo-integrates-gemini-ai-for-enhanced-personalized-in-car-experience",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-09-04T19:11:00.000Z",
-      "summary": "Discover how Waymo is enhancing the in-car experience by integrating Gemini AI, offering personalized features that transform the way passengers interact with their vehicles. Explore the future of smart driving!",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
-      ],
-      "category": "automation",
-      "tags": [
-        "integration"
-      ],
-      "score": 29,
-      "breakdown": {
-        "relevance": 18,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -164,13 +138,39 @@
         "agents",
         "launch"
       ],
-      "score": 28,
+      "score": 27,
       "breakdown": {
         "relevance": 12,
         "actionability": 11,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "74b15138b90d",
+      "title": "Waymo Integrates Gemini AI for Enhanced Personalized In-Car Experience",
+      "url": "https://smallbiztrends.com/waymo-integrates-gemini-ai-for-enhanced-personalized-in-car-experience",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-04T19:11:00.000Z",
+      "summary": "Discover how Waymo is enhancing the in-car experience by integrating Gemini AI, offering personalized features that transform the way passengers interact with their vehicles. Explore the future of smart driving!",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+      ],
+      "category": "automation",
+      "tags": [
+        "integration"
+      ],
+      "score": 27,
+      "breakdown": {
+        "relevance": 18,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -191,41 +191,12 @@
         "self-host",
         "launch"
       ],
-      "score": 27,
+      "score": 26,
       "breakdown": {
         "relevance": 12,
         "actionability": 11,
         "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "37ec33c253da",
-      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-09-03T16:00:00.000Z",
-      "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio.",
-      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
-      "actions": [
-        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere.",
-        "Free to run, but budget the setup time honestly before committing."
-      ],
-      "category": "tools",
-      "tags": [
-        "open source",
-        "launch",
-        "free"
-      ],
-      "score": 24,
-      "breakdown": {
-        "relevance": 14,
-        "actionability": 38,
-        "noise": -32,
-        "freshness": 7,
+        "freshness": 9,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -302,10 +273,10 @@
   ],
   "stats": {
     "fetched": 2203,
-    "onTopic": 33,
-    "deduped": 33,
-    "scored": 8,
-    "published": 8,
+    "onTopic": 29,
+    "deduped": 29,
+    "scored": 7,
+    "published": 7,
     "enriched": false
   }
 }
