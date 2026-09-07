@@ -1,62 +1,8 @@
 {
   "date": "2026-09-07",
-  "generatedAt": "2026-09-07T09:17:13.552Z",
-  "headline": "2 stories worth your time — mostly rules & risk. Start with: OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-  "items": [
-    {
-      "id": "1cb48b3f4151",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-05T18:05:27.000Z",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
-      "actions": [
-        "Review anything you have already published that this would now cover."
-      ],
-      "category": "rules",
-      "tags": [
-        "disclosure",
-        "agents"
-      ],
-      "score": 31,
-      "breakdown": {
-        "relevance": 33,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "e02ae19def6b",
-      "title": "Supporting independent journalism in Ukraine",
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-09-07T00:00:00.000Z",
-      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 23,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 11,
-        "noise": 0,
-        "freshness": 15,
-        "sourceWeight": 1.15
-      },
-      "enriched": false
-    }
-  ],
+  "generatedAt": "2026-09-07T18:14:28.410Z",
+  "headline": "Nothing today cleared the bar. That is a legitimate result — no busywork.",
+  "items": [],
   "sources": [
     {
       "sourceId": "techcrunch-ai",
@@ -128,10 +74,10 @@
   ],
   "stats": {
     "fetched": 2206,
-    "onTopic": 10,
-    "deduped": 9,
-    "scored": 2,
-    "published": 2,
+    "onTopic": 9,
+    "deduped": 8,
+    "scored": 0,
+    "published": 0,
     "enriched": false
   }
 }
