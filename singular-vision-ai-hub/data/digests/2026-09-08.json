@@ -1,8 +1,170 @@
 {
   "date": "2026-09-08",
-  "generatedAt": "2026-09-08T08:50:11.974Z",
-  "headline": "1 story worth your time — mostly automate your ops. Start with: Slack Code Transforms Collaboration in AI Development Spaces",
+  "generatedAt": "2026-09-08T17:14:00.409Z",
+  "headline": "7 stories worth your time — mostly automate your ops. Start with: DocuSign Unveils Open MCP Server, Enhancing AI Integration for Enterprises",
   "items": [
+    {
+      "id": "e8c0d32baeef",
+      "title": "DocuSign Unveils Open MCP Server, Enhancing AI Integration for Enterprises",
+      "url": "https://smallbiztrends.com/docusign-unveils-open-mcp-server-enhancing-ai-integration-for-enterprises",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-08T15:11:00.000Z",
+      "summary": "Discover how DocuSign's new Open MCP Server is revolutionizing AI integration for enterprises, streamlining workflows, and enhancing document management capabilities.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+      ],
+      "category": "automation",
+      "tags": [
+        "integration",
+        "workflow",
+        "launch"
+      ],
+      "score": 57,
+      "breakdown": {
+        "relevance": 42,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "cd60a617719b",
+      "title": "What is Jasper AI? And how to use it",
+      "url": "https://zapier.com/blog/jasper-ai",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-08T05:00:00.000Z",
+      "summary": "Jasper was inescapable in the early years of the AI boom. With its quirky robot logo and \"Boss Mode,\" a tool that churned out long-form blog posts, it had more name recognition than any other AI writing assistant. Then ChatGPT came out and changed everything.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social",
+        "how-to",
+        "case study"
+      ],
+      "score": 49,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 37,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "f7ebe6f5469c",
+      "title": "The 7 best AI scheduling assistants in 2026",
+      "url": "https://zapier.com/blog/best-ai-scheduling",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-08T05:00:00.000Z",
+      "summary": "Productivity starts with your calendar&#x2014;but sometimes it ends there too. No one wants to reprioritize an entire week after an emergency, or play calendar Tetris to land a meeting with that busy lead sometime in the next two days.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Worth an hour to set up if you are still coordinating bookings by email."
+      ],
+      "category": "automation",
+      "tags": [
+        "scheduling"
+      ],
+      "score": 39,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "1f647b996979",
+      "title": "Jasper vs. Copy.ai: Which is best? [2026]",
+      "url": "https://zapier.com/blog/jasper-vs-copy-ai",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-08T04:00:00.000Z",
+      "summary": "Jasper and Copy.ai were two of the first AI text generators to hit the market in the pre-ChatGPT days. (Remember a world without ChatGPT?",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow"
+      ],
+      "score": 25,
+      "breakdown": {
+        "relevance": 13,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "2819dceb517b",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-08T15:04:09.000Z",
+      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Worth an hour to set up if you are still coordinating bookings by email."
+      ],
+      "category": "automation",
+      "tags": [
+        "scheduling"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "235e7b126230",
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-08T14:00:00.000Z",
+      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
     {
       "id": "a64b36a1cc5d",
       "title": "Slack Code Transforms Collaboration in AI Development Spaces",
@@ -19,12 +181,12 @@
       "tags": [
         "workflow"
       ],
-      "score": 25,
+      "score": 23,
       "breakdown": {
         "relevance": 13,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -60,7 +222,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1173
+      "itemCount": 1176
     },
     {
       "sourceId": "google-ai-blog",
@@ -72,7 +234,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 859
+      "itemCount": 860
     },
     {
       "sourceId": "zapier-blog",
@@ -100,11 +262,11 @@
     }
   ],
   "stats": {
-    "fetched": 2207,
-    "onTopic": 7,
-    "deduped": 7,
-    "scored": 1,
-    "published": 1,
+    "fetched": 2211,
+    "onTopic": 21,
+    "deduped": 21,
+    "scored": 7,
+    "published": 7,
     "enriched": false
   }
 }
