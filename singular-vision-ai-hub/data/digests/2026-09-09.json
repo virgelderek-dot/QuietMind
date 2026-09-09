@@ -1,36 +1,8 @@
 {
   "date": "2026-09-09",
-  "generatedAt": "2026-09-09T08:56:34.941Z",
-  "headline": "11 stories worth your time — mostly automate your ops. Start with: Salesforce Unveils Winter ’27 Release: AI Agents Transform Business Workflows",
+  "generatedAt": "2026-09-09T17:08:32.919Z",
+  "headline": "14 stories worth your time — mostly automate your ops. Start with: n8n vs. Power Automate: Which is best? [2026]",
   "items": [
-    {
-      "id": "9e802c7380fd",
-      "title": "Salesforce Unveils Winter ’27 Release: AI Agents Transform Business Workflows",
-      "url": "https://smallbiztrends.com/salesforce-unveils-winter-27-release-ai-agents-transform-business-workflows",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-09-08T17:11:00.000Z",
-      "summary": "Discover how Salesforce's Winter '27 Release introduces innovative AI agents that revolutionize business workflows, enhancing efficiency and productivity. Explore the latest features and their impact on your organization.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
-      ],
-      "category": "automation",
-      "tags": [
-        "workflow",
-        "agents",
-        "launch"
-      ],
-      "score": 69,
-      "breakdown": {
-        "relevance": 65,
-        "actionability": 29,
-        "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
     {
       "id": "c1e146f40d2e",
       "title": "n8n vs. Power Automate: Which is best? [2026]",
@@ -54,7 +26,7 @@
         "relevance": 94,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -78,12 +50,39 @@
         "how-to",
         "case study"
       ],
-      "score": 47,
+      "score": 46,
       "breakdown": {
         "relevance": 12,
         "actionability": 37,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "2a2df3c95574",
+      "title": "Google Workspace Unveils Docs Live: Your AI Co-Writer for Faster Drafts",
+      "url": "https://smallbiztrends.com/google-workspace-unveils-docs-live-your-ai-co-writer-for-faster-drafts",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-09T15:11:00.000Z",
+      "summary": "Discover how Google Workspace's new feature, Docs Live, acts as your AI co-writer, streamlining the drafting process and enhancing productivity. Learn how to leverage this innovative tool for faster, smarter document creation.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch",
+        "how-to"
+      ],
+      "score": 41,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 32,
+        "noise": 0,
+        "freshness": 17,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -104,12 +103,12 @@
       "tags": [
         "scheduling"
       ],
-      "score": 36,
+      "score": 35,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -130,12 +129,38 @@
       "tags": [
         "agents"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "90533ede4770",
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-09T12:05:34.000Z",
+      "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Review anything you have already published that this would now cover."
+      ],
+      "category": "rules",
+      "tags": [
+        "copyright"
+      ],
+      "score": 30,
+      "breakdown": {
+        "relevance": 24,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
         "sourceWeight": 1
       },
       "enriched": false
@@ -156,13 +181,65 @@
       "tags": [
         "agents"
       ],
-      "score": 32,
+      "score": 30,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "b69346a1157c",
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-09T14:18:34.000Z",
+      "summary": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material."
+      ],
+      "category": "pricing",
+      "tags": [
+        "price cut"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 20,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "501c0abacbed",
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-09T13:00:00.000Z",
+      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 27,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -182,12 +259,12 @@
       "tags": [
         "launch"
       ],
-      "score": 28,
+      "score": 27,
       "breakdown": {
         "relevance": 0,
         "actionability": 18,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -208,12 +285,12 @@
       "tags": [
         "launch"
       ],
-      "score": 28,
+      "score": 26,
       "breakdown": {
         "relevance": 0,
         "actionability": 18,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 10,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -234,12 +311,12 @@
       "tags": [
         "agents"
       ],
-      "score": 26,
+      "score": 25,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -260,39 +337,39 @@
       "tags": [
         "launch"
       ],
-      "score": 26,
+      "score": 24,
       "breakdown": {
         "relevance": 0,
         "actionability": 18,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.15
       },
       "enriched": false
     },
     {
-      "id": "1f647b996979",
-      "title": "Jasper vs. Copy.ai: Which is best? [2026]",
-      "url": "https://zapier.com/blog/jasper-vs-copy-ai",
-      "sourceId": "zapier-blog",
-      "sourceName": "Zapier Blog",
-      "publishedAt": "2026-09-08T04:00:00.000Z",
-      "summary": "Jasper and Copy.ai were two of the first AI text generators to hit the market in the pre-ChatGPT days. (Remember a world without ChatGPT?",
+      "id": "0722e2233185",
+      "title": "Viral AI assistant Instinct now has its own email address",
+      "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-09T15:13:12.000Z",
+      "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
       "category": "automation",
       "tags": [
-        "workflow"
+        "agents"
       ],
-      "score": 22,
+      "score": 23,
       "breakdown": {
-        "relevance": 13,
+        "relevance": 12,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
-        "sourceWeight": 1.2
+        "freshness": 17,
+        "sourceWeight": 1
       },
       "enriched": false
     }
@@ -302,7 +379,7 @@
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
       "ok": true,
-      "itemCount": 19
+      "itemCount": 18
     },
     {
       "sourceId": "verge-ai",
@@ -367,11 +444,11 @@
     }
   ],
   "stats": {
-    "fetched": 2214,
-    "onTopic": 34,
-    "deduped": 34,
-    "scored": 11,
-    "published": 11,
+    "fetched": 2213,
+    "onTopic": 47,
+    "deduped": 47,
+    "scored": 14,
+    "published": 14,
     "enriched": false
   }
 }
