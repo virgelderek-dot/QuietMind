@@ -1,0 +1,377 @@
+{
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-09T08:56:34.941Z",
+  "headline": "11 stories worth your time — mostly automate your ops. Start with: Salesforce Unveils Winter ’27 Release: AI Agents Transform Business Workflows",
+  "items": [
+    {
+      "id": "9e802c7380fd",
+      "title": "Salesforce Unveils Winter ’27 Release: AI Agents Transform Business Workflows",
+      "url": "https://smallbiztrends.com/salesforce-unveils-winter-27-release-ai-agents-transform-business-workflows",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-08T17:11:00.000Z",
+      "summary": "Discover how Salesforce's Winter '27 Release introduces innovative AI agents that revolutionize business workflows, enhancing efficiency and productivity. Explore the latest features and their impact on your organization.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow",
+        "agents",
+        "launch"
+      ],
+      "score": 69,
+      "breakdown": {
+        "relevance": 65,
+        "actionability": 29,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "c1e146f40d2e",
+      "title": "n8n vs. Power Automate: Which is best? [2026]",
+      "url": "https://zapier.com/blog/n8n-vs-power-automate",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-08T04:00:00.000Z",
+      "summary": "n8n and Microsoft Power Automate both run multi-step workflows, connect to your business apps, and have spent the last few years adding AI to everything they ship.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "automation stack",
+        "workflow"
+      ],
+      "score": 67,
+      "breakdown": {
+        "relevance": 94,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "cd60a617719b",
+      "title": "What is Jasper AI? And how to use it",
+      "url": "https://zapier.com/blog/jasper-ai",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-08T05:00:00.000Z",
+      "summary": "Jasper was inescapable in the early years of the AI boom. With its quirky robot logo and \"Boss Mode,\" a tool that churned out long-form blog posts, it had more name recognition than any other AI writing assistant. Then ChatGPT came out and changed everything.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social",
+        "how-to",
+        "case study"
+      ],
+      "score": 47,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 37,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "f7ebe6f5469c",
+      "title": "The 7 best AI scheduling assistants in 2026",
+      "url": "https://zapier.com/blog/best-ai-scheduling",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-08T05:00:00.000Z",
+      "summary": "Productivity starts with your calendar&#x2014;but sometimes it ends there too. No one wants to reprioritize an entire week after an emergency, or play calendar Tetris to land a meeting with that busy lead sometime in the next two days.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Worth an hour to set up if you are still coordinating bookings by email."
+      ],
+      "category": "automation",
+      "tags": [
+        "scheduling"
+      ],
+      "score": 36,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "cfde25b01186",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-08T19:00:00.000Z",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 33,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "1ff1bfc94ab3",
+      "title": "OpenAI Admits More AI Agents Went Astray in May",
+      "url": "https://aibusiness.com/cybersecurity/openai-admits-more-ai-agents-went-astray-in-may",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-09-08T19:06:48.000Z",
+      "summary": "The incident was the latest in a string of unauthorized actions by AI agents.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "fc545ccda0bf",
+      "title": "Salesforce Unveils Claudeforce: Transforming Customer Experiences",
+      "url": "https://smallbiztrends.com/salesforce-unveils-claudeforce-transforming-customer-experiences",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-08T19:11:00.000Z",
+      "summary": "Discover how Salesforce's latest innovation, Claudeforce, is revolutionizing customer experiences by leveraging cutting-edge technology and data-driven insights.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "b5deea856c03",
+      "title": "SurveyMonkey Unveils AI-Enhanced Platform Prioritizing Human Insight",
+      "url": "https://smallbiztrends.com/surveymonkey-unveils-ai-enhanced-platform-prioritizing-human-insight",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-08T17:11:00.000Z",
+      "summary": "Discover how SurveyMonkey's latest AI-enhanced platform is revolutionizing data collection by prioritizing human insight, enabling businesses to make informed decisions with greater accuracy and relevance.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "726d56896e0f",
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-08T19:00:00.000Z",
+      "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "305f03a4aa6a",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-09-08T11:30:00.000Z",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "1f647b996979",
+      "title": "Jasper vs. Copy.ai: Which is best? [2026]",
+      "url": "https://zapier.com/blog/jasper-vs-copy-ai",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-08T04:00:00.000Z",
+      "summary": "Jasper and Copy.ai were two of the first AI text generators to hit the market in the pre-ChatGPT days. (Remember a world without ChatGPT?",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow"
+      ],
+      "score": 22,
+      "breakdown": {
+        "relevance": 13,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "ok": true,
+      "itemCount": 19
+    },
+    {
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "ok": false,
+      "itemCount": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "ok": true,
+      "itemCount": 1180
+    },
+    {
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "ok": true,
+      "itemCount": 860
+    },
+    {
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "ben-evans",
+      "sourceName": "Benedict Evans",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "ok": true,
+      "itemCount": 50
+    }
+  ],
+  "stats": {
+    "fetched": 2214,
+    "onTopic": 34,
+    "deduped": 34,
+    "scored": 11,
+    "published": 11,
+    "enriched": false
+  }
+}
