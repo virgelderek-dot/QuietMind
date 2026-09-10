@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
-  "generatedAt": "2026-09-10T08:55:33.347Z",
-  "headline": "12 stories worth your time — mostly automate your ops. Start with: Read the Apple document explaining how new listening features still protect your privacy",
+  "generatedAt": "2026-09-10T16:58:36.720Z",
+  "headline": "15 stories worth your time — mostly automate your ops. Start with: Read the Apple document explaining how new listening features still protect your privacy",
   "items": [
     {
       "id": "d6f0852fba8f",
@@ -20,12 +20,12 @@
         "privacy",
         "launch"
       ],
-      "score": 41,
+      "score": 40,
       "breakdown": {
         "relevance": 31,
         "actionability": 11,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -47,12 +47,12 @@
         "workflow",
         "launch"
       ],
-      "score": 38,
+      "score": 36,
       "breakdown": {
         "relevance": 13,
         "actionability": 18,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -73,12 +73,39 @@
       "tags": [
         "privacy"
       ],
-      "score": 34,
+      "score": 33,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "8b4677a71fac",
+      "title": "Meta’s Muse AI works and creeps me out",
+      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-10T15:00:00.000Z",
+      "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "launch"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 17,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -99,66 +126,65 @@
       "tags": [
         "agents"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "be60902fd8fd",
-      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening",
+      "id": "09cae6b4ca35",
+      "title": "AI agents are flooding public services with new requests",
+      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-09T20:24:48.000Z",
-      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+      "publishedAt": "2026-09-10T14:53:50.000Z",
+      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Check what customer data you are currently passing to AI tools, and under what terms."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
       "category": "automation",
       "tags": [
-        "notes",
-        "privacy"
+        "agents"
       ],
-      "score": 29,
+      "score": 28,
       "breakdown": {
-        "relevance": 24,
+        "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 17,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "7175cffc420c",
-      "title": "Google Gemini Unveils Lyria 3.5: Revolutionizing Music Creation",
-      "url": "https://smallbiztrends.com/google-gemini-unveils-lyria-3-5-revolutionizing-music-creation",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-09-09T17:11:00.000Z",
-      "summary": "Discover how Google Gemini's Lyria 3.5 is transforming the music creation landscape with innovative features and advanced AI technology. Explore the future of music production and unleash your creativity today!",
+      "id": "014159943e4d",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-09-10T16:00:00.000Z",
+      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
       "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
         "Background reading — no action needed today, but worth knowing."
       ],
       "category": "strategy",
       "tags": [
-        "launch"
+        "case study"
       ],
       "score": 28,
       "breakdown": {
         "relevance": 0,
-        "actionability": 18,
+        "actionability": 14,
         "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1.2
+        "freshness": 18,
+        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -183,19 +209,46 @@
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 0.95
       },
       "enriched": false
     },
     {
-      "id": "90533ede4770",
-      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up",
+      "id": "be60902fd8fd",
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-09T12:05:34.000Z",
-      "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+      "publishedAt": "2026-09-09T20:24:48.000Z",
+      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Check what customer data you are currently passing to AI tools, and under what terms."
+      ],
+      "category": "automation",
+      "tags": [
+        "notes",
+        "privacy"
+      ],
+      "score": 27,
+      "breakdown": {
+        "relevance": 24,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "95095ad6209d",
+      "title": "Universal Music is launching an AI music platform with ElevenLabs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-10T15:38:19.000Z",
+      "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday.",
       "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
       "actions": [
         "Review anything you have already published that this would now cover."
@@ -206,11 +259,63 @@
       ],
       "score": 27,
       "breakdown": {
-        "relevance": 24,
+        "relevance": 15,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1
+        "freshness": 17,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "7c6ac0545255",
+      "title": "The best sales pipeline management software in 2026",
+      "url": "https://zapier.com/blog/pipeline-management-software",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-10T04:00:00.000Z",
+      "summary": "As anyone who's ever seen a cartoon plumber knows, the best pipeline management tool is a monkey wrench. But if you want to know the best sales pipeline management tool, unfortunately, you should probably read the next several thousand words of in-depth…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation"
+      ],
+      "score": 27,
+      "breakdown": {
+        "relevance": 16,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "1ef5285e671d",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-09-10T07:00:00.000Z",
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Review anything you have already published that this would now cover."
+      ],
+      "category": "rules",
+      "tags": [
+        "copyright"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 15,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -230,12 +335,12 @@
       "tags": [
         "price cut"
       ],
-      "score": 25,
+      "score": 24,
       "breakdown": {
         "relevance": 20,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
@@ -256,12 +361,12 @@
       "tags": [
         "support"
       ],
-      "score": 24,
+      "score": 23,
       "breakdown": {
         "relevance": 16,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -282,39 +387,13 @@
       "tags": [
         "launch"
       ],
-      "score": 23,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "305f03a4aa6a",
-      "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-09-08T11:30:00.000Z",
-      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
       "score": 22,
       "breakdown": {
         "relevance": 0,
         "actionability": 18,
         "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 1.15
+        "freshness": 9,
+        "sourceWeight": 1
       },
       "enriched": false
     }
@@ -349,7 +428,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1183
+      "itemCount": 1186
     },
     {
       "sourceId": "google-ai-blog",
@@ -361,7 +440,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 860
+      "itemCount": 861
     },
     {
       "sourceId": "zapier-blog",
@@ -389,11 +468,11 @@
     }
   ],
   "stats": {
-    "fetched": 2217,
-    "onTopic": 46,
-    "deduped": 46,
-    "scored": 12,
-    "published": 12,
+    "fetched": 2221,
+    "onTopic": 42,
+    "deduped": 42,
+    "scored": 15,
+    "published": 15,
     "enriched": false
   }
 }
