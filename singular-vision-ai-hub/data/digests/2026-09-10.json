@@ -1,0 +1,399 @@
+{
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-10T08:55:33.347Z",
+  "headline": "12 stories worth your time — mostly automate your ops. Start with: Read the Apple document explaining how new listening features still protect your privacy",
+  "items": [
+    {
+      "id": "d6f0852fba8f",
+      "title": "Read the Apple document explaining how new listening features still protect your privacy",
+      "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-09T20:44:43.000Z",
+      "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Check what customer data you are currently passing to AI tools, and under what terms."
+      ],
+      "category": "rules",
+      "tags": [
+        "privacy",
+        "launch"
+      ],
+      "score": 41,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "e1e224c8d888",
+      "title": "Salesforce Unveils New Editions with Enhanced AI and Collaboration Tools",
+      "url": "https://smallbiztrends.com/salesforce-unveils-new-editions-with-enhanced-ai-and-collaboration-tools",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-09T19:11:00.000Z",
+      "summary": "Discover the latest features in Salesforce's new editions, including enhanced AI capabilities and collaboration tools designed to boost productivity and streamline workflows for businesses.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow",
+        "launch"
+      ],
+      "score": 38,
+      "breakdown": {
+        "relevance": 13,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "63ea6811b42b",
+      "title": "Microsoft has new AI privacy rules for schools",
+      "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-09T17:07:48.000Z",
+      "summary": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Check what customer data you are currently passing to AI tools, and under what terms."
+      ],
+      "category": "rules",
+      "tags": [
+        "privacy"
+      ],
+      "score": 34,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "f7d69fac95d8",
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-09T13:00:00.000Z",
+      "summary": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "be60902fd8fd",
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-09T20:24:48.000Z",
+      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Check what customer data you are currently passing to AI tools, and under what terms."
+      ],
+      "category": "automation",
+      "tags": [
+        "notes",
+        "privacy"
+      ],
+      "score": 29,
+      "breakdown": {
+        "relevance": 24,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "7175cffc420c",
+      "title": "Google Gemini Unveils Lyria 3.5: Revolutionizing Music Creation",
+      "url": "https://smallbiztrends.com/google-gemini-unveils-lyria-3-5-revolutionizing-music-creation",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-09T17:11:00.000Z",
+      "summary": "Discover how Google Gemini's Lyria 3.5 is transforming the music creation landscape with innovative features and advanced AI technology. Explore the future of music production and unleash your creativity today!",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "1ff1bfc94ab3",
+      "title": "OpenAI Admits More AI Agents Went Astray in May",
+      "url": "https://aibusiness.com/cybersecurity/openai-admits-more-ai-agents-went-astray-in-may",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-09-08T19:06:48.000Z",
+      "summary": "The incident was the latest in a string of unauthorized actions by AI agents.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 8,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "90533ede4770",
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-09T12:05:34.000Z",
+      "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Review anything you have already published that this would now cover."
+      ],
+      "category": "rules",
+      "tags": [
+        "copyright"
+      ],
+      "score": 27,
+      "breakdown": {
+        "relevance": 24,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "b69346a1157c",
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-09T14:18:34.000Z",
+      "summary": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material."
+      ],
+      "category": "pricing",
+      "tags": [
+        "price cut"
+      ],
+      "score": 25,
+      "breakdown": {
+        "relevance": 20,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "4e55a7b30a82",
+      "title": "AI governance: What it is and why it's crucial for every business",
+      "url": "https://zapier.com/blog/ai-governance",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-09T04:00:00.000Z",
+      "summary": "AI is doing more on behalf of companies every day. And when something goes wrong&#x2014;a corrupted record, an unauthorized action, a decision made on your behalf that you never approved&#x2014;someone has to be accountable.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Draft answers for your ten most common customer questions and test the quality on those."
+      ],
+      "category": "automation",
+      "tags": [
+        "support"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 16,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "501c0abacbed",
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-09T13:00:00.000Z",
+      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "305f03a4aa6a",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-09-08T11:30:00.000Z",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 22,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 6,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "ok": true,
+      "itemCount": 19
+    },
+    {
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "ok": false,
+      "itemCount": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "ok": true,
+      "itemCount": 1183
+    },
+    {
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "ok": true,
+      "itemCount": 860
+    },
+    {
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "ben-evans",
+      "sourceName": "Benedict Evans",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "ok": true,
+      "itemCount": 50
+    }
+  ],
+  "stats": {
+    "fetched": 2217,
+    "onTopic": 46,
+    "deduped": 46,
+    "scored": 12,
+    "published": 12,
+    "enriched": false
+  }
+}
