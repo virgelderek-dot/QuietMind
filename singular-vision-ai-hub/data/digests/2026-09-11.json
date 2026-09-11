@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
-  "generatedAt": "2026-09-11T08:53:12.575Z",
-  "headline": "17 stories worth your time — mostly automate your ops. Start with: Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)",
+  "generatedAt": "2026-09-11T17:00:50.282Z",
+  "headline": "16 stories worth your time — mostly automate your ops. Start with: Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)",
   "items": [
     {
       "id": "0f676982117a",
@@ -28,7 +28,7 @@
         "relevance": 94,
         "actionability": 14,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -50,40 +50,13 @@
         "content",
         "launch"
       ],
-      "score": 39,
+      "score": 38,
       "breakdown": {
         "relevance": 15,
         "actionability": 18,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "d6f0852fba8f",
-      "title": "Read the Apple document explaining how new listening features still protect your privacy",
-      "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-09-09T20:44:43.000Z",
-      "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition.",
-      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
-      "actions": [
-        "Check what customer data you are currently passing to AI tools, and under what terms."
-      ],
-      "category": "rules",
-      "tags": [
-        "privacy",
-        "launch"
-      ],
-      "score": 38,
-      "breakdown": {
-        "relevance": 31,
-        "actionability": 11,
-        "noise": 0,
-        "freshness": 8,
-        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -103,13 +76,39 @@
       "tags": [
         "launch"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 0,
         "actionability": 29,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "f63fa9667ffc",
+      "title": "Google Workspace Launches Pics: AI Image Creation Tool for All Users",
+      "url": "https://smallbiztrends.com/google-workspace-launches-pics-ai-image-creation-tool-for-all-users",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-11T15:11:00.000Z",
+      "summary": "Discover how Google Workspace's new AI image creation tool, Pics, empowers all users to generate stunning visuals effortlessly. Unleash your creativity and explore the features of this innovative addition to enhance your projects.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -130,12 +129,38 @@
         "service business",
         "playbook"
       ],
-      "score": 31,
+      "score": 30,
       "breakdown": {
         "relevance": 10,
         "actionability": 16,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "62d35db41d4e",
+      "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-11T14:25:21.000Z",
+      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Draft answers for your ten most common customer questions and test the quality on those."
+      ],
+      "category": "automation",
+      "tags": [
+        "support"
+      ],
+      "score": 27,
+      "breakdown": {
+        "relevance": 16,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -157,12 +182,12 @@
         "agents",
         "launch"
       ],
-      "score": 28,
+      "score": 27,
       "breakdown": {
         "relevance": 12,
         "actionability": 11,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -183,38 +208,12 @@
       "tags": [
         "agents"
       ],
-      "score": 26,
+      "score": 24,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "b7ab30d4db8a",
-      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-10T17:45:00.000Z",
-      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
-      "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material."
-      ],
-      "category": "pricing",
-      "tags": [
-        "price cut"
-      ],
-      "score": 26,
-      "breakdown": {
-        "relevance": 20,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
@@ -235,38 +234,38 @@
       "tags": [
         "agents"
       ],
-      "score": 25,
+      "score": 24,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "09cae6b4ca35",
-      "title": "AI agents are flooding public services with new requests",
-      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests",
+      "id": "b7ab30d4db8a",
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-10T14:53:50.000Z",
-      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "publishedAt": "2026-09-10T17:45:00.000Z",
+      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
       "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
+        "Compare against what you currently pay for the same job and reprice if the gap is material."
       ],
-      "category": "automation",
+      "category": "pricing",
       "tags": [
-        "agents"
+        "price cut"
       ],
-      "score": 25,
+      "score": 24,
       "breakdown": {
-        "relevance": 19,
+        "relevance": 20,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
@@ -288,12 +287,12 @@
         "notes",
         "privacy"
       ],
-      "score": 25,
+      "score": 24,
       "breakdown": {
         "relevance": 24,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 1
       },
       "enriched": false
@@ -314,12 +313,12 @@
       "tags": [
         "case study"
       ],
-      "score": 24,
+      "score": 23,
       "breakdown": {
         "relevance": 0,
         "actionability": 14,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -340,65 +339,39 @@
       "tags": [
         "automation"
       ],
-      "score": 24,
+      "score": 23,
       "breakdown": {
         "relevance": 16,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "a1f5ae11a556",
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+      "id": "09cae6b4ca35",
+      "title": "AI agents are flooding public services with new requests",
+      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-10T20:57:30.000Z",
-      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "publishedAt": "2026-09-10T14:53:50.000Z",
+      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
         "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
-      "category": "marketing",
+      "category": "automation",
       "tags": [
-        "ads"
-      ],
-      "score": 24,
-      "breakdown": {
-        "relevance": 16,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 14,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "95095ad6209d",
-      "title": "Universal Music is launching an AI music platform with ElevenLabs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-09-10T15:38:19.000Z",
-      "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday.",
-      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
-      "actions": [
-        "Review anything you have already published that this would now cover."
-      ],
-      "category": "rules",
-      "tags": [
-        "copyright"
+        "agents"
       ],
       "score": 23,
       "breakdown": {
-        "relevance": 15,
+        "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.05
+        "freshness": 10,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -418,39 +391,39 @@
       "tags": [
         "copyright"
       ],
-      "score": 23,
+      "score": 22,
       "breakdown": {
         "relevance": 15,
         "actionability": 0,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.15
       },
       "enriched": false
     },
     {
-      "id": "dc0cca6917dd",
-      "title": "AI Coding Startup Cognition Now Valued at $48B",
-      "url": "https://aibusiness.com/generative-ai/ai-coding-startup-cognition-valued-at-48b",
-      "sourceId": "ai-business",
-      "sourceName": "AI Business",
-      "publishedAt": "2026-09-10T17:52:29.000Z",
-      "summary": "Interest in automated generative AI coding has exploded along with the vendor’s growth.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "id": "a1f5ae11a556",
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-10T20:57:30.000Z",
+      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
       "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
-      "category": "automation",
+      "category": "marketing",
       "tags": [
-        "automation"
+        "ads"
       ],
       "score": 22,
       "breakdown": {
         "relevance": 16,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 0.95
+        "freshness": 11,
+        "sourceWeight": 1
       },
       "enriched": false
     }
@@ -485,7 +458,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1189
+      "itemCount": 1190
     },
     {
       "sourceId": "google-ai-blog",
@@ -525,11 +498,11 @@
     }
   ],
   "stats": {
-    "fetched": 2224,
+    "fetched": 2225,
     "onTopic": 40,
     "deduped": 40,
-    "scored": 17,
-    "published": 17,
+    "scored": 16,
+    "published": 16,
     "enriched": false
   }
 }
