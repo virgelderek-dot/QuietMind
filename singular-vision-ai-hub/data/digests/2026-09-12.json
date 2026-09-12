@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
-  "generatedAt": "2026-09-12T08:36:23.541Z",
-  "headline": "7 stories worth your time — mostly strategy & trends. Start with: Lenovo Unveils AI Tool, Streamlining Access to Critical Information for Employees",
+  "generatedAt": "2026-09-12T16:16:30.792Z",
+  "headline": "3 stories worth your time — mostly strategy & trends. Start with: Lenovo Unveils AI Tool, Streamlining Access to Critical Information for Employees",
   "items": [
     {
       "id": "15e7d810904b",
@@ -19,38 +19,12 @@
       "tags": [
         "launch"
       ],
-      "score": 36,
+      "score": 35,
       "breakdown": {
         "relevance": 0,
         "actionability": 29,
         "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "f63fa9667ffc",
-      "title": "Google Workspace Launches Pics: AI Image Creation Tool for All Users",
-      "url": "https://smallbiztrends.com/google-workspace-launches-pics-ai-image-creation-tool-for-all-users",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-09-11T15:11:00.000Z",
-      "summary": "Discover how Google Workspace's new AI image creation tool, Pics, empowers all users to generate stunning visuals effortlessly. Unleash your creativity and explore the features of this innovative addition to enhance your projects.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 28,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 12,
+        "freshness": 11,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -77,34 +51,7 @@
         "relevance": 10,
         "actionability": 16,
         "noise": 0,
-        "freshness": 8,
-        "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "8b4677a71fac",
-      "title": "Meta’s Muse AI works and creeps me out",
-      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-09-10T15:00:00.000Z",
-      "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents",
-        "launch"
-      ],
-      "score": 25,
-      "breakdown": {
-        "relevance": 12,
-        "actionability": 11,
-        "noise": 0,
-        "freshness": 7,
+        "freshness": 6,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -125,65 +72,13 @@
       "tags": [
         "support"
       ],
-      "score": 23,
+      "score": 22,
       "breakdown": {
         "relevance": 16,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "bbdfeaa5dcb8",
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-10T19:50:04.000Z",
-      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 19,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 8,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "b7ab30d4db8a",
-      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-10T17:45:00.000Z",
-      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
-      "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material."
-      ],
-      "category": "pricing",
-      "tags": [
-        "price cut"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 20,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
       },
       "enriched": false
     }
@@ -259,10 +154,10 @@
   ],
   "stats": {
     "fetched": 2227,
-    "onTopic": 30,
-    "deduped": 30,
-    "scored": 7,
-    "published": 7,
+    "onTopic": 26,
+    "deduped": 26,
+    "scored": 3,
+    "published": 3,
     "enriched": false
   }
 }
