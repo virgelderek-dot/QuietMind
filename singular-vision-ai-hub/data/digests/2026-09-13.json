@@ -1,8 +1,35 @@
 {
   "date": "2026-09-13",
-  "generatedAt": "2026-09-13T09:33:09.743Z",
-  "headline": "Nothing today cleared the bar. That is a legitimate result — no busywork.",
-  "items": [],
+  "generatedAt": "2026-09-13T16:57:58.061Z",
+  "headline": "1 story worth your time — mostly strategy & trends. Start with: Google Launches Fairwind Program to Empower Cyber Defenders with AI",
+  "items": [
+    {
+      "id": "8e7361404b42",
+      "title": "Google Launches Fairwind Program to Empower Cyber Defenders with AI",
+      "url": "https://smallbiztrends.com/google-launches-fairwind-program-to-empower-cyber-defenders-with-ai",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-13T15:11:00.000Z",
+      "summary": "Discover how Google's Fairwind Program is empowering cyber defenders with advanced AI tools, enhancing security measures, and fostering innovation in the fight against cyber threats.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    }
+  ],
   "sources": [
     {
       "sourceId": "techcrunch-ai",
@@ -74,10 +101,10 @@
   ],
   "stats": {
     "fetched": 2227,
-    "onTopic": 19,
-    "deduped": 18,
-    "scored": 0,
-    "published": 0,
+    "onTopic": 14,
+    "deduped": 13,
+    "scored": 1,
+    "published": 1,
     "enriched": false
   }
 }
