@@ -1,14 +1,233 @@
 {
   "date": "2026-09-14",
-  "generatedAt": "2026-09-14T09:48:20.221Z",
-  "headline": "Nothing today cleared the bar. That is a legitimate result — no busywork.",
-  "items": [],
+  "generatedAt": "2026-09-14T18:35:06.765Z",
+  "headline": "8 stories worth your time — mostly automate your ops. Start with: AI agents for business automation (with 27 AI agent examples)",
+  "items": [
+    {
+      "id": "5ba6261fc2da",
+      "title": "AI agents for business automation (with 27 AI agent examples)",
+      "url": "https://zapier.com/blog/ai-agents-for-business",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-14T05:00:00.000Z",
+      "summary": "Long before Zapier hired me to write for them, I was already a power user. I loved tinkering with automations and watching tasks take care of themselves.&#xA0; But as much as I leaned on those workflows, I always wished they could not only do work for me but…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Worth an hour to set up if you are still coordinating bookings by email."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "agents",
+        "workflow",
+        "automation stack",
+        "scheduling"
+      ],
+      "score": 75,
+      "breakdown": {
+        "relevance": 113,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "5f33f4b1e846",
+      "title": "Google Gemini Unveils Agentic Video Understanding, Cutting Costs and Boosting Accuracy",
+      "url": "https://smallbiztrends.com/google-gemini-unveils-agentic-video-understanding-cutting-costs-and-boosting-accuracy",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-14T15:11:00.000Z",
+      "summary": "Discover how Google Gemini's new Agentic Video Understanding technology is transforming video analysis by cutting costs and enhancing accuracy, paving the way for innovative applications in various industries.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "launch"
+      ],
+      "score": 51,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "e159ea9ebe1a",
+      "title": "Prevent lock-in with AI model flexibility on Zapier",
+      "url": "https://zapier.com/blog/ai-model-flexibility",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-14T05:00:00.000Z",
+      "summary": "Every AI provider comes with models of varying strengths. I'm a Claude stan because it just gets my writing style. But for some tasks, Claude's lineup doesn't cut it at all&#x2014;when I need to process data at scale, for example, I might reach for Gemini.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation stack"
+      ],
+      "score": 37,
+      "breakdown": {
+        "relevance": 39,
+        "actionability": 0,
+        "noise": -12,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "b4d55b3badd2",
+      "title": "The 4 best ChatGPT alternatives in 2026",
+      "url": "https://zapier.com/blog/chatgpt-alternatives",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "ChatGPT is the biggest name in AI chatbots, but it's far from the only one around. And depending on what you're trying to do, it might not even be the best option for you.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Draft answers for your ten most common customer questions and test the quality on those."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow",
+        "support"
+      ],
+      "score": 37,
+      "breakdown": {
+        "relevance": 29,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "28332c473be9",
+      "title": "The 9 best AI visibility tools in 2026",
+      "url": "https://zapier.com/blog/best-ai-visibility-tool",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Your brand's reputation now lives inside a new algorithm: one that's based on AI searches made in tools like ChatGPT, Claude, and Gemini. One hallucinated fact, one competitor-favoring answer, and the trust, traffic, and sales can vanish overnight.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Audit how your site currently surfaces in AI-generated answers, not just in blue links.",
+        "Cheapest test: regenerate an asset you already paid for and compare quality honestly."
+      ],
+      "category": "marketing",
+      "tags": [
+        "seo",
+        "creative"
+      ],
+      "score": 37,
+      "breakdown": {
+        "relevance": 29,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "d25fe05bfd34",
+      "title": "Google Unveils Gemini 3.8: Next-Level AI for Coding and Cybersecurity",
+      "url": "https://smallbiztrends.com/google-unveils-gemini-3-8-next-level-ai-for-coding-and-cybersecurity",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-14T17:11:00.000Z",
+      "summary": "Discover how Google’s Gemini 3.8 is revolutionizing coding and cybersecurity with advanced AI capabilities. Explore its features, potential applications, and what this means for developers and security professionals alike.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "2267286cfd5c",
+      "title": "DevFest is back",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "publishedAt": "2026-09-14T16:00:00.000Z",
+      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 25,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.1
+      },
+      "enriched": false
+    },
+    {
+      "id": "08892fab2cc6",
+      "title": "The 5 best AI search engines in 2026",
+      "url": "https://zapier.com/blog/best-ai-search-engine",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-14T05:00:00.000Z",
+      "summary": "It often feels like Google search has gotten worse. While the issue is complicated, online search has never felt like such a chore. Not only do you have to hop through numerous links to pinpoint what you're searching for, but you also have to navigate a maze…",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "marketing",
+      "tags": [
+        "ads"
+      ],
+      "score": 22,
+      "breakdown": {
+        "relevance": 10,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    }
+  ],
   "sources": [
     {
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
       "ok": true,
-      "itemCount": 19
+      "itemCount": 20
     },
     {
       "sourceId": "verge-ai",
@@ -73,11 +292,11 @@
     }
   ],
   "stats": {
-    "fetched": 2229,
-    "onTopic": 12,
-    "deduped": 11,
-    "scored": 0,
-    "published": 0,
+    "fetched": 2230,
+    "onTopic": 23,
+    "deduped": 22,
+    "scored": 8,
+    "published": 8,
     "enriched": false
   }
 }
