@@ -1,0 +1,303 @@
+{
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-15T09:22:52.067Z",
+  "headline": "8 stories worth your time — mostly automate your ops. Start with: AI agents for business automation (with 27 AI agent examples)",
+  "items": [
+    {
+      "id": "5ba6261fc2da",
+      "title": "AI agents for business automation (with 27 AI agent examples)",
+      "url": "https://zapier.com/blog/ai-agents-for-business",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-14T05:00:00.000Z",
+      "summary": "Long before Zapier hired me to write for them, I was already a power user. I loved tinkering with automations and watching tasks take care of themselves.&#xA0; But as much as I leaned on those workflows, I always wished they could not only do work for me but…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Worth an hour to set up if you are still coordinating bookings by email."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "agents",
+        "workflow",
+        "automation stack",
+        "scheduling"
+      ],
+      "score": 74,
+      "breakdown": {
+        "relevance": 113,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "e159ea9ebe1a",
+      "title": "Prevent lock-in with AI model flexibility on Zapier",
+      "url": "https://zapier.com/blog/ai-model-flexibility",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-14T05:00:00.000Z",
+      "summary": "Every AI provider comes with models of varying strengths. I'm a Claude stan because it just gets my writing style. But for some tasks, Claude's lineup doesn't cut it at all&#x2014;when I need to process data at scale, for example, I might reach for Gemini.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation stack"
+      ],
+      "score": 34,
+      "breakdown": {
+        "relevance": 39,
+        "actionability": 0,
+        "noise": -12,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "b4d55b3badd2",
+      "title": "The 4 best ChatGPT alternatives in 2026",
+      "url": "https://zapier.com/blog/chatgpt-alternatives",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "ChatGPT is the biggest name in AI chatbots, but it's far from the only one around. And depending on what you're trying to do, it might not even be the best option for you.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Draft answers for your ten most common customer questions and test the quality on those."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow",
+        "support"
+      ],
+      "score": 34,
+      "breakdown": {
+        "relevance": 29,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "28332c473be9",
+      "title": "The 9 best AI visibility tools in 2026",
+      "url": "https://zapier.com/blog/best-ai-visibility-tool",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Your brand's reputation now lives inside a new algorithm: one that's based on AI searches made in tools like ChatGPT, Claude, and Gemini. One hallucinated fact, one competitor-favoring answer, and the trust, traffic, and sales can vanish overnight.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Audit how your site currently surfaces in AI-generated answers, not just in blue links.",
+        "Cheapest test: regenerate an asset you already paid for and compare quality honestly."
+      ],
+      "category": "marketing",
+      "tags": [
+        "seo",
+        "creative"
+      ],
+      "score": 34,
+      "breakdown": {
+        "relevance": 29,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "127afe7063d1",
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-14T14:45:44.000Z",
+      "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
+      ],
+      "category": "pricing",
+      "tags": [
+        "agents",
+        "free tier",
+        "free"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 41,
+        "actionability": 8,
+        "noise": -19,
+        "freshness": 12,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "d25fe05bfd34",
+      "title": "Google Unveils Gemini 3.8: Next-Level AI for Coding and Cybersecurity",
+      "url": "https://smallbiztrends.com/google-unveils-gemini-3-8-next-level-ai-for-coding-and-cybersecurity",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-14T17:11:00.000Z",
+      "summary": "Discover how Google’s Gemini 3.8 is revolutionizing coding and cybersecurity with advanced AI capabilities. Explore its features, potential applications, and what this means for developers and security professionals alike.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "9f1bce286771",
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam",
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "publishedAt": "2026-09-14T21:04:32.000Z",
+      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social"
+      ],
+      "score": 25,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "cb9a3f573d03",
+      "title": "Harnesses Bring Coordination and Guardrails to Enterprise AI Agents",
+      "url": "https://aibusiness.com/agentic-ai/harnesses-bring-coordination-guardrails-enterprise-ai-agents",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-09-14T18:29:42.000Z",
+      "summary": "The meaning of harness is still evolving.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "ok": false,
+      "itemCount": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "ok": true,
+      "itemCount": 1193
+    },
+    {
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "ok": true,
+      "itemCount": 862
+    },
+    {
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "ben-evans",
+      "sourceName": "Benedict Evans",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "ok": true,
+      "itemCount": 50
+    }
+  ],
+  "stats": {
+    "fetched": 2230,
+    "onTopic": 24,
+    "deduped": 24,
+    "scored": 8,
+    "published": 8,
+    "enriched": false
+  }
+}
