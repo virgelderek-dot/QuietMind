@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
-  "generatedAt": "2026-09-15T09:22:52.067Z",
-  "headline": "8 stories worth your time — mostly automate your ops. Start with: AI agents for business automation (with 27 AI agent examples)",
+  "generatedAt": "2026-09-15T17:39:25.180Z",
+  "headline": "11 stories worth your time — mostly automate your ops. Start with: AI agents for business automation (with 27 AI agent examples)",
   "items": [
     {
       "id": "5ba6261fc2da",
@@ -24,13 +24,100 @@
         "automation stack",
         "scheduling"
       ],
-      "score": 74,
+      "score": 73,
       "breakdown": {
         "relevance": 113,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "60e3714cb4a4",
+      "title": "Meta’s new One subscriptions put a price on social media and AI",
+      "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-15T15:00:00.000Z",
+      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material.",
+        "Use it to increase output on a channel that already converts — not to open a new one.",
+        "Now generally available, so you can test it today rather than joining a waitlist."
+      ],
+      "category": "pricing",
+      "tags": [
+        "social",
+        "pricing",
+        "service business",
+        "availability"
+      ],
+      "score": 58,
+      "breakdown": {
+        "relevance": 74,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "401afc56f779",
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-15T14:42:37.000Z",
+      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social",
+        "how-to"
+      ],
+      "score": 41,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 22,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "73c493e5b2ef",
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-15T17:05:24.000Z",
+      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram and WhatsApp.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material.",
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "pricing",
+      "tags": [
+        "pricing",
+        "social"
+      ],
+      "score": 36,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -50,40 +137,12 @@
       "tags": [
         "automation stack"
       ],
-      "score": 34,
+      "score": 33,
       "breakdown": {
         "relevance": 39,
         "actionability": 0,
         "noise": -12,
-        "freshness": 9,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "b4d55b3badd2",
-      "title": "The 4 best ChatGPT alternatives in 2026",
-      "url": "https://zapier.com/blog/chatgpt-alternatives",
-      "sourceId": "zapier-blog",
-      "sourceName": "Zapier Blog",
-      "publishedAt": "2026-09-14T04:00:00.000Z",
-      "summary": "ChatGPT is the biggest name in AI chatbots, but it's far from the only one around. And depending on what you're trying to do, it might not even be the best option for you.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
-        "Draft answers for your ten most common customer questions and test the quality on those."
-      ],
-      "category": "automation",
-      "tags": [
-        "workflow",
-        "support"
-      ],
-      "score": 34,
-      "breakdown": {
-        "relevance": 29,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -106,12 +165,40 @@
         "seo",
         "creative"
       ],
-      "score": 34,
+      "score": 33,
       "breakdown": {
         "relevance": 29,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "b4d55b3badd2",
+      "title": "The 4 best ChatGPT alternatives in 2026",
+      "url": "https://zapier.com/blog/chatgpt-alternatives",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "ChatGPT is the biggest name in AI chatbots, but it's far from the only one around. And depending on what you're trying to do, it might not even be the best option for you.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Draft answers for your ten most common customer questions and test the quality on those."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow",
+        "support"
+      ],
+      "score": 33,
+      "breakdown": {
+        "relevance": 29,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -134,24 +221,24 @@
         "free tier",
         "free"
       ],
-      "score": 32,
+      "score": 30,
       "breakdown": {
         "relevance": 41,
         "actionability": 8,
         "noise": -19,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "d25fe05bfd34",
-      "title": "Google Unveils Gemini 3.8: Next-Level AI for Coding and Cybersecurity",
-      "url": "https://smallbiztrends.com/google-unveils-gemini-3-8-next-level-ai-for-coding-and-cybersecurity",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-09-14T17:11:00.000Z",
-      "summary": "Discover how Google’s Gemini 3.8 is revolutionizing coding and cybersecurity with advanced AI capabilities. Explore its features, potential applications, and what this means for developers and security professionals alike.",
+      "id": "e1cbe30e1dec",
+      "title": "This doorbell camera lets a human security guard watch your front door",
+      "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-15T13:36:45.000Z",
+      "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at…",
       "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
         "Background reading — no action needed today, but worth knowing."
@@ -160,13 +247,13 @@
       "tags": [
         "launch"
       ],
-      "score": 28,
+      "score": 23,
       "breakdown": {
         "relevance": 0,
-        "actionability": 18,
+        "actionability": 11,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.2
+        "freshness": 16,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -186,12 +273,12 @@
       "tags": [
         "social"
       ],
-      "score": 25,
+      "score": 23,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -212,12 +299,12 @@
       "tags": [
         "agents"
       ],
-      "score": 24,
+      "score": 23,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -294,10 +381,10 @@
   ],
   "stats": {
     "fetched": 2230,
-    "onTopic": 24,
-    "deduped": 24,
-    "scored": 8,
-    "published": 8,
+    "onTopic": 34,
+    "deduped": 34,
+    "scored": 11,
+    "published": 11,
     "enriched": false
   }
 }
