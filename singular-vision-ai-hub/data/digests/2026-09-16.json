@@ -1,7 +1,7 @@
 {
   "date": "2026-09-16",
-  "generatedAt": "2026-09-16T09:16:00.877Z",
-  "headline": "10 stories worth your time — mostly automate your ops. Start with: Claude for small business: What it is and how to use it",
+  "generatedAt": "2026-09-16T17:36:57.763Z",
+  "headline": "18 stories worth your time — mostly automate your ops. Start with: Claude for small business: What it is and how to use it",
   "items": [
     {
       "id": "d9e9e4bc9a96",
@@ -29,7 +29,37 @@
         "relevance": 90,
         "actionability": 37,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "7a4c51dfaa15",
+      "title": "HubSpot Overhauls CRM With AI Agents and Self-Updating Data",
+      "url": "https://smallbiztrends.com/hubspot-overhauls-crm-with-ai-agents-and-self-updating-data",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-16T14:00:11.000Z",
+      "summary": "HubSpot unveils AI-powered CRM updates with smarter automation, self-updating data, new ad integrations, and tools for sales and marketing.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "crm",
+        "automation",
+        "ads",
+        "launch"
+      ],
+      "score": 70,
+      "breakdown": {
+        "relevance": 82,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 17,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -55,13 +85,69 @@
         "service business",
         "availability"
       ],
-      "score": 56,
+      "score": 55,
       "breakdown": {
         "relevance": 74,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "2306ad1a8f49",
+      "title": "Google will now let any AI agent run your smart home",
+      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-16T17:00:00.000Z",
+      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "integration",
+        "shipped"
+      ],
+      "score": 54,
+      "breakdown": {
+        "relevance": 42,
+        "actionability": 21,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "24e619c1ffa2",
+      "title": "Pipedrive Launches Nova AI Tool to Cut Sales Admin Work",
+      "url": "https://smallbiztrends.com/pipedrive-launches-nova-ai-tool-to-cut-sales-admin-work",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-16T11:30:51.000Z",
+      "summary": "Pipedrive launches Nova, an AI meeting intelligence tool that helps sales teams prepare for calls, record meetings, summarize conversations, and update CRM data.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "crm",
+        "notes",
+        "launch"
+      ],
+      "score": 54,
+      "breakdown": {
+        "relevance": 26,
+        "actionability": 29,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -82,10 +168,38 @@
         "workflow",
         "launch"
       ],
-      "score": 50,
+      "score": 49,
       "breakdown": {
         "relevance": 34,
         "actionability": 18,
+        "noise": 0,
+        "freshness": 10,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "db1ccb592430",
+      "title": "Vibe coding security: How to be sure your vibe-coded apps are safe to use",
+      "url": "https://zapier.com/blog/vibe-coding-security",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-16T04:00:00.000Z",
+      "summary": "Shipping your first app feels great. Your idea is finally out there for the entire world to see. You posted the link, people signed up, everything is smooth&#x2014;until you get billed $4,000 in OpenAI usage credits for API calls you didn't make.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Re-check your usage against the new limits so a cap does not surprise you mid-month.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "pricing",
+      "tags": [
+        "limits",
+        "how-to"
+      ],
+      "score": 48,
+      "breakdown": {
+        "relevance": 11,
+        "actionability": 36,
         "noise": 0,
         "freshness": 13,
         "sourceWeight": 1.2
@@ -109,13 +223,40 @@
         "agents",
         "launch"
       ],
-      "score": 49,
+      "score": 48,
       "breakdown": {
         "relevance": 31,
         "actionability": 18,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 10,
         "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "52752974efc0",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Check whether your storefront platform supports this natively before adding another subscription."
+      ],
+      "category": "marketing",
+      "tags": [
+        "ads",
+        "ecommerce"
+      ],
+      "score": 44,
+      "breakdown": {
+        "relevance": 40,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -137,13 +278,40 @@
         "templates",
         "shipped"
       ],
-      "score": 44,
+      "score": 43,
       "breakdown": {
         "relevance": 29,
         "actionability": 21,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "883d4782cc25",
+      "title": "Zoom Launches AI-Powered Revenue OS to Compete in CRM Market",
+      "url": "https://aibusiness.com/generative-ai/zoom-launches-ai-powered-revenue-os-compete-crm-market",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-09-16T15:48:58.000Z",
+      "summary": "Zoom is aiming to diversify its product offerings amid declining enterprise adoption. However, the video communications vendor faces fierce competition.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "crm",
+        "launch"
+      ],
+      "score": 39,
+      "breakdown": {
+        "relevance": 22,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 0.95
       },
       "enriched": false
     },
@@ -165,40 +333,38 @@
         "social",
         "how-to"
       ],
-      "score": 38,
+      "score": 37,
       "breakdown": {
         "relevance": 19,
         "actionability": 22,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "73c493e5b2ef",
-      "title": "Meta expands subscription push with new AI-focused plans",
-      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans",
+      "id": "29b48237ac8b",
+      "title": "Your AI agents can now control your Google Home devices",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-15T17:05:24.000Z",
-      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
-      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "publishedAt": "2026-09-16T17:00:00.000Z",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material.",
-        "Use it to increase output on a channel that already converts — not to open a new one."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
-      "category": "pricing",
+      "category": "automation",
       "tags": [
-        "pricing",
-        "social"
+        "agents"
       ],
-      "score": 33,
+      "score": 36,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 18,
         "sourceWeight": 1
       },
       "enriched": false
@@ -221,51 +387,78 @@
         "open source",
         "price cut"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 34,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 0.95
       },
       "enriched": false
     },
     {
-      "id": "911b74d594a1",
-      "title": "AI agents now have a place to snitch",
-      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch",
+      "id": "73c493e5b2ef",
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-15T17:42:59.000Z",
-      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "publishedAt": "2026-09-15T17:05:24.000Z",
+      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
       "actions": [
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+        "Compare against what you currently pay for the same job and reprice if the gap is material.",
+        "Use it to increase output on a channel that already converts — not to open a new one."
       ],
-      "category": "automation",
+      "category": "pricing",
       "tags": [
-        "agents",
-        "playbook"
+        "pricing",
+        "social"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
-        "relevance": 19,
-        "actionability": 10,
+        "relevance": 31,
+        "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "d2de68ab7234",
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-16T00:20:39.000Z",
-      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "id": "a553240ea84f",
+      "title": "The sexy AI-powered dating app scams are here",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-16T14:45:00.000Z",
+      "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Brief anyone who can authorise a payment or a password reset on your behalf."
+      ],
+      "category": "rules",
+      "tags": [
+        "fraud risk"
+      ],
+      "score": 29,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "3a2fbb6e3782",
+      "title": "A brief history of AI executives calling for regulation",
+      "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-16T12:00:00.000Z",
+      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder…",
       "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
       "actions": [
         "Note the compliance date and check whether your business size is in scope."
@@ -274,13 +467,39 @@
       "tags": [
         "regulation"
       ],
-      "score": 29,
+      "score": 23,
       "breakdown": {
         "relevance": 22,
         "actionability": 0,
+        "noise": -12,
+        "freshness": 16,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "027811ca1632",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-09-16T16:00:00.000Z",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
+      ],
+      "category": "strategy",
+      "tags": [
+        "free"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 8,
         "noise": 0,
-        "freshness": 15,
-        "sourceWeight": 1
+        "freshness": 17,
+        "sourceWeight": 1.15
       },
       "enriched": false
     }
@@ -315,7 +534,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1193
+      "itemCount": 1196
     },
     {
       "sourceId": "google-ai-blog",
@@ -355,11 +574,11 @@
     }
   ],
   "stats": {
-    "fetched": 2230,
-    "onTopic": 36,
-    "deduped": 36,
-    "scored": 10,
-    "published": 10,
+    "fetched": 2233,
+    "onTopic": 45,
+    "deduped": 45,
+    "scored": 22,
+    "published": 18,
     "enriched": false
   }
 }
