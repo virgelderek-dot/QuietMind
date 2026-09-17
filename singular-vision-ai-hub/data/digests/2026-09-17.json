@@ -1,0 +1,493 @@
+{
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-17T09:24:33.653Z",
+  "headline": "15 stories worth your time — mostly automate your ops. Start with: HubSpot Overhauls CRM With AI Agents and Self-Updating Data",
+  "items": [
+    {
+      "id": "7a4c51dfaa15",
+      "title": "HubSpot Overhauls CRM With AI Agents and Self-Updating Data",
+      "url": "https://smallbiztrends.com/hubspot-overhauls-crm-with-ai-agents-and-self-updating-data",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-16T14:00:11.000Z",
+      "summary": "HubSpot unveils AI-powered CRM updates with smarter automation, self-updating data, new ad integrations, and tools for sales and marketing.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "crm",
+        "automation",
+        "ads",
+        "launch"
+      ],
+      "score": 68,
+      "breakdown": {
+        "relevance": 82,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "60e3714cb4a4",
+      "title": "Meta’s new One subscriptions put a price on social media and AI",
+      "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-15T15:00:00.000Z",
+      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material.",
+        "Use it to increase output on a channel that already converts — not to open a new one.",
+        "Now generally available, so you can test it today rather than joining a waitlist."
+      ],
+      "category": "pricing",
+      "tags": [
+        "social",
+        "pricing",
+        "service business",
+        "availability"
+      ],
+      "score": 54,
+      "breakdown": {
+        "relevance": 74,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 7,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "2306ad1a8f49",
+      "title": "Google will now let any AI agent run your smart home",
+      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-16T17:00:00.000Z",
+      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "integration",
+        "shipped"
+      ],
+      "score": 51,
+      "breakdown": {
+        "relevance": 42,
+        "actionability": 21,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "db1ccb592430",
+      "title": "Vibe coding security: How to be sure your vibe-coded apps are safe to use",
+      "url": "https://zapier.com/blog/vibe-coding-security",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-16T04:00:00.000Z",
+      "summary": "Shipping your first app feels great. Your idea is finally out there for the entire world to see. You posted the link, people signed up, everything is smooth&#x2014;until you get billed $4,000 in OpenAI usage credits for API calls you didn't make.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Re-check your usage against the new limits so a cap does not surprise you mid-month.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "pricing",
+      "tags": [
+        "limits",
+        "how-to"
+      ],
+      "score": 46,
+      "breakdown": {
+        "relevance": 11,
+        "actionability": 36,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "1ad152d23630",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-15T20:12:53.000Z",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "templates",
+        "shipped"
+      ],
+      "score": 41,
+      "breakdown": {
+        "relevance": 29,
+        "actionability": 21,
+        "noise": 0,
+        "freshness": 8,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "52752974efc0",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Check whether your storefront platform supports this natively before adding another subscription."
+      ],
+      "category": "marketing",
+      "tags": [
+        "ads",
+        "ecommerce"
+      ],
+      "score": 41,
+      "breakdown": {
+        "relevance": 40,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "883d4782cc25",
+      "title": "Zoom Launches AI-Powered Revenue OS to Compete in CRM Market",
+      "url": "https://aibusiness.com/generative-ai/zoom-launches-ai-powered-revenue-os-compete-crm-market",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-09-16T15:48:58.000Z",
+      "summary": "Zoom is aiming to diversify its product offerings amid declining enterprise adoption. However, the video communications vendor faces fierce competition.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "crm",
+        "launch"
+      ],
+      "score": 36,
+      "breakdown": {
+        "relevance": 22,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "2853ac2f1108",
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-17T03:30:00.000Z",
+      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 35,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "29b48237ac8b",
+      "title": "Your AI agents can now control your Google Home devices",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-16T17:00:00.000Z",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 33,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "74385fc07073",
+      "title": "Enterprises in Shaky Spot Amid Calls for an AI Slowdown",
+      "url": "https://aibusiness.com/ai-policy/enterprises-shaky-spot-amid-calls-ai-slowdown",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-09-15T19:50:18.000Z",
+      "summary": "Calls for an AI slowdown come as enterprise demand is building for cheaper and unregulated open source models from China.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material.",
+        "Free to run, but budget the setup time honestly before committing."
+      ],
+      "category": "pricing",
+      "tags": [
+        "open source",
+        "price cut"
+      ],
+      "score": 30,
+      "breakdown": {
+        "relevance": 34,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 8,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "5f7e182a53f2",
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-09-16T12:00:00.000Z",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "strategy",
+      "tags": [
+        "how-to"
+      ],
+      "score": 29,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 22,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "a553240ea84f",
+      "title": "The sexy AI-powered dating app scams are here",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-16T14:45:00.000Z",
+      "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Brief anyone who can authorise a payment or a password reset on your behalf."
+      ],
+      "category": "rules",
+      "tags": [
+        "fraud risk"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "d2de68ab7234",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-16T00:20:39.000Z",
+      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Note the compliance date and check whether your business size is in scope."
+      ],
+      "category": "rules",
+      "tags": [
+        "regulation"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 22,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 8,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "d2f3ab14e50f",
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-16T23:40:00.000Z",
+      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 22,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "858d9ee27e4f",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-16T21:07:24.000Z",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Note the compliance date and check whether your business size is in scope."
+      ],
+      "category": "rules",
+      "tags": [
+        "regulation"
+      ],
+      "score": 22,
+      "breakdown": {
+        "relevance": 14,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "ok": false,
+      "itemCount": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "ok": true,
+      "itemCount": 1198
+    },
+    {
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "ok": true,
+      "itemCount": 862
+    },
+    {
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "ben-evans",
+      "sourceName": "Benedict Evans",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "ok": true,
+      "itemCount": 50
+    }
+  ],
+  "stats": {
+    "fetched": 2235,
+    "onTopic": 38,
+    "deduped": 38,
+    "scored": 15,
+    "published": 15,
+    "enriched": false
+  }
+}
