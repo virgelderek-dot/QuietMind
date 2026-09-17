@@ -1,69 +1,8 @@
 {
   "date": "2026-09-17",
-  "generatedAt": "2026-09-17T09:24:33.653Z",
-  "headline": "15 stories worth your time — mostly automate your ops. Start with: HubSpot Overhauls CRM With AI Agents and Self-Updating Data",
+  "generatedAt": "2026-09-17T17:36:48.911Z",
+  "headline": "11 stories worth your time — mostly automate your ops. Start with: Google will now let any AI agent run your smart home",
   "items": [
-    {
-      "id": "7a4c51dfaa15",
-      "title": "HubSpot Overhauls CRM With AI Agents and Self-Updating Data",
-      "url": "https://smallbiztrends.com/hubspot-overhauls-crm-with-ai-agents-and-self-updating-data",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-09-16T14:00:11.000Z",
-      "summary": "HubSpot unveils AI-powered CRM updates with smarter automation, self-updating data, new ad integrations, and tools for sales and marketing.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents",
-        "crm",
-        "automation",
-        "ads",
-        "launch"
-      ],
-      "score": 68,
-      "breakdown": {
-        "relevance": 82,
-        "actionability": 11,
-        "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "60e3714cb4a4",
-      "title": "Meta’s new One subscriptions put a price on social media and AI",
-      "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-09-15T15:00:00.000Z",
-      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage.",
-      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
-      "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material.",
-        "Use it to increase output on a channel that already converts — not to open a new one.",
-        "Now generally available, so you can test it today rather than joining a waitlist."
-      ],
-      "category": "pricing",
-      "tags": [
-        "social",
-        "pricing",
-        "service business",
-        "availability"
-      ],
-      "score": 54,
-      "breakdown": {
-        "relevance": 74,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
     {
       "id": "2306ad1a8f49",
       "title": "Google will now let any AI agent run your smart home",
@@ -82,12 +21,12 @@
         "integration",
         "shipped"
       ],
-      "score": 51,
+      "score": 50,
       "breakdown": {
         "relevance": 42,
         "actionability": 21,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -110,41 +49,13 @@
         "limits",
         "how-to"
       ],
-      "score": 46,
+      "score": 45,
       "breakdown": {
         "relevance": 11,
         "actionability": 36,
         "noise": 0,
-        "freshness": 9,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "1ad152d23630",
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-15T20:12:53.000Z",
-      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents",
-        "templates",
-        "shipped"
-      ],
-      "score": 41,
-      "breakdown": {
-        "relevance": 29,
-        "actionability": 21,
-        "noise": 0,
         "freshness": 8,
-        "sourceWeight": 1
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -165,12 +76,12 @@
         "ads",
         "ecommerce"
       ],
-      "score": 41,
+      "score": 40,
       "breakdown": {
         "relevance": 40,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -192,12 +103,12 @@
         "crm",
         "launch"
       ],
-      "score": 36,
+      "score": 35,
       "breakdown": {
         "relevance": 22,
         "actionability": 18,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -218,12 +129,12 @@
       "tags": [
         "agents"
       ],
-      "score": 35,
+      "score": 33,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 16,
+        "freshness": 13,
         "sourceWeight": 1
       },
       "enriched": false
@@ -244,12 +155,12 @@
       "tags": [
         "agents"
       ],
-      "score": 33,
+      "score": 31,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
@@ -272,13 +183,65 @@
         "open source",
         "price cut"
       ],
-      "score": 30,
+      "score": 29,
       "breakdown": {
         "relevance": 34,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "f81776d6d410",
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-17T17:15:59.000Z",
+      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "4bce8df04a13",
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-17T13:46:16.000Z",
+      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -298,12 +261,12 @@
       "tags": [
         "how-to"
       ],
-      "score": 29,
+      "score": 28,
       "breakdown": {
         "relevance": 0,
         "actionability": 22,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -324,91 +287,13 @@
       "tags": [
         "fraud risk"
       ],
-      "score": 26,
+      "score": 24,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "d2de68ab7234",
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-16T00:20:39.000Z",
-      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
-      "actions": [
-        "Note the compliance date and check whether your business size is in scope."
-      ],
-      "category": "rules",
-      "tags": [
-        "regulation"
-      ],
-      "score": 24,
-      "breakdown": {
-        "relevance": 22,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 8,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "d2f3ab14e50f",
-      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-      "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-09-16T23:40:00.000Z",
-      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 11,
-        "noise": 0,
-        "freshness": 14,
-        "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "858d9ee27e4f",
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-16T21:07:24.000Z",
-      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
-      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
-      "actions": [
-        "Note the compliance date and check whether your business size is in scope."
-      ],
-      "category": "rules",
-      "tags": [
-        "regulation"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 14,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 14,
-        "sourceWeight": 1
       },
       "enriched": false
     }
@@ -443,7 +328,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1198
+      "itemCount": 1206
     },
     {
       "sourceId": "google-ai-blog",
@@ -483,11 +368,11 @@
     }
   ],
   "stats": {
-    "fetched": 2235,
-    "onTopic": 38,
-    "deduped": 38,
-    "scored": 15,
-    "published": 15,
+    "fetched": 2243,
+    "onTopic": 33,
+    "deduped": 33,
+    "scored": 11,
+    "published": 11,
     "enriched": false
   }
 }
