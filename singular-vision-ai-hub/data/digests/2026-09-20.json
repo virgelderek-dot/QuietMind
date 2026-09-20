@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
-  "generatedAt": "2026-09-20T09:15:18.119Z",
-  "headline": "5 stories worth your time — mostly automate your ops. Start with: Meta’s Muse is creepy, but maybe not for the reasons you think",
+  "generatedAt": "2026-09-20T16:46:30.099Z",
+  "headline": "3 stories worth your time — mostly automate your ops. Start with: Meta’s Muse is creepy, but maybe not for the reasons you think",
   "items": [
     {
       "id": "607ffaad2d1c",
@@ -21,39 +21,13 @@
         "scheduling",
         "how-to"
       ],
-      "score": 31,
+      "score": 30,
       "breakdown": {
         "relevance": 12,
         "actionability": 14,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "559b0cf11197",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-09-18T12:00:00.000Z",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 31,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 29,
-        "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -78,7 +52,7 @@
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 6,
         "sourceWeight": 1
       },
       "enriched": false
@@ -99,39 +73,13 @@
       "tags": [
         "regulation"
       ],
-      "score": 29,
+      "score": 28,
       "breakdown": {
         "relevance": 36,
         "actionability": 0,
         "noise": -12,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "cde89040db03",
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-18T18:49:30.000Z",
-      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
-      "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material."
-      ],
-      "category": "pricing",
-      "tags": [
-        "price cut"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 20,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
       },
       "enriched": false
     }
@@ -207,10 +155,10 @@
   ],
   "stats": {
     "fetched": 2247,
-    "onTopic": 27,
-    "deduped": 27,
-    "scored": 5,
-    "published": 5,
+    "onTopic": 24,
+    "deduped": 24,
+    "scored": 3,
+    "published": 3,
     "enriched": false
   }
 }
