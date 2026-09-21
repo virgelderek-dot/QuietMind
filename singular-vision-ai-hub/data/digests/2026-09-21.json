@@ -1,11 +1,11 @@
 {
   "date": "2026-09-21",
-  "generatedAt": "2026-09-21T09:53:23.371Z",
-  "headline": "4 stories worth your time — mostly automate your ops. Start with: Amazon doesn’t trust Meta’s Muse AI agent",
+  "generatedAt": "2026-09-21T18:39:13.741Z",
+  "headline": "8 stories worth your time — mostly automate your ops. Start with: Amazon blocks Meta’s Muse AI agent",
   "items": [
     {
       "id": "fbef9683fbad",
-      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+      "title": "Amazon blocks Meta’s Muse AI agent",
       "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
@@ -19,39 +19,117 @@
       "tags": [
         "agents"
       ],
-      "score": 37,
+      "score": 35,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 18,
+        "freshness": 15,
         "sourceWeight": 1.05
       },
       "enriched": false
     },
     {
-      "id": "7692628155e5",
-      "title": "Amazon and Salesforce Unite to Supercharge AI Integration for Teams",
-      "url": "https://smallbiztrends.com/amazon-and-salesforce-unite-to-supercharge-ai-integration-for-teams",
+      "id": "8babfb0d722b",
+      "title": "Salesforce and Siemens Launch AI-Powered Solutions to Transform Sales and Service",
+      "url": "https://smallbiztrends.com/salesforce-and-siemens-launch-ai-powered-solutions-to-transform-sales-and-service",
       "sourceId": "smallbiztrends",
       "sourceName": "Small Business Trends",
-      "publishedAt": "2026-09-20T17:11:00.000Z",
-      "summary": "Discover how the partnership between Amazon and Salesforce is revolutionizing AI integration for teams, enhancing productivity and collaboration through innovative technologies and seamless solutions.",
+      "publishedAt": "2026-09-21T17:11:00.000Z",
+      "summary": "Discover how Salesforce and Siemens are revolutionizing sales and service with their new AI-powered solutions, enhancing customer experiences and driving efficiency in business operations.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "11f6953e11ef",
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-21T17:55:18.000Z",
+      "summary": "Muse isn't welcome as a shopper anymore.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
       "category": "automation",
       "tags": [
-        "integration"
+        "agents"
       ],
-      "score": 36,
+      "score": 28,
       "breakdown": {
-        "relevance": 29,
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "d1749ba76a98",
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 19,
         "actionability": 0,
         "noise": 0,
         "freshness": 12,
-        "sourceWeight": 1.2
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "4c9291d46e14",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-21T16:38:51.000Z",
+      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Trial it against one month of real invoices before trusting it with the books."
+      ],
+      "category": "automation",
+      "tags": [
+        "finance ops"
+      ],
+      "score": 27,
+      "breakdown": {
+        "relevance": 18,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -73,38 +151,64 @@
         "scheduling",
         "how-to"
       ],
-      "score": 27,
+      "score": 26,
       "breakdown": {
         "relevance": 12,
         "actionability": 14,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 1.05
       },
       "enriched": false
     },
     {
-      "id": "a864cdf7e10a",
-      "title": "The AI regulation smackdown isn’t over",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-09-19T13:00:00.000Z",
-      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators…",
-      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "id": "a7ca59844a94",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
-        "Note the compliance date and check whether your business size is in scope."
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
       ],
-      "category": "rules",
+      "category": "strategy",
       "tags": [
-        "regulation"
+        "how-to"
       ],
       "score": 26,
       "breakdown": {
-        "relevance": 36,
+        "relevance": 0,
+        "actionability": 14,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "94d0db2af44a",
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-21T10:18:06.000Z",
+      "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 12,
         "actionability": 0,
-        "noise": -12,
-        "freshness": 6,
+        "noise": 0,
+        "freshness": 15,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -140,7 +244,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1210
+      "itemCount": 1214
     },
     {
       "sourceId": "google-ai-blog",
@@ -152,7 +256,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 862
+      "itemCount": 863
     },
     {
       "sourceId": "zapier-blog",
@@ -180,11 +284,11 @@
     }
   ],
   "stats": {
-    "fetched": 2247,
-    "onTopic": 16,
-    "deduped": 16,
-    "scored": 4,
-    "published": 4,
+    "fetched": 2252,
+    "onTopic": 21,
+    "deduped": 21,
+    "scored": 8,
+    "published": 8,
     "enriched": false
   }
 }
