@@ -1,8 +1,115 @@
 {
   "date": "2026-09-22",
-  "generatedAt": "2026-09-22T09:16:09.273Z",
-  "headline": "10 stories worth your time — mostly strategy & trends. Start with: Adobe’s Parimal Deshpande on Why Human Taste Matters in the AI Era",
+  "generatedAt": "2026-09-22T17:37:18.646Z",
+  "headline": "18 stories worth your time — mostly automate your ops. Start with: AI vs. automation: What's the difference?",
   "items": [
+    {
+      "id": "a8b284a80529",
+      "title": "AI vs. automation: What's the difference?",
+      "url": "https://zapier.com/blog/automation-vs-ai",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-22T05:00:00.000Z",
+      "summary": "Artificial intelligence (AI) has been powering the tools we use in our everyday lives for decades now. And every time powerful advancements in AI are released, conversations around the good, the bad, and the ugly of AI inevitably dominate the headlines.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "agents"
+      ],
+      "score": 52,
+      "breakdown": {
+        "relevance": 54,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "4ed68ddfb282",
+      "title": "Claude 5.5: What you need to know about Anthropic's AI models and chatbot",
+      "url": "https://zapier.com/blog/claude-ai",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-22T04:00:00.000Z",
+      "summary": "I've been using Claude long enough to remember when the main selling point was that it was a nicer chatbot to talk to than the alternatives.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Draft answers for your ten most common customer questions and test the quality on those."
+      ],
+      "category": "automation",
+      "tags": [
+        "support"
+      ],
+      "score": 45,
+      "breakdown": {
+        "relevance": 42,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "6ab491a44d13",
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-22T11:53:58.000Z",
+      "summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "notes"
+      ],
+      "score": 43,
+      "breakdown": {
+        "relevance": 43,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "238c44638114",
+      "title": "Adobe Brings Premiere Mobile Video Editing to Android",
+      "url": "https://smallbiztrends.com/adobe-brings-premiere-mobile-video-editing-to-android",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-22T14:55:52.000Z",
+      "summary": "Adobe brings Premiere mobile to Android with 4K editing, Enhance Audio, multi-track tools and Firefly AI features for creators and small businesses.",
+      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "small business",
+        "service business"
+      ],
+      "score": 43,
+      "breakdown": {
+        "relevance": 34,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
     {
       "id": "793d5834c4eb",
       "title": "Adobe’s Parimal Deshpande on Why Human Taste Matters in the AI Era",
@@ -20,12 +127,12 @@
         "small business",
         "case study"
       ],
-      "score": 40,
+      "score": 38,
       "breakdown": {
         "relevance": 24,
         "actionability": 9,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -47,12 +154,12 @@
         "small business",
         "ads"
       ],
-      "score": 38,
+      "score": 36,
       "breakdown": {
         "relevance": 34,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -73,12 +180,12 @@
       "tags": [
         "agents"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 9,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -100,12 +207,64 @@
         "agents",
         "launch"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
         "relevance": 12,
         "actionability": 18,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "2cba549ead37",
+      "title": "Salesforce Unveils Innovative AI Control Plane for Enhanced Enterprise Intelligence",
+      "url": "https://smallbiztrends.com/salesforce-unveils-innovative-ai-control-plane-for-enhanced-enterprise-intelligence",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-22T15:11:00.000Z",
+      "summary": "Discover how Salesforce's new AI Control Plane is transforming enterprise intelligence with innovative features that enhance decision-making and streamline operations. Explore the impact on businesses and the future of AI in the workplace.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 31,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "f07639ae5e3d",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-22T16:30:07.000Z",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material."
+      ],
+      "category": "pricing",
+      "tags": [
+        "pricing"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 18,
         "sourceWeight": 1
       },
       "enriched": false
@@ -126,10 +285,36 @@
       "tags": [
         "launch"
       ],
-      "score": 28,
+      "score": 27,
       "breakdown": {
         "relevance": 0,
         "actionability": 18,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "725a33e40bc1",
+      "title": "AI in HR: Benefits, types, and 7 use cases worth running",
+      "url": "https://zapier.com/blog/ai-in-hr",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-22T04:00:00.000Z",
+      "summary": "I spent the first stretch of my career in learning and development, which mostly involved building training programs, writing curriculum, and trying to get people to finish a course they signed up for in a moment of optimism.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation stack"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 15,
+        "actionability": 0,
         "noise": 0,
         "freshness": 13,
         "sourceWeight": 1.2
@@ -152,12 +337,12 @@
       "tags": [
         "launch"
       ],
-      "score": 28,
+      "score": 26,
       "breakdown": {
         "relevance": 0,
         "actionability": 18,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -178,13 +363,39 @@
       "tags": [
         "agents"
       ],
-      "score": 25,
+      "score": 24,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 10,
         "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "97f4d9447dab",
+      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-22T16:34:08.000Z",
+      "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -204,13 +415,39 @@
       "tags": [
         "agents"
       ],
-      "score": 25,
+      "score": 24,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 7,
         "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "5d9834aea10e",
+      "title": "What is content engineering?",
+      "url": "https://zapier.com/blog/content-engineering",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-22T05:00:00.000Z",
+      "summary": "The first time I saw the term \"content engineering\" mentioned on LinkedIn, I rolled my eyes and assumed it was another AI trend designed to end the careers of content writers like me.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -230,39 +467,13 @@
       "tags": [
         "finance ops"
       ],
-      "score": 24,
+      "score": 23,
       "breakdown": {
         "relevance": 18,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "a7ca59844a94",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-09-21T12:00:00.000Z",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
-      ],
-      "category": "strategy",
-      "tags": [
-        "how-to"
-      ],
-      "score": 23,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 14,
-        "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1.15
       },
       "enriched": false
     }
@@ -297,7 +508,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1215
+      "itemCount": 1216
     },
     {
       "sourceId": "google-ai-blog",
@@ -309,7 +520,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 864
+      "itemCount": 866
     },
     {
       "sourceId": "zapier-blog",
@@ -337,11 +548,11 @@
     }
   ],
   "stats": {
-    "fetched": 2254,
-    "onTopic": 26,
-    "deduped": 26,
-    "scored": 10,
-    "published": 10,
+    "fetched": 2257,
+    "onTopic": 41,
+    "deduped": 41,
+    "scored": 18,
+    "published": 18,
     "enriched": false
   }
 }
