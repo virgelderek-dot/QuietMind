@@ -1,8 +1,133 @@
 {
   "date": "2026-09-23",
-  "generatedAt": "2026-09-23T09:16:37.984Z",
-  "headline": "13 stories worth your time — mostly strategy & trends. Start with: 76% of SMB owners are automating work. The next step is making sure they're doing it safely.",
+  "generatedAt": "2026-09-23T17:50:29.381Z",
+  "headline": "18 stories worth your time — mostly automate your ops. Start with: ChatGPT automation: How to use the Zapier ChatGPT integration (GPT-6 + more)",
   "items": [
+    {
+      "id": "f22b105dc1e4",
+      "title": "ChatGPT automation: How to use the Zapier ChatGPT integration (GPT-6 + more)",
+      "url": "https://zapier.com/blog/automate-chatgpt",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-23T07:00:00.000Z",
+      "summary": "OpenAI is rolling out new models all the time, and you can see the improvements and power even in a quick back-and-forth with ChatGPT.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Draft answers for your ten most common customer questions and test the quality on those.",
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+      ],
+      "category": "automation",
+      "tags": [
+        "integration",
+        "automation",
+        "automation stack",
+        "workflow",
+        "support",
+        "how-to"
+      ],
+      "score": 85,
+      "breakdown": {
+        "relevance": 111,
+        "actionability": 46,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "1e503a6ec4b9",
+      "title": "Amazon Seller Assistant Adds 24/7 Automation and Claude Integration",
+      "url": "https://smallbiztrends.com/amazon-seller-assistant-adds-24-7-automation-and-claude-integration",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-23T13:30:47.000Z",
+      "summary": "Amazon expands Seller Assistant with 24/7 automation and Claude integration, giving small businesses new ways to manage pricing, inventory, listings and more.",
+      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material.",
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+      ],
+      "category": "automation",
+      "tags": [
+        "integration",
+        "automation",
+        "small business",
+        "pricing"
+      ],
+      "score": 74,
+      "breakdown": {
+        "relevance": 106,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "0f676982117a",
+      "title": "Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)",
+      "url": "https://zapier.com/blog/ai-models-on-zapier",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-23T05:00:00.000Z",
+      "summary": "Staying up to date on the latest AI models is like trying to keep my house vacuumed in the height of my dog's shedding season (a losing battle).",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "automation stack",
+        "workflow",
+        "how-to"
+      ],
+      "score": 73,
+      "breakdown": {
+        "relevance": 94,
+        "actionability": 14,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "621d12bd7939",
+      "title": "Claude integrations: How to use Zapier with Claude (Fable 5.1, Opus 5.5, and more)",
+      "url": "https://zapier.com/blog/automate-claude",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-23T07:00:00.000Z",
+      "summary": "With every new model release, Claude tops almost every benchmark. And chatting with Claude makes it clear why: it's good at everything.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation stack",
+        "automation",
+        "workflow",
+        "how-to",
+        "case study"
+      ],
+      "score": 69,
+      "breakdown": {
+        "relevance": 68,
+        "actionability": 37,
+        "noise": -14,
+        "freshness": 14,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
     {
       "id": "e086d486c2a9",
       "title": "76% of SMB owners are automating work. The next step is making sure they're doing it safely.",
@@ -20,13 +145,71 @@
         "smb",
         "automation"
       ],
-      "score": 64,
+      "score": 63,
       "breakdown": {
         "relevance": 94,
         "actionability": 0,
         "noise": -12,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "5ef7b4daed87",
+      "title": "YouTube is building AI creator tools that do almost everything for them",
+      "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-23T14:30:00.000Z",
+      "summary": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingly simply telling creators what they…",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "marketing",
+      "tags": [
+        "service business",
+        "social",
+        "how-to"
+      ],
+      "score": 57,
+      "breakdown": {
+        "relevance": 57,
+        "actionability": 14,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "ad9b5464300c",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-23T14:30:00.000Z",
+      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one.",
+        "Cheapest test: regenerate an asset you already paid for and compare quality honestly."
+      ],
+      "category": "marketing",
+      "tags": [
+        "service business",
+        "social",
+        "creative"
+      ],
+      "score": 49,
+      "breakdown": {
+        "relevance": 58,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -47,13 +230,40 @@
         "automation",
         "agents"
       ],
-      "score": 50,
+      "score": 49,
       "breakdown": {
         "relevance": 54,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "ea4191bb8680",
+      "title": "Anthropic unveils Opus 5.5: powerful performance, still premium price",
+      "url": "https://aibusiness.com/generative-ai/anthropic-unveils-opus-5-5",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-09-23T13:52:54.000Z",
+      "summary": "The AI lab still lags in the price war with rivals.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material."
+      ],
+      "category": "pricing",
+      "tags": [
+        "pricing",
+        "launch"
+      ],
+      "score": 43,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 0.95
       },
       "enriched": false
     },
@@ -73,12 +283,12 @@
       "tags": [
         "support"
       ],
-      "score": 43,
+      "score": 41,
       "breakdown": {
         "relevance": 42,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -100,12 +310,12 @@
         "agents",
         "notes"
       ],
-      "score": 40,
+      "score": 39,
       "breakdown": {
         "relevance": 43,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -127,13 +337,65 @@
         "small business",
         "service business"
       ],
-      "score": 39,
+      "score": 38,
       "breakdown": {
         "relevance": 34,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "02b2e87836a2",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-23T15:19:30.000Z",
+      "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social"
+      ],
+      "score": 35,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "f28c995c4f3c",
+      "title": "YouTube will let you build your own algorithm with AI",
+      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-23T14:30:00.000Z",
+      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social"
+      ],
+      "score": 35,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -153,40 +415,40 @@
       "tags": [
         "agents"
       ],
-      "score": 35,
+      "score": 33,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 1.05
       },
       "enriched": false
     },
     {
-      "id": "d37f5b2c5927",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-09-21T12:00:00.000Z",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "id": "6fd27f051637",
+      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-23T11:02:39.000Z",
+      "summary": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, cofounder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
       "actions": [
-        "Background reading — no action needed today, but worth knowing."
+        "Compare against what you currently pay for the same job and reprice if the gap is material."
       ],
-      "category": "strategy",
+      "category": "pricing",
       "tags": [
-        "small business",
-        "ads"
+        "service business",
+        "pricing"
       ],
-      "score": 34,
+      "score": 30,
       "breakdown": {
-        "relevance": 34,
+        "relevance": 22,
         "actionability": 0,
         "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 1.15
+        "freshness": 15,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -206,144 +468,39 @@
       "tags": [
         "how-to"
       ],
-      "score": 30,
+      "score": 28,
       "breakdown": {
         "relevance": 0,
         "actionability": 22,
         "noise": 0,
-        "freshness": 15,
+        "freshness": 12,
         "sourceWeight": 1.05
       },
       "enriched": false
     },
     {
-      "id": "365635f4f8ce",
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
+      "id": "be57f79d5784",
+      "title": "Even Americans who use AI every day are worried about it",
+      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-21T19:19:21.000Z",
-      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "publishedAt": "2026-09-23T16:49:58.000Z",
+      "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
       "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
+        "Note the compliance date and check whether your business size is in scope."
       ],
-      "category": "automation",
+      "category": "rules",
       "tags": [
-        "agents",
-        "launch"
-      ],
-      "score": 29,
-      "breakdown": {
-        "relevance": 12,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "2cba549ead37",
-      "title": "Salesforce Unveils Innovative AI Control Plane for Enhanced Enterprise Intelligence",
-      "url": "https://smallbiztrends.com/salesforce-unveils-innovative-ai-control-plane-for-enhanced-enterprise-intelligence",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-09-22T15:11:00.000Z",
-      "summary": "Discover how Salesforce's new AI Control Plane is transforming enterprise intelligence with innovative features that enhance decision-making and streamline operations. Explore the impact on businesses and the future of AI in the workplace.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 27,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "f07639ae5e3d",
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-22T16:30:07.000Z",
-      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
-      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
-      "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material."
-      ],
-      "category": "pricing",
-      "tags": [
-        "pricing"
+        "regulation"
       ],
       "score": 25,
       "breakdown": {
-        "relevance": 19,
+        "relevance": 14,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 18,
         "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "b31a42e189d6",
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-22T18:00:00.000Z",
-      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 24,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "725a33e40bc1",
-      "title": "AI in HR: Benefits, types, and 7 use cases worth running",
-      "url": "https://zapier.com/blog/ai-in-hr",
-      "sourceId": "zapier-blog",
-      "sourceName": "Zapier Blog",
-      "publishedAt": "2026-09-22T04:00:00.000Z",
-      "summary": "I spent the first stretch of my career in learning and development, which mostly involved building training programs, writing curriculum, and trying to get people to finish a course they signed up for in a moment of optimism.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
-      ],
-      "category": "automation",
-      "tags": [
-        "automation stack"
-      ],
-      "score": 23,
-      "breakdown": {
-        "relevance": 15,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 9,
-        "sourceWeight": 1.2
       },
       "enriched": false
     }
@@ -378,7 +535,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1219
+      "itemCount": 1223
     },
     {
       "sourceId": "google-ai-blog",
@@ -390,7 +547,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 866
+      "itemCount": 867
     },
     {
       "sourceId": "zapier-blog",
@@ -418,11 +575,11 @@
     }
   ],
   "stats": {
-    "fetched": 2260,
-    "onTopic": 44,
-    "deduped": 44,
-    "scored": 13,
-    "published": 13,
+    "fetched": 2265,
+    "onTopic": 47,
+    "deduped": 47,
+    "scored": 21,
+    "published": 18,
     "enriched": false
   }
 }
