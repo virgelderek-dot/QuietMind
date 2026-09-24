@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "generatedAt": "2026-09-24T09:16:08.181Z",
+  "generatedAt": "2026-09-24T17:50:52.034Z",
   "headline": "18 stories worth your time — mostly automate your ops. Start with: ChatGPT automation: How to use the Zapier ChatGPT integration (GPT-6 + more)",
   "items": [
     {
@@ -26,12 +26,12 @@
         "support",
         "how-to"
       ],
-      "score": 84,
+      "score": 83,
       "breakdown": {
         "relevance": 111,
         "actionability": 46,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -61,7 +61,7 @@
         "relevance": 94,
         "actionability": 14,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -92,7 +92,7 @@
         "relevance": 106,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -123,7 +123,7 @@
         "relevance": 68,
         "actionability": 37,
         "noise": -14,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -146,70 +146,68 @@
         "agents",
         "launch"
       ],
-      "score": 65,
+      "score": 64,
       "breakdown": {
         "relevance": 65,
         "actionability": 18,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "ad9b5464300c",
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-23T14:30:00.000Z",
-      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "id": "8cb3a204f83b",
+      "title": "Constant Contact Integrates with Claude for Streamlined Marketing Campaigns",
+      "url": "https://smallbiztrends.com/constant-contact-integrates-with-claude-for-streamlined-marketing-campaigns",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-24T15:11:00.000Z",
+      "summary": "Discover how Constant Contact's integration with Claude enhances your marketing campaigns, making them more efficient and effective. Learn about the features and benefits that streamline your outreach efforts today!",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Use it to increase output on a channel that already converts — not to open a new one.",
-        "Cheapest test: regenerate an asset you already paid for and compare quality honestly."
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
       ],
-      "category": "marketing",
+      "category": "automation",
       "tags": [
-        "service business",
-        "social",
-        "creative"
+        "integration",
+        "ads"
       ],
-      "score": 47,
+      "score": 54,
       "breakdown": {
-        "relevance": 58,
+        "relevance": 55,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1
+        "freshness": 17,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "e4a5d0a62573",
-      "title": "How Ethan Schwandt helped Jobber turn AI adoption into a building culture",
-      "url": "https://zapier.com/blog/jobber-ai-transformation-leader",
+      "id": "e1e6600dc495",
+      "title": "What is Jev? TypeSafe AI's System One model",
+      "url": "https://zapier.com/blog/jev",
       "sourceId": "zapier-blog",
       "sourceName": "Zapier Blog",
-      "publishedAt": "2026-09-23T04:00:00.000Z",
-      "summary": "When companies talk about AI transformation, they often start with what they rolled out: the model, the license, the training program, or the pilot. Ethan Schwandt started somewhere more useful: the work.",
+      "publishedAt": "2026-09-24T04:00:00.000Z",
+      "summary": "When you ask an LLM to give you a confidence score for any decision it makes, you get vibes. I've built tools where the model said it had 95% confidence in a response, and then promptly changed its tune when I asked again 30 seconds later.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
         "Pick the single most repetitive task in your week and see whether this covers it end to end.",
-        "Review anything you have already published that this would now cover."
+        "Draft answers for your ten most common customer questions and test the quality on those."
       ],
       "category": "automation",
       "tags": [
         "automation",
-        "copyright",
-        "launch"
+        "workflow",
+        "support"
       ],
-      "score": 43,
+      "score": 47,
       "breakdown": {
-        "relevance": 31,
-        "actionability": 11,
+        "relevance": 45,
+        "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 13,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -231,12 +229,12 @@
         "app",
         "agents"
       ],
-      "score": 41,
+      "score": 40,
       "breakdown": {
         "relevance": 46,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
@@ -258,12 +256,12 @@
         "pricing",
         "launch"
       ],
-      "score": 41,
+      "score": 40,
       "breakdown": {
         "relevance": 31,
         "actionability": 18,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 9,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -275,7 +273,7 @@
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
       "publishedAt": "2026-09-23T23:39:44.000Z",
-      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life.",
       "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
         "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
@@ -285,12 +283,12 @@
         "launch",
         "free"
       ],
-      "score": 38,
+      "score": 37,
       "breakdown": {
         "relevance": 0,
         "actionability": 38,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 12,
         "sourceWeight": 1
       },
       "enriched": false
@@ -311,12 +309,12 @@
       "tags": [
         "launch"
       ],
-      "score": 36,
+      "score": 35,
       "breakdown": {
         "relevance": 0,
         "actionability": 29,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -337,12 +335,92 @@
       "tags": [
         "agents"
       ],
-      "score": 34,
+      "score": 33,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 15,
+        "freshness": 12,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "091e61d14291",
+      "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
+      "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-24T17:00:00.000Z",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "marketing",
+      "tags": [
+        "agents",
+        "email"
+      ],
+      "score": 33,
+      "breakdown": {
+        "relevance": 25,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "cb7e0a0370f0",
+      "title": "Muse will apparently let you download its entire filesystem",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-24T17:14:12.000Z",
+      "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L.",
+      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "tools",
+      "tags": [
+        "templates",
+        "try it"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 10,
+        "actionability": 13,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "b848899f891b",
+      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-24T17:00:00.000Z",
+      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
+      "actions": [
+        "Now generally available, so you can test it today rather than joining a waitlist."
+      ],
+      "category": "tools",
+      "tags": [
+        "availability"
+      ],
+      "score": 31,
+      "breakdown": {
+        "relevance": 22,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 18,
         "sourceWeight": 1
       },
       "enriched": false
@@ -365,12 +443,12 @@
         "pricing",
         "open source"
       ],
-      "score": 33,
+      "score": 31,
       "breakdown": {
         "relevance": 33,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 10,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -391,12 +469,12 @@
       "tags": [
         "ads"
       ],
-      "score": 30,
+      "score": 29,
       "breakdown": {
         "relevance": 26,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -417,91 +495,13 @@
       "tags": [
         "agents"
       ],
-      "score": 27,
-      "breakdown": {
-        "relevance": 19,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1.15
-      },
-      "enriched": false
-    },
-    {
-      "id": "54336ea97e9a",
-      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-09-23T19:00:00.000Z",
-      "summary": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents"
-      ],
       "score": 26,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "864189f9e259",
-      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-      "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-09-24T09:04:18.000Z",
-      "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 24,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 11,
-        "noise": 0,
-        "freshness": 18,
-        "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "395f29300605",
-      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-      "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-09-23T23:19:42.000Z",
-      "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 12,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 14,
-        "sourceWeight": 1.05
+        "freshness": 9,
+        "sourceWeight": 1.15
       },
       "enriched": false
     }
@@ -548,7 +548,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 867
+      "itemCount": 868
     },
     {
       "sourceId": "zapier-blog",
@@ -576,10 +576,10 @@
     }
   ],
   "stats": {
-    "fetched": 2271,
-    "onTopic": 50,
-    "deduped": 50,
-    "scored": 23,
+    "fetched": 2272,
+    "onTopic": 55,
+    "deduped": 55,
+    "scored": 29,
     "published": 18,
     "enriched": false
   }
