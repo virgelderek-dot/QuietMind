@@ -1,7 +1,7 @@
 {
   "date": "2026-09-25",
-  "generatedAt": "2026-09-25T09:34:19.524Z",
-  "headline": "16 stories worth your time — mostly strategy & trends. Start with: What is Jev? TypeSafe AI's System One model",
+  "generatedAt": "2026-09-25T17:56:16.987Z",
+  "headline": "12 stories worth your time — mostly automate your ops. Start with: What is Jev? TypeSafe AI's System One model",
   "items": [
     {
       "id": "e1e6600dc495",
@@ -22,40 +22,13 @@
         "workflow",
         "support"
       ],
-      "score": 45,
+      "score": 44,
       "breakdown": {
         "relevance": 45,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "ea4191bb8680",
-      "title": "Anthropic unveils Opus 5.5: powerful performance, still premium price",
-      "url": "https://aibusiness.com/generative-ai/anthropic-unveils-opus-5-5",
-      "sourceId": "ai-business",
-      "sourceName": "AI Business",
-      "publishedAt": "2026-09-23T13:52:54.000Z",
-      "summary": "The AI lab still lags in the price war with rivals.",
-      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
-      "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material."
-      ],
-      "category": "pricing",
-      "tags": [
-        "pricing",
-        "launch"
-      ],
-      "score": 38,
-      "breakdown": {
-        "relevance": 31,
-        "actionability": 18,
-        "noise": 0,
         "freshness": 7,
-        "sourceWeight": 0.95
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -75,40 +48,39 @@
       "tags": [
         "disclosure"
       ],
-      "score": 37,
+      "score": 36,
       "breakdown": {
         "relevance": 34,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "31283a7047ea",
-      "title": "Meta introduces camera-free AI glasses",
-      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-23T23:39:44.000Z",
-      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "id": "12114bc722e0",
+      "title": "Prompt: AI agents can act. It’s unclear if enterprises can stop them.",
+      "url": "https://aibusiness.com/agentic-ai/ai-agents-can-unclear-if-enterprises-can-stop-them-",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-09-25T15:29:24.000Z",
+      "summary": "As AI agents gain more authority to act on their own, recent incidents are exposing gaps in how enterprises monitor, control and intervene when agents cross established boundaries.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
-      "category": "strategy",
+      "category": "automation",
       "tags": [
-        "launch",
-        "free"
+        "agents"
       ],
-      "score": 35,
+      "score": 34,
       "breakdown": {
-        "relevance": 0,
-        "actionability": 38,
+        "relevance": 31,
+        "actionability": 0,
         "noise": 0,
-        "freshness": 8,
-        "sourceWeight": 1
+        "freshness": 17,
+        "sourceWeight": 0.95
       },
       "enriched": false
     },
@@ -130,94 +102,39 @@
         "social",
         "free"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 19,
         "actionability": 8,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "3be0b47dbce7",
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-24T00:46:17.000Z",
-      "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+      "id": "e84d98e81ae7",
+      "title": "Meta makes the Muse filesystem even more accessible",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-25T16:49:53.000Z",
+      "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because…",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
+        "Draft answers for your ten most common customer questions and test the quality on those."
       ],
       "category": "automation",
       "tags": [
-        "agents"
+        "support"
       ],
-      "score": 30,
+      "score": 27,
       "breakdown": {
-        "relevance": 31,
+        "relevance": 16,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "091e61d14291",
-      "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
-      "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-09-24T17:00:00.000Z",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Use it to increase output on a channel that already converts — not to open a new one."
-      ],
-      "category": "marketing",
-      "tags": [
-        "agents",
-        "email"
-      ],
-      "score": 30,
-      "breakdown": {
-        "relevance": 25,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 12,
+        "freshness": 18,
         "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "5e0c36ca7959",
-      "title": "OpenAI takes AI price war to next level with GPT-6 Sol, Luna pricing",
-      "url": "https://aibusiness.com/generative-ai/openai-takes-ai-price-war-next-level-gpt-6-sol-luna-pricing",
-      "sourceId": "ai-business",
-      "sourceName": "AI Business",
-      "publishedAt": "2026-09-23T17:33:04.000Z",
-      "summary": "The vendor is reacting to U.S. rivals Google and Anthropic, as well as the growing popularity of open source models.",
-      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
-      "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material.",
-        "Free to run, but budget the setup time honestly before committing."
-      ],
-      "category": "tools",
-      "tags": [
-        "pricing",
-        "open source"
-      ],
-      "score": 29,
-      "breakdown": {
-        "relevance": 33,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 0.95
       },
       "enriched": false
     },
@@ -238,39 +155,13 @@
         "templates",
         "try it"
       ],
-      "score": 28,
+      "score": 27,
       "breakdown": {
         "relevance": 10,
         "actionability": 13,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "d10ab587c210",
-      "title": "Gemini App Launches for Windows: Instant Assistance at Your Fingertips",
-      "url": "https://smallbiztrends.com/gemini-app-launches-for-windows-instant-assistance-at-your-fingertips",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-09-24T19:11:00.000Z",
-      "summary": "Discover the new Gemini App for Windows, designed to provide instant assistance right at your fingertips. Explore its features, user-friendly interface, and how it can enhance your productivity and streamline your tasks.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 28,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -290,39 +181,39 @@
       "tags": [
         "availability"
       ],
-      "score": 27,
+      "score": 26,
       "breakdown": {
         "relevance": 22,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "2c6d0814671d",
-      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-      "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-24T14:30:00.000Z",
-      "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "id": "637d4699a545",
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-25T15:39:48.000Z",
+      "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
-      "category": "strategy",
+      "category": "automation",
       "tags": [
-        "how-to"
+        "agents"
       ],
-      "score": 27,
+      "score": 24,
       "breakdown": {
-        "relevance": 0,
-        "actionability": 22,
+        "relevance": 12,
+        "actionability": 0,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1
+        "freshness": 17,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -342,24 +233,24 @@
       "tags": [
         "generative media"
       ],
-      "score": 26,
+      "score": 24,
       "breakdown": {
         "relevance": 21,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 0.95
       },
       "enriched": false
     },
     {
-      "id": "7cff1964bf19",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-09-23T12:00:00.000Z",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "id": "82c8b1320599",
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-25T16:16:52.000Z",
+      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
         "Skim it, then decide in one minute whether it changes anything you do this week."
@@ -370,22 +261,22 @@
       ],
       "score": 23,
       "breakdown": {
-        "relevance": 19,
+        "relevance": 12,
         "actionability": 0,
         "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 1.15
+        "freshness": 17,
+        "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "80a2886b4e41",
-      "title": "Amazon Opens Lending, Expands AI Tools for Sellers",
-      "url": "https://smallbiztrends.com/amazon-opens-lending-expands-ai-tools-for-sellers",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-09-24T19:10:05.000Z",
-      "summary": "Amazon Accelerate 2026 brings expanded lending, AI-powered seller tools, faster delivery options and new support for product launches and global growth.",
+      "id": "c9b6dd7b22a4",
+      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-25T12:00:00.000Z",
+      "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents.",
       "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
         "Background reading — no action needed today, but worth knowing."
@@ -394,13 +285,13 @@
       "tags": [
         "launch"
       ],
-      "score": 23,
+      "score": 22,
       "breakdown": {
         "relevance": 0,
         "actionability": 11,
         "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1.2
+        "freshness": 16,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -420,12 +311,12 @@
       "tags": [
         "launch"
       ],
-      "score": 23,
+      "score": 22,
       "breakdown": {
         "relevance": 0,
         "actionability": 18,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -461,7 +352,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1229
+      "itemCount": 1230
     },
     {
       "sourceId": "google-ai-blog",
@@ -501,11 +392,11 @@
     }
   ],
   "stats": {
-    "fetched": 2272,
-    "onTopic": 43,
-    "deduped": 43,
-    "scored": 16,
-    "published": 16,
+    "fetched": 2273,
+    "onTopic": 36,
+    "deduped": 36,
+    "scored": 12,
+    "published": 12,
     "enriched": false
   }
 }
