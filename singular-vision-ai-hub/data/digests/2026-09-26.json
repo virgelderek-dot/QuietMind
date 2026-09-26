@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "generatedAt": "2026-09-26T09:19:13.102Z",
+  "generatedAt": "2026-09-26T17:07:24.783Z",
   "headline": "6 stories worth your time — mostly automate your ops. Start with: Prompt: AI agents can act. It’s unclear if enterprises can stop them.",
   "items": [
     {
@@ -19,12 +19,12 @@
       "tags": [
         "agents"
       ],
-      "score": 31,
+      "score": 30,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -46,12 +46,12 @@
         "agents",
         "launch"
       ],
-      "score": 28,
+      "score": 26,
       "breakdown": {
         "relevance": 12,
         "actionability": 11,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
@@ -73,12 +73,12 @@
         "agents",
         "launch"
       ],
-      "score": 27,
+      "score": 26,
       "breakdown": {
         "relevance": 12,
         "actionability": 11,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
@@ -100,13 +100,39 @@
         "templates",
         "try it"
       ],
-      "score": 25,
+      "score": 24,
       "breakdown": {
         "relevance": 10,
         "actionability": 13,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 6,
         "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "dc5183e86bb5",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-26T14:00:00.000Z",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Brief anyone who can authorise a payment or a password reset on your behalf."
+      ],
+      "category": "rules",
+      "tags": [
+        "fraud risk"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -126,39 +152,13 @@
       "tags": [
         "support"
       ],
-      "score": 24,
+      "score": 22,
       "breakdown": {
         "relevance": 16,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "b0734429a2a8",
-      "title": "Gemini 3.8 text-to-speech refines voice AI capabilities",
-      "url": "https://aibusiness.com/generative-ai/gemini-3-8-text-speech-refines-voice-ai-capabilities",
-      "sourceId": "ai-business",
-      "sourceName": "AI Business",
-      "publishedAt": "2026-09-24T20:43:48.000Z",
-      "summary": "The features Google introduced build on existing technology and provide enterprises with a hub for all their AI model capabilities.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Cheapest test: regenerate an asset you already paid for and compare quality honestly."
-      ],
-      "category": "marketing",
-      "tags": [
-        "generative media"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 21,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 8,
-        "sourceWeight": 0.95
       },
       "enriched": false
     }
