@@ -1,0 +1,191 @@
+{
+  "date": "2026-09-27",
+  "generatedAt": "2026-09-27T09:58:45.883Z",
+  "headline": "4 stories worth your time — mostly automate your ops. Start with: Salesforce Unveils Koa: A Breakthrough AI Model for CRM Reasoning",
+  "items": [
+    {
+      "id": "128f4ac07621",
+      "title": "Salesforce Unveils Koa: A Breakthrough AI Model for CRM Reasoning",
+      "url": "https://smallbiztrends.com/salesforce-unveils-koa-a-breakthrough-ai-model-for-crm-reasoning",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-09-26T17:11:00.000Z",
+      "summary": "Discover how Salesforce's groundbreaking AI model, Koa, enhances CRM reasoning, enabling smarter decision-making and personalized customer experiences. Explore the features and implications of this innovative technology in our latest article.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "crm",
+        "launch"
+      ],
+      "score": 51,
+      "breakdown": {
+        "relevance": 36,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "12114bc722e0",
+      "title": "Prompt: AI agents can act. It’s unclear if enterprises can stop them.",
+      "url": "https://aibusiness.com/agentic-ai/ai-agents-can-unclear-if-enterprises-can-stop-them-",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-09-25T15:29:24.000Z",
+      "summary": "As AI agents gain more authority to act on their own, recent incidents are exposing gaps in how enterprises monitor, control and intervene when agents cross established boundaries.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 7,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "fdba889df7cc",
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-25T18:22:47.000Z",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "launch"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 7,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "6927cc92c4d1",
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-25T16:00:00.000Z",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "launch"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 7,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "ok": false,
+      "itemCount": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "ok": true,
+      "itemCount": 1230
+    },
+    {
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "ok": true,
+      "itemCount": 868
+    },
+    {
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "ben-evans",
+      "sourceName": "Benedict Evans",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "ok": true,
+      "itemCount": 50
+    }
+  ],
+  "stats": {
+    "fetched": 2273,
+    "onTopic": 23,
+    "deduped": 23,
+    "scored": 4,
+    "published": 4,
+    "enriched": false
+  }
+}
