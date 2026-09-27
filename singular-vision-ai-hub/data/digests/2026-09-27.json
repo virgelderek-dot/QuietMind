@@ -1,61 +1,8 @@
 {
   "date": "2026-09-27",
-  "generatedAt": "2026-09-27T09:58:45.883Z",
-  "headline": "4 stories worth your time — mostly automate your ops. Start with: Salesforce Unveils Koa: A Breakthrough AI Model for CRM Reasoning",
+  "generatedAt": "2026-09-27T17:42:44.000Z",
+  "headline": "1 story worth your time — mostly automate your ops. Start with: Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
   "items": [
-    {
-      "id": "128f4ac07621",
-      "title": "Salesforce Unveils Koa: A Breakthrough AI Model for CRM Reasoning",
-      "url": "https://smallbiztrends.com/salesforce-unveils-koa-a-breakthrough-ai-model-for-crm-reasoning",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-09-26T17:11:00.000Z",
-      "summary": "Discover how Salesforce's groundbreaking AI model, Koa, enhances CRM reasoning, enabling smarter decision-making and personalized customer experiences. Explore the features and implications of this innovative technology in our latest article.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "crm",
-        "launch"
-      ],
-      "score": 51,
-      "breakdown": {
-        "relevance": 36,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "12114bc722e0",
-      "title": "Prompt: AI agents can act. It’s unclear if enterprises can stop them.",
-      "url": "https://aibusiness.com/agentic-ai/ai-agents-can-unclear-if-enterprises-can-stop-them-",
-      "sourceId": "ai-business",
-      "sourceName": "AI Business",
-      "publishedAt": "2026-09-25T15:29:24.000Z",
-      "summary": "As AI agents gain more authority to act on their own, recent incidents are exposing gaps in how enterprises monitor, control and intervene when agents cross established boundaries.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents"
-      ],
-      "score": 28,
-      "breakdown": {
-        "relevance": 31,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 0.95
-      },
-      "enriched": false
-    },
     {
       "id": "fdba889df7cc",
       "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
@@ -73,39 +20,12 @@
         "agents",
         "launch"
       ],
-      "score": 24,
+      "score": 23,
       "breakdown": {
         "relevance": 12,
         "actionability": 11,
         "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "6927cc92c4d1",
-      "title": "Meta’s AI Tamagotchi bet is…working?",
-      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-25T16:00:00.000Z",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates…",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents",
-        "launch"
-      ],
-      "score": 24,
-      "breakdown": {
-        "relevance": 12,
-        "actionability": 11,
-        "noise": 0,
-        "freshness": 7,
+        "freshness": 6,
         "sourceWeight": 1
       },
       "enriched": false
@@ -182,10 +102,10 @@
   ],
   "stats": {
     "fetched": 2273,
-    "onTopic": 23,
-    "deduped": 23,
-    "scored": 4,
-    "published": 4,
+    "onTopic": 12,
+    "deduped": 12,
+    "scored": 1,
+    "published": 1,
     "enriched": false
   }
 }
