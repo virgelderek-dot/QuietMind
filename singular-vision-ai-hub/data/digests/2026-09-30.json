@@ -1,31 +1,143 @@
 {
   "date": "2026-09-30",
-  "generatedAt": "2026-09-30T10:26:51.654Z",
-  "headline": "15 stories worth your time — mostly automate your ops. Start with: Meta is expanding its AI agent Muse to small businesses",
+  "generatedAt": "2026-09-30T18:25:35.428Z",
+  "headline": "18 stories worth your time — mostly automate your ops. Start with: Meta Muse AI agent: How to use the personal AI agent",
   "items": [
     {
-      "id": "f617697ebfec",
-      "title": "Meta is expanding its AI agent Muse to small businesses",
-      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-29T13:47:30.000Z",
-      "summary": "The tech giant says the agent can help owners run their business and find new customers.",
+      "id": "c28d5462385f",
+      "title": "Meta Muse AI agent: How to use the personal AI agent",
+      "url": "https://zapier.com/blog/muse-ai",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-30T04:00:00.000Z",
+      "summary": "At this point, announcements about new AI agents trigger a very \"Florals? For spring? Groundbreaking.\" response in me&#x2014;which also means I've gotten very good at tuning them out.&#xA0; Muse, Meta's new personal AI agent, almost got that response from me…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "how-to",
+        "case study"
+      ],
+      "score": 59,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 37,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "b5e5e43443d2",
+      "title": "Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-09-30T10:00:00.000Z",
+      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
       "whyItMatters": "Written for your side of the market rather than for enterprise buyers. Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
         "Background reading — no action needed today, but worth knowing."
       ],
       "category": "strategy",
       "tags": [
-        "small business",
-        "agents"
+        "small business"
       ],
-      "score": 46,
+      "score": 55,
       "breakdown": {
-        "relevance": 58,
+        "relevance": 62,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 15,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "1c9685f8d86d",
+      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-30T15:18:49.000Z",
+      "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Re-check your usage against the new limits so a cap does not surprise you mid-month.",
+        "Check what customer data you are currently passing to AI tools, and under what terms."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "limits",
+        "privacy",
+        "launch"
+      ],
+      "score": 54,
+      "breakdown": {
+        "relevance": 54,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "0f203ce721db",
+      "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+      "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-30T14:30:00.000Z",
+      "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a…",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social",
+        "how-to"
+      ],
+      "score": 49,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 22,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "a993d027af6a",
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-30T16:00:24.000Z",
+      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "launch"
+      ],
+      "score": 45,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
         "sourceWeight": 1
       },
       "enriched": false
@@ -49,12 +161,12 @@
         "launch",
         "try it"
       ],
-      "score": 45,
+      "score": 44,
       "breakdown": {
         "relevance": 28,
         "actionability": 37,
         "noise": -12,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
@@ -76,12 +188,12 @@
         "regulation",
         "agents"
       ],
-      "score": 42,
+      "score": 41,
       "breakdown": {
         "relevance": 48,
         "actionability": 0,
         "noise": 0,
-        "freshness": 15,
+        "freshness": 12,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -103,13 +215,39 @@
         "agents",
         "launch"
       ],
-      "score": 36,
+      "score": 35,
       "breakdown": {
         "relevance": 19,
         "actionability": 18,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "6a91381a4292",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-09-30T10:30:00.000Z",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "marketing",
+      "tags": [
+        "ads"
+      ],
+      "score": 35,
+      "breakdown": {
+        "relevance": 26,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -131,12 +269,12 @@
         "automation",
         "support"
       ],
-      "score": 36,
+      "score": 35,
       "breakdown": {
         "relevance": 32,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -158,43 +296,13 @@
         "how-to",
         "try it"
       ],
-      "score": 35,
+      "score": 34,
       "breakdown": {
         "relevance": 0,
         "actionability": 30,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "0d5fc586f591",
-      "title": "OpenAI DevDay 2026: The biggest news and announcements",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-09-29T16:00:00.000Z",
-      "summary": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots, its AI agent product…",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere.",
-        "Worth an hour to set up if you are still coordinating bookings by email."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents",
-        "scheduling",
-        "launch",
-        "free"
-      ],
-      "score": 34,
-      "breakdown": {
-        "relevance": 24,
-        "actionability": 19,
-        "noise": -12,
-        "freshness": 12,
-        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -215,67 +323,65 @@
         "agents",
         "launch"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 12,
         "actionability": 18,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.05
       },
       "enriched": false
     },
     {
-      "id": "0399f6c76448",
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-29T17:15:00.000Z",
-      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "id": "a2688108e207",
+      "title": "What is AI orchestration? A guide to intelligent systems",
+      "url": "https://zapier.com/blog/ai-orchestration",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-30T04:00:00.000Z",
+      "summary": "My house has a graveyard. It's not in the backyard&#x2014;it's a drawer in the entertainment center, and it's filled with remote controls.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
       ],
-      "category": "automation",
+      "category": "strategy",
       "tags": [
-        "workflow",
-        "launch"
+        "how-to"
       ],
       "score": 32,
       "breakdown": {
-        "relevance": 13,
-        "actionability": 18,
+        "relevance": 0,
+        "actionability": 22,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1
+        "freshness": 13,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "7cd7dfe3ad5e",
-      "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-09-29T14:08:21.000Z",
-      "summary": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account.",
+      "id": "3b382bc8ae7f",
+      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-30T14:27:11.000Z",
+      "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
         "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
       "category": "automation",
       "tags": [
-        "agents",
-        "launch"
+        "agents"
       ],
       "score": 28,
       "breakdown": {
-        "relevance": 12,
-        "actionability": 11,
+        "relevance": 19,
+        "actionability": 0,
         "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1.05
+        "freshness": 16,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -296,12 +402,12 @@
         "agents",
         "launch"
       ],
-      "score": 28,
+      "score": 27,
       "breakdown": {
         "relevance": 12,
         "actionability": 18,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 7,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -322,13 +428,39 @@
       "tags": [
         "agents"
       ],
-      "score": 25,
+      "score": 24,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "445d1099f679",
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-30T14:51:49.000Z",
+      "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -348,65 +480,13 @@
       "tags": [
         "launch"
       ],
-      "score": 24,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 8,
-        "sourceWeight": 1.15
-      },
-      "enriched": false
-    },
-    {
-      "id": "925a5e11fe99",
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-29T17:45:51.000Z",
-      "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 24,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "f51bf3adebeb",
-      "title": "Slack Upgrades Collaboration with AI-Powered Features at Dreamforce",
-      "url": "https://smallbiztrends.com/slack-upgrades-collaboration-with-ai-powered-features-at-dreamforce",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-09-29T15:11:00.000Z",
-      "summary": "Discover how Slack is enhancing collaboration with innovative AI-powered features unveiled at Dreamforce. Explore the latest tools designed to boost productivity and streamline team communication in the workplace.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
       "score": 22,
       "breakdown": {
         "relevance": 0,
-        "actionability": 11,
+        "actionability": 18,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.2
+        "freshness": 7,
+        "sourceWeight": 1.15
       },
       "enriched": false
     }
@@ -441,7 +521,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1238
+      "itemCount": 1240
     },
     {
       "sourceId": "google-ai-blog",
@@ -453,7 +533,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 869
+      "itemCount": 870
     },
     {
       "sourceId": "zapier-blog",
@@ -481,11 +561,11 @@
     }
   ],
   "stats": {
-    "fetched": 2282,
-    "onTopic": 37,
-    "deduped": 37,
-    "scored": 15,
-    "published": 15,
+    "fetched": 2285,
+    "onTopic": 42,
+    "deduped": 42,
+    "scored": 20,
+    "published": 18,
     "enriched": false
   }
 }
