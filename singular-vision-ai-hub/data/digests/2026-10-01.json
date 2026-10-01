@@ -1,0 +1,438 @@
+{
+  "date": "2026-10-01",
+  "generatedAt": "2026-10-01T10:54:27.746Z",
+  "headline": "13 stories worth your time — mostly automate your ops. Start with: Meta Muse AI agent: How to use the personal AI agent",
+  "items": [
+    {
+      "id": "c28d5462385f",
+      "title": "Meta Muse AI agent: How to use the personal AI agent",
+      "url": "https://zapier.com/blog/muse-ai",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-30T04:00:00.000Z",
+      "summary": "At this point, announcements about new AI agents trigger a very \"Florals? For spring? Groundbreaking.\" response in me&#x2014;which also means I've gotten very good at tuning them out.&#xA0; Muse, Meta's new personal AI agent, almost got that response from me…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "how-to",
+        "case study"
+      ],
+      "score": 57,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 37,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "b5e5e43443d2",
+      "title": "Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-09-30T10:00:00.000Z",
+      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "small business"
+      ],
+      "score": 53,
+      "breakdown": {
+        "relevance": 62,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 10,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "1c9685f8d86d",
+      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-30T15:18:49.000Z",
+      "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Re-check your usage against the new limits so a cap does not surprise you mid-month.",
+        "Check what customer data you are currently passing to AI tools, and under what terms."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "limits",
+        "privacy",
+        "launch"
+      ],
+      "score": 52,
+      "breakdown": {
+        "relevance": 54,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "82f697863e64",
+      "title": "Rural Students Just Built the AI Most Small Businesses Actually Need",
+      "url": "https://smallbiztrends.com/rural-students-just-built-the-ai-most-small-businesses-actually-need",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-01T10:30:36.000Z",
+      "summary": "Two brothers from the Rio Grande Valley won Zoho's first AI hackathon with a crop tool that runs on free satellite data and talks to farmers by text message. The rules they built under look a lot like the constraints on Main Street.",
+      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
+      ],
+      "category": "strategy",
+      "tags": [
+        "small business",
+        "free"
+      ],
+      "score": 50,
+      "breakdown": {
+        "relevance": 38,
+        "actionability": 8,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "0f203ce721db",
+      "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+      "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-30T14:30:00.000Z",
+      "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a…",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social",
+        "how-to"
+      ],
+      "score": 46,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 22,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "a993d027af6a",
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-30T16:00:24.000Z",
+      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "launch"
+      ],
+      "score": 42,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "8000c8f00f46",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-29T22:20:59.000Z",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Draft answers for your ten most common customer questions and test the quality on those."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "support",
+        "launch",
+        "try it"
+      ],
+      "score": 42,
+      "breakdown": {
+        "relevance": 28,
+        "actionability": 37,
+        "noise": -12,
+        "freshness": 8,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "a4d00e10c9a5",
+      "title": "Anthropic plugs regulation, AI leaders meet with Trump, and open models",
+      "url": "https://aibusiness.com/generative-ai/anthropic-plugs-regulation-ai-leaders-meet-trump-open-models",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-09-30T19:13:41.000Z",
+      "summary": "The AI world buzzes about stopping out-of-control agents. President Trump appears to slightly modify his anti-AI regulation stance. Open source AI could lose out. Or not.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Free to run, but budget the setup time honestly before committing.",
+        "Note the compliance date and check whether your business size is in scope."
+      ],
+      "category": "rules",
+      "tags": [
+        "regulation",
+        "open source"
+      ],
+      "score": 42,
+      "breakdown": {
+        "relevance": 50,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "6d8d4fdcd03a",
+      "title": "While agents cause trouble, calls for AI regulation mount from Anthropic, lawmakers",
+      "url": "https://aibusiness.com/responsible-ai/calls-for-ai-regulation-mount-from-anthropic-lawmakers",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-09-30T01:12:58.000Z",
+      "summary": "It seems nearly everyone is calling for regulation. Chief among them is Anthropic, whose AI agents are also key troublemakers.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Note the compliance date and check whether your business size is in scope."
+      ],
+      "category": "rules",
+      "tags": [
+        "regulation",
+        "agents"
+      ],
+      "score": 39,
+      "breakdown": {
+        "relevance": 48,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 8,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "6a91381a4292",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-09-30T10:30:00.000Z",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "marketing",
+      "tags": [
+        "ads"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 26,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 10,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "a2688108e207",
+      "title": "What is AI orchestration? A guide to intelligent systems",
+      "url": "https://zapier.com/blog/ai-orchestration",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-09-30T04:00:00.000Z",
+      "summary": "My house has a graveyard. It's not in the backyard&#x2014;it's a drawer in the entertainment center, and it's filled with remote controls.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "strategy",
+      "tags": [
+        "how-to"
+      ],
+      "score": 29,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 22,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "3b382bc8ae7f",
+      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-09-30T14:27:11.000Z",
+      "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "97fa5252aa29",
+      "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-09-30T20:41:41.000Z",
+      "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow"
+      ],
+      "score": 22,
+      "breakdown": {
+        "relevance": 13,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "ok": true,
+      "itemCount": 19
+    },
+    {
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "ok": false,
+      "itemCount": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "ok": true,
+      "itemCount": 1240
+    },
+    {
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "ok": true,
+      "itemCount": 870
+    },
+    {
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "ben-evans",
+      "sourceName": "Benedict Evans",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "ok": true,
+      "itemCount": 50
+    }
+  ],
+  "stats": {
+    "fetched": 2284,
+    "onTopic": 36,
+    "deduped": 36,
+    "scored": 13,
+    "published": 13,
+    "enriched": false
+  }
+}
