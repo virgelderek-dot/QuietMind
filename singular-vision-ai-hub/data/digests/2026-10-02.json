@@ -1,8 +1,41 @@
 {
   "date": "2026-10-02",
-  "generatedAt": "2026-10-02T10:28:07.057Z",
-  "headline": "13 stories worth your time — mostly automate your ops. Start with: Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)",
+  "generatedAt": "2026-10-02T18:22:50.953Z",
+  "headline": "16 stories worth your time — mostly automate your ops. Start with: Meta Muse automation: How to use the Zapier Muse integration (Muse Spark 1.3 and more)",
   "items": [
+    {
+      "id": "4173c6781015",
+      "title": "Meta Muse automation: How to use the Zapier Muse integration (Muse Spark 1.3 and more)",
+      "url": "https://zapier.com/blog/automate-muse",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-02T05:00:00.000Z",
+      "summary": "The concept of \"less is more\" doesn't seem to have made it to Silicon Valley. Every time I blink, it seems like there's yet another AI agent available on the market.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "integration",
+        "automation",
+        "automation stack",
+        "agents",
+        "how-to",
+        "case study"
+      ],
+      "score": 76,
+      "breakdown": {
+        "relevance": 79,
+        "actionability": 37,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
     {
       "id": "0f676982117a",
       "title": "Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)",
@@ -28,38 +61,97 @@
         "relevance": 94,
         "actionability": 14,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "1c9685f8d86d",
-      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-09-30T15:18:49.000Z",
-      "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your…",
+      "id": "065ba46441d5",
+      "title": "Gemini connectors: How to connect Gemini Enterprise to the rest of your tech stack",
+      "url": "https://zapier.com/blog/gemini-connectors",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-02T04:00:00.000Z",
+      "summary": "Gemini is everywhere in Google apps: it can read your emails, pull in data from your calendar, and find that file you accidentally saved to your work Drive.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Re-check your usage against the new limits so a cap does not surprise you mid-month.",
-        "Check what customer data you are currently passing to AI tools, and under what terms."
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Draft answers for your ten most common customer questions and test the quality on those.",
+        "Worth an hour to set up if you are still coordinating bookings by email."
       ],
       "category": "automation",
       "tags": [
-        "agents",
-        "limits",
-        "privacy",
-        "launch"
+        "automation",
+        "automation stack",
+        "scheduling",
+        "support",
+        "crm",
+        "how-to"
       ],
-      "score": 50,
+      "score": 69,
       "breakdown": {
-        "relevance": 54,
-        "actionability": 11,
+        "relevance": 73,
+        "actionability": 22,
         "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1.05
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "b345554642c2",
+      "title": "YouTube Enhances Advertising with AI Tools and One-Tap Experiences",
+      "url": "https://smallbiztrends.com/youtube-enhances-advertising-with-ai-tools-and-one-tap-experiences",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-02T17:11:00.000Z",
+      "summary": "Discover how YouTube is transforming advertising with innovative AI tools and seamless one-tap experiences, enhancing engagement and effectiveness for brands and creators alike.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social",
+        "ads",
+        "service business"
+      ],
+      "score": 60,
+      "breakdown": {
+        "relevance": 67,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "8e206c4d9ed6",
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-02T16:15:00.000Z",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow",
+        "how-to"
+      ],
+      "score": 42,
+      "breakdown": {
+        "relevance": 13,
+        "actionability": 22,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -80,12 +172,12 @@
         "small business",
         "agents"
       ],
-      "score": 43,
+      "score": 42,
       "breakdown": {
         "relevance": 50,
         "actionability": 0,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 12,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -107,39 +199,12 @@
         "ecommerce",
         "agents"
       ],
-      "score": 42,
+      "score": 41,
       "breakdown": {
         "relevance": 48,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "a993d027af6a",
-      "title": "DoorDash launches an AI agent you can text to order food",
-      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-09-30T16:00:24.000Z",
-      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents",
-        "launch"
-      ],
-      "score": 40,
-      "breakdown": {
-        "relevance": 31,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 7,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
@@ -167,8 +232,34 @@
         "relevance": 50,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 6,
         "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "39b9fbb58d7c",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-02T18:11:27.000Z",
+      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 36,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -190,12 +281,12 @@
         "automation",
         "support"
       ],
-      "score": 36,
+      "score": 35,
       "breakdown": {
         "relevance": 32,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -216,12 +307,12 @@
       "tags": [
         "no-code"
       ],
-      "score": 34,
+      "score": 33,
       "breakdown": {
         "relevance": 29,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -242,39 +333,13 @@
       "tags": [
         "support"
       ],
-      "score": 30,
-      "breakdown": {
-        "relevance": 26,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "6a91381a4292",
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-09-30T10:30:00.000Z",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "marketing",
-      "tags": [
-        "ads"
-      ],
       "score": 28,
       "breakdown": {
         "relevance": 26,
         "actionability": 0,
         "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 1.15
+        "freshness": 11,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -294,12 +359,12 @@
       "tags": [
         "availability"
       ],
-      "score": 26,
+      "score": 24,
       "breakdown": {
         "relevance": 14,
         "actionability": 0,
         "noise": 0,
-        "freshness": 18,
+        "freshness": 15,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -320,13 +385,39 @@
       "tags": [
         "agents"
       ],
-      "score": 24,
+      "score": 23,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "a97398f76ee5",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 13,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -346,12 +437,12 @@
       "tags": [
         "launch"
       ],
-      "score": 23,
+      "score": 22,
       "breakdown": {
         "relevance": 0,
         "actionability": 18,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1
       },
       "enriched": false
@@ -362,7 +453,7 @@
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
       "ok": true,
-      "itemCount": 19
+      "itemCount": 20
     },
     {
       "sourceId": "verge-ai",
@@ -387,7 +478,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1243
+      "itemCount": 1245
     },
     {
       "sourceId": "google-ai-blog",
@@ -427,11 +518,11 @@
     }
   ],
   "stats": {
-    "fetched": 2289,
-    "onTopic": 42,
-    "deduped": 42,
-    "scored": 13,
-    "published": 13,
+    "fetched": 2292,
+    "onTopic": 47,
+    "deduped": 47,
+    "scored": 16,
+    "published": 16,
     "enriched": false
   }
 }
