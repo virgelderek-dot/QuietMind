@@ -1,7 +1,7 @@
 {
   "date": "2026-10-03",
-  "generatedAt": "2026-10-03T09:49:47.158Z",
-  "headline": "10 stories worth your time — mostly automate your ops. Start with: Meta Muse automation: How to use the Zapier Muse integration (Muse Spark 1.3 and more)",
+  "generatedAt": "2026-10-03T17:13:57.153Z",
+  "headline": "11 stories worth your time — mostly automate your ops. Start with: Meta Muse automation: How to use the Zapier Muse integration (Muse Spark 1.3 and more)",
   "items": [
     {
       "id": "4173c6781015",
@@ -31,7 +31,7 @@
         "relevance": 79,
         "actionability": 37,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -59,40 +59,41 @@
         "crm",
         "how-to"
       ],
-      "score": 68,
+      "score": 67,
       "breakdown": {
         "relevance": 73,
         "actionability": 22,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "d94262263987",
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-01T16:44:35.000Z",
-      "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+      "id": "50ea60199626",
+      "title": "Google Vids Unveils Omni 1.1, Empowering Creators with AI Video Control",
+      "url": "https://smallbiztrends.com/google-vids-unveils-omni-1-1-empowering-creators-with-ai-video-control",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-03T17:11:00.000Z",
+      "summary": "Discover how Google Vids' latest update, Omni 1.1, empowers creators with advanced AI video control features, enhancing content creation and editing experiences.",
       "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
       "actions": [
-        "Check whether your storefront platform supports this natively before adding another subscription."
+        "Use it to increase output on a channel that already converts — not to open a new one."
       ],
       "category": "marketing",
       "tags": [
-        "ecommerce",
-        "agents"
+        "service business",
+        "content",
+        "launch"
       ],
-      "score": 40,
+      "score": 57,
       "breakdown": {
-        "relevance": 48,
-        "actionability": 0,
+        "relevance": 41,
+        "actionability": 18,
         "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
+        "freshness": 18,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -113,12 +114,12 @@
         "small business",
         "agents"
       ],
-      "score": 40,
+      "score": 39,
       "breakdown": {
         "relevance": 50,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 7,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -141,13 +142,39 @@
         "workflow",
         "how-to"
       ],
-      "score": 39,
+      "score": 38,
       "breakdown": {
         "relevance": 13,
         "actionability": 22,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "9a415d111d44",
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-03T14:00:00.000Z",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 35,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -167,12 +194,12 @@
       "tags": [
         "agents"
       ],
-      "score": 34,
+      "score": 33,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -193,12 +220,12 @@
       "tags": [
         "agents"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
@@ -220,12 +247,12 @@
         "agents",
         "shipped"
       ],
-      "score": 31,
+      "score": 29,
       "breakdown": {
         "relevance": 12,
         "actionability": 13,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -246,12 +273,12 @@
       "tags": [
         "support"
       ],
-      "score": 26,
+      "score": 25,
       "breakdown": {
         "relevance": 26,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 1
       },
       "enriched": false
@@ -272,12 +299,12 @@
       "tags": [
         "agents"
       ],
-      "score": 25,
+      "score": 24,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 12,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -354,10 +381,10 @@
   ],
   "stats": {
     "fetched": 2292,
-    "onTopic": 39,
-    "deduped": 39,
-    "scored": 10,
-    "published": 10,
+    "onTopic": 36,
+    "deduped": 36,
+    "scored": 11,
+    "published": 11,
     "enriched": false
   }
 }
