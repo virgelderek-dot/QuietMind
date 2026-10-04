@@ -1,64 +1,8 @@
 {
   "date": "2026-10-04",
-  "generatedAt": "2026-10-04T10:32:51.646Z",
-  "headline": "6 stories worth your time — mostly automate your ops. Start with: Google Vids Unveils Omni 1.1, Empowering Creators with AI Video Control",
+  "generatedAt": "2026-10-04T17:33:03.803Z",
+  "headline": "5 stories worth your time — mostly automate your ops. Start with: All the AI agents that can live in your text messages",
   "items": [
-    {
-      "id": "50ea60199626",
-      "title": "Google Vids Unveils Omni 1.1, Empowering Creators with AI Video Control",
-      "url": "https://smallbiztrends.com/google-vids-unveils-omni-1-1-empowering-creators-with-ai-video-control",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-10-03T17:11:00.000Z",
-      "summary": "Discover how Google Vids' latest update, Omni 1.1, empowers creators with advanced AI video control features, enhancing content creation and editing experiences.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Use it to increase output on a channel that already converts — not to open a new one."
-      ],
-      "category": "marketing",
-      "tags": [
-        "service business",
-        "content",
-        "launch"
-      ],
-      "score": 54,
-      "breakdown": {
-        "relevance": 41,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "8e206c4d9ed6",
-      "title": "A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-10-02T16:15:00.000Z",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
-      ],
-      "category": "automation",
-      "tags": [
-        "workflow",
-        "how-to"
-      ],
-      "score": 36,
-      "breakdown": {
-        "relevance": 13,
-        "actionability": 22,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1.15
-      },
-      "enriched": false
-    },
     {
       "id": "9a415d111d44",
       "title": "All the AI agents that can live in your text messages",
@@ -75,12 +19,12 @@
       "tags": [
         "agents"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
@@ -101,12 +45,12 @@
       "tags": [
         "agents"
       ],
-      "score": 31,
+      "score": 30,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 6,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -132,7 +76,33 @@
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 6,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "062c049b478a",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-04T15:15:10.000Z",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 27,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
         "sourceWeight": 1
       },
       "enriched": false
@@ -154,12 +124,12 @@
         "agents",
         "shipped"
       ],
-      "score": 27,
+      "score": 26,
       "breakdown": {
         "relevance": 12,
         "actionability": 13,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -236,10 +206,10 @@
   ],
   "stats": {
     "fetched": 2293,
-    "onTopic": 24,
-    "deduped": 24,
-    "scored": 6,
-    "published": 6,
+    "onTopic": 16,
+    "deduped": 16,
+    "scored": 5,
+    "published": 5,
     "enriched": false
   }
 }
