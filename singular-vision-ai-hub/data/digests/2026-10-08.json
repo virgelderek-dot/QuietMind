@@ -1,8 +1,38 @@
 {
   "date": "2026-10-08",
-  "generatedAt": "2026-10-08T11:19:10.162Z",
-  "headline": "13 stories worth your time — mostly automate your ops. Start with: How to use Gemini: A detailed beginner's guide",
+  "generatedAt": "2026-10-08T19:15:30.238Z",
+  "headline": "18 stories worth your time — mostly automate your ops. Start with: Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)",
   "items": [
+    {
+      "id": "0f676982117a",
+      "title": "Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)",
+      "url": "https://zapier.com/blog/ai-models-on-zapier",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-08T05:00:00.000Z",
+      "summary": "Staying up to date on the latest AI models is like trying to keep my house vacuumed in the height of my dog's shedding season (a losing battle).",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "automation stack",
+        "workflow",
+        "how-to"
+      ],
+      "score": 73,
+      "breakdown": {
+        "relevance": 94,
+        "actionability": 14,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
     {
       "id": "5aecd3a6bd27",
       "title": "How to use Gemini: A detailed beginner's guide",
@@ -30,7 +60,118 @@
         "relevance": 39,
         "actionability": 37,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "d09b16d994e3",
+      "title": "AI adoption: A practical guide from Zapier",
+      "url": "https://zapier.com/blog/ai-adoption",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-08T05:00:00.000Z",
+      "summary": "I have two voices in my head when it comes to new tech. One is the wide-eyed optimist who wants to try every tool and click every AI button. The other wants to delete every app on my phone, move to a cabin in the woods, and write by candlelight.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation stack",
+        "how-to",
+        "launch"
+      ],
+      "score": 54,
+      "breakdown": {
+        "relevance": 24,
+        "actionability": 33,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "8f83cc80b2fd",
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-08T16:00:00.000Z",
+      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "price cut",
+        "launch"
+      ],
+      "score": 51,
+      "breakdown": {
+        "relevance": 51,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "fbd314ca8f34",
+      "title": "The best AI newsletters in 2026",
+      "url": "https://zapier.com/blog/best-ai-newsletters",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
+      "summary": "As a writer covering technology and AI, I spend plenty of time separating useful information from the hype. A good AI newsletter can help cut through that noise. But the best newsletter depends on what you need.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "marketing",
+      "tags": [
+        "email",
+        "workflow"
+      ],
+      "score": 48,
+      "breakdown": {
+        "relevance": 47,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "4ed68ddfb282",
+      "title": "Claude 5.5: What you need to know about Anthropic's AI models and chatbot",
+      "url": "https://zapier.com/blog/claude-ai",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
+      "summary": "I've been using Claude long enough to remember when the main selling point was that it was a nicer chatbot to talk to than the alternatives.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Draft answers for your ten most common customer questions and test the quality on those."
+      ],
+      "category": "automation",
+      "tags": [
+        "support"
+      ],
+      "score": 45,
+      "breakdown": {
+        "relevance": 42,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -52,41 +193,40 @@
         "ads",
         "launch"
       ],
-      "score": 45,
+      "score": 44,
       "breakdown": {
         "relevance": 26,
         "actionability": 29,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "b8b3b1c51400",
-      "title": "Muse launches on the iPad",
-      "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-07T15:37:23.000Z",
-      "summary": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "id": "ca1ec6c6a1a1",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
       "actions": [
-        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
-      "category": "automation",
+      "category": "marketing",
       "tags": [
-        "agents",
-        "launch",
-        "free"
+        "ads",
+        "service business"
       ],
-      "score": 44,
+      "score": 41,
       "breakdown": {
-        "relevance": 12,
-        "actionability": 37,
+        "relevance": 36,
+        "actionability": 0,
         "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1.05
+        "freshness": 15,
+        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -108,39 +248,122 @@
         "availability",
         "launch"
       ],
-      "score": 40,
+      "score": 39,
       "breakdown": {
         "relevance": 26,
         "actionability": 18,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "1aa6e1c4db88",
-      "title": "Interview with Tony Anscombe is the Chief Security Evangelist for ESET",
-      "url": "https://smallbiztrends.com/interview-with-tony-anscombe-is-the-chief-security-evangelist-for-eset",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-10-07T16:22:30.000Z",
-      "summary": "ESET’s Tony Anscombe explains the biggest cybersecurity risks facing small businesses, from AI-driven threats to 24/7 monitoring and managed security.",
-      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "id": "472b20c3e805",
+      "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+      "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-08T15:27:30.000Z",
+      "summary": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch.",
+      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
       "actions": [
-        "Background reading — no action needed today, but worth knowing."
+        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere.",
+        "Free to run, but budget the setup time honestly before committing."
       ],
-      "category": "strategy",
+      "category": "tools",
       "tags": [
-        "small business"
+        "self-host",
+        "notes",
+        "free"
       ],
-      "score": 32,
+      "score": 37,
       "breakdown": {
         "relevance": 24,
+        "actionability": 8,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "c4b9450255a9",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-08T18:18:00.000Z",
+      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 36,
+      "breakdown": {
+        "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 18,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "6f8e3df6ec74",
+      "title": "Claude models: Fable vs. Opus vs. Sonnet vs. Haiku",
+      "url": "https://zapier.com/blog/claude-models",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
+      "summary": "Anthropic's Claude family has four primary models: Haiku, Sonnet, Opus, and Fable. (There's also Mythos, but the general public doesn't have access to that.) All four Claude models are incredibly capable.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow",
+        "agents",
+        "automation stack"
+      ],
+      "score": 36,
+      "breakdown": {
+        "relevance": 40,
+        "actionability": 0,
+        "noise": -14,
+        "freshness": 13,
         "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "d12d77aa7dd5",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-08T16:00:00.000Z",
+      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 35,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -160,50 +383,50 @@
       "tags": [
         "agents"
       ],
-      "score": 31,
+      "score": 30,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 0.95
       },
       "enriched": false
     },
     {
-      "id": "72452dba288e",
-      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-07T14:30:00.000Z",
-      "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "id": "112b5f00879d",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-08T16:00:00.000Z",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Background reading — no action needed today, but worth knowing."
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
       ],
-      "category": "strategy",
+      "category": "automation",
       "tags": [
-        "launch"
+        "workflow"
       ],
-      "score": 30,
+      "score": 27,
       "breakdown": {
-        "relevance": 0,
-        "actionability": 29,
+        "relevance": 13,
+        "actionability": 0,
         "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1
+        "freshness": 17,
+        "sourceWeight": 1.15
       },
       "enriched": false
     },
     {
-      "id": "fe89f2d659e0",
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-06T19:56:50.000Z",
-      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+      "id": "01ea6a099b26",
+      "title": "Google is launching a one-stop Gemini agent for your work tasks",
+      "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-08T14:28:03.000Z",
+      "summary": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini at Work event on Thursday, will be available within the Gemini Enterprise app, allowing users to chat with the…",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
         "Skim it, then decide in one minute whether it changes anything you do this week."
@@ -212,41 +435,39 @@
       "tags": [
         "agents"
       ],
-      "score": 29,
+      "score": 24,
       "breakdown": {
-        "relevance": 31,
+        "relevance": 12,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
+        "freshness": 16,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
     {
-      "id": "5ca9c0ebb6f5",
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-06T16:00:00.000Z",
-      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "id": "d883472ab406",
+      "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+      "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-08T14:00:00.000Z",
+      "summary": "My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere.",
-        "Re-check your usage against the new limits so a cap does not surprise you mid-month."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
-      "category": "pricing",
+      "category": "automation",
       "tags": [
-        "limits",
-        "free"
+        "agents"
       ],
-      "score": 29,
+      "score": 23,
       "breakdown": {
-        "relevance": 18,
-        "actionability": 13,
+        "relevance": 12,
+        "actionability": 0,
         "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
+        "freshness": 16,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -266,92 +487,13 @@
       "tags": [
         "support"
       ],
-      "score": 24,
+      "score": 22,
       "breakdown": {
         "relevance": 16,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "4a32ff51ed08",
-      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-07T18:00:19.000Z",
-      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 24,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "610b12eb5069",
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-07T18:15:28.000Z",
-      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Draft answers for your ten most common customer questions and test the quality on those."
-      ],
-      "category": "automation",
-      "tags": [
-        "support"
-      ],
-      "score": 23,
-      "breakdown": {
-        "relevance": 16,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "7a12fe93b8a7",
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-06T16:35:00.000Z",
-      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Cheapest test: regenerate an asset you already paid for and compare quality honestly."
-      ],
-      "category": "marketing",
-      "tags": [
-        "creative",
-        "launch"
-      ],
-      "score": 23,
-      "breakdown": {
-        "relevance": 11,
-        "actionability": 11,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
       },
       "enriched": false
     }
@@ -386,7 +528,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1255
+      "itemCount": 1257
     },
     {
       "sourceId": "google-ai-blog",
@@ -398,7 +540,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 874
+      "itemCount": 875
     },
     {
       "sourceId": "zapier-blog",
@@ -426,11 +568,11 @@
     }
   ],
   "stats": {
-    "fetched": 2304,
-    "onTopic": 41,
-    "deduped": 41,
-    "scored": 13,
-    "published": 13,
+    "fetched": 2307,
+    "onTopic": 42,
+    "deduped": 42,
+    "scored": 23,
+    "published": 18,
     "enriched": false
   }
 }
