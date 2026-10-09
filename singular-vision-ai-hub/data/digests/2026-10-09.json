@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "generatedAt": "2026-10-09T11:17:16.801Z",
+  "generatedAt": "2026-10-09T18:47:08.202Z",
   "headline": "18 stories worth your time — mostly automate your ops. Start with: Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)",
   "items": [
     {
@@ -28,7 +28,7 @@
         "relevance": 94,
         "actionability": 14,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -53,12 +53,12 @@
         "launch",
         "free"
       ],
-      "score": 62,
+      "score": 61,
       "breakdown": {
         "relevance": 58,
         "actionability": 30,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -82,12 +82,12 @@
         "how-to",
         "launch"
       ],
-      "score": 52,
+      "score": 51,
       "breakdown": {
         "relevance": 24,
         "actionability": 33,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -110,12 +110,12 @@
         "price cut",
         "launch"
       ],
-      "score": 49,
+      "score": 48,
       "breakdown": {
         "relevance": 51,
         "actionability": 11,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
@@ -143,8 +143,35 @@
         "relevance": 47,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "3e04105beca7",
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-09T14:00:00.000Z",
+      "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "playbook"
+      ],
+      "score": 42,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 10,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -164,12 +191,12 @@
       "tags": [
         "support"
       ],
-      "score": 42,
+      "score": 41,
       "breakdown": {
         "relevance": 42,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -191,68 +218,41 @@
         "ads",
         "service business"
       ],
-      "score": 39,
+      "score": 37,
       "breakdown": {
         "relevance": 36,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.15
       },
       "enriched": false
     },
     {
-      "id": "36bf85cb5432",
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-07T18:30:57.000Z",
-      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
-      "actions": [
-        "Now generally available, so you can test it today rather than joining a waitlist."
-      ],
-      "category": "tools",
-      "tags": [
-        "agents",
-        "availability",
-        "launch"
-      ],
-      "score": 37,
-      "breakdown": {
-        "relevance": 26,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "edd58468d564",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-10-09T07:00:00.000Z",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "id": "d5658f99d74f",
+      "title": "The 12 best free writing software in 2026",
+      "url": "https://zapier.com/blog/writing-editing-apps",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-09T04:00:00.000Z",
+      "summary": "At any given moment, I have a different writing app open for every task I'm actively procrastinating on: my Notes app for collaborating with my partner on a never-ending list of to-dos, Notion for trip planning, Google Docs for the article I'm supposed to be…",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
+        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere.",
         "Pick the single most repetitive task in your week and see whether this covers it end to end."
       ],
       "category": "automation",
       "tags": [
-        "automation",
-        "case study"
+        "automation stack",
+        "free"
       ],
-      "score": 35,
+      "score": 34,
       "breakdown": {
-        "relevance": 16,
-        "actionability": 9,
-        "noise": 0,
-        "freshness": 16,
-        "sourceWeight": 1.15
+        "relevance": 15,
+        "actionability": 21,
+        "noise": -12,
+        "freshness": 13,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -275,39 +275,66 @@
         "notes",
         "free"
       ],
-      "score": 34,
+      "score": 33,
       "breakdown": {
         "relevance": 24,
         "actionability": 8,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 10,
         "sourceWeight": 1.05
       },
       "enriched": false
     },
     {
-      "id": "c4b9450255a9",
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-08T18:18:00.000Z",
-      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+      "id": "edd58468d564",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
       ],
       "category": "automation",
       "tags": [
-        "agents"
+        "automation",
+        "case study"
       ],
       "score": 33,
       "breakdown": {
-        "relevance": 31,
-        "actionability": 0,
+        "relevance": 16,
+        "actionability": 9,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1
+        "freshness": 14,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "188de3de006e",
+      "title": "Google Gemini Unveils Customizable Live Avatars with Built-in Trust Features",
+      "url": "https://smallbiztrends.com/google-gemini-unveils-customizable-live-avatars-with-built-in-trust-features",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-09T17:11:00.000Z",
+      "summary": "Discover how Google Gemini's new customizable live avatars enhance user experience with innovative built-in trust features, ensuring a safer and more personalized digital interaction.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -329,13 +356,39 @@
         "agents",
         "automation stack"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 40,
         "actionability": 0,
         "noise": -14,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "c4b9450255a9",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-08T18:18:00.000Z",
+      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 31,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 10,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -355,12 +408,12 @@
       "tags": [
         "agents"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
@@ -381,39 +434,40 @@
       "tags": [
         "price cut"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
         "relevance": 32,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 0.95
       },
       "enriched": false
     },
     {
-      "id": "72492f2f80bf",
-      "title": "The context factor for AI agents",
-      "url": "https://aibusiness.com/generative-ai/the-context-factor-for-ai-agents",
-      "sourceId": "ai-business",
-      "sourceName": "AI Business",
-      "publishedAt": "2026-10-07T17:07:38.000Z",
-      "summary": "Process Intelligence helps organizations provide AI agents with the right context and data needed to know how their businesses run.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "id": "19e26c83b268",
+      "title": "Google releases a new local-first Granola competitor",
+      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-08T13:28:39.000Z",
+      "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
+      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
       "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
+        "Free to run, but budget the setup time honestly before committing."
       ],
-      "category": "automation",
+      "category": "tools",
       "tags": [
-        "agents"
+        "self-host",
+        "notes"
       ],
-      "score": 28,
+      "score": 26,
       "breakdown": {
-        "relevance": 31,
+        "relevance": 24,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 0.95
+        "freshness": 9,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -434,65 +488,13 @@
         "agents",
         "launch"
       ],
-      "score": 27,
+      "score": 25,
       "breakdown": {
         "relevance": 12,
         "actionability": 11,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "112b5f00879d",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-10-08T16:00:00.000Z",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
-      ],
-      "category": "automation",
-      "tags": [
-        "workflow"
-      ],
-      "score": 23,
-      "breakdown": {
-        "relevance": 13,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.15
-      },
-      "enriched": false
-    },
-    {
-      "id": "e9e58798970c",
-      "title": "Western open-weight campaign could give enterprises more control over AI",
-      "url": "https://aibusiness.com/ai-policy/western-open-weight-campaign-could-give-enterprises",
-      "sourceId": "ai-business",
-      "sourceName": "AI Business",
-      "publishedAt": "2026-10-09T00:09:43.000Z",
-      "summary": "New Western open-weight models could give enterprises an alternative to Chinese and proprietary AI, but greater control also brings new responsibilities.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "marketing",
-      "tags": [
-        "ads"
-      ],
-      "score": 23,
-      "breakdown": {
-        "relevance": 16,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 14,
-        "sourceWeight": 0.95
       },
       "enriched": false
     }
@@ -527,7 +529,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1259
+      "itemCount": 1287
     },
     {
       "sourceId": "google-ai-blog",
@@ -567,10 +569,10 @@
     }
   ],
   "stats": {
-    "fetched": 2310,
-    "onTopic": 40,
-    "deduped": 40,
-    "scored": 19,
+    "fetched": 2338,
+    "onTopic": 38,
+    "deduped": 38,
+    "scored": 18,
     "published": 18,
     "enriched": false
   }
