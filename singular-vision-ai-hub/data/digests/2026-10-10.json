@@ -1,8 +1,35 @@
 {
   "date": "2026-10-10",
-  "generatedAt": "2026-10-10T10:34:09.590Z",
-  "headline": "12 stories worth your time — mostly automate your ops. Start with: Anthropic launches free AI security scans for open-source projects",
+  "generatedAt": "2026-10-10T17:49:24.342Z",
+  "headline": "13 stories worth your time — mostly automate your ops. Start with: Gusto Enhances Claude Connector to Simplify Small Business Management",
   "items": [
+    {
+      "id": "daa78542912c",
+      "title": "Gusto Enhances Claude Connector to Simplify Small Business Management",
+      "url": "https://smallbiztrends.com/gusto-enhances-claude-connector-to-simplify-small-business-management",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-10T17:11:00.000Z",
+      "summary": "Discover how Gusto's enhanced Claude Connector streamlines small business management, making payroll, benefits, and HR tasks easier than ever. Learn about the new features designed to save time and improve efficiency for small business owners.",
+      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+      ],
+      "category": "strategy",
+      "tags": [
+        "small business",
+        "integration"
+      ],
+      "score": 69,
+      "breakdown": {
+        "relevance": 91,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
     {
       "id": "df7e5433800b",
       "title": "Anthropic launches free AI security scans for open-source projects",
@@ -28,36 +55,36 @@
         "relevance": 58,
         "actionability": 30,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 7,
         "sourceWeight": 1.05
       },
       "enriched": false
     },
     {
-      "id": "8f83cc80b2fd",
-      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-08T16:00:00.000Z",
-      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+      "id": "0ea9d786e45e",
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-10T13:00:00.000Z",
+      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary…",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material."
+        "Check what customer data you are currently passing to AI tools, and under what terms."
       ],
       "category": "automation",
       "tags": [
         "agents",
-        "price cut",
+        "privacy",
         "launch"
       ],
-      "score": 47,
+      "score": 53,
       "breakdown": {
-        "relevance": 51,
+        "relevance": 62,
         "actionability": 11,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
+        "noise": -12,
+        "freshness": 16,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -78,40 +105,66 @@
         "agents",
         "playbook"
       ],
-      "score": 39,
+      "score": 38,
       "breakdown": {
         "relevance": 31,
         "actionability": 10,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.05
       },
       "enriched": false
     },
     {
-      "id": "ca1ec6c6a1a1",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-10-08T12:00:00.000Z",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "id": "92e4233ce3ff",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-10T14:00:00.000Z",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
         "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
-      "category": "marketing",
+      "category": "automation",
       "tags": [
-        "ads",
-        "service business"
+        "agents"
       ],
-      "score": 36,
+      "score": 35,
       "breakdown": {
-        "relevance": 36,
+        "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 1.15
+        "freshness": 16,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "0decde66c5ee",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-10T14:41:16.000Z",
+      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "playbook"
+      ],
+      "score": 31,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 10,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -133,12 +186,12 @@
         "automation stack",
         "free"
       ],
-      "score": 32,
+      "score": 30,
       "breakdown": {
         "relevance": 15,
         "actionability": 21,
         "noise": -12,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -159,66 +212,13 @@
       "tags": [
         "playbook"
       ],
-      "score": 31,
+      "score": 30,
       "breakdown": {
         "relevance": 0,
         "actionability": 26,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "2a1c784f84b9",
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-09T19:36:56.000Z",
-      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
-      ],
-      "category": "strategy",
-      "tags": [
-        "playbook"
-      ],
-      "score": 30,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 26,
-        "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "edd58468d564",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-10-09T07:00:00.000Z",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
-      ],
-      "category": "automation",
-      "tags": [
-        "automation",
-        "case study"
-      ],
-      "score": 30,
-      "breakdown": {
-        "relevance": 16,
-        "actionability": 9,
-        "noise": 0,
-        "freshness": 10,
-        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -243,33 +243,60 @@
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 6,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "d12d77aa7dd5",
-      "title": "Natura’s $99 smart ring puts AI agents on your finger",
-      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-08T16:00:00.000Z",
-      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+      "id": "edd58468d564",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
       ],
       "category": "automation",
       "tags": [
-        "agents"
+        "automation",
+        "case study"
       ],
       "score": 29,
       "breakdown": {
-        "relevance": 31,
-        "actionability": 0,
+        "relevance": 16,
+        "actionability": 9,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 8,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "2a1c784f84b9",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-09T19:36:56.000Z",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "strategy",
+      "tags": [
+        "playbook"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 26,
+        "noise": 0,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
@@ -290,12 +317,12 @@
       "tags": [
         "price cut"
       ],
-      "score": 29,
+      "score": 28,
       "breakdown": {
         "relevance": 32,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -316,12 +343,12 @@
       "tags": [
         "launch"
       ],
-      "score": 25,
+      "score": 23,
       "breakdown": {
         "relevance": 0,
         "actionability": 18,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
@@ -398,10 +425,10 @@
   ],
   "stats": {
     "fetched": 2338,
-    "onTopic": 32,
-    "deduped": 32,
-    "scored": 12,
-    "published": 12,
+    "onTopic": 30,
+    "deduped": 30,
+    "scored": 13,
+    "published": 13,
     "enriched": false
   }
 }
