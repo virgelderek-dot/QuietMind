@@ -1,7 +1,7 @@
 {
   "date": "2026-10-11",
-  "generatedAt": "2026-10-11T10:46:51.481Z",
-  "headline": "6 stories worth your time — mostly automate your ops. Start with: AI agent makers are promising privacy — will they deliver?",
+  "generatedAt": "2026-10-11T18:02:30.288Z",
+  "headline": "5 stories worth your time — mostly automate your ops. Start with: AI agent makers are promising privacy — will they deliver?",
   "items": [
     {
       "id": "0ea9d786e45e",
@@ -21,39 +21,12 @@
         "privacy",
         "launch"
       ],
-      "score": 50,
+      "score": 49,
       "breakdown": {
         "relevance": 62,
         "actionability": 11,
         "noise": -12,
-        "freshness": 11,
-        "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "3e04105beca7",
-      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
-      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-09T14:00:00.000Z",
-      "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents",
-        "playbook"
-      ],
-      "score": 37,
-      "breakdown": {
-        "relevance": 31,
-        "actionability": 10,
-        "noise": 0,
-        "freshness": 6,
+        "freshness": 9,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -74,40 +47,13 @@
       "tags": [
         "agents"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "0decde66c5ee",
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-10T14:41:16.000Z",
-      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents",
-        "playbook"
-      ],
-      "score": 27,
-      "breakdown": {
-        "relevance": 12,
-        "actionability": 10,
-        "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -132,7 +78,34 @@
         "relevance": 0,
         "actionability": 26,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "0decde66c5ee",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-10T14:41:16.000Z",
+      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "playbook"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 10,
+        "noise": 0,
+        "freshness": 10,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -153,12 +126,12 @@
       "tags": [
         "playbook"
       ],
-      "score": 26,
+      "score": 25,
       "breakdown": {
         "relevance": 0,
         "actionability": 26,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 6,
         "sourceWeight": 1
       },
       "enriched": false
@@ -235,10 +208,10 @@
   ],
   "stats": {
     "fetched": 2338,
-    "onTopic": 19,
-    "deduped": 19,
-    "scored": 6,
-    "published": 6,
+    "onTopic": 17,
+    "deduped": 17,
+    "scored": 5,
+    "published": 5,
     "enriched": false
   }
 }
