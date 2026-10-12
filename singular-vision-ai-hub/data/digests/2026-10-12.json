@@ -1,44 +1,68 @@
 {
   "date": "2026-10-12",
-  "generatedAt": "2026-10-12T11:53:29.006Z",
-  "headline": "3 stories worth your time — mostly automate your ops. Start with: AI agent makers are promising privacy — will they deliver?",
+  "generatedAt": "2026-10-12T21:43:06.661Z",
+  "headline": "3 stories worth your time — mostly rules & risk. Start with: Microsoft president says UK is best placed to drive AI regulation",
   "items": [
     {
-      "id": "0ea9d786e45e",
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-10T13:00:00.000Z",
-      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary…",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "id": "5974203bb3c7",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-12T15:31:19.000Z",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
       "actions": [
-        "Check what customer data you are currently passing to AI tools, and under what terms."
+        "Note the compliance date and check whether your business size is in scope."
       ],
-      "category": "automation",
+      "category": "rules",
       "tags": [
-        "agents",
-        "privacy",
-        "launch"
+        "regulation"
       ],
-      "score": 48,
+      "score": 38,
       "breakdown": {
-        "relevance": 62,
-        "actionability": 11,
-        "noise": -12,
-        "freshness": 6,
-        "sourceWeight": 1.05
+        "relevance": 36,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "92e4233ce3ff",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-10T14:00:00.000Z",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "id": "95f4d395e1f6",
+      "title": "Verizon Invests $70M to Provide Free AI Training for American Workforce",
+      "url": "https://smallbiztrends.com/verizon-invests-70m-to-provide-free-ai-training-for-american-workforce",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-12T15:11:00.000Z",
+      "summary": "Verizon commits $70 million to enhance the American workforce by offering free AI training programs. Discover how this initiative aims to equip workers with essential skills for the future and foster innovation across industries.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
+      ],
+      "category": "strategy",
+      "tags": [
+        "free"
+      ],
+      "score": 33,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 21,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "5e4c8652929d",
+      "title": "Prompt: AI agents are running into the limits of access",
+      "url": "https://aibusiness.com/agentic-ai/prompt-ai-agents-running-into-limits-of-access",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-10-12T12:34:27.000Z",
+      "summary": "As agents take on more work for users, companies are deciding whether to let outside AI systems act on their platforms.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
         "Skim it, then decide in one minute whether it changes anything you do this week."
@@ -47,40 +71,13 @@
       "tags": [
         "agents"
       ],
-      "score": 29,
+      "score": 25,
       "breakdown": {
-        "relevance": 31,
+        "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "0decde66c5ee",
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-10T14:41:16.000Z",
-      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents",
-        "playbook"
-      ],
-      "score": 24,
-      "breakdown": {
-        "relevance": 12,
-        "actionability": 10,
-        "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 1.05
+        "freshness": 15,
+        "sourceWeight": 0.95
       },
       "enriched": false
     }
@@ -156,8 +153,8 @@
   ],
   "stats": {
     "fetched": 2338,
-    "onTopic": 11,
-    "deduped": 11,
+    "onTopic": 15,
+    "deduped": 15,
     "scored": 3,
     "published": 3,
     "enriched": false
