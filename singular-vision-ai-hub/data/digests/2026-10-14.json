@@ -1,0 +1,401 @@
+{
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T09:28:14.168Z",
+  "headline": "12 stories worth your time — mostly marketing & content. Start with: Shopify opens its catalog up to more AI agents",
+  "items": [
+    {
+      "id": "c839b9474fae",
+      "title": "Shopify opens its catalog up to more AI agents",
+      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-13T19:42:42.000Z",
+      "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Check whether your storefront platform supports this natively before adding another subscription."
+      ],
+      "category": "marketing",
+      "tags": [
+        "agents",
+        "ecommerce"
+      ],
+      "score": 54,
+      "breakdown": {
+        "relevance": 68,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "bc6b0eca0236",
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-13T13:00:00.000Z",
+      "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "launch"
+      ],
+      "score": 48,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 29,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "e8881f4e9b5e",
+      "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-13T16:42:51.000Z",
+      "summary": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social"
+      ],
+      "score": 34,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "48866c22a637",
+      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-13T13:50:19.000Z",
+      "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material."
+      ],
+      "category": "pricing",
+      "tags": [
+        "pricing"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "5974203bb3c7",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-12T15:31:19.000Z",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Note the compliance date and check whether your business size is in scope."
+      ],
+      "category": "rules",
+      "tags": [
+        "regulation"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 36,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 7,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "a3312401eb55",
+      "title": "Google makes it easier to launch your vibe-coded apps",
+      "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-13T17:00:00.000Z",
+      "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play…",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 29,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "c9abe9b08cd3",
+      "title": "Facebook will let you customize your feed algorithm using AI",
+      "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-13T17:01:31.000Z",
+      "summary": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social",
+        "launch"
+      ],
+      "score": 29,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "24ef7cf40bd2",
+      "title": "Google finally releases Gemini 4 Argon",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-13T16:00:00.000Z",
+      "summary": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow",
+        "launch"
+      ],
+      "score": 29,
+      "breakdown": {
+        "relevance": 13,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "c06a934276cf",
+      "title": "Facebook is giving users more control over their algorithm",
+      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-13T18:05:24.000Z",
+      "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social",
+        "launch"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "7dbb8d9177ef",
+      "title": "Oracle Unveils Fusion Claw, Transforming AI Execution for Businesses",
+      "url": "https://smallbiztrends.com/oracle-unveils-fusion-claw-transforming-ai-execution-for-businesses",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-13T17:11:00.000Z",
+      "summary": "Discover how Oracle's groundbreaking Fusion Claw is revolutionizing AI execution for businesses, enhancing operational efficiency, and driving innovation.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "33c0b5054646",
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-13T12:23:42.000Z",
+      "summary": "The startup will sell some of its assets to Disney for $20 million.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Draft answers for your ten most common customer questions and test the quality on those."
+      ],
+      "category": "automation",
+      "tags": [
+        "support"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 26,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "5b75b71a6459",
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-13T17:00:00.000Z",
+      "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "shipped"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 21,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "ok": false,
+      "itemCount": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "ok": true,
+      "itemCount": 1288
+    },
+    {
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "ok": true,
+      "itemCount": 876
+    },
+    {
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "ben-evans",
+      "sourceName": "Benedict Evans",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "ok": true,
+      "itemCount": 50
+    }
+  ],
+  "stats": {
+    "fetched": 2339,
+    "onTopic": 30,
+    "deduped": 30,
+    "scored": 12,
+    "published": 12,
+    "enriched": false
+  }
+}
