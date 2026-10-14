@@ -1,8 +1,97 @@
 {
   "date": "2026-10-14",
-  "generatedAt": "2026-10-14T09:28:14.168Z",
-  "headline": "12 stories worth your time — mostly marketing & content. Start with: Shopify opens its catalog up to more AI agents",
+  "generatedAt": "2026-10-14T17:58:35.015Z",
+  "headline": "16 stories worth your time — mostly automate your ops. Start with: Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)",
   "items": [
+    {
+      "id": "0f676982117a",
+      "title": "Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)",
+      "url": "https://zapier.com/blog/ai-models-on-zapier",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-14T05:00:00.000Z",
+      "summary": "Staying up to date on the latest AI models is like trying to keep my house vacuumed in the height of my dog's shedding season (a losing battle).",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "automation stack",
+        "workflow",
+        "how-to"
+      ],
+      "score": 73,
+      "breakdown": {
+        "relevance": 94,
+        "actionability": 14,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "c0827a6b11b3",
+      "title": "NetSuite Launches Free AI-Powered Financial Platform for Startups",
+      "url": "https://smallbiztrends.com/netsuite-launches-free-ai-powered-financial-platform-for-startups",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-14T12:30:49.000Z",
+      "summary": "Oracle NetSuite launches QuickStart, a free AI-powered financial platform helping eligible technology startups automate accounting and manage finances.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere.",
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Trial it against one month of real invoices before trusting it with the books."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "finance ops",
+        "launch",
+        "free"
+      ],
+      "score": 66,
+      "breakdown": {
+        "relevance": 34,
+        "actionability": 49,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "2b5effc8acbb",
+      "title": "Human-in-the-loop in AI workflows: HITL meaning, benefits, and practical patterns",
+      "url": "https://zapier.com/blog/human-in-the-loop",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-14T05:00:00.000Z",
+      "summary": "AI systems can route messages, update records, make decisions, and trigger entire workflows across multiple apps without you touching anything.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow",
+        "automation",
+        "agents"
+      ],
+      "score": 56,
+      "breakdown": {
+        "relevance": 62,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
     {
       "id": "c839b9474fae",
       "title": "Shopify opens its catalog up to more AI agents",
@@ -20,65 +109,66 @@
         "agents",
         "ecommerce"
       ],
-      "score": 54,
+      "score": 53,
       "breakdown": {
         "relevance": 68,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.05
       },
       "enriched": false
     },
     {
-      "id": "bc6b0eca0236",
-      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-13T13:00:00.000Z",
-      "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "id": "2f3282e48314",
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-14T00:00:00.000Z",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
         "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
       "category": "automation",
       "tags": [
         "agents",
-        "launch"
+        "small business"
       ],
-      "score": 48,
+      "score": 50,
       "breakdown": {
-        "relevance": 31,
-        "actionability": 29,
+        "relevance": 55,
+        "actionability": 0,
         "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1
+        "freshness": 12,
+        "sourceWeight": 1.15
       },
       "enriched": false
     },
     {
-      "id": "e8881f4e9b5e",
-      "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+      "id": "c034144452ef",
+      "title": "Android is using AI to suss out scammers in Google Messages",
+      "url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-13T16:42:51.000Z",
-      "summary": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "publishedAt": "2026-10-14T16:00:00.000Z",
+      "summary": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
       "actions": [
-        "Use it to increase output on a channel that already converts — not to open a new one."
+        "Brief anyone who can authorise a payment or a password reset on your behalf."
       ],
-      "category": "marketing",
+      "category": "rules",
       "tags": [
-        "social"
+        "fraud risk",
+        "launch"
       ],
-      "score": 34,
+      "score": 32,
       "breakdown": {
-        "relevance": 31,
-        "actionability": 0,
+        "relevance": 12,
+        "actionability": 11,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 17,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -99,65 +189,65 @@
       "tags": [
         "pricing"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "5974203bb3c7",
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-12T15:31:19.000Z",
-      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "id": "a0e0fec2c2b5",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Note the compliance date and check whether your business size is in scope."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
-      "category": "rules",
+      "category": "automation",
       "tags": [
-        "regulation"
+        "agents"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
-        "relevance": 36,
+        "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
+        "freshness": 16,
+        "sourceWeight": 1.15
       },
       "enriched": false
     },
     {
-      "id": "a3312401eb55",
-      "title": "Google makes it easier to launch your vibe-coded apps",
-      "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-13T17:00:00.000Z",
-      "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play…",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "id": "cef3a61011ee",
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-14T15:00:00.000Z",
+      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Background reading — no action needed today, but worth knowing."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
-      "category": "strategy",
+      "category": "automation",
       "tags": [
-        "launch"
+        "agents"
       ],
-      "score": 32,
+      "score": 28,
       "breakdown": {
-        "relevance": 0,
-        "actionability": 29,
+        "relevance": 19,
+        "actionability": 0,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.05
+        "freshness": 17,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -178,39 +268,12 @@
         "social",
         "launch"
       ],
-      "score": 29,
+      "score": 27,
       "breakdown": {
         "relevance": 12,
         "actionability": 11,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "24ef7cf40bd2",
-      "title": "Google finally releases Gemini 4 Argon",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-13T16:00:00.000Z",
-      "summary": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
-      ],
-      "category": "automation",
-      "tags": [
-        "workflow",
-        "launch"
-      ],
-      "score": 29,
-      "breakdown": {
-        "relevance": 13,
-        "actionability": 11,
-        "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -232,65 +295,39 @@
         "social",
         "launch"
       ],
-      "score": 28,
+      "score": 26,
       "breakdown": {
         "relevance": 12,
         "actionability": 11,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "7dbb8d9177ef",
-      "title": "Oracle Unveils Fusion Claw, Transforming AI Execution for Businesses",
-      "url": "https://smallbiztrends.com/oracle-unveils-fusion-claw-transforming-ai-execution-for-businesses",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-10-13T17:11:00.000Z",
-      "summary": "Discover how Oracle's groundbreaking Fusion Claw is revolutionizing AI execution for businesses, enhancing operational efficiency, and driving innovation.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 28,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "33c0b5054646",
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-13T12:23:42.000Z",
-      "summary": "The startup will sell some of its assets to Disney for $20 million.",
+      "id": "17bf7395bdbd",
+      "title": "DeepSeek and what enterprises should learn from AI agent exploits",
+      "url": "https://aibusiness.com/generative-ai/deepseek-what-enterprises-should-learn-from-ai-agent-exploits",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
+      "summary": "A new case of an out-of-control AI model shows that enterprises should treat models and agents as toddlers that need supervision and explicit instructions.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Draft answers for your ten most common customer questions and test the quality on those."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
       "category": "automation",
       "tags": [
-        "support"
+        "agents"
       ],
-      "score": 28,
+      "score": 26,
       "breakdown": {
-        "relevance": 26,
+        "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1
+        "freshness": 16,
+        "sourceWeight": 0.95
       },
       "enriched": false
     },
@@ -310,12 +347,90 @@
       "tags": [
         "shipped"
       ],
-      "score": 26,
+      "score": 24,
       "breakdown": {
         "relevance": 0,
         "actionability": 21,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "d4118e30020d",
+      "title": "Square’s new kiosk lets you talk to AI for help with your order",
+      "url": "https://www.theverge.com/tech/1009086/square-kiosk",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-14T16:00:00.000Z",
+      "summary": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "08495a955cc8",
+      "title": "Epic’s new games launcher is ‘vibe coded’",
+      "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-14T13:55:02.000Z",
+      "summary": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "shipped"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 13,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "f1c8e20f7598",
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-14T15:16:04.000Z",
+      "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 22,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 17,
         "sourceWeight": 1
       },
       "enriched": false
@@ -351,7 +466,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1288
+      "itemCount": 1291
     },
     {
       "sourceId": "google-ai-blog",
@@ -391,11 +506,11 @@
     }
   ],
   "stats": {
-    "fetched": 2339,
-    "onTopic": 30,
-    "deduped": 30,
-    "scored": 12,
-    "published": 12,
+    "fetched": 2342,
+    "onTopic": 38,
+    "deduped": 38,
+    "scored": 16,
+    "published": 16,
     "enriched": false
   }
 }
