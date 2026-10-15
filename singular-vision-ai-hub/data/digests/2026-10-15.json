@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "generatedAt": "2026-10-15T09:06:33.697Z",
+  "generatedAt": "2026-10-15T17:44:46.708Z",
   "headline": "18 stories worth your time — mostly automate your ops. Start with: Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)",
   "items": [
     {
@@ -28,7 +28,36 @@
         "relevance": 94,
         "actionability": 14,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "f479e3156b42",
+      "title": "Gusto Unveils ChatGPT Plugin to Simplify Payroll and Compliance Management",
+      "url": "https://smallbiztrends.com/gusto-unveils-chatgpt-plugin-to-simplify-payroll-and-compliance-management",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-15T15:11:00.000Z",
+      "summary": "Discover how Gusto's new ChatGPT plugin streamlines payroll and compliance management, making it easier for businesses to manage their financial tasks efficiently. Learn about its features and benefits in our latest article.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware.",
+        "Note the compliance date and check whether your business size is in scope."
+      ],
+      "category": "rules",
+      "tags": [
+        "integration",
+        "regulation",
+        "launch"
+      ],
+      "score": 66,
+      "breakdown": {
+        "relevance": 65,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -51,13 +80,45 @@
         "automation",
         "agents"
       ],
-      "score": 54,
+      "score": 53,
       "breakdown": {
         "relevance": 62,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "cc07996f6bad",
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-15T12:00:00.000Z",
+      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material.",
+        "Re-check your usage against the new limits so a cap does not surprise you mid-month.",
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+      ],
+      "category": "automation",
+      "tags": [
+        "integration",
+        "notes",
+        "pricing",
+        "limits",
+        "launch"
+      ],
+      "score": 51,
+      "breakdown": {
+        "relevance": 46,
+        "actionability": 29,
+        "noise": -12,
+        "freshness": 16,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -80,12 +141,12 @@
         "fraud risk",
         "workflow"
       ],
-      "score": 50,
+      "score": 49,
       "breakdown": {
         "relevance": 63,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
@@ -107,13 +168,41 @@
         "agents",
         "small business"
       ],
-      "score": 49,
+      "score": 48,
       "breakdown": {
         "relevance": 55,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 7,
         "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "f616628c1389",
+      "title": "Nobody is safe from celebrity AI deepfakes",
+      "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-15T14:03:42.000Z",
+      "summary": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one.",
+        "Brief anyone who can authorise a payment or a password reset on your behalf."
+      ],
+      "category": "rules",
+      "tags": [
+        "fraud risk",
+        "social"
+      ],
+      "score": 37,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -134,64 +223,40 @@
         "social",
         "launch"
       ],
-      "score": 36,
+      "score": 35,
       "breakdown": {
         "relevance": 19,
         "actionability": 18,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "d3bb9ef55af6",
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-15T00:00:00.000Z",
-      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Use it to increase output on a channel that already converts — not to open a new one."
-      ],
-      "category": "marketing",
-      "tags": [
-        "social"
-      ],
-      "score": 34,
-      "breakdown": {
-        "relevance": 31,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 15,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "939ecdfa5040",
-      "title": "YouTube sticks new labels on AI-generated songs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+      "id": "b6af0c3578bc",
+      "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+      "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-14T18:22:56.000Z",
-      "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos.",
+      "publishedAt": "2026-10-15T12:00:00.000Z",
+      "summary": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them.",
       "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
       "actions": [
-        "Use it to increase output on a channel that already converts — not to open a new one."
+        "Compare against what you currently pay for the same job and reprice if the gap is material.",
+        "Check whether your storefront platform supports this natively before adding another subscription."
       ],
       "category": "marketing",
       "tags": [
-        "social"
+        "ecommerce",
+        "pricing"
       ],
-      "score": 34,
+      "score": 33,
       "breakdown": {
-        "relevance": 31,
+        "relevance": 26,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 16,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -212,13 +277,39 @@
       "tags": [
         "agents"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "1b6257d35772",
+      "title": "Friends don’t let friends feed their data to AI agents",
+      "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-15T16:21:45.000Z",
+      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 30,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -239,13 +330,39 @@
         "workflow",
         "launch"
       ],
-      "score": 31,
+      "score": 29,
       "breakdown": {
         "relevance": 13,
         "actionability": 11,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "2c9392a52f20",
+      "title": "AI agents are coming to Rivian’s cars",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-15T15:02:36.000Z",
+      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -266,40 +383,39 @@
         "agents",
         "launch"
       ],
-      "score": 30,
-      "breakdown": {
-        "relevance": 12,
-        "actionability": 11,
-        "noise": 0,
-        "freshness": 9,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "c034144452ef",
-      "title": "Android is using AI to suss out scammers in Google Messages",
-      "url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-14T16:00:00.000Z",
-      "summary": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools.",
-      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
-      "actions": [
-        "Brief anyone who can authorise a payment or a password reset on your behalf."
-      ],
-      "category": "rules",
-      "tags": [
-        "fraud risk",
-        "launch"
-      ],
       "score": 28,
       "breakdown": {
         "relevance": 12,
         "actionability": 11,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.05
+        "freshness": 8,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "fa14b8f7db46",
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-15T13:00:00.000Z",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "strategy",
+      "tags": [
+        "how-to"
+      ],
+      "score": 27,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 14,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -319,39 +435,39 @@
       "tags": [
         "agents"
       ],
-      "score": 27,
+      "score": 26,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.15
       },
       "enriched": false
     },
     {
-      "id": "cef3a61011ee",
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-14T15:00:00.000Z",
-      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "id": "97f8573c584b",
+      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+      "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-15T14:30:00.000Z",
+      "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
+        "Background reading — no action needed today, but worth knowing."
       ],
-      "category": "automation",
+      "category": "strategy",
       "tags": [
-        "agents"
+        "launch"
       ],
-      "score": 25,
+      "score": 23,
       "breakdown": {
-        "relevance": 19,
-        "actionability": 0,
+        "relevance": 0,
+        "actionability": 11,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1
+        "freshness": 17,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -371,118 +487,13 @@
       "tags": [
         "free"
       ],
-      "score": 24,
+      "score": 22,
       "breakdown": {
         "relevance": 0,
         "actionability": 13,
         "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "c06a934276cf",
-      "title": "Facebook is giving users more control over their algorithm",
-      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-13T18:05:24.000Z",
-      "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Use it to increase output on a channel that already converts — not to open a new one."
-      ],
-      "category": "marketing",
-      "tags": [
-        "social",
-        "launch"
-      ],
-      "score": 24,
-      "breakdown": {
-        "relevance": 12,
-        "actionability": 11,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "738aed8dcc6e",
-      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-14T18:47:54.000Z",
-      "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding.",
-      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
-      "actions": [
-        "Note the compliance date and check whether your business size is in scope."
-      ],
-      "category": "rules",
-      "tags": [
-        "regulation"
-      ],
-      "score": 23,
-      "breakdown": {
-        "relevance": 14,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "17bf7395bdbd",
-      "title": "DeepSeek and what enterprises should learn from AI agent exploits",
-      "url": "https://aibusiness.com/generative-ai/deepseek-what-enterprises-should-learn-from-ai-agent-exploits",
-      "sourceId": "ai-business",
-      "sourceName": "AI Business",
-      "publishedAt": "2026-10-14T12:00:00.000Z",
-      "summary": "A new case of an out-of-control AI model shows that enterprises should treat models and agents as toddlers that need supervision and explicit instructions.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents"
-      ],
-      "score": 23,
-      "breakdown": {
-        "relevance": 19,
-        "actionability": 0,
-        "noise": 0,
         "freshness": 11,
-        "sourceWeight": 0.95
-      },
-      "enriched": false
-    },
-    {
-      "id": "bba11107a8fb",
-      "title": "My AI doppelganger tells me what to eat",
-      "url": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-14T17:00:00.000Z",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Use it to increase output on a channel that already converts — not to open a new one."
-      ],
-      "category": "marketing",
-      "tags": [
-        "email"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 13,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.05
+        "sourceWeight": 1.2
       },
       "enriched": false
     }
@@ -517,7 +528,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1293
+      "itemCount": 1294
     },
     {
       "sourceId": "google-ai-blog",
@@ -529,7 +540,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 876
+      "itemCount": 879
     },
     {
       "sourceId": "zapier-blog",
@@ -557,10 +568,10 @@
     }
   ],
   "stats": {
-    "fetched": 2344,
-    "onTopic": 45,
-    "deduped": 45,
-    "scored": 18,
+    "fetched": 2348,
+    "onTopic": 41,
+    "deduped": 40,
+    "scored": 22,
     "published": 18,
     "enriched": false
   }
