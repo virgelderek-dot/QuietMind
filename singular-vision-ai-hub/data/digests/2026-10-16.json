@@ -1,8 +1,34 @@
 {
   "date": "2026-10-16",
-  "generatedAt": "2026-10-16T08:58:46.879Z",
-  "headline": "14 stories worth your time — mostly automate your ops. Start with: Amazon’s Bee launches two new personal AI devices, starting at $75",
+  "generatedAt": "2026-10-16T17:22:22.863Z",
+  "headline": "14 stories worth your time — mostly automate your ops. Start with: AI Helps Accounting Practices Boost Productivity Without Cutting Jobs",
   "items": [
+    {
+      "id": "b6483f20f64b",
+      "title": "AI Helps Accounting Practices Boost Productivity Without Cutting Jobs",
+      "url": "https://smallbiztrends.com/ai-helps-accounting-practices-boost-productivity-without-cutting-jobs",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-16T15:11:00.000Z",
+      "summary": "Discover how AI technology is transforming accounting practices by enhancing productivity and efficiency, all while preserving jobs and fostering a collaborative work environment.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Trial it against one month of real invoices before trusting it with the books."
+      ],
+      "category": "automation",
+      "tags": [
+        "finance ops"
+      ],
+      "score": 50,
+      "breakdown": {
+        "relevance": 47,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
     {
       "id": "cc07996f6bad",
       "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
@@ -25,41 +51,12 @@
         "limits",
         "launch"
       ],
-      "score": 49,
+      "score": 48,
       "breakdown": {
         "relevance": 46,
         "actionability": 29,
         "noise": -12,
-        "freshness": 11,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "d7ad5c7f5c98",
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-14T18:00:00.000Z",
-      "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
-        "Brief anyone who can authorise a payment or a password reset on your behalf."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents",
-        "fraud risk",
-        "workflow"
-      ],
-      "score": 47,
-      "breakdown": {
-        "relevance": 63,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 7,
+        "freshness": 9,
         "sourceWeight": 1
       },
       "enriched": false
@@ -83,13 +80,66 @@
         "social",
         "launch"
       ],
-      "score": 45,
+      "score": 44,
       "breakdown": {
         "relevance": 24,
         "actionability": 29,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "86c09ef52c6f",
+      "title": "What is Google Vids? And how to use it",
+      "url": "https://zapier.com/blog/google-vids",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-16T04:00:00.000Z",
+      "summary": "I teach classes asynchronously at a local college, which means I spend a lot of time trying to find new ways to create fun and engaging content that students will actually log in to watch.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "strategy",
+      "tags": [
+        "how-to",
+        "case study"
+      ],
+      "score": 42,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 37,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "df66f9f97803",
+      "title": "Chase Hosts National Event to Combat Rising AI-Enabled Scams",
+      "url": "https://smallbiztrends.com/chase-hosts-national-event-to-combat-rising-ai-enabled-scams",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-16T09:33:00.000Z",
+      "summary": "Join Chase as they host a national event aimed at tackling the increasing threat of AI-enabled scams. Discover strategies, expert insights, and resources to protect yourself and your finances from these sophisticated fraud tactics.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Brief anyone who can authorise a payment or a password reset on your behalf."
+      ],
+      "category": "rules",
+      "tags": [
+        "fraud risk"
+      ],
+      "score": 40,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -110,13 +160,40 @@
         "shipped",
         "launch"
       ],
-      "score": 36,
+      "score": 35,
       "breakdown": {
         "relevance": 0,
         "actionability": 45,
         "noise": -12,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "ecaadd2c799b",
+      "title": "Prompt: Enterprise controls can't keep up with AI agents",
+      "url": "https://aibusiness.com/agentic-ai/prompt-enterprise-controls-can-t-keep-up-with-ai-agents",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-10-16T15:30:14.000Z",
+      "summary": "Companies are giving agents more authority, but many are still struggling to track what they can access, what they're doing and how to stop them.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "how-to"
+      ],
+      "score": 35,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 14,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 0.95
       },
       "enriched": false
     },
@@ -136,68 +213,13 @@
       "tags": [
         "launch"
       ],
-      "score": 34,
+      "score": 32,
       "breakdown": {
         "relevance": 0,
         "actionability": 29,
         "noise": 0,
-        "freshness": 14,
-        "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "f616628c1389",
-      "title": "Nobody is safe from celebrity AI deepfakes",
-      "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-15T14:03:42.000Z",
-      "summary": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN.",
-      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
-      "actions": [
-        "Use it to increase output on a channel that already converts — not to open a new one.",
-        "Brief anyone who can authorise a payment or a password reset on your behalf."
-      ],
-      "category": "rules",
-      "tags": [
-        "fraud risk",
-        "social"
-      ],
-      "score": 34,
-      "breakdown": {
-        "relevance": 31,
-        "actionability": 0,
-        "noise": 0,
         "freshness": 12,
         "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "877cbcbdbb3b",
-      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-14T18:23:46.000Z",
-      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Use it to increase output on a channel that already converts — not to open a new one."
-      ],
-      "category": "marketing",
-      "tags": [
-        "social",
-        "launch"
-      ],
-      "score": 33,
-      "breakdown": {
-        "relevance": 19,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -217,13 +239,39 @@
       "tags": [
         "agents"
       ],
-      "score": 29,
+      "score": 28,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "ad3a47861a30",
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-16T14:02:40.000Z",
+      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
+      ],
+      "category": "strategy",
+      "tags": [
+        "free"
+      ],
+      "score": 25,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 13,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -243,12 +291,12 @@
       "tags": [
         "agents"
       ],
-      "score": 26,
+      "score": 24,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -269,12 +317,38 @@
       "tags": [
         "agents"
       ],
-      "score": 25,
+      "score": 23,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "244831af6248",
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-15T14:29:33.000Z",
+      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 22,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
@@ -295,91 +369,13 @@
       "tags": [
         "how-to"
       ],
-      "score": 23,
+      "score": 22,
       "breakdown": {
         "relevance": 0,
         "actionability": 14,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.15
-      },
-      "enriched": false
-    },
-    {
-      "id": "a0e0fec2c2b5",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-10-14T12:00:00.000Z",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents"
-      ],
-      "score": 23,
-      "breakdown": {
-        "relevance": 19,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 1.15
-      },
-      "enriched": false
-    },
-    {
-      "id": "244831af6248",
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-15T14:29:33.000Z",
-      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 23,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "d3bb9ef55af6",
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-15T00:00:00.000Z",
-      "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Use it to increase output on a channel that already converts — not to open a new one."
-      ],
-      "category": "marketing",
-      "tags": [
-        "social"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 19,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 8,
-        "sourceWeight": 1
       },
       "enriched": false
     }
@@ -426,7 +422,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 879
+      "itemCount": 880
     },
     {
       "sourceId": "zapier-blog",
@@ -454,9 +450,9 @@
     }
   ],
   "stats": {
-    "fetched": 2350,
-    "onTopic": 32,
-    "deduped": 32,
+    "fetched": 2351,
+    "onTopic": 33,
+    "deduped": 33,
     "scored": 14,
     "published": 14,
     "enriched": false
