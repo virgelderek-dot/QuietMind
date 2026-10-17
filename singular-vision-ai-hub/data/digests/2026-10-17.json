@@ -1,40 +1,8 @@
 {
   "date": "2026-10-17",
-  "generatedAt": "2026-10-17T08:30:51.229Z",
-  "headline": "10 stories worth your time — mostly automate your ops. Start with: Amazon’s Bee launches two new personal AI devices, starting at $75",
+  "generatedAt": "2026-10-17T16:22:04.201Z",
+  "headline": "10 stories worth your time — mostly automate your ops. Start with: Open source and on device: the strategy behind Nvidia’s new AI models",
   "items": [
-    {
-      "id": "cc07996f6bad",
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-15T12:00:00.000Z",
-      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material.",
-        "Re-check your usage against the new limits so a cap does not surprise you mid-month.",
-        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
-      ],
-      "category": "automation",
-      "tags": [
-        "integration",
-        "notes",
-        "pricing",
-        "limits",
-        "launch"
-      ],
-      "score": 47,
-      "breakdown": {
-        "relevance": 46,
-        "actionability": 29,
-        "noise": -12,
-        "freshness": 6,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
     {
       "id": "579a30242afc",
       "title": "Open source and on device: the strategy behind Nvidia’s new AI models",
@@ -52,12 +20,12 @@
         "open source",
         "self-host"
       ],
-      "score": 45,
+      "score": 44,
       "breakdown": {
         "relevance": 56,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -86,8 +54,35 @@
         "relevance": 24,
         "actionability": 29,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "d5d37baf2237",
+      "title": "Oracle Unveils AI Solutions to Streamline Financial Crime Investigations",
+      "url": "https://smallbiztrends.com/oracle-unveils-ai-solutions-to-streamline-financial-crime-investigations",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-17T15:11:00.000Z",
+      "summary": "Discover how Oracle's latest AI solutions are transforming financial crime investigations, enhancing efficiency and accuracy in detecting and preventing fraud.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Brief anyone who can authorise a payment or a password reset on your behalf."
+      ],
+      "category": "rules",
+      "tags": [
+        "fraud risk",
+        "launch"
+      ],
+      "score": 40,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -108,13 +103,40 @@
         "how-to",
         "case study"
       ],
-      "score": 40,
+      "score": 39,
       "breakdown": {
         "relevance": 0,
         "actionability": 37,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "79619743255e",
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-17T13:00:00.000Z",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Worth an hour to set up if you are still coordinating bookings by email."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "scheduling"
+      ],
+      "score": 37,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -140,7 +162,7 @@
         "relevance": 0,
         "actionability": 45,
         "noise": -12,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -161,12 +183,12 @@
       "tags": [
         "integration"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
         "relevance": 29,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 7,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -188,12 +210,12 @@
         "agents",
         "how-to"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
         "relevance": 19,
         "actionability": 14,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -214,12 +236,12 @@
       "tags": [
         "launch"
       ],
-      "score": 30,
+      "score": 29,
       "breakdown": {
         "relevance": 0,
         "actionability": 29,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 7,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -240,39 +262,13 @@
       "tags": [
         "agents"
       ],
-      "score": 25,
+      "score": 24,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "1b6257d35772",
-      "title": "Friends don’t let friends feed their data to AI agents",
-      "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-15T16:21:45.000Z",
-      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 19,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1.05
       },
       "enriched": false
     }
@@ -348,8 +344,8 @@
   ],
   "stats": {
     "fetched": 2354,
-    "onTopic": 33,
-    "deduped": 33,
+    "onTopic": 30,
+    "deduped": 30,
     "scored": 10,
     "published": 10,
     "enriched": false
