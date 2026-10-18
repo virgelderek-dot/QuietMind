@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "generatedAt": "2026-10-18T08:49:00.339Z",
+  "generatedAt": "2026-10-18T16:29:30.338Z",
   "headline": "4 stories worth your time — mostly automate your ops. Start with: Adobe Marketo Adds AI Agents to Clean Lead Data in Campaigns",
   "items": [
     {
@@ -20,12 +20,12 @@
         "agents",
         "ads"
       ],
-      "score": 54,
+      "score": 53,
       "breakdown": {
         "relevance": 57,
         "actionability": 0,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -47,13 +47,39 @@
         "open source",
         "self-host"
       ],
-      "score": 42,
+      "score": 41,
       "breakdown": {
         "relevance": 56,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 6,
         "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "888322718024",
+      "title": "Microsoft Unveils Surface Pro 12-inch and Laptop 13-inch with AI Boost",
+      "url": "https://smallbiztrends.com/microsoft-unveils-surface-pro-12-inch-and-laptop-13-inch-with-ai-boost",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-18T15:11:00.000Z",
+      "summary": "Discover the latest innovations as Microsoft unveils the new Surface Pro 12-inch and Laptop 13-inch, featuring AI Boost technology for enhanced performance and productivity. Explore the cutting-edge features that redefine versatility in the world of computing.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 39,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 29,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -74,40 +100,13 @@
         "agents",
         "scheduling"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 10,
         "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "ecaadd2c799b",
-      "title": "Prompt: Enterprise controls can't keep up with AI agents",
-      "url": "https://aibusiness.com/agentic-ai/prompt-enterprise-controls-can-t-keep-up-with-ai-agents",
-      "sourceId": "ai-business",
-      "sourceName": "AI Business",
-      "publishedAt": "2026-10-16T15:30:14.000Z",
-      "summary": "Companies are giving agents more authority, but many are still struggling to track what they can access, what they're doing and how to stop them.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents",
-        "how-to"
-      ],
-      "score": 29,
-      "breakdown": {
-        "relevance": 19,
-        "actionability": 14,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 0.95
       },
       "enriched": false
     }
@@ -183,8 +182,8 @@
   ],
   "stats": {
     "fetched": 2354,
-    "onTopic": 19,
-    "deduped": 19,
+    "onTopic": 13,
+    "deduped": 13,
     "scored": 4,
     "published": 4,
     "enriched": false
