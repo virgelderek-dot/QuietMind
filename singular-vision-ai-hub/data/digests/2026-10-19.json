@@ -1,58 +1,218 @@
 {
   "date": "2026-10-19",
-  "generatedAt": "2026-10-19T09:49:44.052Z",
-  "headline": "2 stories worth your time — mostly strategy & trends. Start with: Microsoft Unveils Surface Pro 12-inch and Laptop 13-inch with AI Boost",
+  "generatedAt": "2026-10-19T19:17:11.340Z",
+  "headline": "8 stories worth your time — mostly automate your ops. Start with: A hacker broke into John Deere and SharkNinja with an army of AI agents",
   "items": [
     {
-      "id": "888322718024",
-      "title": "Microsoft Unveils Surface Pro 12-inch and Laptop 13-inch with AI Boost",
-      "url": "https://smallbiztrends.com/microsoft-unveils-surface-pro-12-inch-and-laptop-13-inch-with-ai-boost",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-10-18T15:11:00.000Z",
-      "summary": "Discover the latest innovations as Microsoft unveils the new Surface Pro 12-inch and Laptop 13-inch, featuring AI Boost technology for enhanced performance and productivity. Explore the cutting-edge features that redefine versatility in the world of computing.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "id": "c08e28e17ab3",
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-19T13:58:41.000Z",
+      "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Background reading — no action needed today, but worth knowing."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
-      "category": "strategy",
+      "category": "automation",
       "tags": [
-        "launch"
+        "agents"
       ],
       "score": 36,
       "breakdown": {
-        "relevance": 0,
-        "actionability": 29,
+        "relevance": 31,
+        "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 16,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "3c2261f2541c",
+      "title": "Interview with Brian Bianchetti – Owner of People’s Choice Beef Jerky",
+      "url": "https://smallbiztrends.com/interview-with-brian-bianchetti-owner-of-peoples-choice-beef-jerky",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-19T17:35:24.000Z",
+      "summary": "Brian Bianchetti shares how People’s Choice Beef Jerky uses Amazon, e-commerce, and AI to grow a nearly century-old family business.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Check whether your storefront platform supports this natively before adding another subscription."
+      ],
+      "category": "marketing",
+      "tags": [
+        "ecommerce",
+        "case study"
+      ],
+      "score": 36,
+      "breakdown": {
+        "relevance": 14,
+        "actionability": 9,
+        "noise": 0,
+        "freshness": 17,
         "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "79619743255e",
-      "title": "Websites are closing their doors to AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-17T13:00:00.000Z",
-      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes.",
+      "id": "69bd463197ee",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-19T16:13:22.000Z",
+      "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Worth an hour to set up if you are still coordinating bookings by email."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
       "category": "automation",
       "tags": [
         "agents",
-        "scheduling"
+        "ads"
       ],
       "score": 30,
       "breakdown": {
-        "relevance": 31,
+        "relevance": 22,
         "actionability": 0,
         "noise": 0,
-        "freshness": 6,
+        "freshness": 17,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "c33a66b4df03",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-19T15:37:09.000Z",
+      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
+      "actions": [
+        "Free to run, but budget the setup time honestly before committing."
+      ],
+      "category": "tools",
+      "tags": [
+        "self-host",
+        "agents",
+        "launch"
+      ],
+      "score": 29,
+      "breakdown": {
+        "relevance": 24,
+        "actionability": 18,
+        "noise": -20,
+        "freshness": 17,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "909afabb3040",
+      "title": "OpenCode vs. Claude Code: Which AI coding tool is best? [2026]",
+      "url": "https://zapier.com/blog/opencode-vs-claude-code",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Imagine Claude Code is a taxi. You state the objective, and it starts driving. You're impressed with the decisions it's making, until it stops in the middle of the road: \"Sorry, you've hit 100% of your usage.\" Now, you either turn over your wallet or give up…",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch",
+        "free"
+      ],
+      "score": 29,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 19,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "fd89b9b5cd58",
+      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-19T14:30:00.000Z",
+      "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected…",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Check what customer data you are currently passing to AI tools, and under what terms."
+      ],
+      "category": "rules",
+      "tags": [
+        "privacy"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
         "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "9279cf6bb0c3",
+      "title": "Democrats think cracking down on AI could give them an edge",
+      "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-19T12:00:00.000Z",
+      "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "strategy",
+      "tags": [
+        "how-to"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 14,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "448617650f8a",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-19T12:30:00.000Z",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 22,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1
       },
       "enriched": false
     }
@@ -99,7 +259,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 881
+      "itemCount": 882
     },
     {
       "sourceId": "zapier-blog",
@@ -127,11 +287,11 @@
     }
   ],
   "stats": {
-    "fetched": 2355,
-    "onTopic": 8,
-    "deduped": 8,
-    "scored": 2,
-    "published": 2,
+    "fetched": 2356,
+    "onTopic": 17,
+    "deduped": 17,
+    "scored": 8,
+    "published": 8,
     "enriched": false
   }
 }
