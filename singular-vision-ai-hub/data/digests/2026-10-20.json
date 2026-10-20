@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "generatedAt": "2026-10-20T09:22:44.664Z",
+  "generatedAt": "2026-10-20T17:57:38.736Z",
   "headline": "7 stories worth your time — mostly automate your ops. Start with: A hacker broke into John Deere and SharkNinja with an army of AI agents",
   "items": [
     {
@@ -19,40 +19,41 @@
       "tags": [
         "agents"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.05
       },
       "enriched": false
     },
     {
-      "id": "3c2261f2541c",
-      "title": "Interview with Brian Bianchetti – Owner of People’s Choice Beef Jerky",
-      "url": "https://smallbiztrends.com/interview-with-brian-bianchetti-owner-of-peoples-choice-beef-jerky",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-10-19T17:35:24.000Z",
-      "summary": "Brian Bianchetti shares how People’s Choice Beef Jerky uses Amazon, e-commerce, and AI to grow a nearly century-old family business.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "id": "b3fcb2e42d32",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Check whether your storefront platform supports this natively before adding another subscription."
+        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere.",
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
       ],
-      "category": "marketing",
+      "category": "automation",
       "tags": [
-        "ecommerce",
-        "case study"
+        "workflow",
+        "free"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
-        "relevance": 14,
-        "actionability": 9,
+        "relevance": 13,
+        "actionability": 8,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.2
+        "freshness": 15,
+        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -73,38 +74,12 @@
         "agents",
         "ads"
       ],
-      "score": 27,
+      "score": 25,
       "breakdown": {
         "relevance": 22,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "0e19bec78e36",
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-19T22:04:28.000Z",
-      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents"
-      ],
-      "score": 26,
-      "breakdown": {
-        "relevance": 19,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 14,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
@@ -127,12 +102,12 @@
         "agents",
         "launch"
       ],
-      "score": 26,
+      "score": 25,
       "breakdown": {
         "relevance": 24,
         "actionability": 18,
         "noise": -20,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
@@ -154,38 +129,64 @@
         "launch",
         "free"
       ],
-      "score": 26,
+      "score": 25,
       "breakdown": {
         "relevance": 0,
         "actionability": 19,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "141841bfba33",
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
+      "id": "0e19bec78e36",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-19T19:28:34.000Z",
-      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the…",
-      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
+      "publishedAt": "2026-10-19T22:04:28.000Z",
+      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Free to run, but budget the setup time honestly before committing."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
-      "category": "tools",
+      "category": "automation",
       "tags": [
-        "open source"
+        "agents"
       ],
-      "score": 22,
+      "score": 24,
       "breakdown": {
-        "relevance": 14,
+        "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "3309b6ce15f4",
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-20T13:07:24.000Z",
+      "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "service business"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 26,
+        "actionability": 0,
+        "noise": -14,
+        "freshness": 16,
         "sourceWeight": 1
       },
       "enriched": false
@@ -221,7 +222,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1300
+      "itemCount": 1301
     },
     {
       "sourceId": "google-ai-blog",
@@ -233,7 +234,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 882
+      "itemCount": 886
     },
     {
       "sourceId": "zapier-blog",
@@ -261,9 +262,9 @@
     }
   ],
   "stats": {
-    "fetched": 2357,
-    "onTopic": 25,
-    "deduped": 25,
+    "fetched": 2362,
+    "onTopic": 34,
+    "deduped": 34,
     "scored": 7,
     "published": 7,
     "enriched": false
