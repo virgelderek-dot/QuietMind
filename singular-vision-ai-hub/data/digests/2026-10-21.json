@@ -1,8 +1,194 @@
 {
   "date": "2026-10-21",
-  "generatedAt": "2026-10-21T09:19:21.535Z",
-  "headline": "9 stories worth your time — mostly automate your ops. Start with: Gemini’s Personal Intelligence Transforms Driving with Smart, Hands-Free Help",
+  "generatedAt": "2026-10-21T17:59:58.404Z",
+  "headline": "17 stories worth your time — mostly automate your ops. Start with: Gemini Unveils New Tools to Empower Small Business Owners",
   "items": [
+    {
+      "id": "9c4d067a4f51",
+      "title": "Gemini Unveils New Tools to Empower Small Business Owners",
+      "url": "https://smallbiztrends.com/gemini-unveils-new-tools-to-empower-small-business-owners",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-21T09:06:00.000Z",
+      "summary": "Discover how Gemini's innovative new tools are designed to empower small business owners, enhancing productivity and simplifying operations. Learn more about the features and benefits that can help your business thrive.",
+      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "small business",
+        "launch"
+      ],
+      "score": 64,
+      "breakdown": {
+        "relevance": 62,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "9a012a63af7f",
+      "title": "How to implement AI training for employees",
+      "url": "https://zapier.com/blog/ai-training-for-employees",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-21T05:00:00.000Z",
+      "summary": "Most teams don't struggle to implement AI in their daily workflows because they're resistant to change&#x2014;they struggle because they haven't been given the structure to learn how to use it effectively.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow",
+        "how-to",
+        "case study"
+      ],
+      "score": 54,
+      "breakdown": {
+        "relevance": 13,
+        "actionability": 45,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "590fa634059a",
+      "title": "Use one Zapier MCP server across all your AI tools",
+      "url": "https://zapier.com/blog/connect-multiple-ai-clients-zapier-mcp",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "summary": "Most teams don't stick to one AI tool. Your support team works in Claude, a few people swear by ChatGPT, and your engineers live in Cursor. Until now, each of those tools needed its own Zapier MCP server, with its own apps and skills to set up.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation stack"
+      ],
+      "score": 39,
+      "breakdown": {
+        "relevance": 39,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 7,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "c55b4c3c8ca2",
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-21T13:57:43.000Z",
+      "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 37,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "1de8e62ff715",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-21T04:50:00.000Z",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 37,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "8c5c40c9c86b",
+      "title": "Interview with Craig Leslie from San Diego Coffee & Tea",
+      "url": "https://smallbiztrends.com/interview-with-craig-leslie-from-san-diego-coffee-tea",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-21T14:35:29.000Z",
+      "summary": "Craig Leslie of San Diego Coffee & Tea shares how Amazon, AI, FBA, and Subscribe & Save help his small business grow at Amazon Accelerate 2026.",
+      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "small business"
+      ],
+      "score": 36,
+      "breakdown": {
+        "relevance": 24,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "2e95bb3b7455",
+      "title": "DeepSeek makes DeepInfer open source to cut AI costs",
+      "url": "https://aibusiness.com/generative-ai/deepseek-makes-deepinfer-open-source-cut-ai-costs",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-10-21T12:00:12.000Z",
+      "summary": "With the move, the Chinese AI vendor is looking to gain an advantage in the open source market, while addressing enterprise concerns about steep token rates.",
+      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
+      "actions": [
+        "Free to run, but budget the setup time honestly before committing."
+      ],
+      "category": "tools",
+      "tags": [
+        "open source"
+      ],
+      "score": 36,
+      "breakdown": {
+        "relevance": 36,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
     {
       "id": "7ef050b9eb69",
       "title": "Gemini’s Personal Intelligence Transforms Driving with Smart, Hands-Free Help",
@@ -19,12 +205,38 @@
       "tags": [
         "free"
       ],
-      "score": 34,
+      "score": 32,
       "breakdown": {
         "relevance": 0,
         "actionability": 21,
         "noise": 0,
-        "freshness": 18,
+        "freshness": 14,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "d19c0e71c6a6",
+      "title": "Cisco Unveils AI-Driven Webex Enhancements for Seamless Collaboration",
+      "url": "https://smallbiztrends.com/cisco-unveils-ai-driven-webex-enhancements-for-seamless-collaboration",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-21T15:11:00.000Z",
+      "summary": "Discover how Cisco's latest AI-driven enhancements to Webex are transforming collaboration, making virtual meetings more efficient and intuitive. Explore the features that enable seamless teamwork and elevate your online communication experience.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 31,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -47,91 +259,65 @@
         "scheduling",
         "social"
       ],
-      "score": 30,
+      "score": 29,
       "breakdown": {
         "relevance": 24,
         "actionability": 0,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 1.05
       },
       "enriched": false
     },
     {
-      "id": "c08e28e17ab3",
-      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-19T13:58:41.000Z",
-      "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "id": "74fcf21eca7a",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-21T13:00:00.000Z",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
       "actions": [
         "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
-      "category": "automation",
+      "category": "marketing",
       "tags": [
-        "agents"
+        "ads"
       ],
-      "score": 30,
+      "score": 28,
       "breakdown": {
-        "relevance": 31,
+        "relevance": 16,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1.05
+        "freshness": 16,
+        "sourceWeight": 1.15
       },
       "enriched": false
     },
     {
-      "id": "0a34a166c304",
-      "title": "AI Costs Soar as Organizations Struggle with Agent Monitoring, Report Finds",
-      "url": "https://smallbiztrends.com/ai-costs-soar-as-organizations-struggle-with-agent-monitoring-report-finds",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-10-20T20:30:46.000Z",
-      "summary": "Discover the findings of a new report highlighting the rising costs of AI as organizations face challenges in agent monitoring. Explore the implications for businesses and strategies to manage expenses effectively.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "id": "edef63b51aed",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-21T07:00:00.000Z",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
       "actions": [
-        "Trial it against one month of real invoices before trusting it with the books."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
-      "category": "automation",
+      "category": "marketing",
       "tags": [
-        "finance ops"
+        "ads"
       ],
-      "score": 29,
+      "score": 27,
       "breakdown": {
-        "relevance": 18,
+        "relevance": 26,
         "actionability": 0,
-        "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "10939fdf7a84",
-      "title": "Visa, BILL, and Billtrust Unveil AI-Driven Payments Pilot for Businesses",
-      "url": "https://smallbiztrends.com/visa-bill-and-billtrust-unveil-ai-driven-payments-pilot-for-businesses",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-10-20T20:28:03.000Z",
-      "summary": "Discover how Visa, BILL, and Billtrust are revolutionizing business transactions with their new AI-driven payments pilot. Learn about the innovative features and benefits that aim to streamline payment processes and enhance financial efficiency for companies.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 29,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1.2
+        "noise": -12,
+        "freshness": 14,
+        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -153,39 +339,39 @@
         "workflow",
         "free"
       ],
-      "score": 28,
+      "score": 27,
       "breakdown": {
         "relevance": 13,
         "actionability": 8,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.15
       },
       "enriched": false
     },
     {
-      "id": "0b67689fc42c",
-      "title": "Yelp Launches AI-Powered Features for Personalized Dining and Service Updates",
-      "url": "https://smallbiztrends.com/yelp-launches-ai-powered-features-for-personalized-dining-and-service-updates",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-10-20T18:43:52.000Z",
-      "summary": "Discover how Yelp's new AI-powered features enhance personalized dining experiences and provide real-time service updates, transforming the way you find and enjoy restaurants.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "id": "61f4d0141ff3",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Background reading — no action needed today, but worth knowing."
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
       ],
-      "category": "strategy",
+      "category": "automation",
       "tags": [
-        "launch"
+        "workflow"
       ],
-      "score": 28,
+      "score": 26,
       "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
+        "relevance": 13,
+        "actionability": 0,
         "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1.2
+        "freshness": 16,
+        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -205,39 +391,65 @@
       "tags": [
         "shipped"
       ],
-      "score": 26,
+      "score": 25,
       "breakdown": {
         "relevance": 0,
         "actionability": 21,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "0e19bec78e36",
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-19T22:04:28.000Z",
-      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "id": "1bbb4f6fc3d1",
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-21T15:00:00.000Z",
+      "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've…",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
+        "Background reading — no action needed today, but worth knowing."
       ],
-      "category": "automation",
+      "category": "strategy",
       "tags": [
-        "agents"
+        "launch"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "ff29453f4ffe",
+      "title": "How payroll giant ADP practices AI governance and human oversight",
+      "url": "https://aibusiness.com/generative-ai/how-payroll-giant-adp-practices-ai-governance-human-oversight",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-10-21T13:05:01.000Z",
+      "summary": "The governance approach focuses on key principles of transparency, explainability, risk management, privacy and security.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Check what customer data you are currently passing to AI tools, and under what terms."
+      ],
+      "category": "rules",
+      "tags": [
+        "privacy"
       ],
       "score": 22,
       "breakdown": {
-        "relevance": 19,
+        "relevance": 12,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
-        "sourceWeight": 1
+        "freshness": 16,
+        "sourceWeight": 0.95
       },
       "enriched": false
     }
@@ -272,7 +484,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1303
+      "itemCount": 1308
     },
     {
       "sourceId": "google-ai-blog",
@@ -284,7 +496,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 886
+      "itemCount": 888
     },
     {
       "sourceId": "zapier-blog",
@@ -312,11 +524,11 @@
     }
   ],
   "stats": {
-    "fetched": 2364,
-    "onTopic": 42,
-    "deduped": 42,
-    "scored": 9,
-    "published": 9,
+    "fetched": 2371,
+    "onTopic": 47,
+    "deduped": 47,
+    "scored": 17,
+    "published": 17,
     "enriched": false
   }
 }
