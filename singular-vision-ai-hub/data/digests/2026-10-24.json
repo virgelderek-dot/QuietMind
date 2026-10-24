@@ -1,0 +1,327 @@
+{
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T08:50:13.985Z",
+  "headline": "9 stories worth your time — mostly automate your ops. Start with: How a recruiting agency uses Claude and Zapier MCP to find the candidates who aren't looking",
+  "items": [
+    {
+      "id": "00e40262076c",
+      "title": "How a recruiting agency uses Claude and Zapier MCP to find the candidates who aren't looking",
+      "url": "https://zapier.com/blog/blue-castle-agency-zapier-mcp",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-22T13:00:00.000Z",
+      "summary": "Curtis Key has been building automation for about 20 years, first with basic code and scripts, then in Salesforce at a real estate brokerage that grew from 8 to 105 agents.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "service business",
+        "automation stack",
+        "automation",
+        "case study"
+      ],
+      "score": 61,
+      "breakdown": {
+        "relevance": 66,
+        "actionability": 14,
+        "noise": 0,
+        "freshness": 7,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "4c522fae999a",
+      "title": "Canva Launches Advanced AI Model Craft for Enhanced Image Generation",
+      "url": "https://smallbiztrends.com/canva-launches-advanced-ai-model-craft-for-enhanced-image-generation",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-23T17:26:59.000Z",
+      "summary": "Discover how Canva's new advanced AI model, Craft, is revolutionizing image generation, enabling users to create stunning visuals with enhanced capabilities and efficiency.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Cheapest test: regenerate an asset you already paid for and compare quality honestly."
+      ],
+      "category": "marketing",
+      "tags": [
+        "generative media",
+        "launch"
+      ],
+      "score": 50,
+      "breakdown": {
+        "relevance": 34,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "bceea8ac43b8",
+      "title": "The 7 best AI agents in 2026",
+      "url": "https://zapier.com/blog/best-ai-agents",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-23T05:00:00.000Z",
+      "summary": "AI agents were the promise of 2024, the hype of 2025, and the expectation of 2026 and beyond. The category has matured, and a handful of agents are ready to use out of the box, with tool access, task completion, and guardrails for the data they touch.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "automation stack"
+      ],
+      "score": 46,
+      "breakdown": {
+        "relevance": 46,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "55f38e2b0de9",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-23T16:52:55.000Z",
+      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Check what customer data you are currently passing to AI tools, and under what terms."
+      ],
+      "category": "marketing",
+      "tags": [
+        "ads",
+        "privacy"
+      ],
+      "score": 38,
+      "breakdown": {
+        "relevance": 38,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "5db461085d66",
+      "title": "Anthropic rolls out Claude Duet, but enterprises aren’t ready",
+      "url": "https://aibusiness.com/agentic-ai/anthropic-rolls-out-claude-duet-enterprises-aren-t-ready",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-10-22T17:43:02.000Z",
+      "summary": "The generative AI vendor released the app with stringent security guardrails for using it in professional and small business settings.",
+      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "small business",
+        "launch"
+      ],
+      "score": 34,
+      "breakdown": {
+        "relevance": 24,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 7,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "fe52d49759b6",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-22T19:07:09.000Z",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "launch"
+      ],
+      "score": 33,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 8,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "1437b0ebe886",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-22T21:51:25.000Z",
+      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Cheapest test: regenerate an asset you already paid for and compare quality honestly."
+      ],
+      "category": "marketing",
+      "tags": [
+        "generative media",
+        "launch"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 13,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 8,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "865ffb65f1d5",
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-22T19:00:00.000Z",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Cheapest test: regenerate an asset you already paid for and compare quality honestly."
+      ],
+      "category": "marketing",
+      "tags": [
+        "generative media"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 21,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 8,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "8937fd9c8277",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-23T00:45:37.000Z",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 22,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "ok": false,
+      "itemCount": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "ok": true,
+      "itemCount": 1318
+    },
+    {
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "ok": true,
+      "itemCount": 890
+    },
+    {
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "ben-evans",
+      "sourceName": "Benedict Evans",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "ok": true,
+      "itemCount": 50
+    }
+  ],
+  "stats": {
+    "fetched": 2383,
+    "onTopic": 33,
+    "deduped": 33,
+    "scored": 9,
+    "published": 9,
+    "enriched": false
+  }
+}
