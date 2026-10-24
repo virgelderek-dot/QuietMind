@@ -1,33 +1,31 @@
 {
   "date": "2026-10-24",
-  "generatedAt": "2026-10-24T08:50:13.985Z",
-  "headline": "9 stories worth your time — mostly automate your ops. Start with: How a recruiting agency uses Claude and Zapier MCP to find the candidates who aren't looking",
+  "generatedAt": "2026-10-24T16:33:37.911Z",
+  "headline": "9 stories worth your time — mostly automate your ops. Start with: Slack Introduces AI-Powered Features for Seamless Collaboration and CRM",
   "items": [
     {
-      "id": "00e40262076c",
-      "title": "How a recruiting agency uses Claude and Zapier MCP to find the candidates who aren't looking",
-      "url": "https://zapier.com/blog/blue-castle-agency-zapier-mcp",
-      "sourceId": "zapier-blog",
-      "sourceName": "Zapier Blog",
-      "publishedAt": "2026-10-22T13:00:00.000Z",
-      "summary": "Curtis Key has been building automation for about 20 years, first with basic code and scripts, then in Salesforce at a real estate brokerage that grew from 8 to 105 agents.",
+      "id": "5f9ca747963c",
+      "title": "Slack Introduces AI-Powered Features for Seamless Collaboration and CRM",
+      "url": "https://smallbiztrends.com/slack-introduces-ai-powered-features-for-seamless-collaboration-and-crm",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-24T15:11:00.000Z",
+      "summary": "Discover how Slack's new AI-powered features enhance collaboration and CRM, making teamwork more efficient and streamlined. Explore the innovative tools designed to boost productivity and facilitate seamless communication among teams.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
       "category": "automation",
       "tags": [
-        "service business",
-        "automation stack",
-        "automation",
-        "case study"
+        "crm",
+        "launch"
       ],
-      "score": 61,
+      "score": 54,
       "breakdown": {
-        "relevance": 66,
-        "actionability": 14,
+        "relevance": 36,
+        "actionability": 18,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 17,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -49,12 +47,12 @@
         "generative media",
         "launch"
       ],
-      "score": 50,
+      "score": 49,
       "breakdown": {
         "relevance": 34,
         "actionability": 18,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -76,12 +74,12 @@
         "agents",
         "automation stack"
       ],
-      "score": 46,
+      "score": 45,
       "breakdown": {
         "relevance": 46,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -103,13 +101,39 @@
         "ads",
         "privacy"
       ],
-      "score": 38,
+      "score": 37,
       "breakdown": {
         "relevance": 38,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "4a535eced667",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-24T14:00:00.000Z",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 35,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -135,7 +159,7 @@
         "relevance": 24,
         "actionability": 18,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 6,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -157,12 +181,12 @@
         "agents",
         "launch"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 19,
         "actionability": 18,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 1
       },
       "enriched": false
@@ -184,12 +208,12 @@
         "generative media",
         "launch"
       ],
-      "score": 26,
+      "score": 25,
       "breakdown": {
         "relevance": 13,
         "actionability": 11,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 7,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -210,38 +234,12 @@
       "tags": [
         "generative media"
       ],
-      "score": 23,
+      "score": 22,
       "breakdown": {
         "relevance": 21,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "8937fd9c8277",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-23T00:45:37.000Z",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 19,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 9,
+        "freshness": 6,
         "sourceWeight": 1
       },
       "enriched": false
@@ -318,8 +316,8 @@
   ],
   "stats": {
     "fetched": 2383,
-    "onTopic": 33,
-    "deduped": 33,
+    "onTopic": 29,
+    "deduped": 29,
     "scored": 9,
     "published": 9,
     "enriched": false
