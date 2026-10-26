@@ -1,28 +1,63 @@
 {
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T10:02:34.734Z",
-  "headline": "3 stories worth your time — mostly automate your ops. Start with: Square Integrates Zenlytic’s AI to Simplify Business Data for Sellers",
+  "generatedAt": "2026-10-26T19:14:18.012Z",
+  "headline": "8 stories worth your time — mostly automate your ops. Start with: Oracle Unveils Five AI Agents to Automate Sales and Service",
   "items": [
     {
-      "id": "59d964997888",
-      "title": "Square Integrates Zenlytic’s AI to Simplify Business Data for Sellers",
-      "url": "https://smallbiztrends.com/square-integrates-zenlytics-ai-to-simplify-business-data-for-sellers",
+      "id": "2b4199b4827f",
+      "title": "Oracle Unveils Five AI Agents to Automate Sales and Service",
+      "url": "https://smallbiztrends.com/oracle-unveils-five-ai-agents-to-automate-sales-and-service",
       "sourceId": "smallbiztrends",
       "sourceName": "Small Business Trends",
-      "publishedAt": "2026-10-26T09:08:08.000Z",
-      "summary": "Discover how Square is leveraging Zenlytic's AI technology to streamline business data for sellers, making it easier than ever to analyze and optimize sales performance.",
+      "publishedAt": "2026-10-26T18:00:52.000Z",
+      "summary": "Oracle unveils five AI agents to automate sales, customer service, scheduling, and pricing while helping businesses improve efficiency.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+        "Compare against what you currently pay for the same job and reprice if the gap is material.",
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Draft answers for your ten most common customer questions and test the quality on those."
       ],
       "category": "automation",
       "tags": [
-        "integration"
+        "automation",
+        "agents",
+        "scheduling",
+        "support",
+        "pricing",
+        "launch"
       ],
-      "score": 32,
+      "score": 82,
       "breakdown": {
-        "relevance": 18,
-        "actionability": 0,
+        "relevance": 113,
+        "actionability": 29,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "e1aa18f84e4f",
+      "title": "Oracle Unveils AI Agents to Automate Supply Chain Operations",
+      "url": "https://smallbiztrends.com/oracle-unveils-ai-agents-to-automate-supply-chain-operations",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-26T18:20:49.000Z",
+      "summary": "Oracle introduces AI agents to automate supply chain planning, optimize shipments, manage procurement spending, and improve operational efficiency.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "agents",
+        "launch"
+      ],
+      "score": 73,
+      "breakdown": {
+        "relevance": 73,
+        "actionability": 29,
         "noise": 0,
         "freshness": 18,
         "sourceWeight": 1.2
@@ -30,13 +65,97 @@
       "enriched": false
     },
     {
-      "id": "4a535eced667",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-24T14:00:00.000Z",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "id": "324fc2b8e99e",
+      "title": "Oracle Unveils AI Tools to Automate Work Across Business Apps",
+      "url": "https://smallbiztrends.com/oracle-unveils-ai-tools-to-automate-work-across-business-apps",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-26T17:40:05.000Z",
+      "summary": "Oracle introduces Fusion Companion and Fusion Agentic Home to automate business workflows, connect applications, and streamline operations with AI.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "workflow",
+        "agents",
+        "launch"
+      ],
+      "score": 71,
+      "breakdown": {
+        "relevance": 67,
+        "actionability": 29,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "f1fe162ef23c",
+      "title": "Oracle Unveils AI Agents to Speed Cloud Software Implementation",
+      "url": "https://smallbiztrends.com/oracle-unveils-ai-agents-to-speed-cloud-software-implementation",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-26T17:24:54.000Z",
+      "summary": "Oracle unveils AI agents to speed cloud software implementation, automate configuration and testing, and reduce deployment complexity for businesses.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "automation",
+        "launch"
+      ],
+      "score": 64,
+      "breakdown": {
+        "relevance": 47,
+        "actionability": 29,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "293268ca22b7",
+      "title": "Four Companies Report Major Time Savings with NetSuite AI",
+      "url": "https://smallbiztrends.com/four-companies-report-major-time-savings-with-netsuite-ai",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-26T13:00:04.000Z",
+      "summary": "Four companies report major time and cost savings using NetSuite AI to automate workflows, streamline operations, and improve financial reporting.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "workflow"
+      ],
+      "score": 39,
+      "breakdown": {
+        "relevance": 29,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "2500a6aad874",
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-26T17:30:55.000Z",
+      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
         "Skim it, then decide in one minute whether it changes anything you do this week."
@@ -45,39 +164,65 @@
       "tags": [
         "agents"
       ],
-      "score": 29,
+      "score": 37,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
+        "freshness": 17,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
     {
-      "id": "09a5dda45158",
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-24T18:32:21.000Z",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "id": "01c49c582036",
+      "title": "Oracle Expands AI Lakehouse with New Data and Forecasting Tools",
+      "url": "https://smallbiztrends.com/oracle-expands-ai-lakehouse-with-new-data-and-forecasting-tools",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-26T16:57:19.000Z",
+      "summary": "Oracle expands its AI Lakehouse with new data integration, forecasting, and analytics tools to help businesses improve decision-making.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
       ],
-      "category": "marketing",
+      "category": "automation",
       "tags": [
-        "ads"
+        "integration"
       ],
-      "score": 27,
+      "score": 26,
       "breakdown": {
-        "relevance": 26,
+        "relevance": 11,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1.05
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "64d59b55a8fb",
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-26T10:00:00.000Z",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "case study"
+      ],
+      "score": 22,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 9,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1.15
       },
       "enriched": false
     }
@@ -112,7 +257,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1318
+      "itemCount": 1320
     },
     {
       "sourceId": "google-ai-blog",
@@ -152,11 +297,11 @@
     }
   ],
   "stats": {
-    "fetched": 2383,
-    "onTopic": 11,
-    "deduped": 11,
-    "scored": 3,
-    "published": 3,
+    "fetched": 2385,
+    "onTopic": 26,
+    "deduped": 26,
+    "scored": 8,
+    "published": 8,
     "enriched": false
   }
 }
