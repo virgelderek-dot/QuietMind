@@ -1,0 +1,310 @@
+{
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T09:46:05.827Z",
+  "headline": "8 stories worth your time — mostly automate your ops. Start with: Oracle Unveils Five AI Agents to Automate Sales and Service",
+  "items": [
+    {
+      "id": "2b4199b4827f",
+      "title": "Oracle Unveils Five AI Agents to Automate Sales and Service",
+      "url": "https://smallbiztrends.com/oracle-unveils-five-ai-agents-to-automate-sales-and-service",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-26T18:00:52.000Z",
+      "summary": "Oracle unveils five AI agents to automate sales, customer service, scheduling, and pricing while helping businesses improve efficiency.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material.",
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Draft answers for your ten most common customer questions and test the quality on those."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "agents",
+        "scheduling",
+        "support",
+        "pricing",
+        "launch"
+      ],
+      "score": 81,
+      "breakdown": {
+        "relevance": 113,
+        "actionability": 29,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "a6c904bda8c7",
+      "title": "Oracle Unveils 25 AI Agents to Automate Business Operations",
+      "url": "https://smallbiztrends.com/oracle-unveils-25-ai-agents-to-automate-business-operations",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-26T19:00:34.000Z",
+      "summary": "Oracle introduces 25 AI agents to automate finance, HR, supply chain, and customer service tasks, helping businesses streamline operations.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Draft answers for your ten most common customer questions and test the quality on those."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "agents",
+        "support",
+        "launch"
+      ],
+      "score": 76,
+      "breakdown": {
+        "relevance": 89,
+        "actionability": 29,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "324fc2b8e99e",
+      "title": "Oracle Unveils AI Tools to Automate Work Across Business Apps",
+      "url": "https://smallbiztrends.com/oracle-unveils-ai-tools-to-automate-work-across-business-apps",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-26T17:40:05.000Z",
+      "summary": "Oracle introduces Fusion Companion and Fusion Agentic Home to automate business workflows, connect applications, and streamline operations with AI.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "workflow",
+        "agents",
+        "launch"
+      ],
+      "score": 69,
+      "breakdown": {
+        "relevance": 67,
+        "actionability": 29,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "7c9dc8b3f632",
+      "title": "Oracle Introduces AI Agents to Speed Fusion Software Setup",
+      "url": "https://smallbiztrends.com/oracle-introduces-ai-agents-to-speed-fusion-software-setup",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-26T18:40:38.000Z",
+      "summary": "Oracle introduces AI agents to automate Fusion Applications setup, speed software implementations, and reduce configuration work for businesses.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "automation",
+        "launch"
+      ],
+      "score": 62,
+      "breakdown": {
+        "relevance": 47,
+        "actionability": 29,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "b09fc908f558",
+      "title": "Gemini Omni: What it is and how to use it",
+      "url": "https://zapier.com/blog/gemini-omni",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "It feels like it was only last week when spotting an AI-generated video was easy peasy. All you had to do was look for the very obvious tells&#x2014;like when a dog spawned a mysterious fifth limb mid-run or crowds of people walked through an otherwise lively…",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "strategy",
+      "tags": [
+        "how-to",
+        "case study"
+      ],
+      "score": 39,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 37,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "2500a6aad874",
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-26T17:30:55.000Z",
+      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 34,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "8f2f08b6e197",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow",
+        "case study"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 13,
+        "actionability": 9,
+        "noise": 0,
+        "freshness": 10,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "62ecc12b68be",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-27T02:00:00.000Z",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 22,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "ok": false,
+      "itemCount": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "ok": true,
+      "itemCount": 1325
+    },
+    {
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "ok": true,
+      "itemCount": 890
+    },
+    {
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "ben-evans",
+      "sourceName": "Benedict Evans",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "ok": true,
+      "itemCount": 50
+    }
+  ],
+  "stats": {
+    "fetched": 2390,
+    "onTopic": 31,
+    "deduped": 30,
+    "scored": 8,
+    "published": 8,
+    "enriched": false
+  }
+}
