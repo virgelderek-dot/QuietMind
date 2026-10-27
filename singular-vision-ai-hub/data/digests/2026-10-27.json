@@ -1,122 +1,32 @@
 {
   "date": "2026-10-27",
-  "generatedAt": "2026-10-27T09:46:05.827Z",
-  "headline": "8 stories worth your time — mostly automate your ops. Start with: Oracle Unveils Five AI Agents to Automate Sales and Service",
+  "generatedAt": "2026-10-27T18:39:31.995Z",
+  "headline": "12 stories worth your time — mostly automate your ops. Start with: Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)",
   "items": [
     {
-      "id": "2b4199b4827f",
-      "title": "Oracle Unveils Five AI Agents to Automate Sales and Service",
-      "url": "https://smallbiztrends.com/oracle-unveils-five-ai-agents-to-automate-sales-and-service",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-10-26T18:00:52.000Z",
-      "summary": "Oracle unveils five AI agents to automate sales, customer service, scheduling, and pricing while helping businesses improve efficiency.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material.",
-        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
-        "Draft answers for your ten most common customer questions and test the quality on those."
-      ],
-      "category": "automation",
-      "tags": [
-        "automation",
-        "agents",
-        "scheduling",
-        "support",
-        "pricing",
-        "launch"
-      ],
-      "score": 81,
-      "breakdown": {
-        "relevance": 113,
-        "actionability": 29,
-        "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "a6c904bda8c7",
-      "title": "Oracle Unveils 25 AI Agents to Automate Business Operations",
-      "url": "https://smallbiztrends.com/oracle-unveils-25-ai-agents-to-automate-business-operations",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-10-26T19:00:34.000Z",
-      "summary": "Oracle introduces 25 AI agents to automate finance, HR, supply chain, and customer service tasks, helping businesses streamline operations.",
+      "id": "0f676982117a",
+      "title": "Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)",
+      "url": "https://zapier.com/blog/ai-models-on-zapier",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-27T05:00:00.000Z",
+      "summary": "Staying up to date on the latest AI models is like trying to keep my house vacuumed in the height of my dog's shedding season (a losing battle).",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
         "Pick the single most repetitive task in your week and see whether this covers it end to end.",
-        "Draft answers for your ten most common customer questions and test the quality on those."
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
       ],
       "category": "automation",
       "tags": [
         "automation",
-        "agents",
-        "support",
-        "launch"
-      ],
-      "score": 76,
-      "breakdown": {
-        "relevance": 89,
-        "actionability": 29,
-        "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "324fc2b8e99e",
-      "title": "Oracle Unveils AI Tools to Automate Work Across Business Apps",
-      "url": "https://smallbiztrends.com/oracle-unveils-ai-tools-to-automate-work-across-business-apps",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-10-26T17:40:05.000Z",
-      "summary": "Oracle introduces Fusion Companion and Fusion Agentic Home to automate business workflows, connect applications, and streamline operations with AI.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
-      ],
-      "category": "automation",
-      "tags": [
-        "automation",
+        "automation stack",
         "workflow",
-        "agents",
-        "launch"
+        "how-to"
       ],
-      "score": 69,
+      "score": 73,
       "breakdown": {
-        "relevance": 67,
-        "actionability": 29,
-        "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "7c9dc8b3f632",
-      "title": "Oracle Introduces AI Agents to Speed Fusion Software Setup",
-      "url": "https://smallbiztrends.com/oracle-introduces-ai-agents-to-speed-fusion-software-setup",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-10-26T18:40:38.000Z",
-      "summary": "Oracle introduces AI agents to automate Fusion Applications setup, speed software implementations, and reduce configuration work for businesses.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents",
-        "automation",
-        "launch"
-      ],
-      "score": 62,
-      "breakdown": {
-        "relevance": 47,
-        "actionability": 29,
+        "relevance": 94,
+        "actionability": 14,
         "noise": 0,
         "freshness": 13,
         "sourceWeight": 1.2
@@ -140,13 +50,65 @@
         "how-to",
         "case study"
       ],
-      "score": 39,
+      "score": 38,
       "breakdown": {
         "relevance": 0,
         "actionability": 37,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "68ff85ab07de",
+      "title": "Amazon Business Expands AI Assistant for Orders and Spending",
+      "url": "https://smallbiztrends.com/amazon-business-expands-ai-assistant-for-orders-and-spending",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-27T12:17:35.000Z",
+      "summary": "Amazon Business expands its AI assistant with order tracking, spending analysis, and approval tools to help small businesses manage purchasing.",
+      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "small business"
+      ],
+      "score": 35,
+      "breakdown": {
+        "relevance": 24,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "0d516a24ee36",
+      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-27T13:50:51.000Z",
+      "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Draft answers for your ten most common customer questions and test the quality on those."
+      ],
+      "category": "automation",
+      "tags": [
+        "support"
+      ],
+      "score": 33,
+      "breakdown": {
+        "relevance": 26,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -166,13 +128,66 @@
       "tags": [
         "agents"
       ],
-      "score": 34,
+      "score": 33,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "9cae33a19fca",
+      "title": "The rise of 'agentic' in the enterprise workforce",
+      "url": "https://aibusiness.com/generative-ai/the-rise-agentic-the-enterprise-workforce",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-10-27T14:24:33.000Z",
+      "summary": "The rising use of AI-related terminology reflects a shift in enterprise employees' perceptions and the growing integration of AI into their daily work.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "integration"
+      ],
+      "score": 33,
+      "breakdown": {
+        "relevance": 30,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "66c81fcdd2bb",
+      "title": "Intuit Launches AI-Driven Platform Uniting Businesses and Accountants",
+      "url": "https://smallbiztrends.com/intuit-launches-ai-driven-platform-uniting-businesses-and-accountants",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-27T14:45:36.000Z",
+      "summary": "Discover how Intuit's new AI-driven platform is revolutionizing the relationship between businesses and accountants, streamlining collaboration, and enhancing financial management for a smarter, more efficient future.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 31,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -193,24 +208,102 @@
         "workflow",
         "case study"
       ],
-      "score": 28,
+      "score": 27,
       "breakdown": {
         "relevance": 13,
         "actionability": 9,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.15
       },
       "enriched": false
     },
     {
-      "id": "62ecc12b68be",
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant",
+      "id": "2d1cc6aaea46",
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-27T02:00:00.000Z",
-      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "publishedAt": "2026-10-27T13:00:00.000Z",
+      "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "02c774ec5299",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-27T11:00:00.000Z",
+      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Trial it against one month of real invoices before trusting it with the books."
+      ],
+      "category": "automation",
+      "tags": [
+        "finance ops"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 18,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "abb96e9fdd6f",
+      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-27T16:14:18.000Z",
+      "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "a3a879144b29",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
         "Skim it, then decide in one minute whether it changes anything you do this week."
@@ -219,13 +312,13 @@
       "tags": [
         "agents"
       ],
-      "score": 22,
+      "score": 24,
       "breakdown": {
         "relevance": 12,
         "actionability": 0,
         "noise": 0,
-        "freshness": 15,
-        "sourceWeight": 1
+        "freshness": 14,
+        "sourceWeight": 1.15
       },
       "enriched": false
     }
@@ -260,7 +353,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1325
+      "itemCount": 1327
     },
     {
       "sourceId": "google-ai-blog",
@@ -272,7 +365,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 890
+      "itemCount": 891
     },
     {
       "sourceId": "zapier-blog",
@@ -300,11 +393,11 @@
     }
   ],
   "stats": {
-    "fetched": 2390,
-    "onTopic": 31,
-    "deduped": 30,
-    "scored": 8,
-    "published": 8,
+    "fetched": 2393,
+    "onTopic": 37,
+    "deduped": 37,
+    "scored": 12,
+    "published": 12,
     "enriched": false
   }
 }
