@@ -1,0 +1,488 @@
+{
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T10:51:41.297Z",
+  "headline": "15 stories worth your time — mostly automate your ops. Start with: Which AI model is best for workflow automation?",
+  "items": [
+    {
+      "id": "dca763418223",
+      "title": "Which AI model is best for workflow automation?",
+      "url": "https://zapier.com/blog/automationbench-on-specialized-intelligence-index",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-28T07:00:00.000Z",
+      "summary": "Today, AutomationBench joins Fireworks' Specialized Intelligence Index (SII), bringing business workflow automation to a growing collection of practitioner-built benchmarks that compare AI models on real work.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "workflow",
+        "agents"
+      ],
+      "score": 61,
+      "breakdown": {
+        "relevance": 87,
+        "actionability": 0,
+        "noise": -14,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "fef849163142",
+      "title": "Plain-English Analytics Gives Small Businesses Answers Without an Analyst on Payroll",
+      "url": "https://smallbiztrends.com/plain-english-analytics-gives-small-businesses-answers-without-an-analyst-on-payroll",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-29T09:30:21.000Z",
+      "summary": "Discover how AI-powered, plain-English analytics helps small businesses analyze data, uncover insights, and make smarter decisions without hiring an analyst.",
+      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "small business"
+      ],
+      "score": 58,
+      "breakdown": {
+        "relevance": 62,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "d7415ce9172a",
+      "title": "The 9 best Notion alternatives in 2026",
+      "url": "https://zapier.com/blog/best-notion-alternatives",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-28T04:00:00.000Z",
+      "summary": "Notion is a special app. Starting from an empty screen, you add notes and documents in a freeform way. Then, when the original page is too crowded, you create your first database and the possibilities explode: you can create a custom productivity system and…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation stack",
+        "automation",
+        "agents"
+      ],
+      "score": 56,
+      "breakdown": {
+        "relevance": 67,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "41c97fe8dc29",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-28T09:30:00.000Z",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere.",
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "workflow",
+        "free",
+        "case study"
+      ],
+      "score": 46,
+      "breakdown": {
+        "relevance": 32,
+        "actionability": 17,
+        "noise": 0,
+        "freshness": 10,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "1421454e3722",
+      "title": "OpenAI slashes price for model again",
+      "url": "https://aibusiness.com/generative-ai/openai-slashes-price",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-10-28T15:42:07.000Z",
+      "summary": "The cut means enterprises have more options for lower-cost models, but many still struggle to decide which model to use for particular use cases.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material."
+      ],
+      "category": "pricing",
+      "tags": [
+        "price cut",
+        "pricing"
+      ],
+      "score": 42,
+      "breakdown": {
+        "relevance": 51,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "d9d311919980",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-28T15:00:00.000Z",
+      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
+      ],
+      "category": "automation",
+      "tags": [
+        "notes",
+        "free"
+      ],
+      "score": 37,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 8,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "75e2017ed4c5",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-28T13:15:00.000Z",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow"
+      ],
+      "score": 37,
+      "breakdown": {
+        "relevance": 34,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "a01db71b034c",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-28T17:00:00.000Z",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "case study"
+      ],
+      "score": 31,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 9,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "6da995572c9c",
+      "title": "Meta quietly launched an ‘AI pet journal’ app",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-28T11:27:30.000Z",
+      "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 31,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 29,
+        "noise": 0,
+        "freshness": 10,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "452fa5d33749",
+      "title": "Twilio Unveils Powerful AI-Driven Tools for Enhanced Customer Engagement",
+      "url": "https://smallbiztrends.com/twilio-unveils-powerful-ai-driven-tools-for-enhanced-customer-engagement",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-29T08:05:00.000Z",
+      "summary": "Discover how Twilio's new AI-driven tools are revolutionizing customer engagement, empowering businesses to enhance communication and foster lasting connections. Explore the features and benefits that can transform your customer interactions today.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 31,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "09f762edab0d",
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-28T23:05:39.000Z",
+      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social",
+        "launch"
+      ],
+      "score": 30,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "9cae33a19fca",
+      "title": "The rise of 'agentic' in the enterprise workforce",
+      "url": "https://aibusiness.com/generative-ai/the-rise-agentic-the-enterprise-workforce",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-10-27T14:24:33.000Z",
+      "summary": "The rising use of AI-related terminology reflects a shift in enterprise employees' perceptions and the growing integration of AI into their daily work.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "integration"
+      ],
+      "score": 27,
+      "breakdown": {
+        "relevance": 30,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 6,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "3031aa9476dd",
+      "title": "Chinese AI invasion gives enterprises a new way to control cost",
+      "url": "https://aibusiness.com/generative-ai/chinese-ai-invasion-gives-enterprises-new-way-control-cost",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-10-28T20:09:59.000Z",
+      "summary": "The open-weight models are, at least on the surface, considerably cheaper than their U.S. proprietary counterparts.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material."
+      ],
+      "category": "pricing",
+      "tags": [
+        "price cut"
+      ],
+      "score": 25,
+      "breakdown": {
+        "relevance": 20,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "fc7d1d71bde9",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-28T20:03:00.000Z",
+      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "launch"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 18,
+        "noise": -14,
+        "freshness": 13,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "7ae8eb20550e",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "publishedAt": "2026-10-28T14:58:17.000Z",
+      "summary": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "notes"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "ok": false,
+      "itemCount": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "ok": true,
+      "itemCount": 1334
+    },
+    {
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "ok": true,
+      "itemCount": 891
+    },
+    {
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "ben-evans",
+      "sourceName": "Benedict Evans",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "ok": true,
+      "itemCount": 50
+    }
+  ],
+  "stats": {
+    "fetched": 2400,
+    "onTopic": 38,
+    "deduped": 37,
+    "scored": 15,
+    "published": 15,
+    "enriched": false
+  }
+}
