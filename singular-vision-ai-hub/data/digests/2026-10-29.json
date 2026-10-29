@@ -1,8 +1,70 @@
 {
   "date": "2026-10-29",
-  "generatedAt": "2026-10-29T10:51:41.297Z",
-  "headline": "15 stories worth your time — mostly automate your ops. Start with: Which AI model is best for workflow automation?",
+  "generatedAt": "2026-10-29T18:56:14.517Z",
+  "headline": "18 stories worth your time — mostly automate your ops. Start with: Gemini automation: How to use the Zapier Gemini integration (Gemini 3.8 Flash, Gemini Enterprise, and more)",
   "items": [
+    {
+      "id": "24f8aca2215a",
+      "title": "Gemini automation: How to use the Zapier Gemini integration (Gemini 3.8 Flash, Gemini Enterprise, and more)",
+      "url": "https://zapier.com/blog/automate-google-ai-studio",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-29T05:00:00.000Z",
+      "summary": "Anyone who lives in the Google ecosystem has probably used Gemini for a quick draft or a fast answer. (Or if you're like me, you've been driven to your limit by the Google Docs popups encouraging you to use AI whenever your cursor strays too close to the…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "integration",
+        "automation",
+        "automation stack",
+        "how-to",
+        "case study"
+      ],
+      "score": 76,
+      "breakdown": {
+        "relevance": 82,
+        "actionability": 37,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "0f676982117a",
+      "title": "Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)",
+      "url": "https://zapier.com/blog/ai-models-on-zapier",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-29T05:00:00.000Z",
+      "summary": "Staying up to date on the latest AI models is like trying to keep my house vacuumed in the height of my dog's shedding season (a losing battle).",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "automation stack",
+        "workflow",
+        "how-to"
+      ],
+      "score": 73,
+      "breakdown": {
+        "relevance": 94,
+        "actionability": 14,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
     {
       "id": "dca763418223",
       "title": "Which AI model is best for workflow automation?",
@@ -21,12 +83,12 @@
         "workflow",
         "agents"
       ],
-      "score": 61,
+      "score": 60,
       "breakdown": {
         "relevance": 87,
         "actionability": 0,
         "noise": -14,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -47,12 +109,12 @@
       "tags": [
         "small business"
       ],
-      "score": 58,
+      "score": 57,
       "breakdown": {
         "relevance": 62,
         "actionability": 0,
         "noise": 0,
-        "freshness": 17,
+        "freshness": 14,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -80,7 +142,7 @@
         "relevance": 67,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -105,13 +167,39 @@
         "free",
         "case study"
       ],
-      "score": 46,
+      "score": 45,
       "breakdown": {
         "relevance": 32,
         "actionability": 17,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 8,
         "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "f3b865ce702a",
+      "title": "Shopify’s Fall ’26 Update Enhances Merchant Capabilities with AI and Security",
+      "url": "https://smallbiztrends.com/shopifys-fall-26-update-enhances-merchant-capabilities-with-ai-and-security",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-29T12:27:00.000Z",
+      "summary": "Discover how Shopify's Fall '26 Update empowers merchants with advanced AI features and enhanced security measures, transforming online retail experiences and boosting business growth.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Check whether your storefront platform supports this natively before adding another subscription."
+      ],
+      "category": "marketing",
+      "tags": [
+        "ecommerce"
+      ],
+      "score": 43,
+      "breakdown": {
+        "relevance": 36,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -132,12 +220,12 @@
         "price cut",
         "pricing"
       ],
-      "score": 42,
+      "score": 41,
       "breakdown": {
         "relevance": 51,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -159,12 +247,12 @@
         "notes",
         "free"
       ],
-      "score": 37,
+      "score": 36,
       "breakdown": {
         "relevance": 31,
         "actionability": 8,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1
       },
       "enriched": false
@@ -185,13 +273,92 @@
       "tags": [
         "workflow"
       ],
-      "score": 37,
+      "score": 36,
       "breakdown": {
         "relevance": 34,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "7bf0065ceb16",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-29T17:00:00.000Z",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "strategy",
+      "tags": [
+        "service business",
+        "how-to"
+      ],
+      "score": 35,
+      "breakdown": {
+        "relevance": 10,
+        "actionability": 14,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "7027b82086a3",
+      "title": "Microsoft Unveils Local AI Coding Agents and Sandboxed Environments for Developers",
+      "url": "https://smallbiztrends.com/microsoft-unveils-local-ai-coding-agents-and-sandboxed-environments-for-developers",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-29T17:11:00.000Z",
+      "summary": "Discover how Microsoft is transforming software development with the introduction of local AI coding agents and sandboxed environments.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "a3b69c5ce533",
+      "title": "Cisco and NVIDIA Unveil Groundbreaking 400G Optics to Boost AI Networking",
+      "url": "https://smallbiztrends.com/cisco-and-nvidia-unveil-groundbreaking-400g-optics-to-boost-ai-networking",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-29T15:11:00.000Z",
+      "summary": "Discover how Cisco and NVIDIA are revolutionizing AI networking with their new 400G optics. Explore the innovative technology designed to enhance data transfer speeds and support the demands of AI applications.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 31,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -212,65 +379,13 @@
         "agents",
         "case study"
       ],
-      "score": 31,
+      "score": 29,
       "breakdown": {
         "relevance": 19,
         "actionability": 9,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "6da995572c9c",
-      "title": "Meta quietly launched an ‘AI pet journal’ app",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-28T11:27:30.000Z",
-      "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 31,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 29,
-        "noise": 0,
         "freshness": 10,
-        "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "452fa5d33749",
-      "title": "Twilio Unveils Powerful AI-Driven Tools for Enhanced Customer Engagement",
-      "url": "https://smallbiztrends.com/twilio-unveils-powerful-ai-driven-tools-for-enhanced-customer-engagement",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-10-29T08:05:00.000Z",
-      "summary": "Discover how Twilio's new AI-driven tools are revolutionizing customer engagement, empowering businesses to enhance communication and foster lasting connections. Explore the features and benefits that can transform your customer interactions today.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 31,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 17,
-        "sourceWeight": 1.2
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -291,104 +406,76 @@
         "social",
         "launch"
       ],
-      "score": 30,
+      "score": 28,
       "breakdown": {
         "relevance": 12,
         "actionability": 11,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 1.05
       },
       "enriched": false
     },
     {
-      "id": "9cae33a19fca",
-      "title": "The rise of 'agentic' in the enterprise workforce",
-      "url": "https://aibusiness.com/generative-ai/the-rise-agentic-the-enterprise-workforce",
-      "sourceId": "ai-business",
-      "sourceName": "AI Business",
-      "publishedAt": "2026-10-27T14:24:33.000Z",
-      "summary": "The rising use of AI-related terminology reflects a shift in enterprise employees' perceptions and the growing integration of AI into their daily work.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "id": "4dcfcc0d1943",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-29T16:21:00.000Z",
+      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
-        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+        "Background reading — no action needed today, but worth knowing."
       ],
-      "category": "automation",
+      "category": "strategy",
       "tags": [
-        "agents",
-        "integration"
+        "launch"
       ],
       "score": 27,
       "breakdown": {
-        "relevance": 30,
-        "actionability": 0,
+        "relevance": 0,
+        "actionability": 18,
         "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 0.95
+        "freshness": 17,
+        "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "3031aa9476dd",
-      "title": "Chinese AI invasion gives enterprises a new way to control cost",
-      "url": "https://aibusiness.com/generative-ai/chinese-ai-invasion-gives-enterprises-new-way-control-cost",
-      "sourceId": "ai-business",
-      "sourceName": "AI Business",
-      "publishedAt": "2026-10-28T20:09:59.000Z",
-      "summary": "The open-weight models are, at least on the surface, considerably cheaper than their U.S. proprietary counterparts.",
-      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
-      "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material."
-      ],
-      "category": "pricing",
-      "tags": [
-        "price cut"
-      ],
-      "score": 25,
-      "breakdown": {
-        "relevance": 20,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 0.95
-      },
-      "enriched": false
-    },
-    {
-      "id": "fc7d1d71bde9",
-      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "id": "2a1a8a7c88a0",
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-28T20:03:00.000Z",
-      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity.",
+      "publishedAt": "2026-10-29T18:45:31.000Z",
+      "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
         "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
       "category": "automation",
       "tags": [
-        "agents",
-        "launch"
+        "spreadsheets"
       ],
-      "score": 24,
+      "score": 25,
       "breakdown": {
         "relevance": 12,
-        "actionability": 18,
-        "noise": -14,
-        "freshness": 13,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 18,
         "sourceWeight": 1.05
       },
       "enriched": false
     },
     {
-      "id": "7ae8eb20550e",
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "sourceId": "huggingface-blog",
-      "sourceName": "Hugging Face",
-      "publishedAt": "2026-10-28T14:58:17.000Z",
-      "summary": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "id": "066f3bd17c5f",
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-29T17:54:38.000Z",
+      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
         "Skim it, then decide in one minute whether it changes anything you do this week."
@@ -399,10 +486,10 @@
       ],
       "score": 24,
       "breakdown": {
-        "relevance": 19,
+        "relevance": 12,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 18,
         "sourceWeight": 1
       },
       "enriched": false
@@ -438,7 +525,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1334
+      "itemCount": 1337
     },
     {
       "sourceId": "google-ai-blog",
@@ -450,7 +537,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 891
+      "itemCount": 894
     },
     {
       "sourceId": "zapier-blog",
@@ -478,11 +565,11 @@
     }
   ],
   "stats": {
-    "fetched": 2400,
-    "onTopic": 38,
-    "deduped": 37,
-    "scored": 15,
-    "published": 15,
+    "fetched": 2406,
+    "onTopic": 52,
+    "deduped": 51,
+    "scored": 26,
+    "published": 18,
     "enriched": false
   }
 }
