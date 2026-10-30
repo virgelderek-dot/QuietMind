@@ -1,0 +1,492 @@
+{
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T10:49:47.934Z",
+  "headline": "15 stories worth your time — mostly automate your ops. Start with: Gemini automation: How to use the Zapier Gemini integration (Gemini 3.8 Flash, Gemini Enterprise, and more)",
+  "items": [
+    {
+      "id": "24f8aca2215a",
+      "title": "Gemini automation: How to use the Zapier Gemini integration (Gemini 3.8 Flash, Gemini Enterprise, and more)",
+      "url": "https://zapier.com/blog/automate-google-ai-studio",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-29T05:00:00.000Z",
+      "summary": "Anyone who lives in the Google ecosystem has probably used Gemini for a quick draft or a fast answer. (Or if you're like me, you've been driven to your limit by the Google Docs popups encouraging you to use AI whenever your cursor strays too close to the…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "integration",
+        "automation",
+        "automation stack",
+        "how-to",
+        "case study"
+      ],
+      "score": 75,
+      "breakdown": {
+        "relevance": 82,
+        "actionability": 37,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "0f676982117a",
+      "title": "Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)",
+      "url": "https://zapier.com/blog/ai-models-on-zapier",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-29T05:00:00.000Z",
+      "summary": "Staying up to date on the latest AI models is like trying to keep my house vacuumed in the height of my dog's shedding season (a losing battle).",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "automation stack",
+        "workflow",
+        "how-to"
+      ],
+      "score": 72,
+      "breakdown": {
+        "relevance": 94,
+        "actionability": 14,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "24d432a945a1",
+      "title": "How to use the OpenAI playground to tinker with OpenAI models",
+      "url": "https://zapier.com/blog/openai-playground",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-29T04:00:00.000Z",
+      "summary": "ChatGPT can do basically anything you ask, but you really don't have a huge amount of control over its outputs. If you want to do more with OpenAI's models, you need to dig a little deeper.&#xA0; If you really want to see what the models can do and exert some…",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "strategy",
+      "tags": [
+        "how-to",
+        "case study"
+      ],
+      "score": 53,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 60,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "4949f4b1cbc5",
+      "title": "Gusto Empowers Accounting Firms with AI-Driven Guidance Solutions",
+      "url": "https://smallbiztrends.com/gusto-empowers-accounting-firms-with-ai-driven-guidance-solutions",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-29T19:11:00.000Z",
+      "summary": "Discover how Gusto is transforming accounting firms with innovative AI-driven guidance solutions, enhancing efficiency and decision-making for financial professionals.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Trial it against one month of real invoices before trusting it with the books."
+      ],
+      "category": "automation",
+      "tags": [
+        "finance ops"
+      ],
+      "score": 48,
+      "breakdown": {
+        "relevance": 47,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "838a5f08c10f",
+      "title": "AI cost management: How we track and optimize AI spend at Zapier",
+      "url": "https://zapier.com/blog/ai-cost-management",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "summary": "Does $5,000 in AI spend equal $5,000 in value? If it does, that's a bad investment. A 1x return wouldn't get approved anywhere else in our budget, and AI doesn't get an exception.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation stack",
+        "launch"
+      ],
+      "score": 47,
+      "breakdown": {
+        "relevance": 39,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 8,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "a973ac401cee",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Review anything you have already published that this would now cover."
+      ],
+      "category": "rules",
+      "tags": [
+        "copyright"
+      ],
+      "score": 42,
+      "breakdown": {
+        "relevance": 39,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "1421454e3722",
+      "title": "OpenAI slashes price for model again",
+      "url": "https://aibusiness.com/generative-ai/openai-slashes-price",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-10-28T15:42:07.000Z",
+      "summary": "The cut means enterprises have more options for lower-cost models, but many still struggle to decide which model to use for particular use cases.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material."
+      ],
+      "category": "pricing",
+      "tags": [
+        "price cut",
+        "pricing"
+      ],
+      "score": 39,
+      "breakdown": {
+        "relevance": 51,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 7,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "a5323191b213",
+      "title": "The best large language models (LLMs) in 2026",
+      "url": "https://zapier.com/blog/best-llm",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-29T04:00:00.000Z",
+      "summary": "Large language models (LLMs) are what most people think of when they think of AI. They're what you're interacting with in ChatGPT and Claude, they write the code generated by Claude Code and Codex, and they power other AI features like Google's AI answers and…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Draft answers for your ten most common customer questions and test the quality on those."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "support"
+      ],
+      "score": 36,
+      "breakdown": {
+        "relevance": 32,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "75e2017ed4c5",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-28T13:15:00.000Z",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow"
+      ],
+      "score": 34,
+      "breakdown": {
+        "relevance": 34,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 6,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "bde015e58f37",
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-29T19:14:36.000Z",
+      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social",
+        "launch"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "7bf0065ceb16",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-29T17:00:00.000Z",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "strategy",
+      "tags": [
+        "service business",
+        "how-to"
+      ],
+      "score": 31,
+      "breakdown": {
+        "relevance": 10,
+        "actionability": 14,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "35440b593875",
+      "title": "Canva Unveils Brush: AI Tool Revolutionizes Design Editing Speed and Quality",
+      "url": "https://smallbiztrends.com/canva-unveils-brush-ai-tool-revolutionizes-design-editing-speed-and-quality",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-30T08:26:00.000Z",
+      "summary": "Discover how Canva's new Brush AI tool is transforming design editing by enhancing speed and quality. Explore its innovative features and learn how it can elevate your creative projects effortlessly.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 31,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "09f762edab0d",
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-28T23:05:39.000Z",
+      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Use it to increase output on a channel that already converts — not to open a new one."
+      ],
+      "category": "marketing",
+      "tags": [
+        "social",
+        "launch"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 8,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "3b70ce327836",
+      "title": "What is ChatGPT? How it works and what it can do",
+      "url": "https://zapier.com/blog/how-does-chatgpt-work",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-29T04:00:00.000Z",
+      "summary": "I've been writing about AI since before most people knew what it stood for, so a question as simple as \"What is ChatGPT?\" should be a softball.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Draft answers for your ten most common customer questions and test the quality on those."
+      ],
+      "category": "automation",
+      "tags": [
+        "support"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 16,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "4dcfcc0d1943",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-29T16:21:00.000Z",
+      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "ok": false,
+      "itemCount": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "ok": true,
+      "itemCount": 1337
+    },
+    {
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "ok": true,
+      "itemCount": 894
+    },
+    {
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "ben-evans",
+      "sourceName": "Benedict Evans",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "ok": true,
+      "itemCount": 50
+    }
+  ],
+  "stats": {
+    "fetched": 2406,
+    "onTopic": 46,
+    "deduped": 46,
+    "scored": 15,
+    "published": 15,
+    "enriched": false
+  }
+}
