@@ -1,16 +1,16 @@
 {
   "date": "2026-10-30",
-  "generatedAt": "2026-10-30T10:49:47.934Z",
-  "headline": "15 stories worth your time — mostly automate your ops. Start with: Gemini automation: How to use the Zapier Gemini integration (Gemini 3.8 Flash, Gemini Enterprise, and more)",
+  "generatedAt": "2026-10-30T18:34:33.718Z",
+  "headline": "18 stories worth your time — mostly automate your ops. Start with: Grok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)",
   "items": [
     {
-      "id": "24f8aca2215a",
-      "title": "Gemini automation: How to use the Zapier Gemini integration (Gemini 3.8 Flash, Gemini Enterprise, and more)",
-      "url": "https://zapier.com/blog/automate-google-ai-studio",
+      "id": "3645fc9e038b",
+      "title": "Grok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)",
+      "url": "https://zapier.com/blog/automate-grok",
       "sourceId": "zapier-blog",
       "sourceName": "Zapier Blog",
-      "publishedAt": "2026-10-29T05:00:00.000Z",
-      "summary": "Anyone who lives in the Google ecosystem has probably used Gemini for a quick draft or a fast answer. (Or if you're like me, you've been driven to your limit by the Google Docs popups encouraging you to use AI whenever your cursor strays too close to the…",
+      "publishedAt": "2026-10-30T05:00:00.000Z",
+      "summary": "Grok has a very specific edge over other AI models: live access to X, so your agents can keep their finger on the pulse a little more easily.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
         "Pick the single most repetitive task in your week and see whether this covers it end to end.",
@@ -25,12 +25,12 @@
         "how-to",
         "case study"
       ],
-      "score": 75,
+      "score": 80,
       "breakdown": {
-        "relevance": 82,
+        "relevance": 98,
         "actionability": 37,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 13,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -60,7 +60,35 @@
         "relevance": 94,
         "actionability": 14,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "1fb220da4999",
+      "title": "The best AI agent builder software in 2026",
+      "url": "https://zapier.com/blog/best-ai-agent-builder",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-30T04:00:00.000Z",
+      "summary": "AI agents have matured fast, and I've been in the weeds the whole time. These days, AI agents are running a lot of my processes in the background. And it's not just me or the Zapier team: 84% of enterprises plan to boost AI agent investments.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "workflow",
+        "automation stack"
+      ],
+      "score": 54,
+      "breakdown": {
+        "relevance": 59,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -82,38 +110,12 @@
         "how-to",
         "case study"
       ],
-      "score": 53,
+      "score": 52,
       "breakdown": {
         "relevance": 0,
         "actionability": 60,
         "noise": 0,
-        "freshness": 9,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "4949f4b1cbc5",
-      "title": "Gusto Empowers Accounting Firms with AI-Driven Guidance Solutions",
-      "url": "https://smallbiztrends.com/gusto-empowers-accounting-firms-with-ai-driven-guidance-solutions",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-10-29T19:11:00.000Z",
-      "summary": "Discover how Gusto is transforming accounting firms with innovative AI-driven guidance solutions, enhancing efficiency and decision-making for financial professionals.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Trial it against one month of real invoices before trusting it with the books."
-      ],
-      "category": "automation",
-      "tags": [
-        "finance ops"
-      ],
-      "score": 48,
-      "breakdown": {
-        "relevance": 47,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 13,
+        "freshness": 7,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -135,12 +137,12 @@
         "automation stack",
         "launch"
       ],
-      "score": 47,
+      "score": 46,
       "breakdown": {
         "relevance": 39,
         "actionability": 11,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 7,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -161,40 +163,68 @@
       "tags": [
         "copyright"
       ],
-      "score": 42,
+      "score": 40,
       "breakdown": {
         "relevance": 39,
         "actionability": 0,
         "noise": 0,
-        "freshness": 17,
+        "freshness": 14,
         "sourceWeight": 1.05
       },
       "enriched": false
     },
     {
-      "id": "1421454e3722",
-      "title": "OpenAI slashes price for model again",
-      "url": "https://aibusiness.com/generative-ai/openai-slashes-price",
-      "sourceId": "ai-business",
-      "sourceName": "AI Business",
-      "publishedAt": "2026-10-28T15:42:07.000Z",
-      "summary": "The cut means enterprises have more options for lower-cost models, but many still struggle to decide which model to use for particular use cases.",
-      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "id": "909ba63d1f0c",
+      "title": "Muse Wonder and Muse Spark: A guide to Meta's AI models",
+      "url": "https://zapier.com/blog/meta-ai-muse-spark",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-30T04:00:00.000Z",
+      "summary": "Meta has shifted to a new family of flagship AI models called Muse and sent the Llama \"herd\" of models to the farm upstate. It's a dramatic but understandable shift in AI strategy from the company that was once pioneering open models.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material."
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
       ],
-      "category": "pricing",
+      "category": "strategy",
       "tags": [
-        "price cut",
-        "pricing"
+        "how-to",
+        "try it"
       ],
-      "score": 39,
+      "score": 38,
       "breakdown": {
-        "relevance": 51,
-        "actionability": 0,
+        "relevance": 0,
+        "actionability": 30,
         "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 0.95
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "52299192f6bb",
+      "title": "What is AI transformation in 2027? How to build a strategy for your business",
+      "url": "https://zapier.com/blog/ai-transformation",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-10-30T05:00:00.000Z",
+      "summary": "It can feel impossible to escape the pressure to \"do something\" with AI. Maybe your CEO just asked about your AI strategy in an all-hands, or your competitors are shipping faster thanks to automation.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "how-to"
+      ],
+      "score": 36,
+      "breakdown": {
+        "relevance": 16,
+        "actionability": 22,
+        "noise": -12,
+        "freshness": 13,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -216,39 +246,13 @@
         "automation",
         "support"
       ],
-      "score": 36,
+      "score": 35,
       "breakdown": {
         "relevance": 32,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "75e2017ed4c5",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-10-28T13:15:00.000Z",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
-      ],
-      "category": "automation",
-      "tags": [
-        "workflow"
-      ],
-      "score": 34,
-      "breakdown": {
-        "relevance": 34,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -269,13 +273,66 @@
         "social",
         "launch"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
         "relevance": 12,
         "actionability": 18,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 10,
         "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "6750c2461412",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "url": "https://openai.com/index/credit-saison",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Re-check your usage against the new limits so a cap does not surprise you mid-month."
+      ],
+      "category": "pricing",
+      "tags": [
+        "limits"
+      ],
+      "score": 31,
+      "breakdown": {
+        "relevance": 29,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 7,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "652223656698",
+      "title": "Workday Acquires C1.ai to Enhance Access Management for AI Agents",
+      "url": "https://smallbiztrends.com/workday-acquires-c1-ai-to-enhance-access-management-for-ai-agents",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-30T17:11:00.000Z",
+      "summary": "Discover how Workday's acquisition of C1.ai is set to revolutionize access management for AI agents, enhancing security and efficiency in enterprise solutions. Explore the implications for businesses and the future of AI integration in workforce management.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "integration"
+      ],
+      "score": 31,
+      "breakdown": {
+        "relevance": 42,
+        "actionability": 0,
+        "noise": -31,
+        "freshness": 17,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -296,12 +353,12 @@
         "service business",
         "how-to"
       ],
-      "score": 31,
+      "score": 30,
       "breakdown": {
         "relevance": 10,
         "actionability": 14,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -322,66 +379,91 @@
       "tags": [
         "launch"
       ],
-      "score": 31,
+      "score": 29,
       "breakdown": {
         "relevance": 0,
         "actionability": 18,
         "noise": 0,
-        "freshness": 17,
+        "freshness": 14,
         "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "09f762edab0d",
-      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-28T23:05:39.000Z",
-      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Use it to increase output on a channel that already converts — not to open a new one."
-      ],
-      "category": "marketing",
-      "tags": [
-        "social",
-        "launch"
-      ],
-      "score": 26,
-      "breakdown": {
-        "relevance": 12,
-        "actionability": 11,
-        "noise": 0,
-        "freshness": 8,
-        "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "3b70ce327836",
-      "title": "What is ChatGPT? How it works and what it can do",
-      "url": "https://zapier.com/blog/how-does-chatgpt-work",
-      "sourceId": "zapier-blog",
-      "sourceName": "Zapier Blog",
-      "publishedAt": "2026-10-29T04:00:00.000Z",
-      "summary": "I've been writing about AI since before most people knew what it stood for, so a question as simple as \"What is ChatGPT?\" should be a softball.",
+      "id": "a457451f7b0a",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-30T17:47:12.000Z",
+      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Draft answers for your ten most common customer questions and test the quality on those."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
       "category": "automation",
       "tags": [
-        "support"
+        "agents"
       ],
-      "score": 24,
+      "score": 28,
       "breakdown": {
-        "relevance": 16,
+        "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
-        "sourceWeight": 1.2
+        "freshness": 18,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "e9e7beb52b83",
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-30T13:54:25.000Z",
+      "summary": "DoorDash said that it is open to working with third-party agent makers.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 27,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "974d9b85c8fb",
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-10-30T14:58:06.000Z",
+      "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps…",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "strategy",
+      "tags": [
+        "how-to"
+      ],
+      "score": 25,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 14,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -401,12 +483,12 @@
       "tags": [
         "launch"
       ],
-      "score": 23,
+      "score": 22,
       "breakdown": {
         "relevance": 0,
         "actionability": 18,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
@@ -442,7 +524,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1337
+      "itemCount": 1340
     },
     {
       "sourceId": "google-ai-blog",
@@ -482,11 +564,11 @@
     }
   ],
   "stats": {
-    "fetched": 2406,
-    "onTopic": 46,
-    "deduped": 46,
-    "scored": 15,
-    "published": 15,
+    "fetched": 2409,
+    "onTopic": 56,
+    "deduped": 55,
+    "scored": 20,
+    "published": 18,
     "enriched": false
   }
 }
