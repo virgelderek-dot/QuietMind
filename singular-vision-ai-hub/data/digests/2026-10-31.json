@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
-  "generatedAt": "2026-10-31T10:20:28.145Z",
-  "headline": "15 stories worth your time — mostly automate your ops. Start with: Grok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)",
+  "generatedAt": "2026-10-31T17:41:31.610Z",
+  "headline": "13 stories worth your time — mostly automate your ops. Start with: Grok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)",
   "items": [
     {
       "id": "3645fc9e038b",
@@ -30,7 +30,34 @@
         "relevance": 98,
         "actionability": 37,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "d641a7139de2",
+      "title": "Microsoft Unveils Physical AI Revolutionizing Automation in Manufacturing",
+      "url": "https://smallbiztrends.com/microsoft-unveils-physical-ai-revolutionizing-automation-in-manufacturing",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-10-31T15:11:00.000Z",
+      "summary": "Discover how Microsoft's groundbreaking Physical AI is transforming the manufacturing landscape, enhancing automation, and driving efficiency. Explore the latest innovations and their impact on the industry in our in-depth analysis.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "launch"
+      ],
+      "score": 56,
+      "breakdown": {
+        "relevance": 42,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -58,7 +85,7 @@
         "relevance": 59,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -79,39 +106,13 @@
       "tags": [
         "workflow"
       ],
-      "score": 40,
+      "score": 38,
       "breakdown": {
         "relevance": 34,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "a973ac401cee",
-      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-30T09:00:00.000Z",
-      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users.",
-      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
-      "actions": [
-        "Review anything you have already published that this would now cover."
-      ],
-      "category": "rules",
-      "tags": [
-        "copyright"
-      ],
-      "score": 37,
-      "breakdown": {
-        "relevance": 39,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 10,
-        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -132,39 +133,13 @@
         "how-to",
         "try it"
       ],
-      "score": 35,
+      "score": 34,
       "breakdown": {
         "relevance": 0,
         "actionability": 30,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "5d6f84404e1c",
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-10-30T22:56:13.000Z",
-      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
-      "actions": [
-        "Check what customer data you are currently passing to AI tools, and under what terms."
-      ],
-      "category": "rules",
-      "tags": [
-        "privacy"
-      ],
-      "score": 34,
-      "breakdown": {
-        "relevance": 31,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 14,
-        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -186,13 +161,39 @@
         "automation",
         "how-to"
       ],
-      "score": 34,
+      "score": 33,
       "breakdown": {
         "relevance": 16,
         "actionability": 22,
         "noise": -12,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "5d6f84404e1c",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-10-30T22:56:13.000Z",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Check what customer data you are currently passing to AI tools, and under what terms."
+      ],
+      "category": "rules",
+      "tags": [
+        "privacy"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -218,35 +219,8 @@
         "relevance": 12,
         "actionability": 18,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 6,
         "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "7bf0065ceb16",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "url": "https://openai.com/index/updated-model-spec",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-10-29T17:00:00.000Z",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
-      ],
-      "category": "strategy",
-      "tags": [
-        "service business",
-        "how-to"
-      ],
-      "score": 28,
-      "breakdown": {
-        "relevance": 10,
-        "actionability": 14,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -267,12 +241,12 @@
         "agents",
         "integration"
       ],
-      "score": 27,
+      "score": 25,
       "breakdown": {
         "relevance": 42,
         "actionability": 0,
         "noise": -31,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -293,12 +267,12 @@
       "tags": [
         "agents"
       ],
-      "score": 25,
+      "score": 24,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
@@ -320,12 +294,12 @@
         "service business",
         "case study"
       ],
-      "score": 25,
+      "score": 24,
       "breakdown": {
         "relevance": 10,
         "actionability": 9,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 7,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -346,12 +320,12 @@
       "tags": [
         "agents"
       ],
-      "score": 24,
+      "score": 23,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1
       },
       "enriched": false
@@ -372,39 +346,13 @@
       "tags": [
         "support"
       ],
-      "score": 24,
+      "score": 23,
       "breakdown": {
         "relevance": 16,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "974d9b85c8fb",
-      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-10-30T14:58:06.000Z",
-      "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps…",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
-      ],
-      "category": "strategy",
-      "tags": [
-        "how-to"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 14,
-        "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.05
       },
       "enriched": false
     }
@@ -480,10 +428,10 @@
   ],
   "stats": {
     "fetched": 2410,
-    "onTopic": 42,
-    "deduped": 42,
-    "scored": 15,
-    "published": 15,
+    "onTopic": 41,
+    "deduped": 41,
+    "scored": 13,
+    "published": 13,
     "enriched": false
   }
 }
