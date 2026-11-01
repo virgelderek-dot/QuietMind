@@ -1,8 +1,34 @@
 {
   "date": "2026-11-01",
-  "generatedAt": "2026-11-01T11:13:39.150Z",
-  "headline": "2 stories worth your time — mostly rules & risk. Start with: Ollie, a privacy-focused AI assistant, is shutting down",
+  "generatedAt": "2026-11-01T18:24:15.835Z",
+  "headline": "2 stories worth your time — mostly strategy & trends. Start with: Oracle Unveils Oracle Acceleron: A Game-Changer for AI Workloads",
   "items": [
+    {
+      "id": "d2ee20c671f0",
+      "title": "Oracle Unveils Oracle Acceleron: A Game-Changer for AI Workloads",
+      "url": "https://smallbiztrends.com/oracle-unveils-oracle-acceleron-a-game-changer-for-ai-workloads",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-11-01T13:27:00.000Z",
+      "summary": "Discover how Oracle Acceleron is set to revolutionize AI workloads with cutting-edge features and unparalleled performance. Explore its capabilities, benefits, and the impact on businesses looking to harness the power of artificial intelligence.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 31,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
     {
       "id": "5d6f84404e1c",
       "title": "Ollie, a privacy-focused AI assistant, is shutting down",
@@ -19,39 +45,13 @@
       "tags": [
         "privacy"
       ],
-      "score": 30,
+      "score": 29,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 7,
         "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "b2f2a4b3f35e",
-      "title": "AI-Driven Retail Traffic Surges 71%, Converts 90% Better",
-      "url": "https://smallbiztrends.com/ai-driven-retail-traffic-surges-71-converts-90-better",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-01T10:43:00.000Z",
-      "summary": "Discover how AI-driven strategies have led to a remarkable 71% surge in retail traffic and a stunning 90% improvement in conversion rates.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
-      ],
-      "category": "strategy",
-      "tags": [
-        "how-to"
-      ],
-      "score": 29,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 14,
-        "noise": 0,
-        "freshness": 18,
-        "sourceWeight": 1.2
       },
       "enriched": false
     }
@@ -127,8 +127,8 @@
   ],
   "stats": {
     "fetched": 2410,
-    "onTopic": 25,
-    "deduped": 25,
+    "onTopic": 16,
+    "deduped": 16,
     "scored": 2,
     "published": 2,
     "enriched": false
