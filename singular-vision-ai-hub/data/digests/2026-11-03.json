@@ -1,29 +1,29 @@
 {
   "date": "2026-11-03",
-  "generatedAt": "2026-11-03T11:52:35.249Z",
-  "headline": "10 stories worth your time — mostly strategy & trends. Start with: Samsung Unveils Galaxy Buds On With Hands-Free AI Controls",
+  "generatedAt": "2026-11-03T20:04:08.233Z",
+  "headline": "8 stories worth your time — mostly automate your ops. Start with: Workday Launches Headless AI Agent Platform for Safer HR and Finance Solutions",
   "items": [
     {
-      "id": "e5b6f325c740",
-      "title": "Samsung Unveils Galaxy Buds On With Hands-Free AI Controls",
-      "url": "https://smallbiztrends.com/samsung-unveils-galaxy-buds-on-with-hands-free-ai-controls",
+      "id": "1fdb6c93d749",
+      "title": "Workday Launches Headless AI Agent Platform for Safer HR and Finance Solutions",
+      "url": "https://smallbiztrends.com/workday-launches-headless-ai-agent-platform-for-safer-hr-and-finance-solutions",
       "sourceId": "smallbiztrends",
       "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-03T09:28:00.000Z",
-      "summary": "Discover the latest innovation from Samsung as they unveil the Galaxy Buds On, featuring hands-free AI controls for a seamless audio experience. Learn how these cutting-edge earbuds enhance your daily routine with smart features and exceptional sound quality.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "publishedAt": "2026-11-03T17:11:00.000Z",
+      "summary": "Discover how Workday's new Headless AI Agent Platform is transforming HR and finance solutions, enhancing safety and efficiency in organizational processes. Explore the innovative features and benefits that this cutting-edge technology brings to businesses.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
-      "category": "strategy",
+      "category": "automation",
       "tags": [
-        "launch",
-        "free"
+        "agents",
+        "launch"
       ],
-      "score": 52,
+      "score": 51,
       "breakdown": {
-        "relevance": 0,
-        "actionability": 49,
+        "relevance": 31,
+        "actionability": 18,
         "noise": 0,
         "freshness": 17,
         "sourceWeight": 1.2
@@ -47,64 +47,38 @@
         "agents",
         "pricing"
       ],
-      "score": 40,
+      "score": 39,
       "breakdown": {
         "relevance": 43,
         "actionability": 0,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "924d5c7e4e82",
-      "title": "AI Agents Surpass Humans in Web Traffic, Forcing Marketers to Adapt",
-      "url": "https://smallbiztrends.com/ai-agents-surpass-humans-in-web-traffic-forcing-marketers-to-adapt",
+      "id": "25abc7309af9",
+      "title": "Adobe Survey Finds 59% of Shoppers Would Switch Brands for AI Picks",
+      "url": "https://smallbiztrends.com/adobe-survey-finds-59-of-shoppers-would-switch-brands-for-ai-picks",
       "sourceId": "smallbiztrends",
       "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-02T19:04:47.000Z",
-      "summary": "Discover how AI agents are eclipsing human-generated web traffic and the implications for marketers. Learn strategies to adapt to this new landscape and stay ahead in the evolving digital marketing world.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents"
-      ],
-      "score": 38,
-      "breakdown": {
-        "relevance": 31,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "641aed1b304a",
-      "title": "Google Launches Gemini 4 Argon: Enhanced Reasoning and Task Management",
-      "url": "https://smallbiztrends.com/google-launches-gemini-4-argon-enhanced-reasoning-and-task-management",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-02T19:11:00.000Z",
-      "summary": "Discover how Google's Gemini 4 Argon is revolutionizing AI with enhanced reasoning capabilities and advanced task management features. Explore the innovations that make this launch a game-changer in artificial intelligence.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "publishedAt": "2026-11-03T18:45:22.000Z",
+      "summary": "Adobe survey finds 59% of shoppers would switch brands based on AI recommendations, creating new opportunities and challenges for small businesses.",
+      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
         "Background reading — no action needed today, but worth knowing."
       ],
       "category": "strategy",
       "tags": [
-        "launch"
+        "small business"
       ],
       "score": 36,
       "breakdown": {
-        "relevance": 0,
-        "actionability": 29,
+        "relevance": 24,
+        "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 17,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -125,12 +99,38 @@
       "tags": [
         "no-code"
       ],
-      "score": 34,
+      "score": 33,
       "breakdown": {
         "relevance": 29,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "245afd5a52fe",
+      "title": "AMD Unveils Helion: A Flexible AI Infrastructure for Diverse Workloads",
+      "url": "https://smallbiztrends.com/amd-unveils-helion-a-flexible-ai-infrastructure-for-diverse-workloads",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-11-03T19:11:00.000Z",
+      "summary": "Discover how AMD's Helion redefines AI infrastructure with its flexible design, catering to diverse workloads and enhancing performance across various applications. Explore the future of AI with this innovative solution.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 18,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -152,39 +152,39 @@
         "ads",
         "launch"
       ],
-      "score": 29,
+      "score": 28,
       "breakdown": {
         "relevance": 10,
         "actionability": 11,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.15
       },
       "enriched": false
     },
     {
-      "id": "6a41268bbd4f",
-      "title": "Cisco Partners with PSA to Launch AI-Driven Platform for Port Resilience",
-      "url": "https://smallbiztrends.com/cisco-partners-with-psa-to-launch-ai-driven-platform-for-port-resilience",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-02T18:53:51.000Z",
-      "summary": "Discover how Cisco's partnership with PSA is revolutionizing port operations with a cutting-edge AI-driven platform designed to enhance resilience and efficiency in maritime logistics.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "id": "26c6032e1d26",
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-11-03T12:00:00.000Z",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Background reading — no action needed today, but worth knowing."
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
       ],
-      "category": "strategy",
+      "category": "automation",
       "tags": [
-        "launch"
+        "workflow"
       ],
-      "score": 28,
+      "score": 25,
       "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
+        "relevance": 13,
+        "actionability": 0,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.2
+        "freshness": 15,
+        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -204,65 +204,13 @@
       "tags": [
         "launch"
       ],
-      "score": 26,
+      "score": 24,
       "breakdown": {
         "relevance": 0,
         "actionability": 18,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.15
-      },
-      "enriched": false
-    },
-    {
-      "id": "08b710f1e780",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "url": "https://openai.com/index/heimstaden",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-11-03T08:00:00.000Z",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "case study"
-      ],
-      "score": 23,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 9,
-        "noise": 0,
-        "freshness": 16,
-        "sourceWeight": 1.15
-      },
-      "enriched": false
-    },
-    {
-      "id": "4ed35bdfdb65",
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-11-03T03:30:00.000Z",
-      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "shipped"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 13,
-        "noise": 0,
-        "freshness": 15,
-        "sourceWeight": 1
       },
       "enriched": false
     }
@@ -297,7 +245,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1349
+      "itemCount": 1352
     },
     {
       "sourceId": "google-ai-blog",
@@ -309,7 +257,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 895
+      "itemCount": 896
     },
     {
       "sourceId": "zapier-blog",
@@ -337,11 +285,11 @@
     }
   ],
   "stats": {
-    "fetched": 2419,
-    "onTopic": 32,
-    "deduped": 32,
-    "scored": 10,
-    "published": 10,
+    "fetched": 2423,
+    "onTopic": 42,
+    "deduped": 42,
+    "scored": 8,
+    "published": 8,
     "enriched": false
   }
 }
