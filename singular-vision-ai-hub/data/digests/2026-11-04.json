@@ -1,69 +1,68 @@
 {
   "date": "2026-11-04",
-  "generatedAt": "2026-11-04T12:02:04.179Z",
-  "headline": "8 stories worth your time — mostly automate your ops. Start with: Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+  "generatedAt": "2026-11-04T20:24:39.677Z",
+  "headline": "11 stories worth your time — mostly automate your ops. Start with: Open source AI is booming. Hugging Face explains who profits.",
   "items": [
     {
-      "id": "793a736581dc",
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
+      "id": "49cf82dfae35",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-11-03T00:35:52.000Z",
-      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "publishedAt": "2026-11-04T19:30:04.000Z",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility.",
+      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
       "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material."
+        "Free to run, but budget the setup time honestly before committing."
       ],
-      "category": "automation",
+      "category": "tools",
       "tags": [
-        "agents",
-        "pricing"
+        "open source"
       ],
-      "score": 37,
+      "score": 39,
       "breakdown": {
-        "relevance": 43,
+        "relevance": 36,
         "actionability": 0,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 18,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "25abc7309af9",
-      "title": "Adobe Survey Finds 59% of Shoppers Would Switch Brands for AI Picks",
-      "url": "https://smallbiztrends.com/adobe-survey-finds-59-of-shoppers-would-switch-brands-for-ai-picks",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-03T18:45:22.000Z",
-      "summary": "Adobe survey finds 59% of shoppers would switch brands based on AI recommendations, creating new opportunities and challenges for small businesses.",
-      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "id": "bb779f39a67b",
+      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-04T18:44:57.000Z",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility.",
+      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
       "actions": [
-        "Background reading — no action needed today, but worth knowing."
+        "Free to run, but budget the setup time honestly before committing."
       ],
-      "category": "strategy",
+      "category": "tools",
       "tags": [
-        "small business"
+        "open source"
       ],
-      "score": 33,
+      "score": 39,
       "breakdown": {
-        "relevance": 24,
+        "relevance": 36,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.2
+        "freshness": 17,
+        "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "49792679d79f",
-      "title": "Apple starts giving Siri AI access to third-party apps",
-      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-11-03T20:16:17.000Z",
-      "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's…",
+      "id": "1f2d7a4d0db4",
+      "title": "Oracle Cloud Unveils Google TPUs for Enhanced AI Workload Flexibility",
+      "url": "https://smallbiztrends.com/oracle-cloud-unveils-google-tpus-for-enhanced-ai-workload-flexibility",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-11-04T16:00:46.000Z",
+      "summary": "Discover how Oracle Cloud's integration of Google TPUs enhances AI workload flexibility, enabling businesses to optimize performance and scalability for their machine learning applications.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
         "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
@@ -71,14 +70,120 @@
       "category": "automation",
       "tags": [
         "integration",
-        "shipped"
+        "launch"
+      ],
+      "score": 39,
+      "breakdown": {
+        "relevance": 11,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "b6ceabf91c49",
+      "title": "Gemini for Home now plugs into AT&T’s smart security system",
+      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-11-04T20:23:24.000Z",
+      "summary": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+      ],
+      "category": "automation",
+      "tags": [
+        "integration",
+        "notes"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 23,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "d0178f35064d",
+      "title": "Nothing teases a screen-free AI device ahead of launch next month",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-11-04T18:26:07.000Z",
+      "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch",
+        "free"
       ],
       "score": 29,
       "breakdown": {
-        "relevance": 11,
-        "actionability": 13,
+        "relevance": 0,
+        "actionability": 30,
+        "noise": -12,
+        "freshness": 17,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "026e4ebd4085",
+      "title": "ChatGPT will now make you animated GIFs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-11-04T18:00:00.000Z",
+      "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Draft answers for your ten most common customer questions and test the quality on those."
+      ],
+      "category": "automation",
+      "tags": [
+        "support"
+      ],
+      "score": 27,
+      "breakdown": {
+        "relevance": 16,
+        "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 17,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "e818c1486ecf",
+      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+      "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-11-04T15:58:45.000Z",
+      "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 25,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": -18,
+        "freshness": 16,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -100,118 +205,91 @@
         "ads",
         "how-to"
       ],
-      "score": 27,
+      "score": 25,
       "breakdown": {
         "relevance": 10,
         "actionability": 22,
         "noise": -18,
-        "freshness": 18,
+        "freshness": 15,
         "sourceWeight": 1.05
       },
       "enriched": false
     },
     {
-      "id": "6fd6ad7938fa",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-11-02T18:00:00.000Z",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "marketing",
-      "tags": [
-        "ads",
-        "launch"
-      ],
-      "score": 25,
-      "breakdown": {
-        "relevance": 10,
-        "actionability": 11,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1.15
-      },
-      "enriched": false
-    },
-    {
-      "id": "5d47252e76d4",
-      "title": "The biggest modding site in PC gaming is taking a stance on AI",
-      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-11-04T00:42:10.000Z",
-      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about…",
+      "id": "472484bded0a",
+      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+      "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-04T16:51:35.000Z",
+      "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
       "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
       "actions": [
-        "Review anything you have already published that this would now cover."
+        "Check what customer data you are currently passing to AI tools, and under what terms."
       ],
       "category": "rules",
       "tags": [
-        "disclosure"
+        "privacy"
       ],
       "score": 23,
       "breakdown": {
-        "relevance": 13,
+        "relevance": 12,
         "actionability": 0,
         "noise": 0,
-        "freshness": 14,
-        "sourceWeight": 1.05
+        "freshness": 17,
+        "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "26c6032e1d26",
-      "title": "Accelerating engineering for the physical world",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-11-03T12:00:00.000Z",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "id": "48612fa48e10",
+      "title": "What is Claude Duet?",
+      "url": "https://zapier.com/blog/claude-duet",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-11-04T04:00:00.000Z",
+      "summary": "Claude Duet is Anthropic's answer to Meta's Muse and OpenAI's dots. It's an always-on AI agent, which means that instead of waiting for you to type a prompt, it sends you a morning brief, checks your connected apps to see where it can be helpful, and works on…",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
       "category": "automation",
       "tags": [
-        "workflow"
+        "agents"
       ],
-      "score": 22,
+      "score": 23,
       "breakdown": {
-        "relevance": 13,
+        "relevance": 12,
         "actionability": 0,
         "noise": 0,
-        "freshness": 10,
-        "sourceWeight": 1.15
+        "freshness": 12,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "19244c7aa206",
-      "title": "Introducing the Grid Protectors Program",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-11-02T15:00:00.000Z",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "id": "bc840769fddf",
+      "title": "The rise of agentic AI in networking",
+      "url": "https://aibusiness.com/agentic-ai/the-rise-of-agentic-ai-in-networking",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-11-03T15:04:27.000Z",
+      "summary": "Despite using more AI in networking operations, organizations still need to ensure that agents act deterministically.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Background reading — no action needed today, but worth knowing."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
-      "category": "strategy",
+      "category": "automation",
       "tags": [
-        "launch"
+        "agents"
       ],
       "score": 22,
       "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
+        "relevance": 19,
+        "actionability": 0,
         "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 1.15
+        "freshness": 9,
+        "sourceWeight": 0.95
       },
       "enriched": false
     }
@@ -246,7 +324,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1354
+      "itemCount": 1356
     },
     {
       "sourceId": "google-ai-blog",
@@ -258,7 +336,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 896
+      "itemCount": 897
     },
     {
       "sourceId": "zapier-blog",
@@ -286,11 +364,11 @@
     }
   ],
   "stats": {
-    "fetched": 2425,
-    "onTopic": 35,
-    "deduped": 35,
-    "scored": 8,
-    "published": 8,
+    "fetched": 2428,
+    "onTopic": 34,
+    "deduped": 34,
+    "scored": 11,
+    "published": 11,
     "enriched": false
   }
 }
