@@ -1,7 +1,7 @@
 {
   "date": "2026-11-05",
-  "generatedAt": "2026-11-05T12:14:22.129Z",
-  "headline": "9 stories worth your time — mostly automate your ops. Start with: Open source AI is booming. Hugging Face explains who profits.",
+  "generatedAt": "2026-11-05T20:37:56.230Z",
+  "headline": "14 stories worth your time — mostly automate your ops. Start with: Open source AI is booming. Hugging Face explains who profits.",
   "items": [
     {
       "id": "49cf82dfae35",
@@ -19,39 +19,41 @@
       "tags": [
         "open source"
       ],
-      "score": 36,
+      "score": 34,
       "breakdown": {
         "relevance": 36,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "bb779f39a67b",
-      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-11-04T18:44:57.000Z",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility.",
-      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
+      "id": "d7e9e3e89ee7",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "publishedAt": "2026-11-05T17:00:00.000Z",
+      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
       "actions": [
-        "Free to run, but budget the setup time honestly before committing."
+        "Compare against what you currently pay for the same job and reprice if the gap is material.",
+        "Cheapest test: regenerate an asset you already paid for and compare quality honestly."
       ],
-      "category": "tools",
+      "category": "marketing",
       "tags": [
-        "open source"
+        "generative media",
+        "pricing"
       ],
-      "score": 36,
+      "score": 34,
       "breakdown": {
-        "relevance": 36,
+        "relevance": 25,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1
+        "freshness": 17,
+        "sourceWeight": 1.1
       },
       "enriched": false
     },
@@ -73,13 +75,67 @@
         "integration",
         "workflow"
       ],
-      "score": 36,
+      "score": 34,
       "breakdown": {
         "relevance": 24,
         "actionability": 0,
         "noise": 0,
-        "freshness": 17,
+        "freshness": 14,
         "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "c6134d61030c",
+      "title": "Muse has a voice mode now",
+      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-11-05T19:03:04.000Z",
+      "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "launch",
+        "shipped"
+      ],
+      "score": 33,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 24,
+        "noise": -12,
+        "freshness": 17,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "94c502abbc46",
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-04T21:56:01.000Z",
+      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -100,39 +156,13 @@
         "how-to",
         "launch"
       ],
-      "score": 34,
+      "score": 32,
       "breakdown": {
         "relevance": 0,
         "actionability": 25,
         "noise": 0,
-        "freshness": 14,
+        "freshness": 12,
         "sourceWeight": 1.15
-      },
-      "enriched": false
-    },
-    {
-      "id": "94c502abbc46",
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-11-04T21:56:01.000Z",
-      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents"
-      ],
-      "score": 33,
-      "breakdown": {
-        "relevance": 31,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -153,24 +183,79 @@
         "generative media",
         "launch"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 13,
         "actionability": 18,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 1.15
       },
       "enriched": false
     },
     {
-      "id": "b6ceabf91c49",
-      "title": "Gemini for Home now plugs into AT&T’s smart security system",
-      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "id": "f4c3dd78b05c",
+      "title": "The 8 best AI courses for beginners in 2026",
+      "url": "https://zapier.com/blog/best-ai-courses",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-11-05T04:00:00.000Z",
+      "summary": "Upskilling in AI is just about the most productive thing you could do with your free time right now. With every day that passes, AI technology is making strides, and the demand for AI-related skills increases along with it.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere.",
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation stack",
+        "free"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 15,
+        "actionability": 8,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "3c0e84566a0e",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-05T19:48:28.000Z",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "launch"
+      ],
+      "score": 31,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "f8f8c085e2e5",
+      "title": "You can post AI music straight to SoundCloud from ElevenLabs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
-      "publishedAt": "2026-11-04T20:23:24.000Z",
-      "summary": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home…",
+      "publishedAt": "2026-11-05T15:00:00.000Z",
+      "summary": "After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from ElevenLabs and then upload them to SoundCloud, you can publish…",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
         "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
@@ -178,53 +263,52 @@
       "category": "automation",
       "tags": [
         "integration",
-        "notes"
+        "try it"
       ],
-      "score": 29,
+      "score": 28,
       "breakdown": {
-        "relevance": 23,
+        "relevance": 11,
+        "actionability": 8,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "c9efcd5ee343",
+      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-05T14:42:00.000Z",
+      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 27,
+      "breakdown": {
+        "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.05
+        "freshness": 16,
+        "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "d0178f35064d",
-      "title": "Nothing teases a screen-free AI device ahead of launch next month",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "id": "f49d817c3fd3",
+      "title": "Claude AI can plug directly into your bank account",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
-      "publishedAt": "2026-11-04T18:26:07.000Z",
-      "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch",
-        "free"
-      ],
-      "score": 26,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 30,
-        "noise": -12,
-        "freshness": 12,
-        "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "026e4ebd4085",
-      "title": "ChatGPT will now make you animated GIFs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-11-04T18:00:00.000Z",
-      "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others.",
+      "publishedAt": "2026-11-05T18:00:00.000Z",
+      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
         "Draft answers for your ten most common customer questions and test the quality on those."
@@ -233,13 +317,65 @@
       "tags": [
         "support"
       ],
-      "score": 23,
+      "score": 27,
       "breakdown": {
         "relevance": 16,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 17,
         "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "53c56afbaf05",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-11-05T09:00:00.000Z",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "2846e03446f4",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-05T16:16:45.000Z",
+      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1
       },
       "enriched": false
     }
@@ -274,7 +410,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1360
+      "itemCount": 1361
     },
     {
       "sourceId": "google-ai-blog",
@@ -314,11 +450,11 @@
     }
   ],
   "stats": {
-    "fetched": 2433,
-    "onTopic": 33,
-    "deduped": 33,
-    "scored": 9,
-    "published": 9,
+    "fetched": 2434,
+    "onTopic": 38,
+    "deduped": 38,
+    "scored": 14,
+    "published": 14,
     "enriched": false
   }
 }
