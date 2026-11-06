@@ -1,8 +1,35 @@
 {
   "date": "2026-11-06",
-  "generatedAt": "2026-11-06T12:01:31.059Z",
-  "headline": "12 stories worth your time — mostly automate your ops. Start with: Perplexity launches its own take on AI agents for work",
+  "generatedAt": "2026-11-06T19:56:21.539Z",
+  "headline": "15 stories worth your time — mostly automate your ops. Start with: AI automation examples: 5 real things Zapier Sidekick has done",
   "items": [
+    {
+      "id": "2c3b826bd496",
+      "title": "AI automation examples: 5 real things Zapier Sidekick has done",
+      "url": "https://zapier.com/blog/ai-automation-examples-sidekick",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-11-06T05:00:00.000Z",
+      "summary": "A few months into our internal pilot, the Sidekick team noticed that most of what reached them was bug reports. Someone started a channel just for wins, a place where people could post what Sidekick had done for them. It filled up faster than anyone expected.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "automation stack"
+      ],
+      "score": 57,
+      "breakdown": {
+        "relevance": 65,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
     {
       "id": "8e75ec02fc50",
       "title": "Perplexity launches its own take on AI agents for work",
@@ -21,13 +48,94 @@
         "integration",
         "launch"
       ],
-      "score": 50,
+      "score": 49,
       "breakdown": {
         "relevance": 42,
         "actionability": 18,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "353c53bcb82a",
+      "title": "What we learned by watching Claude read Zapier.com",
+      "url": "https://zapier.com/blog/what-we-learned-watching-claude-read-zapier",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-11-06T05:00:00.000Z",
+      "summary": "TL;DR SEO feedback loops take weeks. We wanted something faster for agents, so we built a tool that runs the same Claude Code task against production and a preview variant of a page, with the URL held constant.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Audit how your site currently surfaces in AI-generated answers, not just in blue links."
+      ],
+      "category": "marketing",
+      "tags": [
+        "automation stack",
+        "seo"
+      ],
+      "score": 45,
+      "breakdown": {
+        "relevance": 42,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "63e37f776227",
+      "title": "Google Gemini Unveils Omni 1.2 Flash with Enhanced Video Creation Tools",
+      "url": "https://smallbiztrends.com/google-gemini-unveils-omni-1-2-flash-with-enhanced-video-creation-tools",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-11-06T14:06:00.000Z",
+      "summary": "Discover the latest updates from Google Gemini as they unveil Omni 1.2 Flash, featuring cutting-edge video creation tools designed to elevate your content production.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 38,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 29,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "cfd4354afa14",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-11-06T00:00:00.000Z",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "launch"
+      ],
+      "score": 35,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 11,
+        "noise": -14,
+        "freshness": 11,
+        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -49,39 +157,13 @@
         "generative media",
         "pricing"
       ],
-      "score": 31,
+      "score": 29,
       "breakdown": {
         "relevance": 25,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.1
-      },
-      "enriched": false
-    },
-    {
-      "id": "94c502abbc46",
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-11-04T21:56:01.000Z",
-      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents"
-      ],
-      "score": 30,
-      "breakdown": {
-        "relevance": 31,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -103,12 +185,12 @@
         "launch",
         "shipped"
       ],
-      "score": 30,
+      "score": 28,
       "breakdown": {
         "relevance": 12,
         "actionability": 24,
         "noise": -12,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -130,12 +212,12 @@
         "how-to",
         "launch"
       ],
-      "score": 29,
+      "score": 28,
       "breakdown": {
         "relevance": 0,
         "actionability": 25,
         "noise": 0,
-        "freshness": 8,
+        "freshness": 7,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -158,39 +240,38 @@
         "automation stack",
         "free"
       ],
-      "score": 29,
+      "score": 28,
       "breakdown": {
         "relevance": 15,
         "actionability": 8,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "3c0e84566a0e",
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar",
+      "id": "016e849ea3ab",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-11-05T19:48:28.000Z",
-      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "publishedAt": "2026-11-06T18:44:20.000Z",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
+        "Background reading — no action needed today, but worth knowing."
       ],
-      "category": "automation",
+      "category": "strategy",
       "tags": [
-        "agents",
         "launch"
       ],
-      "score": 28,
+      "score": 27,
       "breakdown": {
-        "relevance": 12,
-        "actionability": 11,
+        "relevance": 0,
+        "actionability": 18,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 18,
         "sourceWeight": 1
       },
       "enriched": false
@@ -211,12 +292,39 @@
       "tags": [
         "agents"
       ],
-      "score": 27,
+      "score": 26,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 16,
+        "freshness": 13,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "3c0e84566a0e",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-05T19:48:28.000Z",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "launch"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
@@ -237,12 +345,12 @@
       "tags": [
         "regulation"
       ],
-      "score": 27,
+      "score": 26,
       "breakdown": {
         "relevance": 22,
         "actionability": 0,
         "noise": 0,
-        "freshness": 15,
+        "freshness": 12,
         "sourceWeight": 0.95
       },
       "enriched": false
@@ -265,12 +373,12 @@
         "scheduling",
         "launch"
       ],
-      "score": 26,
+      "score": 24,
       "breakdown": {
         "relevance": 24,
         "actionability": 11,
         "noise": -18,
-        "freshness": 14,
+        "freshness": 11,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -291,39 +399,13 @@
       "tags": [
         "agents"
       ],
-      "score": 24,
+      "score": 23,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "f49d817c3fd3",
-      "title": "Claude AI can plug directly into your bank account",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-11-05T18:00:00.000Z",
-      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Draft answers for your ten most common customer questions and test the quality on those."
-      ],
-      "category": "automation",
-      "tags": [
-        "support"
-      ],
-      "score": 23,
-      "breakdown": {
-        "relevance": 16,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.05
       },
       "enriched": false
     }
@@ -358,7 +440,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1366
+      "itemCount": 1368
     },
     {
       "sourceId": "google-ai-blog",
@@ -398,11 +480,11 @@
     }
   ],
   "stats": {
-    "fetched": 2440,
-    "onTopic": 39,
-    "deduped": 39,
-    "scored": 12,
-    "published": 12,
+    "fetched": 2442,
+    "onTopic": 43,
+    "deduped": 43,
+    "scored": 15,
+    "published": 15,
     "enriched": false
   }
 }
