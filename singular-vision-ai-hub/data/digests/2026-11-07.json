@@ -1,0 +1,325 @@
+{
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T11:00:10.456Z",
+  "headline": "9 stories worth your time — mostly automate your ops. Start with: AI automation examples: 5 real things Zapier Sidekick has done",
+  "items": [
+    {
+      "id": "2c3b826bd496",
+      "title": "AI automation examples: 5 real things Zapier Sidekick has done",
+      "url": "https://zapier.com/blog/ai-automation-examples-sidekick",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-11-06T05:00:00.000Z",
+      "summary": "A few months into our internal pilot, the Sidekick team noticed that most of what reached them was bug reports. Someone started a channel just for wins, a place where people could post what Sidekick had done for them. It filled up faster than anyone expected.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "automation stack"
+      ],
+      "score": 55,
+      "breakdown": {
+        "relevance": 65,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "353c53bcb82a",
+      "title": "What we learned by watching Claude read Zapier.com",
+      "url": "https://zapier.com/blog/what-we-learned-watching-claude-read-zapier",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-11-06T05:00:00.000Z",
+      "summary": "TL;DR SEO feedback loops take weeks. We wanted something faster for agents, so we built a tool that runs the same Claude Code task against production and a preview variant of a page, with the URL held constant.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Audit how your site currently surfaces in AI-generated answers, not just in blue links."
+      ],
+      "category": "marketing",
+      "tags": [
+        "automation stack",
+        "seo"
+      ],
+      "score": 43,
+      "breakdown": {
+        "relevance": 42,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "63e37f776227",
+      "title": "Google Gemini Unveils Omni 1.2 Flash with Enhanced Video Creation Tools",
+      "url": "https://smallbiztrends.com/google-gemini-unveils-omni-1-2-flash-with-enhanced-video-creation-tools",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-11-06T14:06:00.000Z",
+      "summary": "Discover the latest updates from Google Gemini as they unveil Omni 1.2 Flash, featuring cutting-edge video creation tools designed to elevate your content production.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 35,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 29,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "cfd4354afa14",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-11-06T00:00:00.000Z",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "launch"
+      ],
+      "score": 33,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 11,
+        "noise": -14,
+        "freshness": 8,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "d7e9e3e89ee7",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "publishedAt": "2026-11-05T17:00:00.000Z",
+      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material.",
+        "Cheapest test: regenerate an asset you already paid for and compare quality honestly."
+      ],
+      "category": "marketing",
+      "tags": [
+        "generative media",
+        "pricing"
+      ],
+      "score": 27,
+      "breakdown": {
+        "relevance": 25,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 7,
+        "sourceWeight": 1.1
+      },
+      "enriched": false
+    },
+    {
+      "id": "016e849ea3ab",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-06T18:44:20.000Z",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "3c0e84566a0e",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-05T19:48:28.000Z",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "launch"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 7,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "904574e3ce24",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-06T06:28:32.000Z",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "d2c2ad975891",
+      "title": "Enterprises face tougher AI regulatory landscape after midterms",
+      "url": "https://aibusiness.com/data-centers/enterprises-face-tougher-ai-regulatory-landscape",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-11-06T03:01:36.000Z",
+      "summary": "A Democratic-controlled Congress means companies should expect differences in how states regulate AI and possibly a slowdown in infrastructure buildout.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Note the compliance date and check whether your business size is in scope."
+      ],
+      "category": "rules",
+      "tags": [
+        "regulation"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 22,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 9,
+        "sourceWeight": 0.95
+      },
+      "enriched": false
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "ok": false,
+      "itemCount": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "ok": true,
+      "itemCount": 1368
+    },
+    {
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "ok": true,
+      "itemCount": 899
+    },
+    {
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "ben-evans",
+      "sourceName": "Benedict Evans",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "ok": true,
+      "itemCount": 50
+    }
+  ],
+  "stats": {
+    "fetched": 2442,
+    "onTopic": 37,
+    "deduped": 37,
+    "scored": 9,
+    "published": 9,
+    "enriched": false
+  }
+}
