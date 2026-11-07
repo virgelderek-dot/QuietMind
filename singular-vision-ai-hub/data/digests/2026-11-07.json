@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
-  "generatedAt": "2026-11-07T11:00:10.456Z",
-  "headline": "9 stories worth your time — mostly automate your ops. Start with: AI automation examples: 5 real things Zapier Sidekick has done",
+  "generatedAt": "2026-11-07T18:00:26.315Z",
+  "headline": "8 stories worth your time — mostly automate your ops. Start with: AI automation examples: 5 real things Zapier Sidekick has done",
   "items": [
     {
       "id": "2c3b826bd496",
@@ -25,7 +25,7 @@
         "relevance": 65,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -48,39 +48,39 @@
         "automation stack",
         "seo"
       ],
-      "score": 43,
+      "score": 42,
       "breakdown": {
         "relevance": 42,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "63e37f776227",
-      "title": "Google Gemini Unveils Omni 1.2 Flash with Enhanced Video Creation Tools",
-      "url": "https://smallbiztrends.com/google-gemini-unveils-omni-1-2-flash-with-enhanced-video-creation-tools",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-06T14:06:00.000Z",
-      "summary": "Discover the latest updates from Google Gemini as they unveil Omni 1.2 Flash, featuring cutting-edge video creation tools designed to elevate your content production.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "id": "8879475e62b3",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-11-07T12:30:00.000Z",
+      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Background reading — no action needed today, but worth knowing."
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
       ],
-      "category": "strategy",
+      "category": "automation",
       "tags": [
-        "launch"
+        "automation"
       ],
-      "score": 35,
+      "score": 33,
       "breakdown": {
-        "relevance": 0,
-        "actionability": 29,
+        "relevance": 26,
+        "actionability": 0,
         "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1.2
+        "freshness": 16,
+        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -101,41 +101,13 @@
         "agents",
         "launch"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 31,
         "actionability": 11,
         "noise": -14,
-        "freshness": 8,
-        "sourceWeight": 1.15
-      },
-      "enriched": false
-    },
-    {
-      "id": "d7e9e3e89ee7",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
-      "sourceId": "google-ai-blog",
-      "sourceName": "Google AI",
-      "publishedAt": "2026-11-05T17:00:00.000Z",
-      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material.",
-        "Cheapest test: regenerate an asset you already paid for and compare quality honestly."
-      ],
-      "category": "marketing",
-      "tags": [
-        "generative media",
-        "pricing"
-      ],
-      "score": 27,
-      "breakdown": {
-        "relevance": 25,
-        "actionability": 0,
-        "noise": 0,
         "freshness": 7,
-        "sourceWeight": 1.1
+        "sourceWeight": 1.15
       },
       "enriched": false
     },
@@ -155,12 +127,12 @@
       "tags": [
         "launch"
       ],
-      "score": 24,
+      "score": 23,
       "breakdown": {
         "relevance": 0,
         "actionability": 18,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
@@ -182,38 +154,12 @@
         "agents",
         "launch"
       ],
-      "score": 24,
+      "score": 23,
       "breakdown": {
         "relevance": 12,
         "actionability": 11,
         "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "904574e3ce24",
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-11-06T06:28:32.000Z",
-      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents"
-      ],
-      "score": 23,
-      "breakdown": {
-        "relevance": 19,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 9,
+        "freshness": 6,
         "sourceWeight": 1
       },
       "enriched": false
@@ -239,8 +185,34 @@
         "relevance": 22,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 0.95
+      },
+      "enriched": false
+    },
+    {
+      "id": "904574e3ce24",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-06T06:28:32.000Z",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 22,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 8,
+        "sourceWeight": 1
       },
       "enriched": false
     }
@@ -316,10 +288,10 @@
   ],
   "stats": {
     "fetched": 2442,
-    "onTopic": 37,
-    "deduped": 37,
-    "scored": 9,
-    "published": 9,
+    "onTopic": 33,
+    "deduped": 33,
+    "scored": 8,
+    "published": 8,
     "enriched": false
   }
 }
