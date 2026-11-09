@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T12:46:18.255Z",
+  "headline": "4 stories worth your time — mostly automate your ops. Start with: AI Starts Work, But Manual Efforts Are Still Key to Finishing Tasks",
+  "items": [
+    {
+      "id": "050f2f1c250b",
+      "title": "AI Starts Work, But Manual Efforts Are Still Key to Finishing Tasks",
+      "url": "https://smallbiztrends.com/ai-starts-work-but-manual-efforts-are-still-key-to-finishing-tasks",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-11-09T10:25:00.000Z",
+      "summary": "Explore how artificial intelligence is transforming workflows while emphasizing the continued importance of manual efforts in completing tasks effectively. Discover the balance between automation and human touch in today's work environment.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "workflow"
+      ],
+      "score": 39,
+      "breakdown": {
+        "relevance": 29,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "f3bf98c32b31",
+      "title": "Salesforce Unveils Enhanced Coworker AI Tool for Seamless Team Collaboration",
+      "url": "https://smallbiztrends.com/salesforce-unveils-enhanced-coworker-ai-tool-for-seamless-team-collaboration",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-11-08T14:38:00.000Z",
+      "summary": "Discover how Salesforce's newly unveiled enhanced Coworker AI tool is revolutionizing team collaboration, making communication more seamless and efficient than ever. Explore its innovative features and impact on workplace dynamics.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 35,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 29,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "b9515c308047",
+      "title": "Oracle Unveils AI Data Platform to Enhance Enterprise Decision-Making",
+      "url": "https://smallbiztrends.com/oracle-unveils-ai-data-platform-to-enhance-enterprise-decision-making",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-11-08T18:26:00.000Z",
+      "summary": "Discover how Oracle's new AI Data Platform is set to revolutionize enterprise decision-making by leveraging advanced analytics and artificial intelligence to drive smarter, data-driven strategies.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 27,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "53044e44b3aa",
+      "title": "Apple is racing to make Siri more agentic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-11-08T19:18:19.000Z",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 0,
+        "noise": -12,
+        "freshness": 12,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "ok": false,
+      "itemCount": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "ok": true,
+      "itemCount": 1368
+    },
+    {
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "ok": true,
+      "itemCount": 900
+    },
+    {
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "ben-evans",
+      "sourceName": "Benedict Evans",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "ok": true,
+      "itemCount": 50
+    }
+  ],
+  "stats": {
+    "fetched": 2443,
+    "onTopic": 9,
+    "deduped": 9,
+    "scored": 4,
+    "published": 4,
+    "enriched": false
+  }
+}
