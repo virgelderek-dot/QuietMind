@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
-  "generatedAt": "2026-11-09T22:57:51.308Z",
-  "headline": "9 stories worth your time — mostly automate your ops. Start with: Dropbox Integrates AI with User Content, Enhancing Workflow and Control",
+  "generatedAt": "2026-11-10T12:32:55.579Z",
+  "headline": "8 stories worth your time — mostly automate your ops. Start with: Dropbox Integrates AI with User Content, Enhancing Workflow and Control",
   "items": [
     {
       "id": "dbd2f412e11e",
@@ -21,12 +21,12 @@
         "integration",
         "workflow"
       ],
-      "score": 57,
+      "score": 55,
       "breakdown": {
         "relevance": 62,
         "actionability": 0,
         "noise": 0,
-        "freshness": 15,
+        "freshness": 11,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -49,12 +49,12 @@
         "automation",
         "automation stack"
       ],
-      "score": 55,
+      "score": 54,
       "breakdown": {
         "relevance": 62,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 9,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -77,12 +77,12 @@
         "social",
         "support"
       ],
-      "score": 45,
+      "score": 43,
       "breakdown": {
         "relevance": 47,
         "actionability": 0,
         "noise": 0,
-        "freshness": 16,
+        "freshness": 12,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -103,39 +103,38 @@
       "tags": [
         "availability"
       ],
-      "score": 42,
+      "score": 40,
       "breakdown": {
         "relevance": 36,
         "actionability": 0,
         "noise": 0,
-        "freshness": 16,
+        "freshness": 12,
         "sourceWeight": 1.15
       },
       "enriched": false
     },
     {
-      "id": "050f2f1c250b",
-      "title": "AI Starts Work, But Manual Efforts Are Still Key to Finishing Tasks",
-      "url": "https://smallbiztrends.com/ai-starts-work-but-manual-efforts-are-still-key-to-finishing-tasks",
+      "id": "c5413e25f73a",
+      "title": "Cisco Integrates Advanced AI Threat Simulation to Strengthen Cybersecurity",
+      "url": "https://smallbiztrends.com/cisco-integrates-advanced-ai-threat-simulation-to-strengthen-cybersecurity",
       "sourceId": "smallbiztrends",
       "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-09T10:25:00.000Z",
-      "summary": "Explore how artificial intelligence is transforming workflows while emphasizing the continued importance of manual efforts in completing tasks effectively. Discover the balance between automation and human touch in today's work environment.",
+      "publishedAt": "2026-11-10T10:30:00.000Z",
+      "summary": "Discover how Cisco's integration of advanced AI threat simulation enhances cybersecurity measures, providing organizations with robust protection against evolving cyber threats and vulnerabilities.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
       ],
       "category": "automation",
       "tags": [
-        "automation",
-        "workflow"
+        "integration"
       ],
-      "score": 37,
+      "score": 39,
       "breakdown": {
         "relevance": 29,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 17,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -158,39 +157,13 @@
         "workflow",
         "social"
       ],
-      "score": 36,
+      "score": 33,
       "breakdown": {
         "relevance": 46,
         "actionability": 0,
         "noise": -12,
-        "freshness": 18,
+        "freshness": 13,
         "sourceWeight": 0.95
-      },
-      "enriched": false
-    },
-    {
-      "id": "f1eea0a2781a",
-      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-11-09T19:00:00.000Z",
-      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 28,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 16,
-        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -210,38 +183,38 @@
       "tags": [
         "agents"
       ],
-      "score": 28,
+      "score": 26,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 9,
         "sourceWeight": 1.15
       },
       "enriched": false
     },
     {
-      "id": "4a7141713ab5",
-      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "id": "f1eea0a2781a",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
-      "publishedAt": "2026-11-09T19:09:58.000Z",
-      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac.",
-      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "publishedAt": "2026-11-09T19:00:00.000Z",
+      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material."
+        "Background reading — no action needed today, but worth knowing."
       ],
-      "category": "pricing",
+      "category": "strategy",
       "tags": [
-        "pricing"
+        "launch"
       ],
-      "score": 24,
+      "score": 25,
       "breakdown": {
-        "relevance": 12,
-        "actionability": 0,
+        "relevance": 0,
+        "actionability": 18,
         "noise": 0,
-        "freshness": 16,
+        "freshness": 12,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -277,7 +250,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1372
+      "itemCount": 1373
     },
     {
       "sourceId": "google-ai-blog",
@@ -317,11 +290,11 @@
     }
   ],
   "stats": {
-    "fetched": 2447,
-    "onTopic": 23,
-    "deduped": 23,
-    "scored": 9,
-    "published": 9,
+    "fetched": 2448,
+    "onTopic": 27,
+    "deduped": 27,
+    "scored": 8,
+    "published": 8,
     "enriched": false
   }
 }
