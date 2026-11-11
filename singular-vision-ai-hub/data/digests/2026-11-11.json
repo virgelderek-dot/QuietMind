@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "generatedAt": "2026-11-11T11:49:38.562Z",
+  "generatedAt": "2026-11-11T20:09:48.183Z",
   "headline": "18 stories worth your time — mostly automate your ops. Start with: Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)",
   "items": [
     {
@@ -23,104 +23,76 @@
         "workflow",
         "how-to"
       ],
-      "score": 72,
+      "score": 71,
       "breakdown": {
         "relevance": 94,
         "actionability": 14,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "a463e4549476",
-      "title": "Adobe Expands Creative Cloud AI Agents and Editing Tools",
-      "url": "https://smallbiztrends.com/adobe-expands-creative-cloud-ai-agents-and-editing-tools",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-10T15:12:14.000Z",
-      "summary": "Adobe expands Creative Cloud with AI agents, new editing tools, and automated workflows to help small businesses streamline content creation.",
-      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "id": "8db26f4479b3",
+      "title": "Lindy pricing and plans for 2026",
+      "url": "https://zapier.com/blog/lindy-pricing",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-11-11T05:00:00.000Z",
+      "summary": "As a small business owner running multiple newsletters, I'm always hunting for ways to claw back a few hours. So my ears perked up when I first heard Lindy AI's pitch that it could save me time.",
+      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
       "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
-        "Use it to increase output on a channel that already converts — not to open a new one."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents",
-        "small business",
-        "automation",
-        "workflow",
-        "content"
-      ],
-      "score": 70,
-      "breakdown": {
-        "relevance": 99,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "45dc44b1fb6e",
-      "title": "Adobe Brings AI Agents to GenStudio to Automate Marketing Tasks",
-      "url": "https://smallbiztrends.com/adobe-brings-ai-agents-to-genstudio-to-automate-marketing-tasks",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-10T15:05:50.000Z",
-      "summary": "Adobe adds AI agents to GenStudio to automate marketing tasks, streamline content creation, and help businesses maintain brand consistency.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
-        "Use it to increase output on a channel that already converts — not to open a new one.",
-        "Cheapest test: regenerate an asset you already paid for and compare quality honestly."
-      ],
-      "category": "automation",
-      "tags": [
-        "automation",
-        "agents",
-        "content",
-        "creative"
-      ],
-      "score": 70,
-      "breakdown": {
-        "relevance": 99,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "04566ece2f1b",
-      "title": "Adobe is going all in on agentic AI",
-      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material.",
+        "Re-check your usage against the new limits so a cap does not surprise you mid-month.",
         "Pick the single most repetitive task in your week and see whether this covers it end to end."
       ],
-      "category": "automation",
+      "category": "pricing",
       "tags": [
-        "agents",
-        "automation",
-        "workflow",
-        "automation stack"
+        "pricing",
+        "small business",
+        "automation stack",
+        "email",
+        "limits"
       ],
-      "score": 56,
+      "score": 69,
       "breakdown": {
-        "relevance": 75,
+        "relevance": 94,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1.05
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "b277a57965de",
+      "title": "UiPath pricing: Exploring RPA pricing models",
+      "url": "https://zapier.com/blog/uipath-pricing",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-11-11T05:00:00.000Z",
+      "summary": "Understanding UiPath pricing should take three minutes. It doesn't. Take a few seconds to browse the website, and you'll find a mostly hidden pricing structure filled with attended bots, action center limits, and AI consumption units.",
+      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "actions": [
+        "Compare against what you currently pay for the same job and reprice if the gap is material.",
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Review anything you have already published that this would now cover."
+      ],
+      "category": "pricing",
+      "tags": [
+        "pricing",
+        "automation",
+        "copyright",
+        "how-to"
+      ],
+      "score": 62,
+      "breakdown": {
+        "relevance": 62,
+        "actionability": 14,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -147,7 +119,7 @@
         "relevance": 29,
         "actionability": 29,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.1
       },
       "enriched": false
@@ -168,40 +140,13 @@
       "tags": [
         "freelance"
       ],
-      "score": 47,
+      "score": 46,
       "breakdown": {
         "relevance": 52,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.15
-      },
-      "enriched": false
-    },
-    {
-      "id": "6acaa5b13d2b",
-      "title": "Adobe and Google Expand AI Tools Across Workspace and Creative Apps",
-      "url": "https://smallbiztrends.com/adobe-and-google-expand-ai-tools-across-workspace-and-creative-apps",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-10T14:53:17.000Z",
-      "summary": "Adobe and Google expand AI integrations across Workspace, Gemini, Photoshop, and Acrobat to streamline creative workflows and productivity for small businesses.",
-      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
-      ],
-      "category": "strategy",
-      "tags": [
-        "small business",
-        "workflow"
-      ],
-      "score": 41,
-      "breakdown": {
-        "relevance": 37,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -222,39 +167,39 @@
         "self-host",
         "agents"
       ],
-      "score": 39,
+      "score": 37,
       "breakdown": {
         "relevance": 38,
         "actionability": 0,
         "noise": 0,
-        "freshness": 15,
+        "freshness": 13,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "9c331579e229",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-11-09T19:00:00.000Z",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
+      "id": "0ccfb511c0c8",
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-11T14:00:00.000Z",
+      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Now generally available, so you can test it today rather than joining a waitlist."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
-      "category": "tools",
+      "category": "automation",
       "tags": [
-        "availability"
+        "agents"
       ],
-      "score": 36,
+      "score": 35,
       "breakdown": {
-        "relevance": 36,
+        "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1.15
+        "freshness": 16,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -276,39 +221,13 @@
         "automation",
         "support"
       ],
-      "score": 36,
+      "score": 35,
       "breakdown": {
         "relevance": 32,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "d8a967756fad",
-      "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
-      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-11-10T13:00:00.000Z",
-      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
-      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
-      "actions": [
-        "Free to run, but budget the setup time honestly before committing."
-      ],
-      "category": "tools",
-      "tags": [
-        "open source"
-      ],
-      "score": 35,
-      "breakdown": {
-        "relevance": 36,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -328,68 +247,39 @@
       "tags": [
         "agents"
       ],
-      "score": 33,
+      "score": 32,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.05
       },
       "enriched": false
     },
     {
-      "id": "7396b577c725",
-      "title": "ChatGPT is getting verified AI ‘Business Agents’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-11-10T18:00:00.000Z",
-      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Cheapest test: regenerate an asset you already paid for and compare quality honestly.",
-        "Check whether your storefront platform supports this natively before adding another subscription."
-      ],
-      "category": "marketing",
-      "tags": [
-        "creative",
-        "ecommerce"
-      ],
-      "score": 30,
-      "breakdown": {
-        "relevance": 25,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "80b38ea7da37",
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-11-11T08:00:00.000Z",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "id": "262a96c8dbb9",
+      "title": "Oracle Launches AI-Driven Analytics Tools for Faster Financial Insights",
+      "url": "https://smallbiztrends.com/oracle-launches-ai-driven-analytics-tools-for-faster-financial-insights",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-11-11T16:25:55.000Z",
+      "summary": "Discover how Oracle's new AI-driven analytics tools are revolutionizing financial insights, enabling businesses to make faster, data-driven decisions and enhance their financial strategies.",
       "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
-        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
+        "Background reading — no action needed today, but worth knowing."
       ],
       "category": "strategy",
       "tags": [
-        "free",
-        "case study"
+        "launch"
       ],
-      "score": 30,
+      "score": 31,
       "breakdown": {
         "relevance": 0,
-        "actionability": 17,
+        "actionability": 18,
         "noise": 0,
-        "freshness": 16,
-        "sourceWeight": 1.15
+        "freshness": 17,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -410,12 +300,12 @@
         "support",
         "case study"
       ],
-      "score": 30,
+      "score": 29,
       "breakdown": {
         "relevance": 16,
         "actionability": 9,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -438,50 +328,131 @@
         "workflow",
         "social"
       ],
-      "score": 30,
+      "score": 29,
       "breakdown": {
         "relevance": 46,
         "actionability": 0,
         "noise": -12,
-        "freshness": 8,
+        "freshness": 6,
         "sourceWeight": 0.95
       },
       "enriched": false
     },
     {
-      "id": "909ba63d1f0c",
-      "title": "Muse Wonder, Muse Spark, and Muse Ember: A guide to Meta's AI models",
-      "url": "https://zapier.com/blog/meta-ai-muse-spark",
-      "sourceId": "zapier-blog",
-      "sourceName": "Zapier Blog",
-      "publishedAt": "2026-11-10T04:00:00.000Z",
-      "summary": "Meta has shifted to a new family of flagship AI models called Muse and sent the Llama \"herd\" of models to the farm upstate. It's an understandable shift in AI strategy from the company that was once pioneering open models.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "id": "7396b577c725",
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-11-10T18:00:00.000Z",
+      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
       "actions": [
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+        "Cheapest test: regenerate an asset you already paid for and compare quality honestly.",
+        "Check whether your storefront platform supports this natively before adding another subscription."
       ],
-      "category": "strategy",
+      "category": "marketing",
       "tags": [
-        "how-to"
+        "creative",
+        "ecommerce"
       ],
-      "score": 29,
+      "score": 28,
       "breakdown": {
-        "relevance": 0,
-        "actionability": 22,
+        "relevance": 25,
+        "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 10,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "75076e254ba8",
+      "title": "Adobe adds AI adaptation to turn one hero asset into every format",
+      "url": "https://smallbiztrends.com/adobe-adds-ai-adaptation-to-turn-one-hero-asset-into-every-format",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-11-11T19:05:55.000Z",
+      "summary": "Discover how Adobe's latest AI adaptation transforms a single hero asset into multiple formats, streamlining your creative workflow and enhancing your design process.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow"
+      ],
+      "score": 28,
+      "breakdown": {
+        "relevance": 13,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 18,
         "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "445fc6287a33",
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-11-10T18:49:52.000Z",
-      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "id": "80b38ea7da37",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
+      ],
+      "category": "strategy",
+      "tags": [
+        "free",
+        "case study"
+      ],
+      "score": 27,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 17,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "e24a37134f46",
+      "title": "Adobe Adds AI Assistants and Generative Tools Across Creative Cloud",
+      "url": "https://smallbiztrends.com/adobe-adds-ai-assistants-and-generative-tools-across-creative-cloud",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-11-11T18:04:05.000Z",
+      "summary": "Discover how Adobe is revolutionizing the Creative Cloud with the integration of AI assistants and generative tools, enhancing creativity and efficiency for designers and artists. Explore the latest features that empower users to innovate like never before.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
+      ],
+      "category": "automation",
+      "tags": [
+        "integration"
+      ],
+      "score": 26,
+      "breakdown": {
+        "relevance": 11,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "5ca4dc7b6d88",
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-11-10T10:00:00.000Z",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
       "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
         "Background reading — no action needed today, but worth knowing."
@@ -495,8 +466,34 @@
         "relevance": 0,
         "actionability": 18,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1
+        "freshness": 8,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "669b556d429c",
+      "title": "OpenAI’s Businesses in ChatGPT targets enterprise trust",
+      "url": "https://aibusiness.com/generative-ai/openai-s-businesses-in-chatgpt-targets-enterprise-trust",
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "publishedAt": "2026-11-11T19:24:28.000Z",
+      "summary": "The product competes with Google Business Profile and enables OpenAI to target a new vertical market: ecommerce.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Check whether your storefront platform supports this natively before adding another subscription."
+      ],
+      "category": "marketing",
+      "tags": [
+        "ecommerce"
+      ],
+      "score": 24,
+      "breakdown": {
+        "relevance": 14,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 18,
+        "sourceWeight": 0.95
       },
       "enriched": false
     }
@@ -531,7 +528,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1380
+      "itemCount": 1381
     },
     {
       "sourceId": "google-ai-blog",
@@ -543,7 +540,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 903
+      "itemCount": 904
     },
     {
       "sourceId": "zapier-blog",
@@ -571,10 +568,10 @@
     }
   ],
   "stats": {
-    "fetched": 2458,
-    "onTopic": 52,
-    "deduped": 51,
-    "scored": 24,
+    "fetched": 2460,
+    "onTopic": 59,
+    "deduped": 58,
+    "scored": 25,
     "published": 18,
     "enriched": false
   }
