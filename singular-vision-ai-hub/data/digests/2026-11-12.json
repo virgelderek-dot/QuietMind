@@ -1,8 +1,70 @@
 {
   "date": "2026-11-12",
-  "generatedAt": "2026-11-12T12:36:42.545Z",
-  "headline": "16 stories worth your time — mostly automate your ops. Start with: Lindy pricing and plans for 2026",
+  "generatedAt": "2026-11-12T20:46:36.034Z",
+  "headline": "17 stories worth your time — mostly automate your ops. Start with: Grok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)",
   "items": [
+    {
+      "id": "3645fc9e038b",
+      "title": "Grok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)",
+      "url": "https://zapier.com/blog/automate-grok",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-11-12T05:00:00.000Z",
+      "summary": "Grok has a very specific edge over other AI models: live access to X, so your agents can keep their finger on the pulse a little more easily.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "integration",
+        "automation",
+        "automation stack",
+        "how-to",
+        "case study"
+      ],
+      "score": 80,
+      "breakdown": {
+        "relevance": 98,
+        "actionability": 37,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "d3c21aad1252",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-12T19:11:00.000Z",
+      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "service business",
+        "automation",
+        "agents",
+        "ads",
+        "launch"
+      ],
+      "score": 73,
+      "breakdown": {
+        "relevance": 109,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
     {
       "id": "8db26f4479b3",
       "title": "Lindy pricing and plans for 2026",
@@ -30,7 +92,7 @@
         "relevance": 94,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -61,7 +123,7 @@
         "relevance": 62,
         "actionability": 14,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -88,37 +150,63 @@
         "workflow",
         "agents"
       ],
-      "score": 59,
+      "score": 58,
       "breakdown": {
         "relevance": 83,
         "actionability": 0,
         "noise": -12,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "c85407e8cad5",
-      "title": "Gemini App Launches on Apple CarPlay for Hands-Free Driving Conversations",
-      "url": "https://smallbiztrends.com/gemini-app-launches-on-apple-carplay-for-hands-free-driving-conversations",
+      "id": "322f998ba4d6",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-12T17:17:58.000Z",
+      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Worth an hour to set up if you are still coordinating bookings by email."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "scheduling"
+      ],
+      "score": 46,
+      "breakdown": {
+        "relevance": 50,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "2ba411a8d534",
+      "title": "Brands Slash Content Production Time With Adobe AI Workflows",
+      "url": "https://smallbiztrends.com/brands-slash-content-production-time-with-adobe-ai-workflows",
       "sourceId": "smallbiztrends",
       "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-12T09:09:53.000Z",
-      "summary": "Discover how the Gemini app's launch on Apple CarPlay enhances your driving experience with hands-free conversations, allowing seamless connectivity and communication on the go.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "publishedAt": "2026-11-12T17:51:00.000Z",
+      "summary": "Discover how brands are revolutionizing their content production processes by leveraging Adobe AI workflows. Explore the benefits of reduced production time and enhanced creativity, enabling teams to deliver high-quality content faster than ever.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
       ],
-      "category": "strategy",
+      "category": "automation",
       "tags": [
-        "launch",
-        "free"
+        "workflow"
       ],
-      "score": 51,
+      "score": 42,
       "breakdown": {
-        "relevance": 0,
-        "actionability": 49,
+        "relevance": 34,
+        "actionability": 0,
         "noise": 0,
         "freshness": 17,
         "sourceWeight": 1.2
@@ -126,86 +214,28 @@
       "enriched": false
     },
     {
-      "id": "33bddd1c4002",
-      "title": "United won’t let your AI agent book your flight",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "id": "3b869b1138e3",
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
-      "publishedAt": "2026-11-11T21:54:21.000Z",
-      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with…",
-      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "publishedAt": "2026-11-12T19:42:40.000Z",
+      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Note the compliance date and check whether your business size is in scope.",
-        "Check what customer data you are currently passing to AI tools, and under what terms."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
-      "category": "rules",
+      "category": "automation",
       "tags": [
-        "agents",
-        "regulation",
-        "privacy"
+        "agents"
       ],
-      "score": 49,
+      "score": 37,
       "breakdown": {
-        "relevance": 57,
+        "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 18,
         "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "7e3c9c9797b1",
-      "title": "Xero Launches Xforce to Help Accountants Seamlessly Integrate AI",
-      "url": "https://smallbiztrends.com/xero-launches-xforce-to-help-accountants-seamlessly-integrate-ai",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-12T08:36:53.000Z",
-      "summary": "Discover how Xero's new Xforce initiative empowers accountants to effortlessly integrate AI into their practices, enhancing efficiency and accuracy in financial management.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
-      ],
-      "category": "automation",
-      "tags": [
-        "integration",
-        "launch"
-      ],
-      "score": 49,
-      "breakdown": {
-        "relevance": 29,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 16,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "02e4a20d191a",
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-      "sourceId": "google-ai-blog",
-      "sourceName": "Google AI",
-      "publishedAt": "2026-11-10T13:00:00.000Z",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
-      ],
-      "category": "automation",
-      "tags": [
-        "automation",
-        "workflow",
-        "launch"
-      ],
-      "score": 47,
-      "breakdown": {
-        "relevance": 29,
-        "actionability": 29,
-        "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 1.1
       },
       "enriched": false
     },
@@ -226,12 +256,12 @@
         "service business",
         "launch"
       ],
-      "score": 39,
+      "score": 37,
       "breakdown": {
         "relevance": 10,
         "actionability": 18,
         "noise": 0,
-        "freshness": 17,
+        "freshness": 14,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -252,12 +282,12 @@
       "tags": [
         "creative"
       ],
-      "score": 39,
+      "score": 37,
       "breakdown": {
         "relevance": 29,
         "actionability": 0,
         "noise": 0,
-        "freshness": 17,
+        "freshness": 14,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -279,65 +309,91 @@
         "self-host",
         "agents"
       ],
-      "score": 35,
+      "score": 34,
       "breakdown": {
         "relevance": 38,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "0ccfb511c0c8",
-      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-11-11T14:00:00.000Z",
-      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "id": "572b9bc48098",
+      "title": "Workday Unveils AI-Driven Galileo Agent for Enhanced HR Decision-Making",
+      "url": "https://smallbiztrends.com/workday-unveils-ai-driven-galileo-agent-for-enhanced-hr-decision-making",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-11-12T19:35:53.000Z",
+      "summary": "Discover how Workday's AI-driven Galileo Agent is transforming HR decision-making with advanced analytics and insights, empowering organizations to make smarter, data-informed choices for their workforce.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
+        "Background reading — no action needed today, but worth knowing."
       ],
-      "category": "automation",
+      "category": "strategy",
       "tags": [
-        "agents"
+        "launch"
       ],
       "score": 32,
       "breakdown": {
-        "relevance": 31,
-        "actionability": 0,
+        "relevance": 0,
+        "actionability": 18,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 18,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "3903c89c61e5",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-12T18:39:23.000Z",
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
+      "actions": [
+        "Free to run, but budget the setup time honestly before committing."
+      ],
+      "category": "tools",
+      "tags": [
+        "open source"
+      ],
+      "score": 31,
+      "breakdown": {
+        "relevance": 36,
+        "actionability": 0,
+        "noise": -12,
+        "freshness": 17,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "3e50515c6d1f",
-      "title": "eBay appears to have shut the door on third-party AI agents",
-      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-11-10T16:20:30.000Z",
-      "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race.",
+      "id": "660711644cdc",
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-12T15:02:28.000Z",
+      "summary": "This is Fireworks' second data breach in as many months.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
       ],
       "category": "automation",
       "tags": [
-        "agents"
+        "automation stack"
       ],
       "score": 30,
       "breakdown": {
-        "relevance": 31,
+        "relevance": 24,
         "actionability": 0,
         "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 1.05
+        "freshness": 16,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -357,67 +413,39 @@
       "tags": [
         "how-to"
       ],
-      "score": 29,
+      "score": 28,
       "breakdown": {
         "relevance": 0,
         "actionability": 22,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "7396b577c725",
-      "title": "ChatGPT is getting verified AI ‘Business Agents’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-11-10T18:00:00.000Z",
-      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "id": "0cefd18c08c5",
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Cheapest test: regenerate an asset you already paid for and compare quality honestly.",
-        "Check whether your storefront platform supports this natively before adding another subscription."
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
       ],
-      "category": "marketing",
+      "category": "automation",
       "tags": [
-        "creative",
-        "ecommerce"
+        "automation"
       ],
       "score": 26,
       "breakdown": {
-        "relevance": 25,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "0de7007ce7ec",
-      "title": "87% of Marketing Leaders Say Trusted Brands Matter More in AI Era",
-      "url": "https://smallbiztrends.com/87-of-marketing-leaders-say-trusted-brands-matter-more-in-ai-era",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-12T08:42:03.000Z",
-      "summary": "Discover why 87% of marketing leaders believe that brand trust is more crucial than ever in the age of AI. Explore insights on consumer behavior, brand loyalty, and strategies for building trust in a rapidly evolving digital landscape.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Cheapest test: regenerate an asset you already paid for and compare quality honestly."
-      ],
-      "category": "marketing",
-      "tags": [
-        "creative"
-      ],
-      "score": 26,
-      "breakdown": {
-        "relevance": 11,
+        "relevance": 16,
         "actionability": 0,
         "noise": 0,
         "freshness": 16,
-        "sourceWeight": 1.2
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -438,12 +466,12 @@
         "free",
         "case study"
       ],
-      "score": 24,
+      "score": 23,
       "breakdown": {
         "relevance": 0,
         "actionability": 17,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -479,7 +507,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1383
+      "itemCount": 1384
     },
     {
       "sourceId": "google-ai-blog",
@@ -491,7 +519,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 904
+      "itemCount": 906
     },
     {
       "sourceId": "zapier-blog",
@@ -519,11 +547,11 @@
     }
   ],
   "stats": {
-    "fetched": 2462,
-    "onTopic": 44,
-    "deduped": 44,
-    "scored": 16,
-    "published": 16,
+    "fetched": 2465,
+    "onTopic": 40,
+    "deduped": 40,
+    "scored": 17,
+    "published": 17,
     "enriched": false
   }
 }
