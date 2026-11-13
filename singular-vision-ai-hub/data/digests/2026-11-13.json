@@ -1,7 +1,7 @@
 {
   "date": "2026-11-13",
-  "generatedAt": "2026-11-13T12:07:35.407Z",
-  "headline": "10 stories worth your time — mostly automate your ops. Start with: Grok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)",
+  "generatedAt": "2026-11-13T20:27:46.524Z",
+  "headline": "12 stories worth your time — mostly automate your ops. Start with: Grok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)",
   "items": [
     {
       "id": "3645fc9e038b",
@@ -30,7 +30,7 @@
         "relevance": 98,
         "actionability": 37,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -55,13 +55,69 @@
         "ads",
         "launch"
       ],
-      "score": 72,
+      "score": 71,
       "breakdown": {
         "relevance": 109,
         "actionability": 18,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "02228b5c992a",
+      "title": "Constant Contact Launches Catalyst, An AI Solution Empowering Small Businesses",
+      "url": "https://smallbiztrends.com/constant-contact-launches-catalyst-an-ai-solution-empowering-small-businesses",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-11-13T11:30:00.000Z",
+      "summary": "Discover how Constant Contact's new AI solution, Catalyst, is revolutionizing small businesses by enhancing marketing efforts, streamlining operations, and driving growth.",
+      "whyItMatters": "Written for your side of the market rather than for enterprise buyers. Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "small business",
+        "launch"
+      ],
+      "score": 64,
+      "breakdown": {
+        "relevance": 62,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "592bee4778ff",
+      "title": "How to automate your AI personal assistant",
+      "url": "https://zapier.com/blog/automate-ai-personal-assistant",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Personal AI assistants have officially stopped being chatbots. Muse, ChatGPT dots, Claude Duet, and Pally now all do some version of the same thing: they run on their own, flag important stuff for you, and take actions autonomously in your connected apps.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "automation stack",
+        "how-to"
+      ],
+      "score": 63,
+      "breakdown": {
+        "relevance": 57,
+        "actionability": 22,
+        "noise": 0,
+        "freshness": 13,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -82,39 +138,65 @@
         "agents",
         "scheduling"
       ],
-      "score": 43,
+      "score": 42,
       "breakdown": {
         "relevance": 50,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "2ba411a8d534",
-      "title": "Brands Slash Content Production Time With Adobe AI Workflows",
-      "url": "https://smallbiztrends.com/brands-slash-content-production-time-with-adobe-ai-workflows",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-12T17:51:00.000Z",
-      "summary": "Discover how brands are revolutionizing their content production processes by leveraging Adobe AI workflows. Explore the benefits of reduced production time and enhanced creativity, enabling teams to deliver high-quality content faster than ever.",
+      "id": "5bf4951adbe9",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-11-13T15:00:00.000Z",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 37,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 29,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "4e379f6cb9d3",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-13T16:00:12.000Z",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
       "category": "automation",
       "tags": [
-        "workflow"
+        "agents"
       ],
-      "score": 39,
+      "score": 35,
       "breakdown": {
-        "relevance": 34,
+        "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.2
+        "freshness": 16,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -134,12 +216,12 @@
       "tags": [
         "agents"
       ],
-      "score": 34,
+      "score": 33,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -160,12 +242,12 @@
       "tags": [
         "launch"
       ],
-      "score": 32,
+      "score": 30,
       "breakdown": {
         "relevance": 0,
         "actionability": 18,
         "noise": 0,
-        "freshness": 18,
+        "freshness": 14,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -186,24 +268,24 @@
       "tags": [
         "open source"
       ],
-      "score": 28,
+      "score": 27,
       "breakdown": {
         "relevance": 36,
         "actionability": 0,
         "noise": -12,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "572b9bc48098",
-      "title": "Workday Unveils AI-Driven Galileo Agent for Enhanced HR Decision-Making",
-      "url": "https://smallbiztrends.com/workday-unveils-ai-driven-galileo-agent-for-enhanced-hr-decision-making",
+      "id": "4cd2816121ba",
+      "title": "Samsung Opens Preorders for AI Glasses Starting at $395",
+      "url": "https://smallbiztrends.com/samsung-opens-preorders-for-ai-glasses-starting-at-395",
       "sourceId": "smallbiztrends",
       "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-12T19:35:53.000Z",
-      "summary": "Discover how Workday's AI-driven Galileo Agent is transforming HR decision-making with advanced analytics and insights, empowering organizations to make smarter, data-informed choices for their workforce.",
+      "publishedAt": "2026-11-13T14:40:00.000Z",
+      "summary": "Discover the latest innovation from Samsung as they unveil preorders for their cutting-edge AI glasses, starting at just $395. Explore features, technology, and how these smart glasses can enhance your daily life. Don't miss out on the future of wearable tech!",
       "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
         "Background reading — no action needed today, but worth knowing."
@@ -212,65 +294,39 @@
       "tags": [
         "launch"
       ],
-      "score": 28,
+      "score": 25,
       "breakdown": {
         "relevance": 0,
-        "actionability": 18,
+        "actionability": 11,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 16,
         "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "660711644cdc",
-      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-11-12T15:02:28.000Z",
-      "summary": "This is Fireworks' second data breach in as many months.",
+      "id": "cd9d1a105b69",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-11-13T14:00:00.000Z",
+      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who…",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
       "category": "automation",
       "tags": [
-        "automation stack"
+        "agents"
       ],
-      "score": 27,
+      "score": 23,
       "breakdown": {
-        "relevance": 24,
+        "relevance": 12,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "0cefd18c08c5",
-      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-11-12T17:00:00.000Z",
-      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
-      ],
-      "category": "automation",
-      "tags": [
-        "automation"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 16,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1
+        "freshness": 16,
+        "sourceWeight": 1.05
       },
       "enriched": false
     }
@@ -305,7 +361,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1385
+      "itemCount": 1386
     },
     {
       "sourceId": "google-ai-blog",
@@ -317,7 +373,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 906
+      "itemCount": 907
     },
     {
       "sourceId": "zapier-blog",
@@ -345,11 +401,11 @@
     }
   ],
   "stats": {
-    "fetched": 2466,
-    "onTopic": 35,
-    "deduped": 35,
-    "scored": 10,
-    "published": 10,
+    "fetched": 2468,
+    "onTopic": 39,
+    "deduped": 39,
+    "scored": 12,
+    "published": 12,
     "enriched": false
   }
 }
