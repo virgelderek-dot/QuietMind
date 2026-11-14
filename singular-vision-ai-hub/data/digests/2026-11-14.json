@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
-  "generatedAt": "2026-11-14T11:24:49.517Z",
-  "headline": "9 stories worth your time — mostly automate your ops. Start with: Nectar launches an AI agent to automate creator discovery and outreach for brands",
+  "generatedAt": "2026-11-14T18:43:01.881Z",
+  "headline": "8 stories worth your time — mostly automate your ops. Start with: Nectar launches an AI agent to automate creator discovery and outreach for brands",
   "items": [
     {
       "id": "d3c21aad1252",
@@ -28,7 +28,7 @@
         "relevance": 109,
         "actionability": 18,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 6,
         "sourceWeight": 1
       },
       "enriched": false
@@ -52,12 +52,12 @@
         "automation stack",
         "how-to"
       ],
-      "score": 62,
+      "score": 61,
       "breakdown": {
         "relevance": 57,
         "actionability": 22,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -78,40 +78,13 @@
       "tags": [
         "support"
       ],
-      "score": 45,
+      "score": 44,
       "breakdown": {
         "relevance": 42,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "322f998ba4d6",
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-11-12T17:17:58.000Z",
-      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Worth an hour to set up if you are still coordinating bookings by email."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents",
-        "scheduling"
-      ],
-      "score": 41,
-      "breakdown": {
-        "relevance": 50,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -131,12 +104,12 @@
       "tags": [
         "integration"
       ],
-      "score": 37,
+      "score": 35,
       "breakdown": {
         "relevance": 29,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -157,12 +130,12 @@
       "tags": [
         "launch"
       ],
-      "score": 34,
+      "score": 33,
       "breakdown": {
         "relevance": 0,
         "actionability": 29,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.15
       },
       "enriched": false
@@ -183,12 +156,12 @@
       "tags": [
         "agents"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
@@ -209,38 +182,38 @@
       "tags": [
         "agents"
       ],
-      "score": 31,
+      "score": 30,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 6,
         "sourceWeight": 1.05
       },
       "enriched": false
     },
     {
-      "id": "3903c89c61e5",
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question",
+      "id": "b08cefd9996d",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-11-12T18:39:23.000Z",
-      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
+      "publishedAt": "2026-11-14T17:30:00.000Z",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
-        "Free to run, but budget the setup time honestly before committing."
+        "Background reading — no action needed today, but worth knowing."
       ],
-      "category": "tools",
+      "category": "strategy",
       "tags": [
-        "open source"
+        "launch"
       ],
-      "score": 25,
+      "score": 23,
       "breakdown": {
-        "relevance": 36,
-        "actionability": 0,
-        "noise": -12,
-        "freshness": 7,
+        "relevance": 0,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 18,
         "sourceWeight": 1
       },
       "enriched": false
@@ -317,10 +290,10 @@
   ],
   "stats": {
     "fetched": 2469,
-    "onTopic": 35,
-    "deduped": 35,
-    "scored": 9,
-    "published": 9,
+    "onTopic": 28,
+    "deduped": 28,
+    "scored": 8,
+    "published": 8,
     "enriched": false
   }
 }
