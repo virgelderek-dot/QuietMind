@@ -1,42 +1,16 @@
 {
   "date": "2026-11-15",
-  "generatedAt": "2026-11-15T11:54:21.233Z",
-  "headline": "3 stories worth your time — mostly pricing & access. Start with: Workday and Zuora Unite to Simplify AI-Driven Pricing for Businesses",
+  "generatedAt": "2026-11-15T19:20:58.805Z",
+  "headline": "1 story worth your time — mostly strategy & trends. Start with: Lenovo 360 Unveils AI-Powered Enhancements to Transform Partner Experience",
   "items": [
     {
-      "id": "4ca302b6d334",
-      "title": "Workday and Zuora Unite to Simplify AI-Driven Pricing for Businesses",
-      "url": "https://smallbiztrends.com/workday-and-zuora-unite-to-simplify-ai-driven-pricing-for-businesses",
+      "id": "10d392ddaf99",
+      "title": "Lenovo 360 Unveils AI-Powered Enhancements to Transform Partner Experience",
+      "url": "https://smallbiztrends.com/lenovo-360-unveils-ai-powered-enhancements-to-transform-partner-experience",
       "sourceId": "smallbiztrends",
       "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-14T20:42:00.000Z",
-      "summary": "Discover how the partnership between Workday and Zuora is transforming pricing strategies for businesses through AI-driven solutions. Learn about the benefits, features, and impact of this innovative collaboration on your pricing processes.",
-      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
-      "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material."
-      ],
-      "category": "pricing",
-      "tags": [
-        "pricing"
-      ],
-      "score": 38,
-      "breakdown": {
-        "relevance": 31,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 13,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "5bf4951adbe9",
-      "title": "Introducing ChatGPT Wallet",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "sourceId": "openai-blog",
-      "sourceName": "OpenAI",
-      "publishedAt": "2026-11-13T15:00:00.000Z",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "publishedAt": "2026-11-15T19:13:00.000Z",
+      "summary": "Discover how Lenovo 360 is revolutionizing the partner experience with innovative AI-powered enhancements. Explore the latest features designed to streamline collaboration, boost efficiency, and drive success in today's tech landscape.",
       "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
         "Background reading — no action needed today, but worth knowing."
@@ -45,39 +19,13 @@
       "tags": [
         "launch"
       ],
-      "score": 31,
+      "score": 32,
       "breakdown": {
         "relevance": 0,
-        "actionability": 29,
+        "actionability": 18,
         "noise": 0,
-        "freshness": 6,
-        "sourceWeight": 1.15
-      },
-      "enriched": false
-    },
-    {
-      "id": "4e379f6cb9d3",
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-11-13T16:00:12.000Z",
-      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents"
-      ],
-      "score": 29,
-      "breakdown": {
-        "relevance": 31,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
+        "freshness": 18,
+        "sourceWeight": 1.2
       },
       "enriched": false
     }
@@ -153,10 +101,10 @@
   ],
   "stats": {
     "fetched": 2469,
-    "onTopic": 15,
-    "deduped": 15,
-    "scored": 3,
-    "published": 3,
+    "onTopic": 10,
+    "deduped": 10,
+    "scored": 1,
+    "published": 1,
     "enriched": false
   }
 }
