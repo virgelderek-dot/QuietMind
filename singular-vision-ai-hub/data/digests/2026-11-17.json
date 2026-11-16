@@ -1,0 +1,546 @@
+{
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-16T22:51:36.593Z",
+  "headline": "17 stories worth your time — mostly automate your ops. Start with: Zapier ideas: 25 Zaps you can build with one prompt in Claude, ChatGPT, or Cursor",
+  "items": [
+    {
+      "id": "70a158a11c2b",
+      "title": "Zapier ideas: 25 Zaps you can build with one prompt in Claude, ChatGPT, or Cursor",
+      "url": "https://zapier.com/blog/zapier-ideas",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "Chat alone can't run your business. Your AI tool can draft a reply, summarize a call, or sort a spreadsheet, but the work happens once, and only while you're watching. The next time, you have to ask again. Zaps fix that.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Worth an hour to set up if you are still coordinating bookings by email."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation stack",
+        "automation",
+        "workflow",
+        "scheduling",
+        "spreadsheets",
+        "notes"
+      ],
+      "score": 72,
+      "breakdown": {
+        "relevance": 104,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "2e25c6e12036",
+      "title": "5 ways to automate Google Chat with Zapier",
+      "url": "https://zapier.com/blog/automate-google-hangouts-chat",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-11-16T07:00:00.000Z",
+      "summary": "If you're a Google Workspace user, you'll likely know how handy Google Chat is. The team messaging application boasts spaces for teams and dedicated projects, thread-based conversations, integrated video calls, and a way to natively connect dozens of your…",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "automation stack"
+      ],
+      "score": 64,
+      "breakdown": {
+        "relevance": 81,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "30162810cece",
+      "title": "How to follow up on contact forms faster with automation",
+      "url": "https://zapier.com/blog/automate-contact-form",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-11-16T07:00:00.000Z",
+      "summary": "Contact forms provide an accessible, user-friendly way to get info from potential clients and customers. They're useful, but if their responses remain stuck in your form submission tool, powerful information can quickly go to waste.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "automation stack",
+        "how-to"
+      ],
+      "score": 63,
+      "breakdown": {
+        "relevance": 57,
+        "actionability": 22,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "a65dd1d0a5ae",
+      "title": "How to automate your video post-production tasks",
+      "url": "https://zapier.com/blog/video-automation",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "Though it takes time and resources to produce a good video, that effort helps you stand out. An engaging video on X could be widely shared, and a YouTube series could generate traffic for years to come.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Use it to increase output on a channel that already converts — not to open a new one.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "automation stack",
+        "social",
+        "how-to"
+      ],
+      "score": 61,
+      "breakdown": {
+        "relevance": 53,
+        "actionability": 22,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "90eb5d7308db",
+      "title": "4 ways to automate your video calls",
+      "url": "https://zapier.com/blog/automate-video-calls",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "You're probably tired of video calls. So am I. But as much as you'd like to run and hide, they're not going anywhere. The good news is that the busywork around them doesn't have to land on you.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "automation stack"
+      ],
+      "score": 53,
+      "breakdown": {
+        "relevance": 57,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "4a912b27a57e",
+      "title": "Automate your meetings",
+      "url": "https://zapier.com/blog/automate-meetings",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-11-16T06:00:00.000Z",
+      "summary": "There are few business activities that offer greater value than meeting directly with your prospects, current customers, and team members. After all, emails and team chats only go so far.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "automation stack"
+      ],
+      "score": 44,
+      "breakdown": {
+        "relevance": 41,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "f891bd93f3d2",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-11-16T12:00:00.000Z",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
+      ],
+      "category": "automation",
+      "tags": [
+        "workflow",
+        "case study"
+      ],
+      "score": 41,
+      "breakdown": {
+        "relevance": 13,
+        "actionability": 23,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "030a040e02b2",
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-16T17:36:43.000Z",
+      "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
+      "actions": [
+        "Free to run, but budget the setup time honestly before committing."
+      ],
+      "category": "tools",
+      "tags": [
+        "open source"
+      ],
+      "score": 38,
+      "breakdown": {
+        "relevance": 36,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "29a19e1aacc6",
+      "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+      "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
+      "actions": [
+        "Audit how your site currently surfaces in AI-generated answers, not just in blue links."
+      ],
+      "category": "marketing",
+      "tags": [
+        "seo",
+        "launch"
+      ],
+      "score": 34,
+      "breakdown": {
+        "relevance": 18,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "e3915f7e4cf0",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 34,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 29,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "09862cd7036c",
+      "title": "Apple launches new app to study how people use AI for health",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-16T01:30:00.000Z",
+      "summary": "Apple's new app for a study will answer everyday medical questions.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch",
+        "case study"
+      ],
+      "score": 32,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 32,
+        "noise": 0,
+        "freshness": 11,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "5f72fbdc79b9",
+      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+      "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-11-16T19:23:45.000Z",
+      "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Brief anyone who can authorise a payment or a password reset on your behalf."
+      ],
+      "category": "rules",
+      "tags": [
+        "fraud risk"
+      ],
+      "score": 29,
+      "breakdown": {
+        "relevance": 19,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "dd02c35afc86",
+      "title": "Google Maps can now create trip itineraries for you",
+      "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Draft answers for your ten most common customer questions and test the quality on those."
+      ],
+      "category": "automation",
+      "tags": [
+        "support"
+      ],
+      "score": 25,
+      "breakdown": {
+        "relevance": 16,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "99f66f454c3b",
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-16T17:02:43.000Z",
+      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Review anything you have already published that this would now cover."
+      ],
+      "category": "rules",
+      "tags": [
+        "disclosure"
+      ],
+      "score": 23,
+      "breakdown": {
+        "relevance": 13,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "6516c6696195",
+      "title": "Audible turns to AI to help users discover audiobooks",
+      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-16T15:52:19.000Z",
+      "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "notes"
+      ],
+      "score": 22,
+      "breakdown": {
+        "relevance": 12,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "f26f2a4dfd6b",
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere."
+      ],
+      "category": "strategy",
+      "tags": [
+        "free"
+      ],
+      "score": 22,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 8,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "cfcc7acb02e9",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "publishedAt": "2026-11-16T06:00:00.000Z",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 22,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 11,
+        "noise": 0,
+        "freshness": 12,
+        "sourceWeight": 1.15
+      },
+      "enriched": false
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "ok": false,
+      "itemCount": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "sourceId": "arstechnica-ai",
+      "sourceName": "Ars Technica AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI",
+      "ok": true,
+      "itemCount": 1398
+    },
+    {
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "ok": true,
+      "itemCount": 908
+    },
+    {
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "ben-evans",
+      "sourceName": "Benedict Evans",
+      "ok": true,
+      "itemCount": 20
+    },
+    {
+      "sourceId": "ai-business",
+      "sourceName": "AI Business",
+      "ok": true,
+      "itemCount": 50
+    }
+  ],
+  "stats": {
+    "fetched": 2481,
+    "onTopic": 37,
+    "deduped": 36,
+    "scored": 17,
+    "published": 17,
+    "enriched": false
+  }
+}
