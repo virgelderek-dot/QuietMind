@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generatedAt": "2026-11-18T12:58:29.597Z",
+  "generatedAt": "2026-11-18T21:22:49.029Z",
   "headline": "18 stories worth your time — mostly automate your ops. Start with: How to automate Telegram with your AI agent and Zapier",
   "items": [
     {
@@ -24,12 +24,12 @@
         "workflow",
         "how-to"
       ],
-      "score": 81,
+      "score": 80,
       "breakdown": {
         "relevance": 113,
         "actionability": 22,
         "noise": 0,
-        "freshness": 15,
+        "freshness": 12,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -62,7 +62,36 @@
         "relevance": 117,
         "actionability": 22,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "b0814d1f2191",
+      "title": "How to build a secure automated system on Zapier",
+      "url": "https://zapier.com/blog/how-to-build-automated-system-on-zapier",
+      "sourceId": "zapier-blog",
+      "sourceName": "Zapier Blog",
+      "publishedAt": "2026-11-18T07:00:00.000Z",
+      "summary": "At Zapier, we're big believers in automation. That's a given. But our platform goes beyond automating simple \"if this, then that\" work&#x2014;you can build fully automated systems for your work.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
+        "Practical walkthrough — read it once and decide, rather than bookmarking it."
+      ],
+      "category": "automation",
+      "tags": [
+        "automation",
+        "automation stack",
+        "how-to"
+      ],
+      "score": 72,
+      "breakdown": {
+        "relevance": 81,
+        "actionability": 22,
+        "noise": 0,
+        "freshness": 13,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -87,106 +116,13 @@
         "automation stack",
         "creative"
       ],
-      "score": 73,
+      "score": 72,
       "breakdown": {
         "relevance": 111,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "3d99382c5b43",
-      "title": "How to connect Google Sheets to ChatGPT",
-      "url": "https://zapier.com/blog/connect-google-sheets-with-chatgpt",
-      "sourceId": "zapier-blog",
-      "sourceName": "Zapier Blog",
-      "publishedAt": "2026-11-17T04:00:00.000Z",
-      "summary": "I've been connecting Google Sheets to other apps since long before ChatGPT was even a sparkle in an algorithm's eye. I use all sorts of Google Sheets add-ons, and more commonly, I use Zapier so Google Sheets can talk to every other app I use for work.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
-        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware.",
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
-      ],
-      "category": "automation",
-      "tags": [
-        "spreadsheets",
-        "integration",
-        "workflow",
-        "automation stack",
-        "how-to"
-      ],
-      "score": 71,
-      "breakdown": {
-        "relevance": 70,
-        "actionability": 36,
-        "noise": 0,
-        "freshness": 8,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "ce8079577f83",
-      "title": "Your guide to marketing automation",
-      "url": "https://zapier.com/blog/marketing-automation-use-cases",
-      "sourceId": "zapier-blog",
-      "sourceName": "Zapier Blog",
-      "publishedAt": "2026-11-17T05:00:00.000Z",
-      "summary": "Marketing teams juggle a lot: capturing leads, nurturing them across channels, tracking campaign performance, and personalizing every touchpoint&#x2014;all while managing an ever-growing stack of tools.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
-        "Practical walkthrough — read it once and decide, rather than bookmarking it."
-      ],
-      "category": "automation",
-      "tags": [
-        "automation",
-        "automation stack",
-        "ads",
-        "how-to"
-      ],
-      "score": 66,
-      "breakdown": {
-        "relevance": 67,
-        "actionability": 22,
-        "noise": 0,
-        "freshness": 9,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "72284a47c9d9",
-      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-11-17T18:58:01.000Z",
-      "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring…",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Check whether the free tier covers your actual volume before paying for the equivalent elsewhere.",
-        "Trial it against one month of real invoices before trusting it with the books.",
-        "Worth an hour to set up if you are still coordinating bookings by email."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents",
-        "finance ops",
-        "scheduling",
-        "free"
-      ],
-      "score": 59,
-      "breakdown": {
-        "relevance": 61,
-        "actionability": 21,
-        "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.05
       },
       "enriched": false
     },
@@ -208,13 +144,41 @@
         "integration",
         "workflow"
       ],
-      "score": 47,
+      "score": 46,
       "breakdown": {
         "relevance": 42,
         "actionability": 0,
         "noise": 0,
-        "freshness": 17,
+        "freshness": 14,
         "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "8e6075d168e0",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI",
+      "publishedAt": "2026-11-18T17:00:00.000Z",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "whyItMatters": "A tool you could evaluate without a procurement process — the question is whether it removes a task you currently do by hand.",
+      "actions": [
+        "Now generally available, so you can test it today rather than joining a waitlist."
+      ],
+      "category": "tools",
+      "tags": [
+        "availability",
+        "shipped",
+        "try it"
+      ],
+      "score": 45,
+      "breakdown": {
+        "relevance": 22,
+        "actionability": 21,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.1
       },
       "enriched": false
     },
@@ -236,41 +200,12 @@
         "creative",
         "shipped"
       ],
-      "score": 45,
+      "score": 43,
       "breakdown": {
         "relevance": 24,
         "actionability": 21,
         "noise": 0,
-        "freshness": 17,
-        "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "859fe7425ca0",
-      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "publishedAt": "2026-11-17T21:00:55.000Z",
-      "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent.",
-      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
-      "actions": [
-        "Use it to increase output on a channel that already converts — not to open a new one.",
-        "Brief anyone who can authorise a payment or a password reset on your behalf."
-      ],
-      "category": "marketing",
-      "tags": [
-        "social",
-        "fraud risk",
-        "agents"
-      ],
-      "score": 45,
-      "breakdown": {
-        "relevance": 62,
-        "actionability": 0,
-        "noise": -12,
-        "freshness": 12,
+        "freshness": 14,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -293,41 +228,92 @@
         "crm",
         "launch"
       ],
-      "score": 42,
+      "score": 41,
       "breakdown": {
         "relevance": 25,
         "actionability": 18,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 8,
         "sourceWeight": 1.15
       },
       "enriched": false
     },
     {
-      "id": "6ab4eb3121ad",
-      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-11-17T17:32:25.000Z",
-      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "id": "0131d0364a01",
+      "title": "Microsoft and Salesforce Launch Powerful AI Integrations for Businesses",
+      "url": "https://smallbiztrends.com/microsoft-and-salesforce-launch-powerful-ai-integrations-for-businesses",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-11-18T14:19:00.000Z",
+      "summary": "Discover how Microsoft and Salesforce are revolutionizing business operations with their new AI integrations. Explore the powerful tools and features designed to enhance productivity, streamline workflows, and drive innovation in the workplace.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end.",
-        "Check what customer data you are currently passing to AI tools, and under what terms."
+        "Pick the single most repetitive task in your week and see whether this covers it end to end."
       ],
       "category": "automation",
       "tags": [
-        "privacy",
-        "app",
-        "automation"
+        "workflow",
+        "launch"
       ],
-      "score": 40,
+      "score": 39,
       "breakdown": {
-        "relevance": 44,
+        "relevance": 13,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "2f277485244a",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-18T19:56:39.000Z",
+      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "service business",
+        "shipped"
+      ],
+      "score": 35,
+      "breakdown": {
+        "relevance": 10,
+        "actionability": 21,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1
+      },
+      "enriched": false
+    },
+    {
+      "id": "6ae82bdc3864",
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-18T17:32:10.000Z",
+      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents"
+      ],
+      "score": 35,
+      "breakdown": {
+        "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 16,
         "sourceWeight": 1
       },
       "enriched": false
@@ -348,13 +334,66 @@
       "tags": [
         "launch"
       ],
-      "score": 34,
+      "score": 33,
       "breakdown": {
         "relevance": 0,
         "actionability": 29,
         "noise": 0,
-        "freshness": 12,
+        "freshness": 10,
         "sourceWeight": 1.15
+      },
+      "enriched": false
+    },
+    {
+      "id": "a19f9e7086b4",
+      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+      "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "publishedAt": "2026-11-18T19:07:29.000Z",
+      "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits.",
+      "whyItMatters": "An obligation, not an opportunity. Small businesses get caught out here because nobody is watching the rules full time.",
+      "actions": [
+        "Brief anyone who can authorise a payment or a password reset on your behalf."
+      ],
+      "category": "rules",
+      "tags": [
+        "service business",
+        "fraud risk"
+      ],
+      "score": 31,
+      "breakdown": {
+        "relevance": 22,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.05
+      },
+      "enriched": false
+    },
+    {
+      "id": "9693a0c3406e",
+      "title": "Microsoft Launches AI Transparency Initiative to Boost Model Safety",
+      "url": "https://smallbiztrends.com/microsoft-launches-ai-transparency-initiative-to-boost-model-safety",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-11-18T14:58:00.000Z",
+      "summary": "Discover how Microsoft's new AI Transparency Initiative aims to enhance model safety and accountability in artificial intelligence, promoting ethical practices and ensuring user trust in AI technologies.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 30,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 16,
+        "sourceWeight": 1.2
       },
       "enriched": false
     },
@@ -374,38 +413,12 @@
       "tags": [
         "launch"
       ],
-      "score": 31,
+      "score": 29,
       "breakdown": {
         "relevance": 0,
         "actionability": 18,
         "noise": 0,
-        "freshness": 17,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "f8cdbb42d7c5",
-      "title": "Microsoft Unveils Insights on AI Costs in the Workplace",
-      "url": "https://smallbiztrends.com/microsoft-unveils-insights-on-ai-costs-in-the-workplace",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-18T09:10:00.000Z",
-      "summary": "Discover how Microsoft is transforming the workplace with insights on AI costs, exploring the financial implications, potential savings, and strategic advantages of integrating artificial intelligence into business operations.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 31,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 16,
+        "freshness": 14,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -426,12 +439,12 @@
       "tags": [
         "open source"
       ],
-      "score": 29,
+      "score": 27,
       "breakdown": {
         "relevance": 36,
         "actionability": 0,
         "noise": -12,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 1
       },
       "enriched": false
@@ -452,12 +465,12 @@
       "tags": [
         "agents"
       ],
-      "score": 28,
+      "score": 26,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 18,
+        "freshness": 14,
         "sourceWeight": 1
       },
       "enriched": false
@@ -480,39 +493,13 @@
         "integration",
         "free"
       ],
-      "score": 26,
+      "score": 25,
       "breakdown": {
         "relevance": 11,
         "actionability": 8,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 9,
         "sourceWeight": 1.1
-      },
-      "enriched": false
-    },
-    {
-      "id": "9073920a14ea",
-      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-11-17T16:32:55.000Z",
-      "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents"
-      ],
-      "score": 24,
-      "breakdown": {
-        "relevance": 19,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1
       },
       "enriched": false
     }
@@ -547,7 +534,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1407
+      "itemCount": 1411
     },
     {
       "sourceId": "google-ai-blog",
@@ -559,7 +546,7 @@
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
       "ok": true,
-      "itemCount": 908
+      "itemCount": 913
     },
     {
       "sourceId": "zapier-blog",
@@ -587,10 +574,10 @@
     }
   ],
   "stats": {
-    "fetched": 2490,
-    "onTopic": 43,
-    "deduped": 39,
-    "scored": 20,
+    "fetched": 2499,
+    "onTopic": 55,
+    "deduped": 51,
+    "scored": 26,
     "published": 18,
     "enriched": false
   }
