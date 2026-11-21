@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
-  "generatedAt": "2026-11-21T12:33:35.964Z",
-  "headline": "14 stories worth your time — mostly automate your ops. Start with: Gemini automation: How to use the Zapier Gemini integration (Gemini 3.8 Flash, Gemini Enterprise, and more)",
+  "generatedAt": "2026-11-21T20:03:18.956Z",
+  "headline": "13 stories worth your time — mostly automate your ops. Start with: Gemini automation: How to use the Zapier Gemini integration (Gemini 3.8 Flash, Gemini Enterprise, and more)",
   "items": [
     {
       "id": "24f8aca2215a",
@@ -30,7 +30,7 @@
         "relevance": 82,
         "actionability": 37,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -58,7 +58,7 @@
         "relevance": 100,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -82,12 +82,12 @@
         "automation stack",
         "how-to"
       ],
-      "score": 65,
+      "score": 64,
       "breakdown": {
         "relevance": 65,
         "actionability": 22,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -109,12 +109,12 @@
         "automation",
         "automation stack"
       ],
-      "score": 55,
+      "score": 54,
       "breakdown": {
         "relevance": 65,
         "actionability": 0,
         "noise": 0,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -136,9 +136,62 @@
         "automation",
         "workflow"
       ],
-      "score": 54,
+      "score": 53,
       "breakdown": {
         "relevance": 55,
+        "actionability": 0,
+        "noise": 0,
+        "freshness": 14,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "7f826db90029",
+      "title": "Visa Launches Agentic Ready, Uniting 140+ Partners for AI Commerce",
+      "url": "https://smallbiztrends.com/visa-launches-agentic-ready-uniting-140-partners-for-ai-commerce",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-11-21T16:59:00.000Z",
+      "summary": "Discover how Visa's new initiative, Agentic Ready, brings together over 140 partners to revolutionize AI commerce. Explore the future of digital transactions and the impact of artificial intelligence on payment solutions in this insightful article.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "actions": [
+        "Skim it, then decide in one minute whether it changes anything you do this week."
+      ],
+      "category": "automation",
+      "tags": [
+        "agents",
+        "launch"
+      ],
+      "score": 51,
+      "breakdown": {
+        "relevance": 31,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 17,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "d38d2a7160ef",
+      "title": "Public Safety Agencies Rapidly Embrace AI and Robotics for Operations",
+      "url": "https://smallbiztrends.com/public-safety-agencies-rapidly-embrace-ai-and-robotics-for-operations",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-11-21T16:48:00.000Z",
+      "summary": "Discover how public safety agencies are swiftly integrating AI and robotics into their operations to enhance efficiency, improve response times, and ensure community safety.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "service business"
+      ],
+      "score": 37,
+      "breakdown": {
+        "relevance": 26,
         "actionability": 0,
         "noise": 0,
         "freshness": 17,
@@ -147,28 +200,28 @@
       "enriched": false
     },
     {
-      "id": "8b237a8e97c8",
-      "title": "Consumers Embrace AI Pricing—If Brands Earn Their Trust",
-      "url": "https://smallbiztrends.com/consumers-embrace-ai-pricing-if-brands-earn-their-trust",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-20T17:04:00.000Z",
-      "summary": "Explore how consumers are increasingly accepting AI-driven pricing strategies, but only if brands prioritize transparency and trust. Discover the key factors that influence consumer confidence in AI pricing models.",
-      "whyItMatters": "This moves your cost base. Even small per-seat changes compound when you are paying out of revenue rather than a budget line.",
+      "id": "6ccebafcdf30",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Compare against what you currently pay for the same job and reprice if the gap is material."
+        "Skim it, then decide in one minute whether it changes anything you do this week."
       ],
-      "category": "pricing",
+      "category": "automation",
       "tags": [
-        "pricing"
+        "agents"
       ],
-      "score": 37,
+      "score": 35,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1.2
+        "freshness": 17,
+        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -188,12 +241,12 @@
       "tags": [
         "automation stack"
       ],
-      "score": 34,
+      "score": 33,
       "breakdown": {
         "relevance": 39,
         "actionability": 0,
         "noise": -12,
-        "freshness": 9,
+        "freshness": 7,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -214,12 +267,12 @@
       "tags": [
         "agents"
       ],
-      "score": 31,
+      "score": 30,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 6,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -241,12 +294,12 @@
         "agents",
         "scheduling"
       ],
-      "score": 30,
+      "score": 29,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 7,
+        "freshness": 6,
         "sourceWeight": 1
       },
       "enriched": false
@@ -268,40 +321,13 @@
         "agents",
         "privacy"
       ],
-      "score": 28,
+      "score": 27,
       "breakdown": {
         "relevance": 24,
         "actionability": 0,
         "noise": 0,
-        "freshness": 10,
+        "freshness": 9,
         "sourceWeight": 1.05
-      },
-      "enriched": false
-    },
-    {
-      "id": "6d6821f501bb",
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-11-19T18:09:11.000Z",
-      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Pick the single most repetitive task in your week and see whether this covers it end to end."
-      ],
-      "category": "automation",
-      "tags": [
-        "workflow",
-        "agents"
-      ],
-      "score": 25,
-      "breakdown": {
-        "relevance": 25,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1
       },
       "enriched": false
     },
@@ -321,65 +347,13 @@
       "tags": [
         "privacy"
       ],
-      "score": 24,
+      "score": 23,
       "breakdown": {
         "relevance": 19,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 11,
         "sourceWeight": 0.95
-      },
-      "enriched": false
-    },
-    {
-      "id": "2ed09bbf2a0c",
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "publishedAt": "2026-11-20T00:56:01.000Z",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 19,
-        "actionability": 0,
-        "noise": 0,
-        "freshness": 8,
-        "sourceWeight": 1
-      },
-      "enriched": false
-    },
-    {
-      "id": "b00f82b6db94",
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-      "sourceId": "google-ai-blog",
-      "sourceName": "Google AI",
-      "publishedAt": "2026-11-19T18:00:00.000Z",
-      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
-      "actions": [
-        "Background reading — no action needed today, but worth knowing."
-      ],
-      "category": "strategy",
-      "tags": [
-        "launch"
-      ],
-      "score": 22,
-      "breakdown": {
-        "relevance": 0,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 7,
-        "sourceWeight": 1.1
       },
       "enriched": false
     }
@@ -455,10 +429,10 @@
   ],
   "stats": {
     "fetched": 2511,
-    "onTopic": 37,
-    "deduped": 35,
-    "scored": 14,
-    "published": 14,
+    "onTopic": 35,
+    "deduped": 33,
+    "scored": 13,
+    "published": 13,
     "enriched": false
   }
 }
