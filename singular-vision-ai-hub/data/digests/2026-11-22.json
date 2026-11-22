@@ -1,110 +1,57 @@
 {
   "date": "2026-11-22",
-  "generatedAt": "2026-11-22T12:30:39.567Z",
-  "headline": "6 stories worth your time — mostly automate your ops. Start with: Visa Launches Agentic Ready, Uniting 140+ Partners for AI Commerce",
+  "generatedAt": "2026-11-22T20:18:10.387Z",
+  "headline": "6 stories worth your time — mostly strategy & trends. Start with: AI Agents Expected to Outnumber Humans in Customer Service by 2028",
   "items": [
     {
-      "id": "7f826db90029",
-      "title": "Visa Launches Agentic Ready, Uniting 140+ Partners for AI Commerce",
-      "url": "https://smallbiztrends.com/visa-launches-agentic-ready-uniting-140-partners-for-ai-commerce",
+      "id": "bf5829a4907f",
+      "title": "AI Agents Expected to Outnumber Humans in Customer Service by 2028",
+      "url": "https://smallbiztrends.com/ai-agents-expected-to-outnumber-humans-in-customer-service-by-2028",
       "sourceId": "smallbiztrends",
       "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-21T16:59:00.000Z",
-      "summary": "Discover how Visa's new initiative, Agentic Ready, brings together over 140 partners to revolutionize AI commerce. Explore the future of digital transactions and the impact of artificial intelligence on payment solutions in this insightful article.",
+      "publishedAt": "2026-11-22T16:27:00.000Z",
+      "summary": "Discover how AI agents are set to surpass human workers in customer service by 2028, exploring the implications for businesses and consumers alike. Learn about the advancements in technology and the evolving landscape of customer support.",
       "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
       "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
+        "Draft answers for your ten most common customer questions and test the quality on those."
       ],
       "category": "automation",
       "tags": [
         "agents",
-        "launch"
+        "support"
       ],
-      "score": 48,
+      "score": 62,
       "breakdown": {
-        "relevance": 31,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 11,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "c78dd340b392",
-      "title": "SurveyMonkey Launches Gemini for Seamless Customer Feedback Integration",
-      "url": "https://smallbiztrends.com/surveymonkey-launches-gemini-for-seamless-customer-feedback-integration",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-21T20:25:00.000Z",
-      "summary": "Discover how SurveyMonkey's new Gemini platform revolutionizes customer feedback integration, offering seamless solutions for businesses to gather, analyze, and act on valuable insights effortlessly.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Confirm it connects to the tools you already run; an unconnected tool becomes shelfware."
-      ],
-      "category": "automation",
-      "tags": [
-        "integration",
-        "launch"
-      ],
-      "score": 47,
-      "breakdown": {
-        "relevance": 29,
-        "actionability": 18,
-        "noise": 0,
-        "freshness": 12,
-        "sourceWeight": 1.2
-      },
-      "enriched": false
-    },
-    {
-      "id": "39d5133bf518",
-      "title": "Adobe Says AI Agents Need Oversight to Deliver Real Value",
-      "url": "https://smallbiztrends.com/adobe-says-ai-agents-need-oversight-to-deliver-real-value",
-      "sourceId": "smallbiztrends",
-      "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-21T20:49:00.000Z",
-      "summary": "Explore Adobe's insights on the necessity of oversight for AI agents to ensure they provide real value. Discover the implications for businesses and technology in this thought-provoking article.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
-      "actions": [
-        "Skim it, then decide in one minute whether it changes anything you do this week."
-      ],
-      "category": "automation",
-      "tags": [
-        "agents"
-      ],
-      "score": 38,
-      "breakdown": {
-        "relevance": 31,
+        "relevance": 73,
         "actionability": 0,
         "noise": 0,
-        "freshness": 13,
+        "freshness": 16,
         "sourceWeight": 1.2
       },
       "enriched": false
     },
     {
-      "id": "d38d2a7160ef",
-      "title": "Public Safety Agencies Rapidly Embrace AI and Robotics for Operations",
-      "url": "https://smallbiztrends.com/public-safety-agencies-rapidly-embrace-ai-and-robotics-for-operations",
+      "id": "e46689530796",
+      "title": "Microsoft Unveils Custom AI Models, Empowering Businesses with Control",
+      "url": "https://smallbiztrends.com/microsoft-unveils-custom-ai-models-empowering-businesses-with-control",
       "sourceId": "smallbiztrends",
       "sourceName": "Small Business Trends",
-      "publishedAt": "2026-11-21T16:48:00.000Z",
-      "summary": "Discover how public safety agencies are swiftly integrating AI and robotics into their operations to enhance efficiency, improve response times, and ensure community safety.",
+      "publishedAt": "2026-11-22T14:09:00.000Z",
+      "summary": "Discover how Microsoft is revolutionizing business intelligence with its newly unveiled custom AI models, giving companies enhanced control and flexibility to tailor solutions that fit their unique needs. Explore the future of AI in the workplace.",
       "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
       "actions": [
         "Background reading — no action needed today, but worth knowing."
       ],
       "category": "strategy",
       "tags": [
-        "service business"
+        "launch"
       ],
-      "score": 34,
+      "score": 38,
       "breakdown": {
-        "relevance": 26,
-        "actionability": 0,
+        "relevance": 0,
+        "actionability": 29,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 16,
         "sourceWeight": 1.2
       },
       "enriched": false
@@ -125,39 +72,90 @@
       "tags": [
         "agents"
       ],
-      "score": 32,
+      "score": 31,
       "breakdown": {
         "relevance": 31,
         "actionability": 0,
         "noise": 0,
-        "freshness": 11,
+        "freshness": 10,
         "sourceWeight": 1
       },
       "enriched": false
     },
     {
-      "id": "779ccf54081c",
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "id": "da672b01abe0",
+      "title": "Google Gemini Unveils Project Genie: Create and Explore Custom Worlds",
+      "url": "https://smallbiztrends.com/google-gemini-unveils-project-genie-create-and-explore-custom-worlds",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-11-22T12:16:00.000Z",
+      "summary": "Discover how Google Gemini's Project Genie empowers users to create and explore custom worlds, unlocking endless possibilities for creativity and innovation. Dive into the features and potential of this groundbreaking initiative.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 30,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "3e35884f9459",
+      "title": "Lenovo and Microsoft Unveil Advanced Hybrid AI Factory for Secure Deployments",
+      "url": "https://smallbiztrends.com/lenovo-and-microsoft-unveil-advanced-hybrid-ai-factory-for-secure-deployments",
+      "sourceId": "smallbiztrends",
+      "sourceName": "Small Business Trends",
+      "publishedAt": "2026-11-22T12:03:00.000Z",
+      "summary": "Discover how Lenovo and Microsoft are revolutionizing manufacturing with their new Advanced Hybrid AI Factory, designed for secure deployments. Explore the innovative technology and its impact on the future of industrial operations.",
+      "whyItMatters": "Context rather than a task. Useful for deciding what to commit to next quarter and what to ignore.",
+      "actions": [
+        "Background reading — no action needed today, but worth knowing."
+      ],
+      "category": "strategy",
+      "tags": [
+        "launch"
+      ],
+      "score": 30,
+      "breakdown": {
+        "relevance": 0,
+        "actionability": 18,
+        "noise": 0,
+        "freshness": 15,
+        "sourceWeight": 1.2
+      },
+      "enriched": false
+    },
+    {
+      "id": "0f50037c76f2",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
-      "publishedAt": "2026-11-20T12:30:47.000Z",
-      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data.",
-      "whyItMatters": "This is back-office time. Anything here competes directly with hours you are personally spending on admin.",
+      "publishedAt": "2026-11-22T13:00:00.000Z",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET.",
+      "whyItMatters": "Distribution work. Judge it by whether it gets you in front of more of the right people for the same effort.",
       "actions": [
-        "Check what customer data you are currently passing to AI tools, and under what terms."
+        "Use it to increase output on a channel that already converts — not to open a new one."
       ],
-      "category": "automation",
+      "category": "marketing",
       "tags": [
-        "agents",
-        "privacy"
+        "email"
       ],
-      "score": 25,
+      "score": 24,
       "breakdown": {
-        "relevance": 24,
+        "relevance": 13,
         "actionability": 0,
         "noise": 0,
-        "freshness": 6,
+        "freshness": 15,
         "sourceWeight": 1.05
       },
       "enriched": false
@@ -193,7 +191,7 @@
       "sourceId": "openai-blog",
       "sourceName": "OpenAI",
       "ok": true,
-      "itemCount": 1421
+      "itemCount": 1422
     },
     {
       "sourceId": "google-ai-blog",
@@ -233,9 +231,9 @@
     }
   ],
   "stats": {
-    "fetched": 2511,
-    "onTopic": 18,
-    "deduped": 18,
+    "fetched": 2512,
+    "onTopic": 12,
+    "deduped": 12,
     "scored": 6,
     "published": 6,
     "enriched": false
